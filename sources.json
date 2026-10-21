@@ -1,0 +1,499 @@
+{
+  "sources": [
+    {
+      "name": "Hydrogen Fuel News",
+      "pages": 3,
+      "urls": [
+        "https://hydrogenfuelnews.com/feed",
+        "https://hydrogenfuelnews.com/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "Fuel Cells Works",
+      "pages": 3,
+      "urls": [
+        "https://fuelcellsworks.com/feed"
+      ]
+    },
+    {
+      "name": "Industrylinqs",
+      "pages": 3,
+      "urls": [
+        "https://industrylinqs.com/feed/",
+        "https://industrylinqs.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Hydrogen Tech World",
+      "pages": 3,
+      "urls": [
+        "https://hydrogentechworld.com/feed/",
+        "https://hydrogentechworld.com/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "H2 News Germany",
+      "pages": 3,
+      "urls": [
+        "https://h2-news.de/feed/",
+        "https://h2-news.de/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "Hydrogen Central",
+      "pages": 3,
+      "urls": [
+        "https://hydrogen-central.com/feed/",
+        "https://hydrogen-central.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Hydrogen Europe",
+      "pages": 3,
+      "urls": [
+        "https://hydrogeneurope.eu/feed/",
+        "https://hydrogeneurope.eu/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "H2 International",
+      "pages": 3,
+      "urls": [
+        "https://www.h2-international.com/feed/"
+      ]
+    },
+    {
+      "name": "NLHydrogen",
+      "pages": 2,
+      "urls": [
+        "https://nlhydrogen.nl/feed/",
+        "https://nlhydrogen.nl/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "H2Global",
+      "urls": [
+        "https://www.h2-global.org/feed/",
+        "https://www.h2-global.org/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "Gasworld",
+      "urls": [
+        "https://www.gasworld.com/feed/"
+      ]
+    },
+    {
+      "name": "European Hydrogen Observatory",
+      "urls": [
+        "https://observatory.clean-hydrogen.europa.eu/rss.xml"
+      ]
+    },
+    {
+      "name": "Clean Energy Wire",
+      "urls": [
+        "https://www.cleanenergywire.org/rss.xml"
+      ]
+    },
+    {
+      "name": "Energy Monitor",
+      "urls": [
+        "https://www.energymonitor.ai/feed/",
+        "https://www.energymonitor.ai/category/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Energy Transition",
+      "pages": 2,
+      "urls": [
+        "https://energytransition.org/feed/",
+        "https://energytransition.org/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Energeia",
+      "pages": 2,
+      "urls": [
+        "https://energeia.nl/feed/",
+        "https://energeia.nl/?s=waterstof&feed=rss2",
+        "https://energeia.nl/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "Offshore Energy",
+      "urls": [
+        "https://www.offshore-energy.biz/feed/"
+      ]
+    },
+    {
+      "name": "OffshoreWIND.biz",
+      "urls": [
+        "https://www.offshorewind.biz/feed/"
+      ]
+    },
+    {
+      "name": "Offshore Technology",
+      "pages": 2,
+      "urls": [
+        "https://www.offshore-technology.com/feed/",
+        "https://www.offshore-technology.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Power Technology",
+      "urls": [
+        "https://www.power-technology.com/feed/",
+        "https://www.power-technology.com/category/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "POWER Magazine",
+      "pages": 2,
+      "urls": [
+        "https://www.powermag.com/feed/",
+        "https://www.powermag.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Utility Dive",
+      "urls": [
+        "https://www.utilitydive.com/feeds/news/"
+      ]
+    },
+    {
+      "name": "Windpower Monthly",
+      "urls": [
+        "https://www.windpowermonthly.com/rss"
+      ]
+    },
+    {
+      "name": "Wind Power Engineering",
+      "urls": [
+        "https://www.windpowerengineering.com/feed/",
+        "https://www.windpowerengineering.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Energy Storage News",
+      "urls": [
+        "https://www.energy-storage.news/feed/"
+      ]
+    },
+    {
+      "name": "pv magazine",
+      "pages": 2,
+      "urls": [
+        "https://www.pv-magazine.com/feed/",
+        "https://www.pv-magazine.com/tag/hydrogen/feed/",
+        "https://www.pv-magazine.com/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "pv magazine Germany",
+      "pages": 2,
+      "urls": [
+        "https://www.pv-magazine.de/feed/",
+        "https://www.pv-magazine.de/?s=wasserstoff&feed=rss2"
+      ]
+    },
+    {
+      "name": "pv magazine Australia",
+      "urls": [
+        "https://www.pv-magazine-australia.com/feed/"
+      ]
+    },
+    {
+      "name": "RenewEconomy",
+      "pages": 2,
+      "urls": [
+        "https://reneweconomy.com.au/feed/",
+        "https://reneweconomy.com.au/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "CleanTechnica",
+      "pages": 2,
+      "urls": [
+        "https://cleantechnica.com/feed/",
+        "https://cleantechnica.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Canary Media",
+      "urls": [
+        "https://www.canarymedia.com/rss.rss"
+      ]
+    },
+    {
+      "name": "Electrek",
+      "urls": [
+        "https://electrek.co/feed/"
+      ]
+    },
+    {
+      "name": "electrive",
+      "pages": 2,
+      "urls": [
+        "https://www.electrive.com/feed/",
+        "https://www.electrive.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Carbon Brief",
+      "urls": [
+        "https://www.carbonbrief.org/feed/",
+        "https://www.carbonbrief.org/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "edie",
+      "urls": [
+        "https://www.edie.net/feed/",
+        "https://www.edie.net/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "The Energyst",
+      "urls": [
+        "https://www.theenergyst.com/feed/",
+        "https://www.theenergyst.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Energy Live News",
+      "urls": [
+        "https://www.energylivenews.com/feed/",
+        "https://www.energylivenews.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Interesting Engineering",
+      "urls": [
+        "https://interestingengineering.com/feed"
+      ]
+    },
+    {
+      "name": "NS Energy",
+      "urls": [
+        "https://www.nsenergybusiness.com/feed/"
+      ]
+    },
+    {
+      "name": "Rigzone",
+      "urls": [
+        "https://www.rigzone.com/news/rss/rigzone_latest.aspx"
+      ]
+    },
+    {
+      "name": "OilPrice",
+      "urls": [
+        "https://oilprice.com/rss/main"
+      ]
+    },
+    {
+      "name": "World Oil",
+      "urls": [
+        "https://www.worldoil.com/rss?feed=news"
+      ]
+    },
+    {
+      "name": "LNG Prime",
+      "urls": [
+        "https://lngprime.com/feed/"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "pages": 2,
+      "urls": [
+        "https://www.chemengonline.com/feed/",
+        "https://www.chemengonline.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "S&P Global Commodity Insights",
+      "urls": [
+        "https://www.spglobal.com/commodityinsights/en/rss-feed/energy-transition"
+      ]
+    },
+    {
+      "name": "Bioenergy International",
+      "urls": [
+        "https://bioenergyinternational.com/feed/",
+        "https://bioenergyinternational.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Green Air News",
+      "urls": [
+        "https://www.greenairnews.com/?feed=rss2",
+        "https://www.greenairnews.com/?s=hydrogen&feed=rss2"
+      ]
+    },
+    {
+      "name": "gCaptain",
+      "urls": [
+        "https://gcaptain.com/feed/",
+        "https://gcaptain.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Splash247",
+      "urls": [
+        "https://splash247.com/feed/",
+        "https://splash247.com/tag/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Euractiv",
+      "urls": [
+        "https://www.euractiv.com/feed/"
+      ]
+    },
+    {
+      "name": "Biofuels Digest",
+      "urls": [
+        "https://www.biofuelsdigest.com/tag/hydrogen/feed/",
+        "https://www.biofuelsdigest.com/category/hydrogen/feed/"
+      ]
+    },
+    {
+      "name": "Tagesschau",
+      "urls": [
+        "https://www.tagesschau.de/wirtschaft/index~rss2.xml"
+      ]
+    },
+    {
+      "name": "Handelsblatt",
+      "urls": [
+        "https://www.handelsblatt.com/contentexport/feed/schlagzeilen"
+      ]
+    },
+    {
+      "name": "WELT",
+      "urls": [
+        "https://www.welt.de/feeds/section/wirtschaft.rss"
+      ]
+    },
+    {
+      "name": "n-tv",
+      "urls": [
+        "https://www.n-tv.de/wirtschaft/rss"
+      ]
+    },
+    {
+      "name": "WirtschaftsWoche",
+      "urls": [
+        "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen"
+      ]
+    },
+    {
+      "name": "Spiegel Wirtschaft",
+      "urls": [
+        "https://www.spiegel.de/wirtschaft/index.rss"
+      ]
+    },
+    {
+      "name": "NOS Economie",
+      "urls": [
+        "https://feeds.nos.nl/nosnieuwseconomie"
+      ]
+    },
+    {
+      "name": "NU.nl Economie",
+      "urls": [
+        "https://www.nu.nl/rss/Economie"
+      ]
+    },
+    {
+      "name": "BBC Business",
+      "urls": [
+        "https://feeds.bbci.co.uk/news/business/rss.xml"
+      ]
+    },
+    {
+      "name": "The Guardian Environment",
+      "urls": [
+        "https://www.theguardian.com/environment/rss"
+      ]
+    },
+    {
+      "name": "EU Commission Press Corner",
+      "urls": [
+        "https://ec.europa.eu/commission/presscorner/api/rss?language=en"
+      ]
+    },
+    {
+      "name": "UK Government",
+      "urls": [
+        "https://www.gov.uk/search/news-and-communications.atom?keywords=hydrogen&order=updated-newest",
+        "https://www.gov.uk/search/all.atom?keywords=hydrogen&order=updated-newest",
+        "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom"
+      ]
+    },
+    {
+      "name": "German Federal Government",
+      "urls": [
+        "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml"
+      ]
+    },
+    {
+      "name": "US EIA",
+      "urls": [
+        "https://www.eia.gov/rss/todayinenergy.xml"
+      ]
+    },
+    {
+      "name": "ARENA (Australia)",
+      "urls": [
+        "https://arena.gov.au/feed/"
+      ]
+    },
+    {
+      "name": "ENTSOG",
+      "urls": [
+        "https://www.entsog.eu/rss.xml"
+      ]
+    },
+    {
+      "name": "Gas Infrastructure Europe",
+      "urls": [
+        "https://www.gie.eu/feed/"
+      ]
+    },
+    {
+      "name": "Gas for Climate",
+      "urls": [
+        "https://gasforclimate2050.eu/feed/"
+      ]
+    },
+    {
+      "name": "GlobeNewswire (press releases)",
+      "urls": [
+        "https://www.globenewswire.com/RssFeed/keyword/hydrogen",
+        "https://www.globenewswire.com/RssFeed/keyword/green%20hydrogen",
+        "https://www.globenewswire.com/RssFeed/keyword/electrolyzer",
+        "https://www.globenewswire.com/RssFeed/keyword/electrolysis",
+        "https://www.globenewswire.com/RssFeed/keyword/ammonia",
+        "https://www.globenewswire.com/RssFeed/keyword/fuel%20cell",
+        "https://www.globenewswire.com/RssFeed/keyword/e-methanol",
+        "https://www.globenewswire.com/RssFeed/keyword/e-fuels",
+        "https://www.globenewswire.com/RssFeed/keyword/Wasserstoff",
+        "https://www.globenewswire.com/RssFeed/keyword/waterstof"
+      ]
+    },
+    {
+      "name": "PR Newswire (press releases)",
+      "urls": [
+        "https://www.prnewswire.com/rss/news-releases-list.rss?keyword=hydrogen",
+        "https://www.prnewswire.com/rss/energy-latest-news/energy-latest-news-list.rss"
+      ]
+    },
+    {
+      "name": "Bloom Energy",
+      "urls": [
+        "https://www.bloomenergy.com/feed/"
+      ]
+    }
+  ]
+}
