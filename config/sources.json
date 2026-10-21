@@ -494,6 +494,174 @@
       "urls": [
         "https://www.bloomenergy.com/feed/"
       ]
+    },
+    {
+      "name": "Hydrogen Insight",
+      "google": "hydrogeninsight.com"
+    },
+    {
+      "name": "Recharge",
+      "google": "rechargenews.com"
+    },
+    {
+      "name": "Reuters",
+      "google": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "google": "bloomberg.com"
+    },
+    {
+      "name": "Financial Times",
+      "google": "ft.com"
+    },
+    {
+      "name": "Argus Media",
+      "google": "argusmedia.com"
+    },
+    {
+      "name": "Montel News",
+      "google": "montelnews.com"
+    },
+    {
+      "name": "Renewables Now",
+      "google": "renewablesnow.com"
+    },
+    {
+      "name": "Energy Voice",
+      "google": "energyvoice.com"
+    },
+    {
+      "name": "Renewable Energy World",
+      "google": "renewableenergyworld.com"
+    },
+    {
+      "name": "Euronews",
+      "google": "euronews.com"
+    },
+    {
+      "name": "energate messenger+",
+      "google": "energate-messenger.de"
+    },
+    {
+      "name": "ZfK",
+      "google": "zfk.de"
+    },
+    {
+      "name": "Change Inc.",
+      "google": "change.inc"
+    },
+    {
+      "name": "Innovation Origins",
+      "google": "innovationorigins.com"
+    },
+    {
+      "name": "Nederland Waterstofland",
+      "google": "nederlandwaterstofland.nl"
+    },
+    {
+      "name": "WaterstofNet",
+      "google": "waterstofnet.eu"
+    },
+    {
+      "name": "Hydrogen Council",
+      "google": "hydrogencouncil.com"
+    },
+    {
+      "name": "IEA",
+      "google": "iea.org"
+    },
+    {
+      "name": "European Commission Energy",
+      "google": "energy.ec.europa.eu"
+    },
+    {
+      "name": "Clean Hydrogen Partnership",
+      "google": "clean-hydrogen.europa.eu"
+    },
+    {
+      "name": "German Economy Ministry",
+      "google": "bmwk.de"
+    },
+    {
+      "name": "Netherlands Enterprise Agency",
+      "google": "rvo.nl"
+    },
+    {
+      "name": "RWE Press",
+      "google": "rwe.com"
+    },
+    {
+      "name": "Air Liquide",
+      "google": "airliquide.com"
+    },
+    {
+      "name": "Air Products",
+      "google": "airproducts.com"
+    },
+    {
+      "name": "Linde",
+      "google": "linde.com"
+    },
+    {
+      "name": "Shell",
+      "google": "shell.com"
+    },
+    {
+      "name": "bp",
+      "google": "bp.com"
+    },
+    {
+      "name": "TotalEnergies",
+      "google": "totalenergies.com"
+    },
+    {
+      "name": "Uniper",
+      "google": "uniper.energy"
+    },
+    {
+      "name": "Equinor",
+      "google": "equinor.com"
+    },
+    {
+      "name": "OMV",
+      "google": "omv.com"
+    },
+    {
+      "name": "Gasunie",
+      "google": "gasunie.nl"
+    },
+    {
+      "name": "EWE",
+      "google": "ewe.com"
+    },
+    {
+      "name": "thyssenkrupp nucera",
+      "google": "thyssenkrupp-nucera.com"
+    },
+    {
+      "name": "ITM Power",
+      "google": "itm-power.com"
+    },
+    {
+      "name": "Nel Hydrogen",
+      "google": "nelhydrogen.com"
+    },
+    {
+      "name": "Topsoe",
+      "google": "topsoe.com"
+    },
+    {
+      "name": "Siemens Energy",
+      "google": "siemens-energy.com"
+    },
+    {
+      "name": "Plug Power",
+      "google": "plugpower.com"
+    },
+    {
+      "name": "Port of Rotterdam",
+      "google": "portofrotterdam.com"
     }
   ]
 }

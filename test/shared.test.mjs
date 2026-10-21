@@ -14,6 +14,12 @@ test('keeps commercially relevant hydrogen news and drops weak, off-topic or eve
   assert.equal(S.prepare(item('Hydrogen contract', { date: 'not a date' })), null);
 });
 
+test('headline-only items (no summary) use a lower relevance bar', () => {
+  assert.ok(S.prepare(item("India's NTPC seeks overseas buyers for green ammonia")));
+  assert.equal(S.prepare(item('Hydrogen project update', { summary: 'A short note.' })), null);
+  assert.equal(S.prepare(item('Hydrogen update')), null);
+});
+
 test('assigns topics and regions in the original order', () => {
   const a = S.prepare(item('Hydrogen offtake agreement signed in Rotterdam for 100 MW'));
   assert.equal(a.topic, 'Offtake & Supply');
@@ -50,11 +56,14 @@ test('the page has the required date-range options with four days selected', () 
   assert.equal(Object.keys(S.TOPICS).length, 8);
 });
 
-test('every configured source has a name and public HTTPS feed URLs', () => {
+test('every configured source has a name and public HTTPS feed URLs or a Google News site', () => {
   const { sources } = JSON.parse(fs.readFileSync(new URL('../config/sources.json', import.meta.url), 'utf8'));
-  assert.ok(sources.length > 50);
+  assert.ok(sources.length > 100);
+  assert.equal(new Set(sources.map(s => s.name)).size, sources.length);
   for (const s of sources) {
-    assert.ok(s.name && s.urls.length);
+    assert.ok(s.name);
+    if (s.google) { assert.match(s.google, /^[a-z0-9.-]+\.[a-z]{2,}$/); continue; }
+    assert.ok(s.urls.length);
     for (const u of s.urls) assert.equal(new URL(u).protocol, 'https:');
   }
 });

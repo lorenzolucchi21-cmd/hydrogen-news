@@ -9,7 +9,7 @@ const TOPICS = {
   'Production & Technology': /electroly|production|manufactur|fuel cell|technology|capacity|mw|gw/i
 };
 const H2 = /hydrogen|wasserstoff|waterstof|h₂|h2\b|ammonia|e-saf|electroly|fuel cell|methanol|rfnbo/i;
-const COMM = /offtake|agreement|contract|investment|financ|funding|grant|fid|auction|subsid|policy|regulation|capacity|mw|gw|tonne|production|construction|commission|pipeline|network|storage|terminal|import|export|ammonia|methanol|e-saf|steel|refin|electroly|cancel|delay|bankrupt|acqui|stake|price|cost/i;
+const COMM = /offtake|agreement|contract|investment|financ|funding|grant|fid|auction|subsid|policy|regulation|capacity|mw|gw|tonne|production|construction|commission|pipeline|network|storage|terminal|import|export|ammonia|methanol|e-saf|steel|refin|electroly|cancel|delay|bankrupt|acqui|stake|price|cost|project|buyer|\bplan\b|output/i;
 const EXCL = /webinar|conference|podcast|\bawards?\b|\bjobs?\b|vacanc|keynote|training|opinion:|newsletter|market report|cagr/i;
 const REGIONS = {
   Germany: /germany|german|deutsch|berlin|essen|hamburg|bavaria|nrw/i,
@@ -30,11 +30,13 @@ const SIGNALS = [
   [/[€$£]\s?\d|\b(usd|eur|gbp)\s?\d|\b\d[\d.,]*\s?(million|billion|bn|mn)\b|\b\d[\d.,]*\s?(m|bn)\s?(€|\$|£|euro|dollar|pound)/i, 3],
   [/\b\d[\d.,]*\s?(mw|gw|kt|mtpa|ktpa|tpa|tonnes?|tons?)\b/i, 3],
   [/auction|subsid|state aid|tender|grant|funding|rfnbo|cbam|mandate|quota|h2global|hydrogen bank|ipcei|contracts? for difference|\bcfd\b|tax credit|45v/i, 3],
-  [/cancel|delay|bankrupt|insolven|scrap|halt|withdraw|abandon|shelve|pause|write-?down|impairment/i, 3],
+  [/cancel|delay|bankrupt|insolven|scrap|halt|withdraw|abandon|shelve|pause|write-?down|impairment|pull(s|ed|ing)? back|scal(e|es|ed|ing) back|trims?\b/i, 3],
   [/acqui|merger|takeover|stake|joint venture|partnership|invest/i, 2],
   [/pipeline|terminal|import|export|storage|cavern|electroly|construction|commission|start-?up|production|capacity/i, 1]
 ];
 const MIN_SCORE = 4;
+// Headline-only items (no feed summary) carry less text to score, so they need a lower bar.
+const MIN_SCORE_HEADLINE_ONLY = 2;
 
 function relevanceScore(a) {
   const text = a.title + ' ' + (a.summary || '');
@@ -49,7 +51,7 @@ function prepare(raw) {
   const t = a.title + ' ' + a.summary;
   if (!H2.test(t) || !COMM.test(t) || EXCL.test(t)) return null;
   a.score = relevanceScore(a);
-  if (a.score < MIN_SCORE) return null;
+  if (a.score < (a.summary ? MIN_SCORE : MIN_SCORE_HEADLINE_ONLY)) return null;
   a.topic = Object.entries(TOPICS).find(x => x[1].test(t))?.[0] || 'Other Hydrogen News';
   a.region = Object.entries(REGIONS).find(x => x[1].test(t))?.[0] || 'Global';
   a.date = new Date(a.date).toISOString();

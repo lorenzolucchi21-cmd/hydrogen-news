@@ -7,7 +7,10 @@ const he = heModule.default ?? heModule;
 const shared = fs.readFileSync('src/shared.js', 'utf8');
 const S = new Function(`${shared}; return { prepare, dedupe, windowStart };`)();
 const config = JSON.parse(fs.readFileSync('config/sources.json', 'utf8'));
-const sources = config.sources.map(s => ({ pages: 1, ...s }));
+// "google" sources have no usable public feed or block automated access: only headlines and links come from
+// Google News' public search feed, restricted to that publisher's site. Nothing is fetched from the publisher.
+const googleFeed = site => `https://news.google.com/rss/search?q=${encodeURIComponent(`(hydrogen OR Wasserstoff OR waterstof OR ammonia OR e-SAF) site:${site} when:30d`)}&hl=en-GB&gl=GB&ceid=GB:en`;
+const sources = config.sources.map(s => ({ pages: 1, ...s, urls: s.google ? [googleFeed(s.google)] : s.urls }));
 if (new Set(sources.map(s => s.name)).size !== sources.length) throw new Error('Duplicate source names in config/sources.json');
 
 const parser = new XMLParser({
@@ -37,8 +40,13 @@ function parseFeed(xml, base, sourceName) {
     const media = list(it.thumbnail)[0] || list(it.group?.thumbnail)[0] || list(it.content).find(v => v?.['@_url']);
     const enc = list(it.enclosure).find(v => /^image\//.test(v?.['@_type'] || ''));
     const emb = he.decode(text(it.description || it.encoded)).match(/<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["']/i)?.[1];
+    const google = base.startsWith('https://news.google.com/');
+    const publisher = plain(it.source);
+    let title = plain(it.title);
+    // Google appends " - Publisher" to headlines; its description repeats the headline, so no summary is kept.
+    if (google && publisher && title.endsWith(' - ' + publisher)) title = title.slice(0, -(publisher.length + 3));
     return {
-      title: plain(it.title).replace(/\s+-\s+[^-]{2,40}$/, ''), summary: plain(it.summary || it.description || it.encoded || it.content).slice(0, 320),
+      title, summary: google ? '' : plain(it.summary || it.description || it.encoded || it.content).slice(0, 320),
       link, date: text(it.pubDate || it.published || it.date || it.updated), source: sourceName,
       image: abs(media?.['@_url'] || enc?.['@_url'] || emb, base)
     };
