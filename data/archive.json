@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T14:22:52.399Z",
+ "generatedAt": "2026-10-21T14:47:10.963Z",
  "articles": [
   {
    "title": "US team maps electrolyte chemistry to guide next-generation battery designs",
@@ -519,6 +519,17 @@
    "score": 9
   },
   {
+   "title": "Ruim €44 miljoen subsidie toegekend voor waterstofmobiliteit",
+   "summary": "De subsidieregeling Waterstof in Mobiliteit (SWiM) heeft in totaal ruim €44 miljoen toegekend aan projecten die investeren in waterstofvoertuigen en […] Het bericht Ruim €44 miljoen subsidie toegekend voor waterstofmobiliteit verscheen eerst op NLHydrogen .",
+   "link": "https://nlhydrogen.nl/ruim-e44-miljoen-subsidie-toegekend-voor-waterstofmobiliteit/",
+   "date": "2026-10-01T11:26:44.000Z",
+   "source": "NLHydrogen",
+   "image": "https://nlhydrogen.nl/feed/",
+   "topic": "Investments & FIDs",
+   "region": "Benelux",
+   "score": 10
+  },
+  {
    "title": "Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold",
    "summary": "[…] The post Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold appeared first on Hydrogen Europe .",
    "link": "https://hydrogeneurope.eu/reverion-raises-175m-series-b-to-scale-production-of-its-dispatchable-carbon-negative-power-plants-tenfold/",
@@ -733,8 +744,8 @@
   {
    "name": "Industrylinqs",
    "shown": 12,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "Hydrogen Tech World",
@@ -746,7 +757,7 @@
    "name": "H2 News Germany",
    "shown": 0,
    "status": "unreachable",
-   "error": "ECONNRESET"
+   "error": "UND_ERR_CONNECT_TIMEOUT"
   },
   {
    "name": "Hydrogen Central",
@@ -768,9 +779,9 @@
   },
   {
    "name": "NLHydrogen",
-   "shown": 0,
-   "status": "unreachable",
-   "error": "HTTP 500"
+   "shown": 1,
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "H2Global",
@@ -781,8 +792,8 @@
   {
    "name": "Gasworld",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "European Hydrogen Observatory",
@@ -853,8 +864,8 @@
   {
    "name": "Windpower Monthly",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "Wind Power Engineering",
@@ -985,8 +996,8 @@
   {
    "name": "S&P Global Commodity Insights",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "Bioenergy International",
@@ -1015,14 +1026,14 @@
   {
    "name": "Euractiv",
    "shown": 0,
-   "status": "unreachable",
-   "error": "HTTP 503"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Biofuels Digest",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "Tagesschau",
