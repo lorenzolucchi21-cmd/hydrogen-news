@@ -1,6 +1,105 @@
 {
- "generatedAt": "2026-10-21T15:49:36.178Z",
+ "generatedAt": "2026-10-21T20:07:56.176Z",
  "articles": [
+  {
+   "title": "Norwegian Hydrogen Ferries Delayed Again",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/20/electrolyzer/norwegian-hydrogen-ferries-delayed-again",
+   "date": "2026-10-21T16:03:18.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "ABB Launches High-Efficiency Rectifier to Help Reduce Green Hydrogen Power Costs",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/20/h2/abb-launches-high-efficiency-rectifier-to-help-reduce-green-hydrogen-power-costs",
+   "date": "2026-10-21T15:55:58.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "score": 2
+  },
+  {
+   "title": "Bosch Says CryoPump Can Cut Hydrogen Station Investment Cost by Half",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/20/electrolyzer/bosch-says-cryopump-can-cut-hydrogen-station-investment-cost-by-half",
+   "date": "2026-10-21T15:48:05.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 4
+  },
+  {
+   "title": "A Molecular Pendulum for Efficient Hydrogen Production",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/19/h2/a-molecular-pendulum-for-efficient-hydrogen-production",
+   "date": "2026-10-21T15:18:58.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "score": 3
+  },
+  {
+   "title": "Loughborough Researcher Awarded Prestigious Royal Academy of Engineering Fellowship to Advance Green Hydrogen Production",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/20/h2/loughborough-researcher-awarded-prestigious-royal-academy-of-engineering-fellowship-to-advance-green-hydrogen-production",
+   "date": "2026-10-21T15:10:59.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "SWITCH Maritime Receives Design Basis Agreement From US Coast Guard for 150-Passenger Hydrogen Fuel Cell-Electric Ferry",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/21/fuel-cells/switch-maritime-receives-design-basis-agreement-from-us-coast-guard-for-150-passenger-hydrogen-fuel-cell-electric-ferry",
+   "date": "2026-10-21T14:39:37.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "score": 4
+  },
+  {
+   "title": "Colruyt-Backed 25MW Green Hydrogen Plant Enters Testing in Zeebrugge",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/20/clean-energy/colruyt-backed-25mw-green-hydrogen-plant-enters-testing-in-zeebrugge",
+   "date": "2026-10-21T14:18:58.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "Greenpoint Lowers Hydrogen Price to €10.95 per Kilogram",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/21/h2/greenpoint-lowers-hydrogen-price-to-10-95-per-kilogram",
+   "date": "2026-10-21T14:12:26.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "Hydrogen Production Costs Rise Sharply for Green and Conventional H2",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/20/green-hydrogen/hydrogen-production-costs-rise-sharply-for-green-and-conventional-h2",
+   "date": "2026-10-21T14:01:39.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "score": 3
+  },
   {
    "title": "US team maps electrolyte chemistry to guide next-generation battery designs",
    "summary": "Lithium ions in battery electrolytes do not always remain isolated. Research from Columbia University shows...",
@@ -22,6 +121,17 @@
    "topic": "Investments & FIDs",
    "region": "Global",
    "score": 4
+  },
+  {
+   "title": "Dutch Hydrogen Refueling Firm Resato Declared Bankrupt, Restart Bid Due Next Week",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/21/electrolyzer/dutch-hydrogen-refueling-firm-resato-declared-bankrupt-restart-bid-due-next-week",
+   "date": "2026-10-21T12:30:53.000Z",
+   "source": "Fuel Cells Works",
+   "image": "https://fuelcellsworks.com/feed",
+   "topic": "Other Hydrogen News",
+   "region": "Benelux",
+   "score": 5
   },
   {
    "title": "Riga port, Korean firm plan green methanol plant in Latvia",
@@ -227,7 +337,7 @@
    "link": "https://www.chemengonline.com/kawasaki-heavy-industries-begins-construction-of-hydrogen-liquefaction-plant/",
    "date": "2026-10-19T17:37:03.000Z",
    "source": "Chemical Engineering",
-   "image": "https://www.chemengonline.com/feed/",
+   "image": "https://www.chemengonline.com/feed/?paged=2",
    "topic": "Infrastructure & Storage",
    "region": "Asia-Pacific",
    "score": 6
@@ -684,6 +794,28 @@
    "score": 2
   },
   {
+   "title": "World’s first green-ammonia ship-to-ship refuelling takes place in China",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOERwSVJjSE5uNFNjRG0xN09qal9NQnpROHI1Y05iTGNZY2hZci1senBoU3RIZmR1Y0tYdkJvUEVITk5VRldwN0I4RVJNckxyQWpPQzFNSnZpaDJOYTJGdVV0MElNMFJFZHlVOEEzbFFVMnJRQVhRamVHQVFnU3Y0QXF4U3NCOFhnTEMyWDg5bkh0bGlhdnpfUVVfM1F6Q3BuZnJTS2wxOEFYQ3lLOV9wYV9KcnQ5Qmt5V3phSFZCOUZjZG0t?oc=5",
+   "date": "2026-10-14T11:12:25.000Z",
+   "source": "Hydrogen Insight",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF)%20site%3Ahydrogeninsight.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "score": 2
+  },
+  {
+   "title": "The Dutch government confirms the major societal and economic importance of underground hydrogen storage",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNLMXlweHBYbXJmUjNab1dGekZPcmwzY1RkcDNXbHNMeWh5STBrNk91bDVqc1Itb2dUdFpkSjBaTU53dzA0TGxkMmdua09jcGRZNS01bHZJdEpzbkxvUkxhUTdSbWNYMlVmYjZGYjJ1MWhiVXp3NTRmbmNwYmVSNnplOUgxWmJvYmVIOTVJX3ZlVnl5b3M1UXhVWlNLMDZkZTdMZnppeDlRS292aVczU3VWSmhYczRzdUNvZzFZbTZPaXN6LTlYZGJ4cF9ZUFZwX2pUUk44S2RMTWJGUUh3TmdmeXhfdw?oc=5",
+   "date": "2026-10-14T11:11:00.000Z",
+   "source": "Nederland Waterstofland",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF)%20site%3Anederlandwaterstofland.nl%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Policy & Auctions",
+   "region": "Benelux",
+   "score": 3
+  },
+  {
    "title": "Struggling Dutch hydrogen company signs investor agreement as it works to stave off bankruptcy",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONjlyRVZId2ExRXFBdEZFcTdlcGxHNU5zbzdoWlBPaGUzZnMtLW5KcmNPUDJVVV9pMXItMVdxT2x6ZjZDMVdjQlJ0YjRYQ2FGOGxnSTN5VHZGdGN5d0x6R2p1V0gwUU5VZmt1OHBBa2pVTDVuX3AyYUtOVjNvcFhWMy15VTRoeGdXNDIyRF9YT1UzWENJaWluLXV4OEFYbzZnMURfQkZPQXNUZjBaVjk0QnUteElCUFNZSGdrdnVqQ1d4NkhWMGpTbjRCdUpaYmE0ejNuNW5oSmFuTzR4SUg3WWt3?oc=5",
@@ -1133,6 +1265,17 @@
    "topic": "Investments & FIDs",
    "region": "Other Europe",
    "score": 13
+  },
+  {
+   "title": "South Korea sets out $747bn energy transition plan, with role for hydrogen in steelmaking and transport",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPell2c2k4OTVGc1RtY19HSFpkZHl1VERSWG9YelRCNTg5Qy1vV0pGN0g5aTA5bzNVSGNNZHlfYmRHU0JqWnVUZDhQeHRwaXNPbHVBYzNfc3NzMHB4b1E1enFqSXI4dmpwdThpWmtUUUJ1Y2tmeHZ0eFlrdWkyX3dUdTZCOFpHc0JpY0RjV1RqMDBUczFrUDMwM0o4VUJhNnk3ZGc4YkU1WlNqYi1GbXNTMXdjeWhoamowNUlMV21rWVlSdW9MVDQzRHI2U3FOY0xERkkxY3F4YkVnYUxnbEFBcFhCenEzVWc?oc=5",
+   "date": "2026-10-07T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF)%20site%3Ahydrogeninsight.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "score": 5
   },
   {
    "title": "Perpetual Next and Lhyfe Delfzijl to explore green hydrogen supply",
@@ -1980,7 +2123,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 9,
+   "shown": 19,
    "status": "ok",
    "error": ""
   },
@@ -1999,8 +2142,8 @@
   {
    "name": "H2 News Germany",
    "shown": 0,
-   "status": "unreachable",
-   "error": "UND_ERR_CONNECT_TIMEOUT"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Hydrogen Central",
@@ -2406,7 +2549,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 58,
+   "shown": 60,
    "status": "ok",
    "error": ""
   },
@@ -2496,7 +2639,7 @@
   },
   {
    "name": "Nederland Waterstofland",
-   "shown": 2,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
