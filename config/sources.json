@@ -1,4 +1,5 @@
 {
+  "blockedPublishers": ["ad-hoc-news.de", "Finanztrends", "Börse Express", "boerse-express.com", "MarketBeat", "Stocktwits", "Benzinga", "Simply Wall St", "Insider Monkey"],
   "sources": [
     {
       "name": "Hydrogen Fuel News",
@@ -37,7 +38,9 @@
       "urls": [
         "https://h2-news.de/feed/",
         "https://h2-news.de/?s=hydrogen&feed=rss2"
-      ]
+      ],
+      "google": "h2-news.de",
+      "lang": "de"
     },
     {
       "name": "Hydrogen Central",
@@ -68,7 +71,8 @@
       "urls": [
         "https://nlhydrogen.nl/feed/",
         "https://nlhydrogen.nl/?s=hydrogen&feed=rss2"
-      ]
+      ],
+      "lang": "nl"
     },
     {
       "name": "H2Global",
@@ -117,7 +121,8 @@
         "https://energeia.nl/feed/",
         "https://energeia.nl/?s=waterstof&feed=rss2",
         "https://energeia.nl/?s=hydrogen&feed=rss2"
-      ]
+      ],
+      "lang": "nl"
     },
     {
       "name": "Offshore Energy",
@@ -194,7 +199,9 @@
       "urls": [
         "https://www.pv-magazine.de/feed/",
         "https://www.pv-magazine.de/?s=wasserstoff&feed=rss2"
-      ]
+      ],
+      "google": "pv-magazine.de",
+      "lang": "de"
     },
     {
       "name": "pv magazine Australia",
@@ -361,43 +368,57 @@
       "name": "Tagesschau",
       "urls": [
         "https://www.tagesschau.de/wirtschaft/index~rss2.xml"
-      ]
+      ],
+      "google": "tagesschau.de",
+      "lang": "de"
     },
     {
       "name": "Handelsblatt",
       "urls": [
         "https://www.handelsblatt.com/contentexport/feed/schlagzeilen"
-      ]
+      ],
+      "google": "handelsblatt.com",
+      "lang": "de"
     },
     {
       "name": "WELT",
       "urls": [
         "https://www.welt.de/feeds/section/wirtschaft.rss"
-      ]
+      ],
+      "google": "welt.de",
+      "lang": "de"
     },
     {
       "name": "n-tv",
       "urls": [
         "https://www.n-tv.de/wirtschaft/rss"
-      ]
+      ],
+      "google": "n-tv.de",
+      "lang": "de"
     },
     {
       "name": "WirtschaftsWoche",
       "urls": [
         "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen"
-      ]
+      ],
+      "google": "wiwo.de",
+      "lang": "de"
     },
     {
       "name": "Spiegel Wirtschaft",
       "urls": [
         "https://www.spiegel.de/wirtschaft/index.rss"
-      ]
+      ],
+      "google": "spiegel.de",
+      "lang": "de"
     },
     {
       "name": "NOS Economie",
       "urls": [
         "https://feeds.nos.nl/nosnieuwseconomie"
-      ]
+      ],
+      "google": "nos.nl",
+      "lang": "nl"
     },
     {
       "name": "NU.nl Economie",
@@ -435,7 +456,9 @@
       "name": "German Federal Government",
       "urls": [
         "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml"
-      ]
+      ],
+      "google": "bundesregierung.de",
+      "lang": "de"
     },
     {
       "name": "US EIA",
@@ -541,15 +564,18 @@
     },
     {
       "name": "energate messenger+",
-      "google": "energate-messenger.de"
+      "google": "energate-messenger.de",
+      "lang": "de"
     },
     {
       "name": "ZfK",
-      "google": "zfk.de"
+      "google": "zfk.de",
+      "lang": "de"
     },
     {
       "name": "Change Inc.",
-      "google": "change.inc"
+      "google": "change.inc",
+      "lang": "nl"
     },
     {
       "name": "Innovation Origins",
@@ -557,11 +583,13 @@
     },
     {
       "name": "Nederland Waterstofland",
-      "google": "nederlandwaterstofland.nl"
+      "google": "nederlandwaterstofland.nl",
+      "lang": "nl"
     },
     {
       "name": "WaterstofNet",
-      "google": "waterstofnet.eu"
+      "google": "waterstofnet.eu",
+      "lang": "nl"
     },
     {
       "name": "Hydrogen Council",
@@ -581,11 +609,13 @@
     },
     {
       "name": "German Economy Ministry",
-      "google": "bmwk.de"
+      "google": "bmwk.de",
+      "lang": "de"
     },
     {
       "name": "Netherlands Enterprise Agency",
-      "google": "rvo.nl"
+      "google": "rvo.nl",
+      "lang": "nl"
     },
     {
       "name": "RWE Press",
@@ -629,11 +659,13 @@
     },
     {
       "name": "Gasunie",
-      "google": "gasunie.nl"
+      "google": "gasunie.nl",
+      "lang": "nl"
     },
     {
       "name": "EWE",
-      "google": "ewe.com"
+      "google": "ewe.com",
+      "lang": "de"
     },
     {
       "name": "thyssenkrupp nucera",
@@ -662,6 +694,272 @@
     {
       "name": "Port of Rotterdam",
       "google": "portofrotterdam.com"
+    },
+    {
+      "name": "Business Insider Deutschland",
+      "google": "businessinsider.de",
+      "lang": "de"
+    },
+    {
+      "name": "Gründerszene",
+      "google": "gruenderszene.com",
+      "lang": "de"
+    },
+    {
+      "name": "Tagesspiegel",
+      "google": "tagesspiegel.de",
+      "lang": "de"
+    },
+    {
+      "name": "FAZ",
+      "google": "faz.net",
+      "lang": "de"
+    },
+    {
+      "name": "Süddeutsche Zeitung",
+      "google": "sueddeutsche.de",
+      "lang": "de"
+    },
+    {
+      "name": "Manager Magazin",
+      "google": "manager-magazin.de",
+      "lang": "de"
+    },
+    {
+      "name": "ZEIT",
+      "google": "zeit.de",
+      "lang": "de"
+    },
+    {
+      "name": "HZwei",
+      "google": "hzwei.info",
+      "lang": "de"
+    },
+    {
+      "name": "Chemie.de",
+      "google": "chemie.de",
+      "lang": "de"
+    },
+    {
+      "name": "CHEManager",
+      "google": "chemanager-online.com",
+      "lang": "de"
+    },
+    {
+      "name": "Windbranche",
+      "google": "windbranche.de",
+      "lang": "de"
+    },
+    {
+      "name": "erneuerbareenergien.de",
+      "google": "erneuerbareenergien.de",
+      "lang": "de"
+    },
+    {
+      "name": "IWR",
+      "google": "iwr.de",
+      "lang": "de"
+    },
+    {
+      "name": "Energie & Management",
+      "google": "energie-und-management.de",
+      "lang": "de"
+    },
+    {
+      "name": "Klimareporter",
+      "google": "klimareporter.de",
+      "lang": "de"
+    },
+    {
+      "name": "dena",
+      "google": "dena.de",
+      "lang": "de"
+    },
+    {
+      "name": "ingenieur.de",
+      "google": "ingenieur.de",
+      "lang": "de"
+    },
+    {
+      "name": "VDI nachrichten",
+      "google": "vdi-nachrichten.com",
+      "lang": "de"
+    },
+    {
+      "name": "Industrie Magazin",
+      "google": "industriemagazin.at",
+      "lang": "de"
+    },
+    {
+      "name": "Neue Zürcher Zeitung",
+      "google": "nzz.ch",
+      "lang": "de"
+    },
+    {
+      "name": "Het Financieele Dagblad",
+      "google": "fd.nl",
+      "lang": "nl"
+    },
+    {
+      "name": "NRC",
+      "google": "nrc.nl",
+      "lang": "nl"
+    },
+    {
+      "name": "Duurzaam Bedrijfsleven",
+      "google": "duurzaambedrijfsleven.nl",
+      "lang": "nl"
+    },
+    {
+      "name": "Energievergelijk / Energeia NL",
+      "google": "energeia.nl",
+      "lang": "nl"
+    },
+    {
+      "name": "Enlit World",
+      "google": "enlit.world"
+    },
+    {
+      "name": "Investing.com",
+      "google": "investing.com"
+    },
+    {
+      "name": "TradeWinds",
+      "google": "tradewindsnews.com"
+    },
+    {
+      "name": "Upstream",
+      "google": "upstreamonline.com"
+    },
+    {
+      "name": "ICIS",
+      "google": "icis.com"
+    },
+    {
+      "name": "Politico Europe",
+      "google": "politico.eu"
+    },
+    {
+      "name": "Hydrocarbon Engineering",
+      "google": "hydrocarbonengineering.com"
+    },
+    {
+      "name": "H2 View",
+      "google": "h2-view.com"
+    },
+    {
+      "name": "Business Wire",
+      "google": "businesswire.com"
+    },
+    {
+      "name": "Chemistry World",
+      "google": "chemistryworld.com"
+    },
+    {
+      "name": "Ammonia Energy Association",
+      "google": "ammoniaenergy.org"
+    },
+    {
+      "name": "Splash247 (shipping)",
+      "google": "splash247.com"
+    },
+    {
+      "name": "Aviation Week",
+      "google": "aviationweek.com"
+    },
+    {
+      "name": "Flight Global",
+      "google": "flightglobal.com"
+    },
+    {
+      "name": "Air Transport World",
+      "google": "atwonline.com"
+    },
+    {
+      "name": "Biofuels International",
+      "google": "biofuels-news.com"
+    },
+    {
+      "name": "CHEManager International",
+      "google": "chemanager-online.com"
+    },
+    {
+      "name": "Deal search: final investment decisions",
+      "search": "(\"final investment decision\" OR FID OR \"takes FID\" OR \"reaches FID\") (hydrogen OR eSAF OR \"e-SAF\" OR \"e-fuels\" OR \"synthetic fuel\" OR ammonia OR \"e-methanol\" OR electrolyser OR electrolyzer)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: offtake and supply agreements",
+      "search": "(offtake OR \"off-take\" OR \"supply agreement\" OR \"purchase agreement\" OR \"long-term agreement\" OR \"binding agreement\") (hydrogen OR eSAF OR \"e-SAF\" OR \"e-fuels\" OR \"synthetic fuel\" OR ammonia OR \"e-methanol\" OR electrolyser OR electrolyzer)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: refineries and industry",
+      "search": "(hydrogen OR eSAF OR \"e-SAF\" OR \"e-fuels\" OR \"synthetic fuel\" OR ammonia OR \"e-methanol\" OR electrolyser OR electrolyzer) (refinery OR refineries OR steelmaker OR \"steel plant\" OR \"chemicals\") (contract OR agreement OR investment OR project OR order)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: eSAF and aviation fuel",
+      "search": "(eSAF OR \"e-SAF\" OR \"power-to-liquid\" OR \"synthetic aviation fuel\" OR \"synthetic jet fuel\") (offtake OR agreement OR investment OR plant OR mandate OR contract)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: large investments and funding",
+      "search": "(hydrogen OR electrolyser OR electrolyzer OR \"green ammonia\") (billion OR million) (investment OR funding OR financing OR subsidy OR grant OR loan OR auction)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: cancellations and delays",
+      "search": "(hydrogen OR \"green ammonia\" OR eSAF) (cancels OR cancelled OR scrapped OR scraps OR delays OR withdraws OR insolvency OR bankruptcy OR \"pulls out\" OR shelved)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: policy and auctions",
+      "search": "hydrogen (\"carbon contracts for difference\" OR \"hydrogen bank\" OR RFNBO OR H2Global OR auction OR \"state aid\" OR \"Wasserstoffbank\")",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: Germany (DE)",
+      "search": "(Wasserstoff OR Elektrolyseur OR eFuels OR eSAF OR Brennstoffzellen OR \"Wasserstoff-Kernnetz\") (Investition OR Investitionsentscheidung OR Abnahmevertrag OR Liefervertrag OR Milliarden OR Millionen OR Förderung OR Auktion OR Joint Venture OR Übernahme)",
+      "lang": "de",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: Germany setbacks (DE)",
+      "search": "Wasserstoff (Insolvenz OR gestoppt OR abgesagt OR Rückzug OR Verzögerung OR Pleite)",
+      "lang": "de",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: fuel cells and e-fuels (DE)",
+      "search": "(Brennstoffzellen OR eFuels OR \"synthetisches Kerosin\" OR \"grüner Wasserstoff\") (Millionen OR Milliarden OR Finanzierung OR Fabrik OR Werk OR Auftrag)",
+      "lang": "de",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: Netherlands (NL)",
+      "search": "(waterstof OR elektrolyser OR ammoniak OR eSAF) (investeringsbeslissing OR subsidie OR contract OR overeenkomst OR miljoen OR miljard OR fabriek)",
+      "lang": "nl",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: project milestones",
+      "search": "(hydrogen OR eSAF OR electrolyser OR \"green ammonia\") (groundbreaking OR \"construction begins\" OR \"construction starts\" OR \"starts construction\" OR inaugurated OR commissioned OR largest)",
+      "lang": "en",
+      "minScore": 5
+    },
+    {
+      "name": "Deal search: project milestones (DE)",
+      "search": "(Wasserstoff OR Elektrolyseur OR eFuels OR eSAF) (Spatenstich OR Baubeginn OR Inbetriebnahme OR eingeweiht OR größte OR größten)",
+      "lang": "de",
+      "minScore": 5
     }
   ]
 }

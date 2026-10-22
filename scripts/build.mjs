@@ -2,16 +2,39 @@ import fs from 'node:fs';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { XMLParser } from 'fast-xml-parser';
 import * as heModule from 'he';
+import { translateHeadlines } from './translate.mjs';
 
 const he = heModule.default ?? heModule;
 const shared = fs.readFileSync('src/shared.js', 'utf8');
-const S = new Function(`${shared}; return { prepare, dedupe, windowStart };`)();
+const S = new Function(`${shared}; return { prepare, dedupe, windowStart, detectLang };`)();
 const config = JSON.parse(fs.readFileSync('config/sources.json', 'utf8'));
-// "google" sources have no usable public feed or block automated access: only headlines and links come from
-// Google News' public search feed, restricted to that publisher's site. Nothing is fetched from the publisher.
-const googleFeed = site => `https://news.google.com/rss/search?q=${encodeURIComponent(`(hydrogen OR Wasserstoff OR waterstof OR ammonia OR e-SAF) site:${site} when:30d`)}&hl=en-GB&gl=GB&ceid=GB:en`;
-const sources = config.sources.map(s => ({ pages: 1, ...s, urls: s.google ? [googleFeed(s.google)] : s.urls }));
+
+// Source types in config/sources.json:
+//  - "urls":   public RSS/Atom feeds, read directly.
+//  - "google": a publisher with no usable public feed or that blocks automated access. Only headlines and links are
+//              taken from Google News' public search feed, restricted to that site. Nothing is fetched from the publisher.
+//  - "search": a broad Google News query across all publishers (each story keeps its real publisher name).
+//  - "lang":   "en" (default), "de" or "nl": which Google News edition to ask, and the language assumed for the headlines.
+const EDITIONS = { en: ['en-GB', 'GB', 'GB:en'], de: ['de', 'DE', 'DE:de'], nl: ['nl', 'NL', 'NL:nl'] };
+const TERMS = {
+  en: '(hydrogen OR Wasserstoff OR waterstof OR ammonia OR e-SAF OR eSAF OR "e-fuels" OR electrolyser)',
+  de: '(Wasserstoff OR Elektrolyseur OR eFuels OR eSAF OR Brennstoffzelle OR Ammoniak OR hydrogen)',
+  nl: '(waterstof OR elektrolyser OR hydrogen OR ammoniak OR eSAF)'
+};
+const googleFeed = (query, lang = 'en') => {
+  const [hl, gl, ceid] = EDITIONS[lang] || EDITIONS.en;
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:30d`)}&hl=${hl}&gl=${gl}&ceid=${ceid}`;
+};
+const sources = config.sources.map(s => ({
+  pages: 1, ...s,
+  urls: [...(s.urls || []), ...(s.google ? [googleFeed(`${TERMS[s.lang] || TERMS.en} site:${s.google}`, s.lang)] : []), ...(s.search ? [googleFeed(s.search, s.lang)] : [])]
+}));
 if (new Set(sources.map(s => s.name)).size !== sources.length) throw new Error('Duplicate source names in config/sources.json');
+const byName = new Map(sources.map(s => [s.name, s]));
+const optionsFor = s => ({ minScore: s.minScore, lang: s.lang });
+// Stock-tip and similar aggregator sites that only repeat company news with share-price commentary.
+const blocked = new Set((config.blockedPublishers || []).map(n => n.toLowerCase()));
+const allowed = a => !blocked.has(String(a.source).toLowerCase());
 
 const parser = new XMLParser({
   ignoreAttributes: false, attributeNamePrefix: '@_', removeNSPrefix: true, parseTagValue: false,
@@ -29,7 +52,7 @@ function flat(node) {
 const plain = v => he.decode(he.decode(flat(v).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')).replace(/<[^>]*>/g, ' ')).replace(/\s+/g, ' ').trim();
 const abs = (v, base) => { try { const u = new URL(he.decode(v || ''), base); return /^https?:$/.test(u.protocol) && !u.username ? u.href : ''; } catch { return ''; } };
 
-function parseFeed(xml, base, sourceName) {
+function parseFeed(xml, base, sourceName, usePublisher = false) {
   const p = parser.parse(xml.replace(/<!DOCTYPE[^>[]*(\[[\s\S]*?\])?\s*>/i, ''));
   const isAtom = Object.hasOwn(p, 'feed');
   if (!isAtom && !p.rss?.channel && !p.RDF) throw new Error('not an RSS/Atom feed');
@@ -47,7 +70,7 @@ function parseFeed(xml, base, sourceName) {
     if (google && publisher && title.endsWith(' - ' + publisher)) title = title.slice(0, -(publisher.length + 3));
     return {
       title, summary: google ? '' : plain(it.summary || it.description || it.encoded || it.content).slice(0, 320),
-      link, date: text(it.pubDate || it.published || it.date || it.updated), source: sourceName,
+      link, date: text(it.pubDate || it.published || it.date || it.updated), source: usePublisher && publisher ? publisher : sourceName,
       image: abs(media?.['@_url'] || enc?.['@_url'] || emb, base)
     };
   });
@@ -84,7 +107,10 @@ await Promise.all(Array.from({ length: 8 }, async () => {
       try {
         const { body, url: finalUrl } = await get(url);
         reached++;
-        for (const raw of parseFeed(body, finalUrl, s.name)) { const a = S.prepare(raw); if (a && inWindow(a)) articles.push(a); }
+        for (const raw of parseFeed(body, finalUrl, s.name, !!s.search)) {
+          const a = S.prepare(raw, optionsFor(s));
+          if (a && inWindow(a) && allowed(a)) articles.push({ ...a, origin: s.name });
+        }
       } catch (e) { error = (e.cause?.code || e.message).slice(0, 60); }
     }
     results[i] = { name: s.name, articles, reached, error };
@@ -93,17 +119,26 @@ await Promise.all(Array.from({ length: 8 }, async () => {
 
 let previous = { articles: [] };
 try { previous = JSON.parse(fs.readFileSync('data/archive.json', 'utf8')); } catch { /* first run */ }
-const known = new Set(sources.map(s => s.name));
 const reachedCount = results.filter(r => r.reached).length;
 if (!reachedCount) { console.error('No source could be reached; keeping the previous archive and not publishing.'); process.exit(1); }
 
-const archived = S.dedupe([...results.flatMap(r => r.articles), ...(previous.articles || [])]
-  .filter(a => known.has(a.source) && inWindow(a)));
+// Earlier archive entries are re-checked against the current filter, so rule changes also clean up old stories.
+const earlier = (previous.articles || []).flatMap(a => {
+  const s = byName.get(a.origin || a.source);
+  const p = s && S.prepare(a, optionsFor(s));
+  return p ? [{ ...p, origin: s.name, titleEn: a.titleEn }] : [];
+});
+const archived = S.dedupe([...results.flatMap(r => r.articles), ...earlier].filter(a => inWindow(a) && allowed(a)));
+const knownTranslations = new Map(earlier.filter(a => a.titleEn).map(a => [a.link, a.titleEn]));
+for (const a of archived) if (!a.titleEn && knownTranslations.has(a.link)) a.titleEn = knownTranslations.get(a.link);
+const translation = await translateHeadlines(archived);
+console.log(`Translations: ${translation.translated} new, ${translation.failed} failed, ${translation.remaining} still untranslated.`);
+
 const counts = {};
-for (const a of archived) counts[a.source] = (counts[a.source] || 0) + 1;
+for (const a of archived) counts[a.origin] = (counts[a.origin] || 0) + 1;
 const data = {
   generatedAt: now.toISOString(),
-  articles: archived.map(({ title, summary, link, date, source, image, topic, region, score }) => ({ title, summary, link, date, source, image, topic, region, score })),
+  articles: archived.map(({ title, titleEn, lang, summary, link, date, source, origin, image, topic, region, score }) => ({ title, titleEn, lang, summary, link, date, source, origin, image, topic, region, score })),
   sources: results.map(r => ({ name: r.name, shown: counts[r.name] || 0, status: r.reached ? 'ok' : 'unreachable', error: r.reached ? '' : r.error }))
 };
 
