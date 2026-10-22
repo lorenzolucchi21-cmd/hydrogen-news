@@ -1,6 +1,165 @@
 {
- "generatedAt": "2026-10-22T08:25:06.992Z",
+ "generatedAt": "2026-10-22T13:45:27.772Z",
  "articles": [
+  {
+   "title": "Wasserstoff: Kernnetz schließt im zweiten Jahr Unternehmen an",
+   "titleEn": "Hydrogen: Core network joins companies in the second year",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUtCYzlfaktuV3JpZ2lEZjNrbFdFVGxyaHJjWmdid2h1ZjhzWGZjaDlIRjlFUEtvbGltaU5uLWF1Y05sVFFYVWRNMHBmVC10aTI0TUtCRF8zcXVuaGlqcmJKR0hKME1pbGc1ajc3SjA5dnVlNmUzZ2VLRm1YU0RYUWYyZEVJOVdiZGxxNk9Iajk0T1FvMmZ5d1I1cjFqMHNNRDJkWTM0QWN0X3hFS01WN2ppNXhvS3g2QkE?oc=5",
+   "date": "2026-10-22T12:45:00.000Z",
+   "source": "Energie & Management",
+   "origin": "Energie & Management",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Aenergie-und-management.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "Hamburg baut Wasserstoff-Infrastruktur aus",
+   "titleEn": "Hamburg expands hydrogen infrastructure",
+   "lang": "de",
+   "summary": "Drei Tage lang ist Hamburg Treffpunkt der internationalen Wasserstoffbranche. Doch die Hansestadt ist mehr als der Austragungsort der Hydrogen Technology World Expo 2026: Im Süden wird ein Großelektrolyseur gebaut, rund um den Hafen entsteht das Hamburger Wasserstoff-Industrie-Netz (HH-WIN). Während der Messe vereinbar",
+   "link": "https://h2-news.de/wirtschaft-unternehmen/hamburg-baut-wasserstoff-infrastruktur-aus/",
+   "date": "2026-10-22T12:37:44.000Z",
+   "source": "H2 News Germany",
+   "origin": "H2 News Germany",
+   "image": "https://h2-news.de/feed/",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "score": 4
+  },
+  {
+   "title": "KBR wins contracts to revamp ammonia plants in Europe By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2prUmNFb2w1RnlsUDdiN2xKNjc2aDVJb3pOT2pJVVdmLVlsYmRObzVWRVZGSzBMVGdsTUE3S243anNPRF93NFo4ODQ3dmNmNHpHQmtlRXV2TDBnejFQX1B6NDA2SVlzVmVVLWFEaUQ3OGEzejhvOGROd3J6OUV3Y2FtMGFaWjdxc3hISE56RVpKVGs4VEZOb0xPT2pWX1QxZWdaU2xOS2V2dlRZUy1nWTlrcFk?oc=5",
+   "date": "2026-10-22T10:06:00.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Ainvesting.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "score": 6
+  },
+  {
+   "title": "DWV fordert Anschubfinanzierung für Wasserstoffspeicher",
+   "titleEn": "DWV calls for start-up financing for hydrogen storage",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVVwc2xfNW1FV1RMQzg2YUJTSHZkbzlySEMxTjl2ZG5NY2IyNFFMNFg4cThFRzlVY3BOWGVRdlZPTE1RajlCMkl6THFOLTgwa2hzbzlMWVVtM3FFZWppNkRES2N2aDB3NFA1MFUwOG1ZNXZRN2szMEtjSWE3OVhsblQyWlpsaENSVFNJT0ppenNIcG5Ob2d5NDB5bUc2VF9HOUJfVA?oc=5",
+   "date": "2026-10-22T10:01:00.000Z",
+   "source": "energate messenger+",
+   "origin": "energate messenger+",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Aenergate-messenger.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "score": 3
+  },
+  {
+   "title": "KBR Awarded Contracts for AGF Nitrogen’s Ammonia Plant Revamps in Germany and Austria",
+   "lang": "en",
+   "summary": "KBR will support the revamp of two ammonia plants utilizing the company's industry-leading ammonia technology and proven revamp capabilities.",
+   "link": "https://www.globenewswire.com/news-release/2026/10/22/3386119/0/en/kbr-awarded-contracts-for-agf-nitrogen-s-ammonia-plant-revamps-in-germany-and-austria.html",
+   "date": "2026-10-22T10:00:00.000Z",
+   "source": "GlobeNewswire (press releases)",
+   "origin": "GlobeNewswire (press releases)",
+   "image": "https://www.globenewswire.com/RssFeed/keyword/ammonia",
+   "topic": "Offtake & Supply",
+   "region": "Germany",
+   "score": 4
+  },
+  {
+   "title": "Stiesdal brings upgraded 6.5-MW electrolyser online for European Energy",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlpIUjdoSzliVEdoRGNFSXZNeUZfMDA5NjQxdTl1cEZXTkZmSHh0aWNHU3I1NmhfNTJRVXVDa3RpQUxCSmhOd0c0Y2ZjZDR5YTk1LU9TZmd1R09rY29nb0x0VGsyZTdxbmFwV19tQkFzTDl4cExhVEdxZnExbU9KNWdMcDJwZWVhUjQxRTc3T0JFb2lRMV9jTVliaVJUb3FCMFRZNm5ybGNOdlVyQlVfMg?oc=5",
+   "date": "2026-10-22T09:59:01.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Arenewablesnow.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "score": 7
+  },
+  {
+   "title": "OMV begins electrolyser installation at 140MW Austrian hydrogen project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzlNVnA0enZ0VG1HVzBsYXRmS3oxU21pMDd3WFN0aGpCZGEzNVREd2E1VmhyVGRLbHNYNGplSmNycFFMeFd1T2NtaXNNdFJVaEZxME92MEoxSnVTTFBXYXF6VGJNRm5rUTI1TkFRSUdib2p3c1VWcnd6NEp2ZEFPal96SXpZc2t3dWJfaENiQ1RJbDVPb0JoR0dlV0Nvalh5cXZJNUl5N3NaVmFyRW55cjU1V0c2NlFhaHM4?oc=5",
+   "date": "2026-10-22T09:58:54.000Z",
+   "source": "gasworld",
+   "origin": "Deal search: refineries and industry",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20eSAF%20OR%20%22e-SAF%22%20OR%20%22e-fuels%22%20OR%20%22synthetic%20fuel%22%20OR%20ammonia%20OR%20%22e-methanol%22%20OR%20electrolyser%20OR%20electrolyzer)%20(refinery%20OR%20refineries%20OR%20steelmaker%20OR%20%22steel%20plant%22%20OR%20%22chemicals%22)%20(contract%20OR%20agreement%20OR%20investment%20OR%20project%20OR%20order)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "score": 9
+  },
+  {
+   "title": "Maersk Tankers lines up EU backing for four VLAC ammonia conversions",
+   "lang": "en",
+   "summary": "Danish shipowner Maersk Tankers has moved closer to converting four very large ammonia carriers to run on the cargo they transport after its retrofit proposal was selected for support under the European Union’s Innovation Fund. The project, known as RIPPLE, involves installing dual-fuel, two-stroke ammonia engines on f",
+   "link": "https://splash247.com/maersk-tankers-lines-up-eu-backing-for-four-vlac-ammonia-conversions/",
+   "date": "2026-10-22T09:30:00.000Z",
+   "source": "Splash247",
+   "origin": "Splash247",
+   "image": "https://splash247.com/wp-content/uploads/2026/10/Maersk-Tankers.jpg",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Other Europe",
+   "score": 5
+  },
+  {
+   "title": "Hydrogen News: Kawasaki Launches Construction of 50-Tonne-Per-Day Green Hydrogen Liquefaction Plant",
+   "lang": "en",
+   "summary": "Kawasaki Heavy Industries has started construction on a 50 tonnes per day hydrogen liquefaction plant at Ogishima, part of a NEDO-backed demonstration to advance Japan’s integrated liquefied-hydrogen supply chain.",
+   "link": "http://hydrogenfuelnews.com/hydrogen-news-kawasaki-launches-construction-of-50-tonne-per-day-green-hydrogen-/8576927/",
+   "date": "2026-10-22T09:11:08.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1792660267528.jpeg",
+   "topic": "Other Hydrogen News",
+   "region": "Asia-Pacific",
+   "score": 8
+  },
+  {
+   "title": "Hydrogen Energy News: Plug Power Reports Preliminary Cash Usage Decline and Names PEM Industrialization Lead",
+   "lang": "en",
+   "summary": "Plug Power reported preliminary Q3 net cash usage of approximately $28 million and appointed Dr. Lee Sweetland to lead PEM stack industrialization ahead of its early November earnings call.",
+   "link": "http://hydrogenfuelnews.com/hydrogen-energy-news-plug-power-reports-preliminary-cash-usage-decline-and-names/8576926/",
+   "date": "2026-10-22T09:08:38.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1792665380795.jpeg",
+   "topic": "Investments & FIDs",
+   "region": "North America",
+   "score": 5
+  },
+  {
+   "title": "Maersk Tankers wins EU funding to retrofit VLACs for ammonia power",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUJQZ194VHViQWx6WThsUjRibWhaUFhGZlBGZWIwNXhRWjdzYVFzd0hHSHlxSXBLX3RKVkZtdU9OYjV2ZENPOGFwdG1PZjNES0FLMlhpZS1taWdUN05tdFdKTHFTZzE3OXN1bnJ4QmlGN056eEVFNFJtSzBwd2FSYm14SzJEYl82LWZXZlhaeWxmWW1RYVdWNFRyQ180YTdvdHZfS29xWVZQR1NzelRqRnRzRnluYW96?oc=5",
+   "date": "2026-10-22T08:43:05.000Z",
+   "source": "TradeWinds",
+   "origin": "TradeWinds",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Atradewindsnews.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "score": 5
+  },
+  {
+   "title": "Greenzo Energy raises Rs 1.3 billion to expand green hydrogen electrolyser manufacturing",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWhOU3Q3WHI3TU1COWV0M2UwS0JuLW5YQlJydG5BMVpxS21xWmJMY1hxUXo3Y1B3d1RYZ2VZVktSdU1RT19CZ1ZfbVdKalF1a1M3RmQ4MVFTZ0dkeWJ5ckM1Y2FTckktUnppUmVPY0xqWVpNNDh3OVRMSnlIXzZrRDlGTE4xT19qMlJqY0gtcDBneXptMkV6YmNfcllVQ3FXd1lnUFkwbzdvaWJwdmhoajJXeUQweVVyMEM4aEJSWnR6TThqV3c?oc=5",
+   "date": "2026-10-22T08:39:42.000Z",
+   "source": "Renewable Watch",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 9
+  },
   {
    "title": "Eastern Pacific Shipping names world’s first ammonia dual-fuelled VLAC",
    "lang": "en",
@@ -93,6 +252,20 @@
    "score": 3
   },
   {
+   "title": "Zwei Jahre Wasserstoff-Kernnetz: Aus dem Plan entsteht ein Netz",
+   "titleEn": "Two years of the hydrogen core network: The plan creates a network",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWNwakl4WXBUbTBsOHB1U2JoVFpPbU93VUZCbDJHMElpWGZlMFVKeDM1aGVhRjZZcDJQYlllSmNUSWhIdU5pSndEbWtJRVhyaEtXWTZqaTdrT25CTmZPckNTbGhZUWl3UzNWZVd3RWNPLTVGQl94OW1ZZDRWM1VRWnJQaXR6U05lN2xrbUozaUpwMlpTOXAtc0pVLTRScTd5WGVzYmlhZ29US0hkSGZnbExIbmNWM251dEtrbjVDa2pMTThr?oc=5",
+   "date": "2026-10-21T22:00:00.000Z",
+   "source": "Tagesspiegel",
+   "origin": "Tagesspiegel",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Atagesspiegel.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "score": 6
+  },
+  {
    "title": "Das Kernnetz wird 2 : Das Potenzial für den Wasserstoffhochlauf ist groß, die Unterstützung zu klein",
    "titleEn": "The core network becomes 2 : The potential for hydrogen run-up is large, the support too small",
    "lang": "de",
@@ -117,6 +290,32 @@
    "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Ahydrogeninsight.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
    "topic": "Investments & FIDs",
    "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "Blue Ammonia: Woodside Scales Back Investment in Beaumont New Ammonia Project",
+   "lang": "en",
+   "summary": "Woodside Energy has launched a formal process to cut its stake in the Beaumont New Ammonia project in Texas after a strategic review highlighted weaker-than-expected operations, a 30-day shutdown and delayed commissioning of hydrogen and CCS infrastructure.",
+   "link": "http://hydrogenfuelnews.com/blue-ammonia-woodside-scales-back-investment-in-beaumont-new-ammonia-project/8576921/",
+   "date": "2026-10-21T20:12:15.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1792665235982.jpeg",
+   "topic": "Investments & FIDs",
+   "region": "North America",
+   "score": 9
+  },
+  {
+   "title": "TK Nucera stock holds steady after guidance cut and EU hydrogen auction impact",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTWhkMG91bUc1YXBqZkRsTmpDOFBOMXNoLXpiekdMTzFpREFYZllwa3RkMVZwX1BBWFNpMVFoTW5JaHBCRlAtX3UtTDBibHVLelZaMlFRcGFDVTU0Z2I3RkZObVJIU3F0SG81R1V6STFFbjRpSE1WNlI0U3hXclo2TzZESHNXcGVlN1BuU3dJOFR5TGJzdVljNVhQSm5RYjZ0SUVFa0M0X3FSRGlGQmJfV1BiSzZ6bXdSdXR5Zm5rVWpaMEVMdHUtSXprMXlkaEo1b1JTWlVBVkY?oc=5",
+   "date": "2026-10-21T16:55:19.000Z",
+   "source": "AD HOC NEWS",
+   "origin": "Deal search: policy and auctions",
+   "image": "https://news.google.com/rss/search?q=hydrogen%20(%22carbon%20contracts%20for%20difference%22%20OR%20%22hydrogen%20bank%22%20OR%20RFNBO%20OR%20H2Global%20OR%20auction%20OR%20%22state%20aid%22%20OR%20%22Wasserstoffbank%22)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Policy & Auctions",
+   "region": "Other Europe",
    "score": 5
   },
   {
@@ -356,6 +555,32 @@
    "topic": "Offtake & Supply",
    "region": "UK & Ireland",
    "score": 11
+  },
+  {
+   "title": "Hamburg Refinery to Tap HH-WIN Hydrogen Network for Green Diesel Production",
+   "lang": "en",
+   "summary": "HOLBORN Europa Raffinerie and Hamburger Energienetze have agreed to plan a hydrogen pipeline connection for Green Diesel and SAF production at the Hamburg-Harburg refinery from 2028, providing HH-WIN with a key anchor offtake amid Hamburg’s hydrogen infrastructure build-out.",
+   "link": "http://hydrogenfuelnews.com/hamburg-refinery-to-tap-hh-win-hydrogen-network-for-green-diesel-production/8576919/",
+   "date": "2026-10-21T07:13:44.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1792566823300.jpeg",
+   "topic": "Offtake & Supply",
+   "region": "Germany",
+   "score": 10
+  },
+  {
+   "title": "Enapter Secures First Saudi Order for 240 kW Multicore AEM Electrolyzer",
+   "lang": "en",
+   "summary": "Enapter AG’s Italian subsidiary has secured its first Saudi order for a 240 kW multicore AEM electrolyzer, marking its entry into the Kingdom’s industrial-gas market.",
+   "link": "http://hydrogenfuelnews.com/enapter-secures-first-saudi-order-for-240-kw-multicore-aem-electrolyzer/8576918/",
+   "date": "2026-10-21T07:10:47.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1792666592032.jpeg",
+   "topic": "Policy & Auctions",
+   "region": "Middle East",
+   "score": 9
   },
   {
    "title": "ANALYSIS | Japan’s massive hydrogen production subsidies will not be enough to build a large-scale industry",
@@ -636,6 +861,19 @@
    "topic": "Policy & Auctions",
    "region": "Germany",
    "score": 10
+  },
+  {
+   "title": "NTPC Seeks Overseas Buyers in Japan, South Korea and Germany",
+   "lang": "en",
+   "summary": "NTPC is holding exploratory talks with buyers in Japan, South Korea and Germany for green ammonia exports from its proposed Pudimadaka hub. The integrated facility aims for 20 GW of renewables, 1,500 t/day of hydrogen electrolysis and downstream ammonia and methanol synthesis, but needs firm contracts and financing to ",
+   "link": "http://hydrogenfuelnews.com/green-hydrogen-production-ntpc-seeks-overseas-buyers-in-japan-south-korea-and-ge/8576916/",
+   "date": "2026-10-20T05:13:50.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1792666864598.jpeg",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "score": 8
   },
   {
    "title": "China Moves to Curb Hydrogen Overcapacity as Investment Surges",
@@ -1172,6 +1410,19 @@
    "topic": "Investments & FIDs",
    "region": "Global",
    "score": 8
+  },
+  {
+   "title": "Kakinada Green Ammonia Plant Secures $100 Million ADB-Backed Loan",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1Z6ZWdOQlBLS1p0R0ZlalZZYzVxc0VuV2U2ZFBRcm8xWnNyRjdfLUhvZUdGRm9Cbld5RmJjdjJIeXJGdmNzSU1hLUtVckdxaXlqM2h1eElLLXVhZUpEanlYTG05ZE55OUU1QkdOa1BjUjltV1lXNm5paFNvd0VNYkZTNWxWQkRVUndfVzlQNTE?oc=5",
+   "date": "2026-10-16T14:05:04.000Z",
+   "source": "Urban Acres",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 7
   },
   {
    "title": "ADB and Japan Back AM Green’s 1.1-Million-Tonne Green Ammonia Plant with $100M Loan",
@@ -1880,7 +2131,7 @@
    "date": "2026-10-14T07:36:12.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
-   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF)%20site%3Ahydrogeninsight.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Ahydrogeninsight.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
    "topic": "Investments & FIDs",
    "region": "Benelux",
    "score": 9
@@ -1950,6 +2201,19 @@
    "topic": "Investments & FIDs",
    "region": "Global",
    "score": 16
+  },
+  {
+   "title": "H2Accelerate Calls for Combined EU Hydrogen Funding",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcGVWblR4SkFjV0ZNQWQ0NWFrSlRHWVRvS0R3dldkNFRzRlNzNUd3aDF3Q0hQcW55czk1bVRFY0d4dmw0eWYwSWFCSW9QbXYwaDVLN3BjeHdkSXRQb1JhRlFBT0FxZFVDc20teUpSbGdPSUlveVZrREV6UlBhRjZLVUl3UURtZXp0alR4TGtVWXFWR0ZjVm8tc3V3QldxTFAyZHktdWFUeFZzWEtISF9IbENKdU5HNE5ydGdlY2dUd3RhYW4tS25nRGlEZWVpQQ?oc=5",
+   "date": "2026-10-13T15:36:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "score": 5
   },
   {
    "title": "Hydropulse signs agreement for green hydrogen project with European oil refinery",
@@ -2467,12 +2731,12 @@
    "title": "Tesa bezieht Wasserstoff von EWE aus Emden",
    "titleEn": "Tesa obtains hydrogen from ewe in Emden",
    "lang": "de",
-   "summary": "Der Energieversorger EWE AG und der Klebeband-Hersteller Tesa SE haben Anfang Oktober einen Liefervertrag über jährlich 500 Tonnen erneuerbaren Wasserstoff unterzeichnet. Ab 2028 soll der H2 aus Emden das Tesa Werk Hamburg versorgen und die CO2-Emissionen dort um rund 6.000 Tonnen pro Jahr senken. Eingesetzt werden sol",
+   "summary": "Der Energieversorger EWE AG und der Klebeband-Hersteller Tesa SE haben Anfang Oktober einen Liefervertrag über jährlich 500 Tonnen erneuerbaren Wasserstoff unterzeichnet. Ab 2028 soll der H2 aus Emden das Tesa Werk Hamburg versorgen und die CO2 <div class=\"relative flex w-full flex-1 overflow-x-hidden overflow-y-scroll",
    "link": "https://h2-news.de/wirtschaft-unternehmen/tesa-bezieht-wasserstoff-von-ewe-aus-emden/",
    "date": "2026-10-12T05:31:57.000Z",
    "source": "H2 News Germany",
    "origin": "H2 News Germany",
-   "image": "https://h2-news.de/feed/",
+   "image": "https://h2-news.de/wp-content/uploads/2024/10/Co2.jpg",
    "topic": "Offtake & Supply",
    "region": "Germany",
    "score": 8
@@ -2503,6 +2767,20 @@
    "topic": "Production & Technology",
    "region": "Global",
    "score": 4
+  },
+  {
+   "title": "Wasserstoff: Speicher im Fels brauchen mehr als dicke Wände, um dicht zu sein",
+   "titleEn": "Hydrogen: Storage in the rock needs more than thick walls to be tight",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMG5LZWhzUUNXWVVkSDYxN1lSUG1TNFE4SXMwLWg5Z1BNZ2dMRi03NTJTRW9uc09WbGR5RjgyZ2xxNE1jMGRXY3VUV1dxTXZGYVJhTy01Z0NnM3NDWl9XTFNVMW4wMnpzSk5iTFBxbXZjcWo2Vzh5cmNxY0tOeVpBb3dTX0I0aEt4dlEwUHpoWERuU3BOaVc0djIwXzBzdE5NcE1PWldmUUZTcV93M2I5QkpDUXRiWmUxNVg5LUJYaw?oc=5",
+   "date": "2026-10-11T07:00:00.000Z",
+   "source": "ingenieur.de",
+   "origin": "ingenieur.de",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Aingenieur.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "score": 3
   },
   {
    "title": "Daimler Truck investiert groß in Wasserstoff-Lkw",
@@ -2701,6 +2979,20 @@
    "source": "ZfK",
    "origin": "ZfK",
    "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Azfk.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "score": 8
+  },
+  {
+   "title": "Verbund und EWE planen 500-MW-Wasserstoff-Projekt",
+   "titleEn": "Verbund and ewe plan 500 MW hydrogen project",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmpYbXNoMGQ3bzNTZTZQb1FTTGdabHJ5T2FLT3lkMTlMSmxBRnBDN0xKQjNWcmNQNnN2bEZlbzVWd1VHOEkxRS1Tem1jSFpzVDFUdVFwQlowWUZRNHpLbFVUUDdVeVB5U3RMOVdyTThLM1I4Z2NNMVJqWUZDX3RXT1lBcFp5TkJzVGo3YjRDSnlBMWJaRFZDY0wydw?oc=5",
+   "date": "2026-10-09T07:00:00.000Z",
+   "source": "Energynewsmagazine",
+   "origin": "Deal search: project milestones (DE)",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF)%20(Spatenstich%20OR%20Baubeginn%20OR%20Inbetriebnahme%20OR%20eingeweiht%20OR%20gr%C3%B6%C3%9Fte%20OR%20gr%C3%B6%C3%9Ften)%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
    "topic": "Production & Technology",
    "region": "Global",
    "score": 8
@@ -3393,19 +3685,6 @@
    "score": 11
   },
   {
-   "title": "Plug Power to Supply 280 MW Electrolyzers for Arcadia eFuels’ Danish Power-to-Liquid Facility",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVlVNzdoOXVyZWF3ejI5aU05WWhXOEFqN0F6OGJUTjU1TjU0RjVtaThFdV94bUpfSTljN05zUmFJQ2dfV0JMRHhPTzhJeUVaZjA4cWVPMlA3N2Y3NVZ2U3lHWjZJS011d3NWUDVPU0RjeHVpcXRSOWNPUmo2MUM4RjFWZ0lrNWVyRGtGSTdQdGlKZ2I4eHRMem1UdHFBdjFUTmt5aGMxcThQajJZaDVaYXB2UE1aMl9oR1kzMmdaZw?oc=5",
-   "date": "2026-10-06T07:00:00.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Deal search: eSAF and aviation fuel",
-   "image": "https://news.google.com/rss/search?q=(eSAF%20OR%20%22e-SAF%22%20OR%20%22power-to-liquid%22%20OR%20%22synthetic%20aviation%20fuel%22%20OR%20%22synthetic%20jet%20fuel%22)%20(offtake%20OR%20agreement%20OR%20investment%20OR%20plant%20OR%20mandate%20OR%20contract)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "score": 9
-  },
-  {
    "title": "Alquion neemt fid voor bouw flexibele elektrolyser van 500 kW bij Nyrstar",
    "titleEn": "Alquion takes fid for construction flexible electrolyser of 500 kW at Nyrstar",
    "lang": "nl",
@@ -3416,6 +3695,19 @@
    "origin": "Deal search: Netherlands (NL)",
    "image": "https://news.google.com/rss/search?q=(waterstof%20OR%20elektrolyser%20OR%20ammoniak%20OR%20eSAF)%20(investeringsbeslissing%20OR%20subsidie%20OR%20contract%20OR%20overeenkomst%20OR%20miljoen%20OR%20miljard%20OR%20fabriek)%20when%3A30d&hl=nl&gl=NL&ceid=NL:nl",
    "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 9
+  },
+  {
+   "title": "Plug Power to Supply 280 MW Electrolyzers for Arcadia eFuels’ Danish Power-to-Liquid Facility",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVlVNzdoOXVyZWF3ejI5aU05WWhXOEFqN0F6OGJUTjU1TjU0RjVtaThFdV94bUpfSTljN05zUmFJQ2dfV0JMRHhPTzhJeUVaZjA4cWVPMlA3N2Y3NVZ2U3lHWjZJS011d3NWUDVPU0RjeHVpcXRSOWNPUmo2MUM4RjFWZ0lrNWVyRGtGSTdQdGlKZ2I4eHRMem1UdHFBdjFUTmt5aGMxcThQajJZaDVaYXB2UE1aMl9oR1kzMmdaZw?oc=5",
+   "date": "2026-10-06T07:00:00.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Deal search: eSAF and aviation fuel",
+   "image": "https://news.google.com/rss/search?q=(eSAF%20OR%20%22e-SAF%22%20OR%20%22power-to-liquid%22%20OR%20%22synthetic%20aviation%20fuel%22%20OR%20%22synthetic%20jet%20fuel%22)%20(offtake%20OR%20agreement%20OR%20investment%20OR%20plant%20OR%20mandate%20OR%20contract)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Ammonia & e-Fuels",
    "region": "Global",
    "score": 9
   },
@@ -3457,6 +3749,19 @@
    "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Awindbranche.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
    "topic": "Production & Technology",
    "region": "Global",
+   "score": 6
+  },
+  {
+   "title": "Developer pulls winning green hydrogen project from German subsidy scheme, and immediately wins higher bid",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUnZfT3JlR2ptTXpJbmNpYXlUTFRpQVQxRUxmTThROVFCYTRTNWNFNnFjRE5ua2dwOGgtVmtCRkFZVHhscTdJX1dqMGlGQThoLVFncXhUdmRVT1NBMElNenhTcHAwdkZDMlM0dEFYa1QwYzI5cGhhd21PX2RCZGRnMWMtTHlscGJtRVJ6OTBNbXA3eks0eXM5bVZUaGtjdjItaGRNVUxseGg1S2JFSUdQRGt5UU9ISU14VlVFNlBuM3R0NDlDVDdYcFd1ajNLSTRjSWRFMEVmMm0zSEY2YnB2VURKYjlueUJCVVZLdQ?oc=5",
+   "date": "2026-10-06T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Deal search: policy and auctions",
+   "image": "https://news.google.com/rss/search?q=hydrogen%20(%22carbon%20contracts%20for%20difference%22%20OR%20%22hydrogen%20bank%22%20OR%20RFNBO%20OR%20H2Global%20OR%20auction%20OR%20%22state%20aid%22%20OR%20%22Wasserstoffbank%22)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
    "score": 6
   },
   {
@@ -3806,6 +4111,19 @@
    "topic": "Production & Technology",
    "region": "Global",
    "score": 7
+  },
+  {
+   "title": "Erstes Großprojekt dieser Art: BMW-Werk Leipzig bekommt Anschluss ans Wasserstoff-Kernnetz",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmluZnVJVDRrTENRbGZ3NmJ5OC05djYxUmxMN3dPdTVJN2pGQW9adElEbHNHLThSZFZ2T2RhdTJ6OXZtcThERkVnYW5iLV9SVS00b0ExM2VtXzJTaFluSEJWajdYQmxTNV9IMUxQd2I1MFlybnBJZk94VUJUNWNBbUFVa1V0NDZTcklOQUdUUU1XN3dtWVNBOEdSSmlHUVIxZjkxX1NOVlVsemhXb3d1bmRfVQ?oc=5",
+   "date": "2026-10-03T07:00:00.000Z",
+   "source": "Leipziger Zeitung",
+   "origin": "Deal search: project milestones (DE)",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF)%20(Spatenstich%20OR%20Baubeginn%20OR%20Inbetriebnahme%20OR%20eingeweiht%20OR%20gr%C3%B6%C3%9Fte%20OR%20gr%C3%B6%C3%9Ften)%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "score": 6
   },
   {
    "title": "Lithuanian gas pipeline operator secures state approval to spend €1.2bn on hydrogen infrastructure",
@@ -4499,6 +4817,19 @@
    "score": 7
   },
   {
+   "title": "Denmark boosts support for H2 pipeline to Germany by EUR 750m",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFJWM1lKcEZPYzdPOG44eVo0Y0d0VUhBem9LWG8tVkthZTFuQklTaTdnYUo0QmFLR0lxQkFNcUhDZXVvdHZJUWR3elRpWEVHdVB4cmhtdzhhOE1mb045OHVCNEJubWhNSkZ6Zy1LMTgzYm02UHU3V0EyWFAzd0s5S084a040THdhSzRFNVFKdDZac1NCMmVmZVloSFBGQ2xlS3hZ?oc=5",
+   "date": "2026-09-30T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Arenewablesnow.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "score": 6
+  },
+  {
    "title": "Nel ASA: Secures additional orders for submarine PEM electrolyser stacks",
    "lang": "en",
    "summary": "",
@@ -4522,19 +4853,6 @@
    "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
    "topic": "Policy & Auctions",
    "region": "Asia-Pacific",
-   "score": 6
-  },
-  {
-   "title": "Denmark boosts support for H2 pipeline to Germany by EUR 750m",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFJWM1lKcEZPYzdPOG44eVo0Y0d0VUhBem9LWG8tVkthZTFuQklTaTdnYUo0QmFLR0lxQkFNcUhDZXVvdHZJUWR3elRpWEVHdVB4cmhtdzhhOE1mb045OHVCNEJubWhNSkZ6Zy1LMTgzYm02UHU3V0EyWFAzd0s5S084a040THdhSzRFNVFKdDZac1NCMmVmZVloSFBGQ2xlS3hZ?oc=5",
-   "date": "2026-09-30T07:00:00.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF)%20site%3Arenewablesnow.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
    "score": 6
   },
   {
@@ -5406,6 +5724,19 @@
    "score": 5
   },
   {
+   "title": "Sungrow Hydrogen to supply Poland’s largest PEM electrolyser system",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG5yT19KWExqSDUxTWVxenZhUFRmc2NFQTF3OC1UUGpTdnRzM2QtOV94LVpMeFpMQ2lIQmI1d3pKZlROS3VuQmc3Xzgza28wbnQ3U09GSXZlZThWTUQ1amxZRG9sd0tTUldwLWxURlFRR0lSZGdsMGt2alB5WTB5eGZWYkFFSG4zbjJXTkk0R1NJXzg0TGk2emFkRXd5QU13WkVibWVrd2g?oc=5",
+   "date": "2026-09-25T07:00:00.000Z",
+   "source": "Green Building Africa",
+   "origin": "Deal search: project milestones",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20eSAF%20OR%20electrolyser%20OR%20%22green%20ammonia%22)%20(groundbreaking%20OR%20%22construction%20begins%22%20OR%20%22construction%20starts%22%20OR%20%22starts%20construction%22%20OR%20inaugurated%20OR%20commissioned%20OR%20largest)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "score": 5
+  },
+  {
    "title": "INTERVIEW | Here’s why the AI boom is negatively impacting green hydrogen projects",
    "lang": "en",
    "summary": "",
@@ -5430,19 +5761,6 @@
    "topic": "Other Hydrogen News",
    "region": "Other Europe",
    "score": 3
-  },
-  {
-   "title": "Sungrow Hydrogen to supply Poland’s largest PEM electrolyser system",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG5yT19KWExqSDUxTWVxenZhUFRmc2NFQTF3OC1UUGpTdnRzM2QtOV94LVpMeFpMQ2lIQmI1d3pKZlROS3VuQmc3Xzgza28wbnQ3U09GSXZlZThWTUQ1amxZRG9sd0tTUldwLWxURlFRR0lSZGdsMGt2alB5WTB5eGZWYkFFSG4zbjJXTkk0R1NJXzg0TGk2emFkRXd5QU13WkVibWVrd2g?oc=5",
-   "date": "2026-09-25T02:30:56.000Z",
-   "source": "Green Building Africa",
-   "origin": "Deal search: project milestones",
-   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20eSAF%20OR%20electrolyser%20OR%20%22green%20ammonia%22)%20(groundbreaking%20OR%20%22construction%20begins%22%20OR%20%22construction%20starts%22%20OR%20%22starts%20construction%22%20OR%20inaugurated%20OR%20commissioned%20OR%20largest)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "score": 5
   },
   {
    "title": "Germany leads €2.1bn push to unlock e-SAF investment",
@@ -6038,6 +6356,19 @@
    "score": 6
   },
   {
+   "title": "Cefmof Hydrogen invests in carbon-to-syngas start-up Reduciner",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkl1ZUZWYjlpRzdwWWk0Zkk4V3dWMlJaOFRiVEhCa01UZlczU3l0NXo1dmxjNk5Gb0VGeHlJTmN6Z1JWbGZDR3l1WmRLbkgwaFZFSmctMm9oVmp4bzFXWE1PeVBjb3VOYjd3RXl3SEF0NEpYMHY3UU00MVJVVnBSYUcwalFwRF9YNU9zQVlpOXEzVkQ3R08wWHhFYl80b2xfc3pYbg?oc=5",
+   "date": "2026-09-23T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Arenewablesnow.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 5
+  },
+  {
    "title": "Uniper locks in 40,000 tonnes per year of e-SAF for over a decade",
    "lang": "en",
    "summary": "",
@@ -6093,7 +6424,7 @@
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 4,
+   "shown": 10,
    "status": "ok",
    "error": ""
   },
@@ -6112,12 +6443,12 @@
   {
    "name": "Hydrogen Tech World",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "The operation was aborted due to timeout"
   },
   {
    "name": "H2 News Germany",
-   "shown": 14,
+   "shown": 15,
    "status": "ok",
    "error": ""
   },
@@ -6381,7 +6712,7 @@
   },
   {
    "name": "Splash247",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -6507,7 +6838,7 @@
   },
   {
    "name": "GlobeNewswire (press releases)",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -6567,7 +6898,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 26,
+   "shown": 28,
    "status": "ok",
    "error": ""
   },
@@ -6591,7 +6922,7 @@
   },
   {
    "name": "energate messenger+",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -6789,7 +7120,7 @@
   },
   {
    "name": "Tagesspiegel",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -6855,7 +7186,7 @@
   },
   {
    "name": "Energie & Management",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -6873,7 +7204,7 @@
   },
   {
    "name": "ingenieur.de",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -6927,13 +7258,13 @@
   },
   {
    "name": "Investing.com",
-   "shown": 12,
+   "shown": 13,
    "status": "ok",
    "error": ""
   },
   {
    "name": "TradeWinds",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -7035,7 +7366,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 8,
+   "shown": 9,
    "status": "ok",
    "error": ""
   },
@@ -7047,7 +7378,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 35,
+   "shown": 38,
    "status": "ok",
    "error": ""
   },
@@ -7059,7 +7390,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 15,
+   "shown": 17,
    "status": "ok",
    "error": ""
   },
@@ -7095,7 +7426,7 @@
   },
   {
    "name": "Deal search: project milestones (DE)",
-   "shown": 2,
+   "shown": 4,
    "status": "ok",
    "error": ""
   }
