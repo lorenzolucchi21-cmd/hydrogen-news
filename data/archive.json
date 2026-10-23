@@ -1,6 +1,87 @@
 {
- "generatedAt": "2026-10-23T08:40:59.533Z",
+ "generatedAt": "2026-10-23T13:22:24.975Z",
  "articles": [
+  {
+   "title": "Hydrogen Gas Turbine Market Gains Momentum as US$105 Million",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWS1rbDVGVGNvUDdFbEVvanNTNWc0eFc1SGljcnVOSWpBS2h1dFg5bDN5dUUtSHdzSFo5NDhLQnhmN3JFbTJESXZrVXd3TkVuMGJvUDNQdGFXWlp3WXZySzF0R1c0R1ZMeUZwU2VOYmxsY1gzMXRBNUdoWjhfWVJZMklSd3NVZ3BZOXlBTkxheFlSV1gyc2M0eUJlbVg?oc=5",
+   "date": "2026-10-23T13:08:00.000Z",
+   "source": "openPR.com",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 7
+  },
+  {
+   "title": "DECHEMA: Scale-Up Elektrolyseure – vom Labormaßstab zur Produktion",
+   "titleEn": "DECHEMA: Scale-up electrolyzers - from laboratory scale to production",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUgtaUVYVU5tZEFxQUx1b3A1RTJkbm04NFM2ZEw3djdjVW5iZlBQZVRQS3hWeUYtQUZBS01TZjhYWUItSnBOeVdXcHp2ZDd0cUxCNFRRb0syRWhlMVBMZHItajN6SXlJbEw3RzZfMXJ4WjAyQ3lwQkV5ZS1QeU5Cb194MFpXQmNRNVFvdnlCMWxkYllPTlJV?oc=5",
+   "date": "2026-10-23T12:26:07.000Z",
+   "source": "H2 News Germany",
+   "origin": "H2 News Germany",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Ah2-news.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "score": 4
+  },
+  {
+   "title": "Hydrogen station builder Resato declared bankrupt",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGRzbTczRGZBaHBjM0djY19fUlFfZDFidkNzUGxodXhvSzVTM2tGendBUWJtdkV1b1RkNFdsVFRVc3lMaFJBR1NuUEJVX2hUT1ZGcXhGT2xmOTZxQnBETXM3TmtwWXJkc0F6THNtQnVVV3QzTjlaQV9nbnp0NEFWN0RIYTkyWE95YS1PLQ?oc=5",
+   "date": "2026-10-23T11:58:10.000Z",
+   "source": "Mobility Plaza",
+   "origin": "Deal search: cancellations and delays",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20%22green%20ammonia%22%20OR%20eSAF)%20(cancels%20OR%20cancelled%20OR%20scrapped%20OR%20scraps%20OR%20delays%20OR%20withdraws%20OR%20insolvency%20OR%20bankruptcy%20OR%20%22pulls%20out%22%20OR%20shelved)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "Zwei Jahre Wasserstoff-Kernnetz: Aus dem Plan entsteht ein Netz",
+   "titleEn": "Two years of the hydrogen core network: The plan creates a network",
+   "lang": "de",
+   "summary": "Am zweiten Jahrestag der Genehmigung des bundesweiten Wasserstoff-Kernnetzes ziehen die deutschen Fernleitungsnetzbetreiber eine positive Zwischenbilanz. Die ersten Industriekunden sind angeschlossen, 537 Kilometer Wasserstoffleitungen sind in Betrieb – und bis Ende 2027 kommen weitere 900 km hinzu.",
+   "link": "https://www.pv-magazine.de/unternehmensmeldungen/zwei-jahre-wasserstoff-kernnetz-aus-dem-plan-entsteht-ein-netz/",
+   "date": "2026-10-23T11:52:48.000Z",
+   "source": "pv magazine Germany",
+   "origin": "pv magazine Germany",
+   "image": "https://www.pv-magazine.de/?s=wasserstoff&feed=rss2&paged=2",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "score": 7
+  },
+  {
+   "title": "FNB Gas zieht Bilanz: erste Industriekunden ans H2-Kernnetz angeschlossen",
+   "titleEn": "FNB Gas takes stock: first industrial customers connected to the H2 core network",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSktzWXNCTUhraE51Z0VWc1YxS1ZRVGphQ3daZ1FxbTNzaWFSdGdWeWhtTE16YkV2a3RoY3ZlYmdOLTdBX2k1cE04bmxYVjJHY0x6VkxPRUlpaWRuMUtWSjhkcXhkUW1ld0hPcWdGTjBfSnkzMnk0aDBJUk9VR0ZZSGVkdUZfclA2SjBWSmh6dEVIWFR6c3BmZnhKY2ZLTzhLY2did3pGaE5xRTJibzlyazlrN29laVU?oc=5",
+   "date": "2026-10-23T10:15:06.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Ahzwei.info%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "score": 5
+  },
+  {
+   "title": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use",
+   "lang": "en",
+   "summary": "Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects. The post The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use appeared",
+   "link": "https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/",
+   "date": "2026-10-23T10:07:42.000Z",
+   "source": "pv magazine",
+   "origin": "pv magazine",
+   "image": "https://www.pv-magazine.com/feed/",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "score": 6
+  },
   {
    "title": "Why Gold Hydrogen (ASX:GHY) Has Arranged Up to A$2 Million of Research and Development Funding for Its Natural Hydrogen Work",
    "lang": "en",
@@ -420,20 +501,6 @@
    "topic": "Investments & FIDs",
    "region": "Global",
    "score": 4
-  },
-  {
-   "title": "Zwei Jahre Wasserstoff-Kernnetz: Aus dem Plan entsteht ein Netz",
-   "titleEn": "Two years of the hydrogen core network: The plan creates a network",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWNwakl4WXBUbTBsOHB1U2JoVFpPbU93VUZCbDJHMElpWGZlMFVKeDM1aGVhRjZZcDJQYlllSmNUSWhIdU5pSndEbWtJRVhyaEtXWTZqaTdrT25CTmZPckNTbGhZUWl3UzNWZVd3RWNPLTVGQl94OW1ZZDRWM1VRWnJQaXR6U05lN2xrbUozaUpwMlpTOXAtc0pVLTRScTd5WGVzYmlhZ29US0hkSGZnbExIbmNWM251dEtrbjVDa2pMTThr?oc=5",
-   "date": "2026-10-21T22:00:00.000Z",
-   "source": "Tagesspiegel",
-   "origin": "Tagesspiegel",
-   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Atagesspiegel.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "score": 6
   },
   {
    "title": "Das Kernnetz wird 2 : Das Potenzial für den Wasserstoffhochlauf ist groß, die Unterstützung zu klein",
@@ -1247,6 +1314,19 @@
    "score": 7
   },
   {
+   "title": "AM Green Wins Germany-Backed Green Ammonia Auction With €585 Million Deal",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemF1ckFtSlVFT3FVMm1EUGxyQzFNcVh5c3paZmZKRkxxVk12TUw1WUhJZHM0T0hBSnpfekxsTXIzVVlXX01TOTUtcFlkVWllR2lhTkozdzhTelRJMVVDdEQ3NFZ5RnNJVFozbktkbU1PSmxmNzV6VWJYNktTbEN4dk9MOFMwaTRmUmMtM1E5NWNaNlNBRjd6aGdITS1kZjhQNHpDTnpoYm14dEk?oc=5",
+   "date": "2026-10-18T23:51:33.000Z",
+   "source": "India Business Trade",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "score": 12
+  },
+  {
    "title": "Construction begins on Japan's largest hydrogen liquefaction plant with a capacity of 50 tons per day",
    "lang": "en",
    "summary": "",
@@ -1795,6 +1875,19 @@
    "topic": "Production & Technology",
    "region": "Asia-Pacific",
    "score": 4
+  },
+  {
+   "title": "Linde's 24 MW Green Hydrogen Production at Leuna Faces Multi-Year Delay",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQS1Vd2hqVFMwUVZINHNxNGl6NklkZkpySXpLNzRnSzZoVUNGRlJGa0dyM0M5SS16Y0phOWp4ZkZiQXJKRGpxMDZWZ0tkZlByT2RDaTNlbFcyc0NhemcybFp0NTgwTGpQWE03cFpPSEU3U21seGlCWTBrZlg2OWRadW10VjVESlUxWV9ua2h2Wk40dEQ0LXZGM0xqcEFJZXRCaEo5LTZpY0VabFk5NmFtajZZdw?oc=5",
+   "date": "2026-10-15T02:29:14.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Deal search: cancellations and delays",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20%22green%20ammonia%22%20OR%20eSAF)%20(cancels%20OR%20cancelled%20OR%20scrapped%20OR%20scraps%20OR%20delays%20OR%20withdraws%20OR%20insolvency%20OR%20bankruptcy%20OR%20%22pulls%20out%22%20OR%20shelved)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "score": 9
   },
   {
    "title": "Gebotszonenteilung: Nördliche Stromgebotszone würde Preisanstieg durch zusätzliche Elektrolyse abfedern",
@@ -3191,6 +3284,19 @@
    "score": 6
   },
   {
+   "title": "Maharashtra’s $3-billion green ammonia project nixed over viability concerns",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1RSUzhCMXI2S2ZQeTlNUXhlUTJ5WW5raHNxRXdOT1NrRFU2TlpNWHJyemk1UG5uejBPTzUtRlVjY3h4VXNGSkFRM1R1c2pBRjBkOFU3QXlXVWVOaUF3aUloV1h4N1FSZW9oc2FPb18tSWo0aFh6MUFaT1NUQXZfMlJ2dnk0Njd5UTMxR2ExdGQ5NGxscVJGQ3lWdEs0cnB3cHVwclR5V2tXbTJTcXRrdkJIVW05VlRfMDRzTnBZa01reFpENmE0U3VFNUbSAdIBQVVfeXFMTnZpbjdNNEVXak0zU3A2cDh2YnJnY2VyOHcwYVV4cEJ5ZWhsYkVYUFp3NXA2TzlMWUNWc29nN0dXdDBza1ZEWDNYSDZxVldBeHBSeUQwTGFrX2hZWjh1Q0dNTmlVNHNoblpSRkZpRERIODhyZWFvbG5MTEpqa2phMVFjc3FzdVJSZ2dpWG54RGR0V0ZKYm5rekFhd0JwWnVMT0VNWlBpamlxSWhRTzNnRzVONjB6YXBlc19zak9OcmZ6ck9vdlhoRjJFMUduaFQ2SlNB?oc=5",
+   "date": "2026-10-08T07:00:00.000Z",
+   "source": "Moneycontrol.com",
+   "origin": "Deal search: cancellations and delays",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20%22green%20ammonia%22%20OR%20eSAF)%20(cancels%20OR%20cancelled%20OR%20scrapped%20OR%20scraps%20OR%20delays%20OR%20withdraws%20OR%20insolvency%20OR%20bankruptcy%20OR%20%22pulls%20out%22%20OR%20shelved)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "score": 6
+  },
+  {
    "title": "Netzentgeltreform - BNetzA plant eigene Systematik für Elektrolyseure",
    "titleEn": "Grid fee reform - BNetzA plans its own system for electrolyzers",
    "lang": "de",
@@ -3282,6 +3388,19 @@
    "topic": "Production & Technology",
    "region": "Global",
    "score": 4
+  },
+  {
+   "title": "How Investors Are Reacting To thyssenkrupp nucera (XTRA:NCH2) China Chlor Alkali Order",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMDZnT1Nic0V5bmdXalNHM0xsZFZfNHlBcTR0TWNzcmdfT1dIaTF2TDVrMEJUM0lfWktIekRHS3dpa0NCNHZIdzdLS1V5ZTRzcElhSlFld1l3c1BubFdPejFjU2RfQVpnN2FvNlplbzR0b1NuN3FMZXd4cFdFc1VldWFmMWV4b21zS1BCSTB4ODBhMWtrbFlkSmZ1blZaeVQ0RGRNLWMtM0htUTVfWDdZV3lRNkdVMXdsRlJONzA3TS1GWjRObW5tN1RMQjFVR1ZacTFHQXBwX2ZCa21ZaVgwbjdSNWZHSGfSAewBQVVfeXFMTzJrQW81QS1CbkZ3NDR2Und6Qm0zaFA0STUtcG1qcTdyWmFqV0YxRXdjb0tSZTNKMFBudzU1VlVkbjZQM2ZWVzVld3lSRTFFTmxGdlpKajZELVg2dFZWOVhDSnJ4U3ZRUnlmZ1BGN1ZBY3J3VDNNM0paZDdxMHNSWkpiZ2ZMTnVya1pGVWpBaHFYbjgweEJYN2x0TFBpb1lpdXZBOUlkLW9COXlPbjUzdGNKWGNCVjhlQ1pXTU9PbGZFcTJHbjMxalVMSjg3bFNwY0NOdHAyVGJFVTZtbWhob29QbEF2SVA4cnhMZy0?oc=5",
+   "date": "2026-10-07T16:44:59.000Z",
+   "source": "Simply Wall Street",
+   "origin": "Deal search: cancellations and delays",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20%22green%20ammonia%22%20OR%20eSAF)%20(cancels%20OR%20cancelled%20OR%20scrapped%20OR%20scraps%20OR%20delays%20OR%20withdraws%20OR%20insolvency%20OR%20bankruptcy%20OR%20%22pulls%20out%22%20OR%20shelved)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Asia-Pacific",
+   "score": 6
   },
   {
    "title": "Thyssenkrupp nucera to open central electrolyzer cell assembly hub in Portugal",
@@ -3377,6 +3496,19 @@
    "topic": "Production & Technology",
    "region": "Germany",
    "score": 4
+  },
+  {
+   "title": "South Korea sets out $747bn energy transition plan, with role for hydrogen in steelmaking and transport",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPell2c2k4OTVGc1RtY19HSFpkZHl1VERSWG9YelRCNTg5Qy1vV0pGN0g5aTA5bzNVSGNNZHlfYmRHU0JqWnVUZDhQeHRwaXNPbHVBYzNfc3NzMHB4b1E1enFqSXI4dmpwdThpWmtUUUJ1Y2tmeHZ0eFlrdWkyX3dUdTZCOFpHc0JpY0RjV1RqMDBUczFrUDMwM0o4VUJhNnk3ZGc4YkU1WlNqYi1GbXNTMXdjeWhoamowNUlMV21rWVlSdW9MVDQzRHI2U3FOY0xERkkxY3F4YkVnYUxnbEFBcFhCenEzVWc?oc=5",
+   "date": "2026-10-07T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Ahydrogeninsight.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "score": 8
   },
   {
    "title": "Japan’s Iwatani, Cosmo Approve $156M Hydrogen Supply Chain Project",
@@ -5733,6 +5865,19 @@
    "score": 5
   },
   {
+   "title": "Google, others back Infinium's 100,000-tpy eSAF project in Texas",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0xEZEs1MEtDWlhXYkl6UFpiNl9iREhRWUFzLTBRUTlXek5zREcwNXhBQmU0WlVGNENjRnRvcEFMWmdyY0hOMmFpa3F2LW9CaU5lODd4NXBZTGRSZnljS0c2em4tanpaVjFxU0o3UDBHOEV1Wi1SWkU2MC1KMURHWm1aZGdKN1RkcndnLWdBclNYMWpYTmF2TVhmVDF6SndGaUtQQQ?oc=5",
+   "date": "2026-09-24T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Arenewablesnow.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Aviation & e-SAF",
+   "region": "North America",
+   "score": 3
+  },
+  {
    "title": "€100 million investment: supporting hydrogen production plant of Arkema France put into operation",
    "lang": "en",
    "summary": "",
@@ -5768,12 +5913,12 @@
   {
    "name": "Hydrogen Tech World",
    "shown": 3,
-   "status": "unreachable",
-   "error": "The operation was aborted due to timeout"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "H2 News Germany",
-   "shown": 12,
+   "shown": 13,
    "status": "ok",
    "error": ""
   },
@@ -5899,13 +6044,13 @@
   },
   {
    "name": "pv magazine",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
   {
    "name": "pv magazine Germany",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -6181,7 +6326,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 48,
+   "shown": 49,
    "status": "ok",
    "error": ""
   },
@@ -6223,7 +6368,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 21,
+   "shown": 22,
    "status": "ok",
    "error": ""
   },
@@ -6445,7 +6590,7 @@
   },
   {
    "name": "Tagesspiegel",
-   "shown": 5,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -6475,7 +6620,7 @@
   },
   {
    "name": "HZwei",
-   "shown": 8,
+   "shown": 9,
    "status": "ok",
    "error": ""
   },
@@ -6703,13 +6848,13 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 38,
+   "shown": 40,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 5,
+   "shown": 9,
    "status": "ok",
    "error": ""
   },
