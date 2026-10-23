@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 
-const S = new Function(`${fs.readFileSync(new URL('../src/shared.js', import.meta.url), 'utf8')}; return { prepare, dedupe, windowStart, canonicalUrl, detectLang, TOPICS };`)();
+const S = new Function(`${fs.readFileSync(new URL('../src/shared.js', import.meta.url), 'utf8')}; return { prepare, dedupe, windowStart, canonicalUrl, detectLang, topicOf, regionOf, TOPICS };`)();
 const item = (title, extra = {}) => ({ title, summary: '', link: 'https://example.com/' + encodeURIComponent(title), date: '2026-10-20T10:00:00Z', source: 'Example', ...extra });
 
 test('keeps commercially relevant hydrogen news and drops weak, off-topic or event items', () => {

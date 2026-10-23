@@ -2,40 +2,51 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Commercially relevant hydrogen news for the MAF-EH Commercial Analysis Hydrogen team.">
+<meta name="theme-color" content="#1d4477">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="H2 News">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%231d4477'/%3E%3Cstop offset='.55' stop-color='%2323638a'/%3E%3Cstop offset='1' stop-color='%2300a19f'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='48' height='48' rx='11' fill='url(%23g)'/%3E%3Cpath d='M10 10v26M25 10v26M10 23h15' fill='none' stroke='%23fff' stroke-width='5' stroke-linecap='round'/%3E%3Cpath d='M30.5 28.5c0-2.2 1.7-3.6 4.4-3.6s4.4 1.4 4.4 3.5c0 1.8-1.2 2.9-3 4.3L30.5 38h9.2' fill='none' stroke='%233ed8c3' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <title>Hydrogen News | MAF-EH</title>
 <style>/*STYLE*/</style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to the news</a>
 <div class="bar"></div>
 <div class="shell">
   <div class="util"><span>MAF-EH Commercial Analysis Hydrogen Team</span><span id="today"></span></div>
   <header><h1>Hydrogen News</h1><p>Markets · Projects · Policy · Offtake · Infrastructure</p></header>
-  <nav class="nav" id="nav"></nav>
-  <section class="controls">
-    <input id="search" type="search" placeholder="Search hydrogen news…" aria-label="Search hydrogen news">
-    <select id="source" aria-label="Source"><option value="">All sources</option></select>
-    <select id="region" aria-label="Region"><option value="">All regions</option></select>
-    <select id="age" aria-label="Date range">
-      <option value="2">Past 2 days</option>
-      <option value="4" selected>Past 4 days</option>
-      <option value="7">Past 7 days</option>
-      <option value="14">Past 14 days</option>
-      <option value="30">Past 30 days</option>
-    </select>
-    <button class="refresh" id="refresh">Refresh</button>
-  </section>
+  <div class="stickybar">
+    <nav class="nav" id="nav" aria-label="Topics"></nav>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search hydrogen news…" aria-label="Search hydrogen news">
+      <select id="source" aria-label="Source"><option value="">All sources</option></select>
+      <select id="region" aria-label="Region"><option value="">All regions</option></select>
+      <select id="age" aria-label="Date range">
+        <option value="2">Past 2 days</option>
+        <option value="4" selected>Past 4 days</option>
+        <option value="7">Past 7 days</option>
+        <option value="14">Past 14 days</option>
+        <option value="30">Past 30 days</option>
+      </select>
+      <button class="refresh" id="refresh">Refresh</button>
+    </section>
+  </div>
   <div class="status">
     <span id="status" role="status">Loading headlines…</span> ·
-    <button class="source-status-btn" id="healthToggle" type="button">Source status</button>
+    <button class="source-status-btn" id="healthToggle" type="button" aria-expanded="false" aria-controls="healthPanel">Source status</button>
   </div>
   <div id="healthPanel" class="health-panel">
     <div id="healthSummary" class="health-summary"></div>
     <div id="healthGrid" class="health-grid"></div>
   </div>
-  <main><section class="lead" id="lead"></section><div id="sections"></div></main>
-  <footer>Public headline metadata only. Full articles remain with their publishers. Images appear only when supplied by the feed. Stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals). German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.</footer>
+  <section class="flow" id="flow" aria-label="Deal-flow balance"></section>
+  <main id="main" aria-busy="false"><section class="lead" id="lead"></section><div id="sections"></div></main>
+  <footer>Public headline metadata only. Full articles remain with their publishers. A picture is shown on the lead story only when the feed supplies one. Stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals), and reports of the same story by several publishers are shown once. German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.</footer>
 </div>
 <script>/*SHARED*/</script>
 <script>
@@ -44,7 +55,7 @@ const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const safe = u => /^https?:\/\//i.test(u || '') ? u : '';
 const fmt = (d, m = 'short') => new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: m, year: 'numeric' });
-let all = DATA.articles.slice(), active = 'All', note = '';
+let all = DATA.articles.slice(), active = 'All', note = '', loading = false;
 
 function rank(a) {
   const age = (Date.now() - new Date(a.date)) / 864e5;
@@ -55,33 +66,65 @@ function headline(a) { return a.titleEn || a.title; }
 function original(a) {
   return a.titleEn && a.titleEn !== a.title ? `<div class="orig" lang="${esc(a.lang)}">Original (${esc(LANGNAME[a.lang] || a.lang)}): ${esc(a.title)}</div>` : '';
 }
-function langTag(a) { return a.lang && a.lang !== 'en' ? ` · ${esc(a.lang.toUpperCase())}` : ''; }
-function card(a, pic = true) {
-  return `<article class="story">${pic && safe(a.image) ? `<img src="${esc(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}<div class="k">${esc(a.topic)}</div>
-<h3>${esc(headline(a))}</h3>${original(a)}<div class="meta">${esc(a.source)} · ${fmt(a.date)} · ${esc(a.region)}${langTag(a)}</div>
-<p>${esc(a.summary || 'No summary supplied.')}</p><a class="read" href="${esc(safe(a.link))}" target="_blank" rel="noopener noreferrer">Read original →</a></article>`;
+function alsoCovered(a) {
+  const seen = new Set([a.source]), out = [];
+  for (const x of a.also || []) if (!seen.has(x.source) && safe(x.link)) { seen.add(x.source); out.push(x); }
+  if (!out.length) return '';
+  const links = out.slice(0, 3).map(x => `<a href="${esc(safe(x.link))}" target="_blank" rel="noopener noreferrer">${esc(x.source)}</a>`).join(', ');
+  return `<div class="also">Also reported by ${links}${out.length > 3 ? ` and ${out.length - 3} more` : ''}</div>`;
 }
-function visible() {
-  const q = $('search').value.toLowerCase(), s = $('source').value, r = $('region').value;
-  const from = windowStart(+$('age').value), now = new Date();
-  return all.filter(a => { const d = new Date(a.date); return d >= from && d <= now && (active === 'All' || a.topic === active) && (!s || a.source === s) && (!r || a.region === r) && (!q || (a.title + ' ' + (a.titleEn || '') + ' ' + a.summary + ' ' + a.source).toLowerCase().includes(q)); })
-    .sort((a, b) => rank(b) - rank(a) || new Date(b.date) - new Date(a.date));
+function card(a) {
+  return `<article class="story"><div class="k">${esc(a.topic)}</div>
+<h3>${esc(headline(a))}</h3>${original(a)}<div class="meta">${esc(a.source)} · ${fmt(a.date)} · ${esc(a.region)}</div>
+${a.summary ? `<p>${esc(a.summary)}</p>` : ''}${alsoCovered(a)}<a class="read" href="${esc(safe(a.link))}" target="_blank" rel="noopener noreferrer" aria-label="Read original article: ${esc(headline(a))}">Read original →</a></article>`;
+}
+// Stories matching the topic, source, region and search filters (not the date range), best first, one entry per story.
+function storyList() {
+  const q = $('search').value.toLowerCase(), s = $('source').value, r = $('region').value, now = new Date();
+  const matches = all.filter(a => new Date(a.date) <= now && (active === 'All' || a.topic === active) && (!s || a.source === s) && (!r || a.region === r) &&
+    (!q || (a.title + ' ' + (a.titleEn || '') + ' ' + a.summary + ' ' + a.source).toLowerCase().includes(q)));
+  return groupSimilar(matches.sort((a, b) => rank(b) - rank(a) || new Date(b.date) - new Date(a.date)));
+}
+function renderFlow(stories) {
+  const f = dealFlow(stories), c = f.current, p = f.previous;
+  const sign = n => (n > 0 ? '+' : n < 0 ? '−' : '') + Math.abs(n);
+  let body;
+  if (!f.reliable) {
+    body = `<div class="flow-note">Too few deal stories for a reliable reading: ${c.n} in the last 7 days, at least ${FLOW_MIN_STORIES} needed. Try removing filters.</div>`;
+  } else {
+    const label = c.balance >= 25 ? 'Mostly positive' : c.balance <= -25 ? 'Mostly setbacks' : 'Balanced';
+    const trend = f.delta === null ? 'Too few stories in the previous 7 days to compare'
+      : f.delta > 0 ? `<span class="up">▲ ${sign(f.delta)} points</span> vs previous 7 days (${sign(p.balance)})`
+        : f.delta < 0 ? `<span class="down">▼ ${sign(f.delta)} points</span> vs previous 7 days (${sign(p.balance)})`
+          : `► unchanged vs previous 7 days (${sign(p.balance)})`;
+    body = `<div class="flow-main"><span class="flow-score">${sign(c.balance)}</span><span class="flow-label">${label}</span><span class="flow-trend">${trend}</span></div>
+<div class="flow-bar" role="img" aria-label="${c.pos} positive deal stories and ${c.neg} setbacks"><span class="pos" style="width:${(100 * c.pos / c.n).toFixed(1)}%"></span><span class="neg" style="width:${(100 * c.neg / c.n).toFixed(1)}%"></span></div>
+<div class="flow-legend"><span><i class="pos"></i><b>${c.pos}</b> positive deal stories</span><span><i class="neg"></i><b>${c.neg}</b> setbacks</span></div>`;
+  }
+  $('flow').innerHTML = `<div class="k">Deal-flow balance · last 7 days</div>${body}
+<details><summary>How is this calculated?</summary><p>Each story counts once, even if several publishers reported it. <b>Positive</b> means deals and progress: final investment decisions, offtake or supply agreements, contracts, funding, construction starts. <b>Setbacks</b> means cancellations, delays, insolvencies and withdrawals. The score runs from −100 (only setbacks) to +100 (only positive stories) and compares the last 7 days with the 7 days before. It follows the topic, source, region and search filters, but not the date range. Stories without a clear signal are not counted. This is a keyword-based indicator of direction, not a precise measurement.</p></details>`;
 }
 function render() {
-  const a = visible(), days = $('age').value;
+  const stories = storyList(), days = $('age').value;
+  renderFlow(stories);
+  const from = windowStart(+days);
+  const a = stories.filter(x => new Date(x.date) >= from);
   const snap = new Date(DATA.generatedAt);
   const hours = (Date.now() - snap) / 36e5;
   $('status').textContent = `${a.length} relevant hydrogen headlines from the past ${days} days · Updated ${snap.toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' })}${hours > 12 ? ' (collection is overdue)' : ''}${note}`;
-  const f = a[0];
-  $('lead').innerHTML = f ? `<div class="hero">${safe(f.image) ? `<img src="${esc(f.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}<div class="k">Lead story · ${esc(f.topic)}</div>
-<h2>${esc(headline(f))}</h2>${original(f)}<div class="meta">${esc(f.source)} · ${fmt(f.date, 'long')}${langTag(f)}</div><p class="deck">${esc(f.summary)}</p>
-<a class="read" href="${esc(safe(f.link))}" target="_blank" rel="noopener noreferrer">Continue at publisher →</a></div>
-<div class="side">${a.slice(1, 3).map(x => card(x, false)).join('')}</div><div class="side">${a.slice(3, 5).map(x => card(x, false)).join('')}</div>`
-    : '<div class="empty">No stories match the current filters.</div>';
+  // The lead is the best story, or the best of the top three that has a picture.
+  const lead = a.slice(0, 3).find(x => safe(x.image)) || a[0];
+  const rest = lead ? a.filter(x => x !== lead) : [];
+  $('lead').innerHTML = lead ? `<div class="hero">${safe(lead.image) ? `<img src="${esc(lead.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}<div class="k">Lead story · ${esc(lead.topic)}</div>
+<h2>${esc(headline(lead))}</h2>${original(lead)}<div class="meta">${esc(lead.source)} · ${fmt(lead.date, 'long')} · ${esc(lead.region)}</div>${lead.summary ? `<p class="deck">${esc(lead.summary)}</p>` : ''}${alsoCovered(lead)}
+<a class="read" href="${esc(safe(lead.link))}" target="_blank" rel="noopener noreferrer">Continue at publisher →</a></div>
+<div class="side">${rest.slice(0, 2).map(card).join('')}</div><div class="side">${rest.slice(2, 4).map(card).join('')}</div>`
+    : loading && !all.length ? '<div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>'
+      : '<div class="empty">No stories match the current filters.</div>';
   const groups = active === 'All' ? [...Object.keys(TOPICS), 'Other Hydrogen News'] : [active];
   $('sections').innerHTML = groups.map(g => {
     const x = a.filter(y => y.topic === g).slice(0, 8);
-    return x.length ? `<section class="section"><div class="st"><h2>${esc(g)}</h2></div><div class="grid">${x.slice(0, 4).map(y => card(y)).join('')}</div>${x.length > 4 ? `<div class="grid" style="margin-top:22px">${x.slice(4).map(y => card(y, false)).join('')}</div>` : ''}</section>` : '';
+    return x.length ? `<section class="section"><div class="st"><h2>${esc(g)}</h2></div><div class="grid">${x.slice(0, 4).map(card).join('')}</div>${x.length > 4 ? `<div class="grid grid-more">${x.slice(4).map(card).join('')}</div>` : ''}</section>` : '';
   }).join('');
 }
 function fill(el, label, values) {
@@ -102,7 +145,10 @@ function sync() {
       : `<div class="health-empty">● ${esc(s.name)} — reached, no matching recent items</div>`).join('');
 }
 async function reload() {
+  loading = true;
   $('refresh').disabled = true;
+  $('main').setAttribute('aria-busy', 'true');
+  $('main').classList.add('loading');
   try {
     const r = await fetch('news.json', { cache: 'no-store', signal: AbortSignal.timeout(15000) });
     if (!r.ok) throw new Error(r.status);
@@ -114,15 +160,27 @@ async function reload() {
   } catch {
     note = location.protocol === 'file:' ? '' : ' · Could not load the latest data; showing the version already loaded';
   }
+  loading = false;
   sync(); render();
+  $('main').setAttribute('aria-busy', 'false');
+  $('main').classList.remove('loading');
   $('refresh').disabled = false;
 }
 
-$('nav').innerHTML = ['All', ...Object.keys(TOPICS)].map(x => `<button data-x="${esc(x)}" class="${x === 'All' ? 'active' : ''}">${esc(x)}</button>`).join('');
-$('nav').onclick = e => { if (e.target.dataset.x) { active = e.target.dataset.x; [...$('nav').children].forEach(b => b.classList.toggle('active', b.dataset.x === active)); render(); } };
+$('nav').innerHTML = ['All', ...Object.keys(TOPICS)].map(x => `<button data-x="${esc(x)}" class="${x === 'All' ? 'active' : ''}" aria-pressed="${x === 'All'}">${esc(x)}</button>`).join('');
+$('nav').onclick = e => {
+  const b = e.target.closest('button[data-x]');
+  if (!b) return;
+  active = b.dataset.x;
+  [...$('nav').children].forEach(x => { x.classList.toggle('active', x === b); x.setAttribute('aria-pressed', String(x === b)); });
+  render();
+};
 $('today').textContent = new Date().toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 ['search', 'source', 'region', 'age'].forEach(id => $(id).addEventListener(id === 'search' ? 'input' : 'change', render));
-$('healthToggle').onclick = () => $('healthPanel').classList.toggle('open');
+$('healthToggle').onclick = () => {
+  const open = $('healthPanel').classList.toggle('open');
+  $('healthToggle').setAttribute('aria-expanded', String(open));
+};
 $('refresh').onclick = reload;
 sync(); render(); reload();
 </script>

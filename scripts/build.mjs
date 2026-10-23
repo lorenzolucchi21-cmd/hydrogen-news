@@ -146,6 +146,9 @@ fs.mkdirSync('data', { recursive: true });
 fs.mkdirSync('site', { recursive: true });
 fs.writeFileSync('data/archive.json', JSON.stringify(data, null, 1) + '\n');
 fs.writeFileSync('site/news.json', JSON.stringify(data));
+// Icons and the web app manifest (home-screen shortcut on phones)
+if (fs.existsSync('public')) fs.cpSync('public', 'site', { recursive: true });
+else console.warn('Warning: the "public" folder is missing, so the phone home-screen icon will not be published.');
 const html = fs.readFileSync('src/template.html', 'utf8')
   .replace('/*STYLE*/', () => fs.readFileSync('src/style.css', 'utf8'))
   .replace('/*SHARED*/', () => shared)

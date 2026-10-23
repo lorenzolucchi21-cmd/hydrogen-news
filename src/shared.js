@@ -1,36 +1,89 @@
 // German (de) and Dutch (nl) terms are included so that headlines in those languages are classified too.
+// Each topic has weighted rules. A match in the headline counts double; the topic with the highest total wins,
+// ties go to the topic listed first, and a story with no real signal becomes "Other Hydrogen News".
 const TOPICS = {
-  'Investments & FIDs': /final investment decision|\bfid\b|invest|financ|funding|grant|stake|acquisition|million|billion|förder|übernahme|beteilig|millionen|milliarden|miljoen|miljard/i,
-  'Offtake & Supply': /off-?take|supply agreement|purchase agreement|long-term agreement|contract|procure|buyer|sales agreement|abnahme|liefervertrag|vertrag|afname/i,
-  'Policy & Auctions': /policy|regulation|auction|subsid|mandate|quota|state aid|rfnbo|cbam|government|auktion|ausschreibung|regierung|subsidie|beleid/i,
-  'Infrastructure & Storage': /pipeline|network|terminal|storage|cavern|corridor|infrastructure|kernnetz|speicher|leitung|opslag/i,
-  'Aviation & e-SAF': /\be-?saf\b|\besaf\b|sustainable aviation fuel|aviation|airline|aircraft|kerosin|luftfahrt|luchtvaart/i,
-  'Steel & Industry': /steel|iron|refin|chemical|fertili|industrial|process heat|stahl|raffiner|staal|chemie/i,
-  'Ammonia & e-Fuels': /ammonia|ammoniak|methanol|\be-?fuels?\b|synthetic (jet |aviation )?(fuel|kerosene)|shipping|maritime/i,
-  'Production & Technology': /electrolys|electrolyz|elektrolys|production|manufactur|fuel cell|brennstoffzell|technology|capacity|\d[\s-]?(mw|gw)\b|produktion|kapazität|productie/i
+  'Investments & FIDs': [
+    [/final investment decision|\bfid\b|investitionsentscheidung|investeringsbeslissing/i, 5],
+    [/\braises?\b|\braised\b|series [a-e]\b|funding round|financing|finanzier|financier|\bequity\b|\bloans?\b|\bipo\b|\bstake\b|acquisition|\bacquires?\b|takeover|übernahme|beteilig|overname|kapital/i, 4],
+    [/invest|\bgrants?\b|funding|förder|million|billion|millionen|milliarden|miljoen|miljard|[€$£]\s?\d/i, 1]
+  ],
+  'Offtake & Supply': [
+    [/off-?take|supply (agreement|deal|contract)|purchase agreement|sales agreement|long-term (agreement|supply|contract)|abnahme|liefervertrag|liefervereinbarung|afname|\bbuyers?\b|procure|buys? (green |low-carbon )?(hydrogen|ammonia|e-?fuels?)|kauft bei|bezieht (grünen )?wasserstoff/i, 5],
+    [/contract|agreement|vertrag|overeenkomst|\bsigns?\b|auftrag|opdracht/i, 1]
+  ],
+  'Policy & Auctions': [
+    [/auction|hydrogen bank|contracts? for difference|\bcfd\b|state aid|rfnbo|cbam|ipcei|h2global|tax credit|\b45v\b|mandate|quota|auktion|ausschreibung|kernnetz|differenzvertr|aanbesteding/i, 5],
+    [/policy|regulat|government|ministry|minister|\bbmw[a-z]{1,2}\b|bundesministerium|ministerium|parliament|legislat|\blaw\b|bundesregierung|regierung|gesetz|beleid|overheid|european commission|eu commission|\bsubsid|subsidie|förderprogramm|(10|ten|zehn)-?(point|punkte)/i, 3]
+  ],
+  'Infrastructure & Storage': [
+    [/pipeline|kernnetz|cavern|storage|speicher|opslag|terminal|corridor|wasserstoffleitung|gasleitung|rohrleitung/i, 4],
+    [/infrastructure|network|\bhubs?\b|\bports?\b|filling station|refuelling|refueling|tankstelle|tankstation|wasserstoffnetz|netz\b/i, 2]
+  ],
+  'Aviation & e-SAF': [
+    [/\be-?saf\b|\besaf\b|sustainable aviation fuel|\bsaf\b|jet fuel|synthetic (jet |aviation )?kerosene|e-?kerosene|kerosin|luftfahrt|luchtvaart/i, 5],
+    [/aviation|airline|aircraft|airport|flugzeug|vliegtuig|luchthaven|flughafen/i, 3]
+  ],
+  'Steel & Industry': [
+    [/\bsteel|stahl|\bstaal|refiner|raffinaderij|raffinerie|\bdri\b|direct reduced iron/i, 4],
+    [/chemical|fertili|cement|zement|\bglass\b|process heat|\bindustrial\b|\bindustry\b|industrie|chemie|\biron\b/i, 1]
+  ],
+  'Ammonia & e-Fuels': [
+    [/ammonia|ammoniak|methanol|\be-?fuels?\b|\befuels?\b|synthetic fuel|power-to-liquid|\bptl\b/i, 4],
+    [/shipping|maritime|vessel|\bships?\b|marine|schiff|scheepvaart/i, 3]
+  ],
+  'Production & Technology': [
+    [/electrolys|electrolyz|elektrolys/i, 2],
+    [/fuel cell|brennstoffzell|brandstofcel|\bstacks?\b/i, 2],
+    [/production|produktion|productie|capacity|kapazität|capaciteit|manufactur|gigafactory|\bfactory|\bfabrik|fabriek/i, 1],
+    [/construction|commission|inbetriebnahme|baubeginn|\bplant\b|\banlage\b|facility/i, 1],
+    [/\b\d[\d.,]*[\s-]?(mw|gw)\b/i, 1],
+    [/technolog/i, 1]
+  ]
 };
+const TOPIC_MIN_SCORE = 2;
+function topicOf(title, summary = '') {
+  let best = 'Other Hydrogen News', top = TOPIC_MIN_SCORE - 1;
+  for (const [name, rules] of Object.entries(TOPICS)) {
+    let score = 0;
+    for (const [re, w] of rules) score += re.test(title) ? w * 2 : re.test(summary) ? w : 0;
+    if (score > top) { best = name; top = score; }
+  }
+  return best;
+}
 // "electrolys" deliberately does not match "electrolyte" (battery chemistry).
 const H2 = /hydrogen|wasserstoff|waterstof|h₂|\bh2\b|\bh2-|h2global|ammonia|ammoniak|\be-?saf\b|\besaf\b|\be-?fuels?\b|\be-?kerosene|\be-?methanol|power-to-liquid|\bptl\b|synthetic (green |sustainable |renewable )?(jet |aviation )?(fuels?|kerosene)|(green|renewable|sustainable) jet fuel|sustainable aviation fuel|electrolys|electrolyz|elektrolys|fuel cells?|brennstoffzell|brandstofcel|methanol|rfnbo/i;
 // Companies whose news is hydrogen/e-fuel news even when the headline has no hydrogen keyword. Edit freely.
 const WATCH = /arcadia e-?fuels|reverion|sunfire|electric hydrogen|thyssenkrupp nucera|\bnucera\b|plug power|\bitm power\b|\blhyfe\b|\bhy24\b|\bhh2e\b|ohmium|enapter|hexagon purus|bloom energy|ballard power|nel asa|nel hydrogen/i;
 const COMM = /off-?take|agreement|contract|investment|financ|funding|grant|fid|auction|subsid|policy|regulation|capacity|mw|gw|tonne|production|construction|commission|pipeline|network|storage|terminal|import|export|ammonia|methanol|e-?saf|esaf|steel|refin|electrolys|electrolyz|cancel|delay|bankrupt|acqui|stake|price|cost|project|buyer|\bplan\b|output|\bdeals?\b|joint venture|\bsigns?\b|million|billion|invest|vertrag|abnahme|förder|projekt|anlage|kraftwerk|fabrik|werk\b|stahl|raffiner|elektrolys|millionen|milliarden|übernahme|beteilig|insolvenz|genehmig|ausschreibung|vereinbarung|gründen|planen|produktion|kapazität|kernnetz|speicher|investering|subsidie|overeenkomst|opdracht|fabriek|miljoen|miljard|faillissement|vergunning|productie|capaciteit/i;
-const EXCL = /webinar|conference|podcast|\bawards?\b|job (openings?|postings?|listings?)|\bcareers?\b|vacanc|keynote|training|opinion:|newsletter|market (report|size|research|share|forecast|outlook|trends)|\bcagr\b|to reach \$|konferenz|auszeichnung|stellenangebot|stellenanzeige|\bkarriere|vacature|congres|\(m\/w\/d\)|\(f\/m\/d\)|\bproject manager\b|\s-\s\d{5,}$|\baktie\b|\bkursziel|\bprice target\b|stock (jumps|surges|falls|rises|soars)|shares (jump|surge|fall|rise|soar)|nickel-hydrogen/i;
+const EXCL = /webinar|conference|podcast|\bawards?\b|job (openings?|postings?|listings?)|\bcareers?\b|vacanc|keynote|training|opinion:|newsletter|market (report|size|research|share|forecast|outlook|trends)|\bcagr\b|to reach \$|konferenz|auszeichnung|stellenangebot|stellenanzeige|\bkarriere|vacature|congres|\(m\/w\/d\)|\(f\/m\/d\)|\bproject manager\b|\s-\s\d{5,}$|\baktie\b|\bkursziel|\bprice target\b|\bstock\b|shares (jump|surge|fall|rise|soar)|nickel-hydrogen/i;
 const BATTERY = /lithium|solid-state|batter(y|ies)|batterie|\bakku/i;
 const CORE_H2 = /hydrogen|wasserstoff|waterstof|electrolys|electrolyz|elektrolys|\be-?fuels?\b|\be-?saf\b|\besaf\b|ammonia|methanol/i;
 // Research and laboratory news is deprioritised: the focus is on deals, investments and policy.
-const NICHE = /\b(researchers?|scientists?|study|studies|university|universities|laborator\w*|prototype|breakthrough|patents?|peer-reviewed|simulation|catalysts?|membranes?|novel|forscher|studie|universität|hochschule|patente?|onderzoek\w*|universiteit|molecular|nano\w*|photo(catal|electro)\w*|electrocatal\w*|perovskite|graphene|enzymes?|bacteri\w*|algae|quantum)\b|\w*forschung\w*|\b(launch|unveil|introduc)\w*[^.]{0,60}\b(module|stack|platform|generation)\b/i;
+const NICHE = /\b(researchers?|scientists?|study|studies|university|universities|laborator\w*|prototype|breakthrough|patents?|peer-reviewed|simulation|catalysts?|membranes?|novel|forscher|studie|universität|hochschule|patente?|onderzoek\w*|universiteit|molecular|nano\w*|photo(catal|electro)\w*|electrocatal\w*|perovskite|graphene|enzymes?|bacteri\w*|algae|quantum)\b|\w*forschung\w*|fraunhofer|helmholtz|max[- ]planck|science news|\b(launch|unveil|introduc)\w*[^.]{0,60}\b(module|stack|platform|generation)\b/i;
+// Stories written in German or Dutch are filed under Germany and Benelux. For other languages the region with the most
+// keyword matches wins; stories without any location keyword are "Global".
 const REGIONS = {
-  Germany: /germany|german|deutsch|berlin|essen|hamburg|bavaria|bayern|nrw|nordenham|niedersachsen|düsseldorf/i,
-  Benelux: /netherlands|dutch|nederland|niederlande|belgium|belgien|rotterdam|antwerp|ghent|waterstof/i,
-  Nordics: /sweden|norway|denmark|finland|iceland|nordic|schweden|norwegen|dänemark/i,
-  'UK & Ireland': /united kingdom|britain|british|england|scotland|wales|ireland| uk\b/i,
-  'Other Europe': /spain|spanien|france|frankreich|italy|italien|portugal|greece|poland|austria|österreich|europe|europa|eu\b|brussels/i,
-  'Middle East': /saudi|oman|uae|emirates|qatar|middle east/i,
-  Africa: /africa|mauritania|namibia|morocco|egypt/i,
-  'Asia-Pacific': /china|japan|korea|india|australia|asia/i,
-  'North America': /united states|usa|u\.s\.|canada|california|texas/i,
-  'Latin America': /chile|brazil|argentina|paraguay|latin america/i
+  Germany: /germany|german\b|deutsch|\bberlin\b|\bessen\b|hamburg|bavaria|bayern|\bnrw\b|nordenham|niedersachsen|düsseldorf|lower saxony|north rhine/i,
+  Benelux: /netherlands|dutch|nederland|niederlande|belgium|belgian|belgien|luxembourg|rotterdam|antwerp|ghent|waterstof/i,
+  Nordics: /sweden|swedish|norway|norwegian|denmark|danish|finland|finnish|iceland|nordic|schweden|norwegen|dänemark/i,
+  'UK & Ireland': /united kingdom|britain|british|england|scotland|scottish|\bwales\b|\bireland\b|irish|\bU\.?K\.?\b/,
+  'Other Europe': /spain|spanish|spanien|france|french|frankreich|italy|italian|italien|portugal|portuguese|greece|greek|poland|polish|austria|österreich|switzerland|swiss|europe|europa|\b(eu|e\.u\.)\b|brussels/i,
+  'Middle East': /saudi|\boman\b|omani|\buae\b|emirates|emirati|qatar|middle east/i,
+  Africa: /africa|mauritania|namibia|morocco|moroccan|\begypt|egyptian|\bkenya|\bnigeria/i,
+  'Asia-Pacific': /\bchina\b|chinese|\bjapan|korea|\bindia\b|indian\b|australia|\basia\b|singapore|indonesia/i,
+  'North America': /united states|\busa\b|\bu\.s\.|\bus\b(?= (government|state|doe|department|navy|energy))|american|canada|canadian|california|texas|\bdoe\b/i,
+  'Latin America': /\bchile\b|chilean|brazil|argentin|paraguay|uruguay|colombia|latin america/i
 };
+function regionOf(text, lang) {
+  if (lang === 'de') return 'Germany';
+  if (lang === 'nl') return 'Benelux';
+  let best = 'Global', top = 0;
+  for (const [name, re] of Object.entries(REGIONS)) {
+    const n = (text.match(new RegExp(re.source, re.flags.includes('i') ? 'gi' : 'g')) || []).length;
+    if (n > top) { best = name; top = n; }
+  }
+  return best;
+}
 const SIGNALS = [
   [/final investment decision|\bfid\b|investitionsentscheidung|investeringsbeslissing/i, 6],
   [/off-?take|supply agreement|purchase agreement|sales agreement|supply deal|framework agreement|long-term (agreement|supply|contract)|memorandum|\bmou\b|letter of intent|abnahme|liefervertrag|liefervereinbarung|afnameovereenkomst|absichtserklärung|intentieverklaring/i, 4],
@@ -88,12 +141,14 @@ const LANG_MARKERS = {
   nl: /\b(het|een|van|voor|met|naar|wordt|zijn|ook|aan|niet|deze|dat|bij|nieuwe|krijgt|gaat|waterstof\w*|miljoen|miljard|elektrolyser\w*|investering\w*)\b/gi,
   en: /\b(the|and|for|with|of|to|in|on|is|are|as|by|at|from|new|its|will|plans?|signs?|deal|says|after|into)\b/gi
 };
-// Returns 'en', 'de' or 'nl'. `hint` is used only when the text has no clear language markers.
+// Returns 'en', 'de' or 'nl'. `hint` (the language configured for the source) breaks ties and settles very short headlines.
 function detectLang(text, hint = 'en') {
   const n = {};
   for (const k of Object.keys(LANG_MARKERS)) n[k] = (text.match(LANG_MARKERS[k]) || []).length;
+  if (/[äöüß]/i.test(text)) n.de += 2;
   const best = n.de >= n.nl ? 'de' : 'nl';
   if (n[best] >= 2 && n[best] > n.en) return best;
+  if ((hint === 'de' || hint === 'nl') && n[hint] >= 1 && n[hint] >= n.en) return hint;
   return n.de + n.nl + n.en === 0 ? hint : 'en';
 }
 
@@ -105,9 +160,9 @@ function prepare(raw, opts = {}) {
   if (BATTERY.test(t) && !CORE_H2.test(t)) return null;
   a.score = relevanceScore(a);
   if (a.score < (opts.minScore ?? (a.summary ? MIN_SCORE : MIN_SCORE_HEADLINE_ONLY))) return null;
-  a.topic = Object.entries(TOPICS).find(x => x[1].test(t))?.[0] || 'Other Hydrogen News';
-  a.region = Object.entries(REGIONS).find(x => x[1].test(t))?.[0] || 'Global';
   a.lang = detectLang(t, opts.lang);
+  a.topic = topicOf(a.title, a.summary);
+  a.region = regionOf(t, a.lang);
   a.date = new Date(a.date).toISOString();
   return a;
 }
@@ -140,4 +195,75 @@ function windowStart(days, now = new Date()) {
   d.setHours(0, 0, 0, 0);
   d.setDate(d.getDate() - (days - 1));
   return d;
+}
+
+// ---- Same story, several publishers --------------------------------------------------------------------------
+const GROUP_STOP = new Set(('the and for with from that this into over after about their will have has had are was were its new says say said ' +
+  'hydrogen green project projects plant plants energy power company group deal deals signs signed sign agreement agreements ' +
+  'wasserstoff grüner gruener projekt und der die das den dem des ein eine einen für mit von zu zum zur auf bei nach wird werden ist sind aus ' +
+  'waterstof groene het een van voor met naar bij aan ook deze dat ' +
+  'million billion millionen milliarden miljoen miljard euro euros europe europas').split(' '));
+function storyTokens(a) {
+  if (a._tk) return a._tk;
+  const text = (a.titleEn || a.title).normalize('NFKC').toLowerCase();
+  const set = new Set();
+  for (const w of text.split(/[^\p{L}\p{N}]+/u)) {
+    if (!w || GROUP_STOP.has(w)) continue;
+    if (/^\d+$/.test(w) ? w.length >= 2 : w.length >= 3) set.add(w.length > 4 ? w.replace(/(s|es)$/, '') : w);
+  }
+  Object.defineProperty(a, '_tk', { value: set, enumerable: false });
+  return set;
+}
+function sameStory(a, b) {
+  if (Math.abs(Date.parse(a.date) - Date.parse(b.date)) > 5 * 864e5) return false;
+  const x = storyTokens(a), y = storyTokens(b);
+  let shared = 0;
+  for (const t of x) if (y.has(t)) shared++;
+  return shared >= 3 && shared / Math.min(x.size, y.size) >= 0.6;
+}
+// `list` must be ordered best first: the first story of each group is the one shown; the others become `also`.
+function groupSimilar(list) {
+  const groups = [];
+  for (const a of list) {
+    const g = groups.find(x => sameStory(x.main, a));
+    if (g) g.also.push(a); else groups.push({ main: a, also: [] });
+  }
+  return groups.map(g => ({ ...g.main, also: g.also }));
+}
+
+// ---- Deal-flow balance ---------------------------------------------------------------------------------------
+// Positive deal signals versus setbacks, counted over stories (one per group of reports), as a simple momentum
+// indicator. Keyword-based, so it is a rough guide and not a measurement.
+const POSITIVE_SIGNAL = /final investment decision|\bfid\b|investitionsentscheidung|investeringsbeslissing|off-?take|supply (agreement|deal|contract)|purchase agreement|sales agreement|long-term (agreement|supply|contract)|binding agreement|framework agreement|heads of terms|\bsigns?\b|\bsigned\b|\bselects?\b|\bselected\b|\bawarded\b|\bwins?\b|\bsecures?\b|\bsecured\b|\braises?\b(?! (concerns|questions|doubts|alarm))|\braised\b|series [a-e]\b|financing|(receives?|granted|approved|approves?)\b.{0,30}(funding|grant|subsid|permit|licen|approval)|construction (starts?|begins?|started|begun|launched?)|(starts?|begins?|launch\w*|breaks?) (construction|ground)|groundbreaking|inaugurat\w*|\bcommissioned\b|joint venture|\border(s|ed)?\b(?! to)|\bcontracts?\b|ring-?fenc\w*|launch\w* (.{0,25})?(funding|programme|program|tender|auction)|(starts?|begins?|begun|launch\w*) (\w+ ){0,2}(production|operations?|installation)|installation begins|enters? (commercial )?operation|commercial operation|goes? (live|online)|takes? delivery|\bdelivered\b|beauftragt|unterzeichn\w*|\berhält\b|gegründet|\bgründen\b|baubeginn|spatenstich|inbetriebnahme|\btekent\b|\bkrijgt\b|toegekend|\bbestelt\b|zuschlag|\bauftrag/i;
+const NEGATIVE_SIGNAL = /cancel\w*|scrap(s|ped|ping)?\b|shelve\w*|\bhalts?\b|\bhalted\b|withdr[ae]w\w*|pull(s|ed|ing)? (out|back)|\bdelay\w*|postpone\w*|insolven\w*|bankrupt\w*|write-?downs?|impairment|lay-?offs?|job cuts|redundanc\w*|scal(e|es|ed|ing) back|abandon\w*|\bpauses?\b|\bpaused\b|falls? short|struggl\w*|\bcuts?\b.{0,20}(subsid|support|funding|target)|water(s|ed|ing)? down|roll(s|ed|ing)? back|weaken\w*|\bfails?\b|\bfailed\b|\bsuspend\w*|abgesagt|\babsage|gestoppt|\bstoppt|verzögert|verschoben|\bpleite|rückzug|stellenabbau|scheitert|gescheitert|faillissement|geannuleerd|uitgesteld|stopgezet|ingetrokken|trekt zich terug|hinter erwartungen zurück/i;
+// Returns 'positive', 'negative' or null (neutral, or mixed signals). The headline decides; the summary is used
+// only when the headline has no signal at all.
+function dealSignal(a) {
+  const judge = text => {
+    const pos = POSITIVE_SIGNAL.test(text), neg = NEGATIVE_SIGNAL.test(text);
+    return pos && neg ? 'mixed' : pos ? 'positive' : neg ? 'negative' : null;
+  };
+  const s = judge(a.title + ' ' + (a.titleEn || '')) ?? judge(a.summary || '');
+  return s === 'positive' || s === 'negative' ? s : null;
+}
+const FLOW_MIN_STORIES = 8;
+function dealFlow(stories, now = new Date()) {
+  const day = 864e5, end = now.getTime();
+  const tally = (from, to) => {
+    let pos = 0, neg = 0;
+    for (const a of stories) {
+      const t = Date.parse(a.date);
+      if (!(t >= from && t < to)) continue;
+      const s = dealSignal(a);
+      if (s === 'positive') pos++; else if (s === 'negative') neg++;
+    }
+    const n = pos + neg;
+    return { pos, neg, n, balance: n ? Math.round(100 * (pos - neg) / n) : null };
+  };
+  const current = tally(end - 7 * day, end + 1), previous = tally(end - 14 * day, end - 7 * day);
+  return {
+    current, previous,
+    reliable: current.n >= FLOW_MIN_STORIES,
+    delta: current.n >= FLOW_MIN_STORIES && previous.n >= FLOW_MIN_STORIES ? current.balance - previous.balance : null
+  };
 }
