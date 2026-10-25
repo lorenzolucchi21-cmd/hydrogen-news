@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T13:10:19.288Z",
+ "generatedAt": "2026-10-25T19:00:33.024Z",
  "articles": [
   {
    "title": "Zwischenbilanz zum Wasserstoff-Kernnetz: Mehr als 500 Kilometer in Betrieb",
@@ -1841,7 +1841,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWF1YUQ1QWZnQ0RLMVhxc0dHNVBBWFg0TXZLYkM4TUlBUjk5WHN4ZHFtN3pVRmJRTTNyUVJubWJ3ajJfWFphWWFhZkllUnI3b0tWT3ZKRTBpU3lUOHR6Rl9BZVJVb3BHRVZiOE9mWXlSdFBKTEtxYm16ZXJTWG1IZDI3R25LR0JybVFiUmdheHZrbkRrQlJhXzMtV2lKX1M0MGlzUF9jeVhkTUY3b0FCS2Q4UmhEUVNX?oc=5",
-   "date": "2026-10-16T11:05:10.000Z",
+   "date": "2026-10-16T11:05:28.000Z",
    "source": "TradeWinds",
    "origin": "TradeWinds",
    "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Atradewindsnews.com%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
@@ -2852,6 +2852,19 @@
    "score": 16
   },
   {
+   "title": "Hydropulse, ITM Power subsidiary, signs Heads of Terms for 150 MW green hydrogen project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUZQRU04VXRlamw3WVF3Wm1oNVpnWWtOaHJBbHVWX29NaHJZbTZQUm11cERTWlJZTkd5SXdlWGVzMEFWTm40aUk4cnQ0cFRVR2sxVXlWNjI4ai1kMmJVZnU3Tlh1c1JwV0pmYnpQUkNQaWV2WUJGdjN4NGYwRjdvRTJCV3duaWZKZVRWR2p3UG41NE5Walk1TnhEMUhXc1pGUFRwU1R1SGJUaHJ2TzVmbzdR?oc=5",
+   "date": "2026-10-13T07:00:00.000Z",
+   "source": "energynews.pro",
+   "origin": "Deal search: final investment decisions",
+   "image": "https://news.google.com/rss/search?q=(%22final%20investment%20decision%22%20OR%20FID%20OR%20%22takes%20FID%22%20OR%20%22reaches%20FID%22)%20(hydrogen%20OR%20eSAF%20OR%20%22e-SAF%22%20OR%20%22e-fuels%22%20OR%20%22synthetic%20fuel%22%20OR%20ammonia%20OR%20%22e-methanol%22%20OR%20electrolyser%20OR%20electrolyzer)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Policy & Auctions",
+   "region": "Global",
+   "score": 13
+  },
+  {
    "title": "France's 2027 Finance Bill Could Trigger Over €5 Billion in Private Hydrogen Investment",
    "lang": "en",
    "summary": "",
@@ -2904,6 +2917,19 @@
    "score": 5
   },
   {
+   "title": "Neptun: 40,000 tons per year renewable ammonia in northern Norway",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXdIWjRTbWI2aGt5OF9aOWV1RlhmRTNUUy1lU3VCY2hteF92QUh2MnFoUXNZS3FTUzRpMzhzTjNSNDBsbjUxQXAwX2p5N0J4RmNjT043SnNQNkVIM2tLVVI4STI0VWd1VWh0bEZGdUI1UUlWd1l4dlVnOVBldXdIUjh6VGpwc3pORHFRRkFPYlQzSkF0a2UteWhzcl82NUtL?oc=5",
+   "date": "2026-10-13T07:00:00.000Z",
+   "source": "Ammonia Energy Association",
+   "origin": "Ammonia Energy Association",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Aammoniaenergy.org%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Nordics",
+   "score": 5
+  },
+  {
    "title": "H2Accelerate: combineer Europese subsidies voor waterstoftrucks en tankstations",
    "titleEn": "H2Accelerate: combine European subsidies for hydrogen trucks and filling stations",
    "lang": "nl",
@@ -2921,7 +2947,7 @@
    "title": "Nel becomes third electrolyser maker to collaborate with Rheinmetall on its decentralised e-fuels network",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS0FjeU9GRmExLXpXSWY5S2dUUi1oWVFTNDU1S1hzYmE4ZVFYVXlQWDNJNVNzTFREbVZHMWptNW9sMEtPSVBBOTJCSF93dDc5bU9vUTlhdVMtRjVLQlB2NHJ4aV9nbUIwdklsdEM4S2JQSzFfSVlwQk8tLThaSHh4SEtZQ0syLThESXp0ZU5rdU9uckVVN3FRUE9jajJ0aDhYamduX2J1ZUhFb2VfbHhfNG9VeHR4UzlBRGNwYTl6RGtRU2J0OHB4OGlGWThJcWttekVJTUtWSDI2WFBPWnVQdW1MeXEwWnpYMVgzUVVjejRHcTBMY3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNS21GOVNXMHpwcjFVcTNFUzZKQm5pelRjQ3JSQnZDNGFVNFlPSkhGZHpKWno2S3BGT25RRXVRbWN4bU1WUENZMEJucjBpUGpOM09IRTJlVy1QWkt6bmp1ZVJCNzEtQmdfNTBfZHdlNFUzY0VlZGMySkl1cGx3bFZKMG4tdDg5eDRiM2xDSU9kWFR3XzM1QVZVOEc5czJkclpzM1BRSEZsRlhzSEF6WXMwamk0azdFdGhLUDZMSzE2Nk1GRnNyek95TlNmZkpKQ0UzV29laDdNaEp0WC13d2VqbVJrRGlTSEp2cG9MV0hCSVVUNGZrLUkyejBoNF9wcTM0OHZlMXMxd1ctTEMxYS0xa05B?oc=5",
    "date": "2026-10-13T07:00:00.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
@@ -2971,19 +2997,6 @@
    "score": 3
   },
   {
-   "title": "Neptun: 40,000 tons per year renewable ammonia in northern Norway",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXdIWjRTbWI2aGt5OF9aOWV1RlhmRTNUUy1lU3VCY2hteF92QUh2MnFoUXNZS3FTUzRpMzhzTjNSNDBsbjUxQXAwX2p5N0J4RmNjT043SnNQNkVIM2tLVVI4STI0VWd1VWh0bEZGdUI1UUlWd1l4dlVnOVBldXdIUjh6VGpwc3pORHFRRkFPYlQzSkF0a2UteWhzcl82NUtL?oc=5",
-   "date": "2026-10-13T06:13:58.000Z",
-   "source": "Ammonia Energy Association",
-   "origin": "Ammonia Energy Association",
-   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20Wasserstoff%20OR%20waterstof%20OR%20ammonia%20OR%20e-SAF%20OR%20eSAF%20OR%20%22e-fuels%22%20OR%20electrolyser)%20site%3Aammoniaenergy.org%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Nordics",
-   "score": 5
-  },
-  {
    "title": "EWE und VERBUND gründen Joint Venture für eines der größten Wasserstoffprojekte Europas",
    "titleEn": "Ewe and VERBUND establish joint venture for one of Europe's largest hydrogen projects",
    "lang": "de",
@@ -3009,19 +3022,6 @@
    "topic": "Ammonia & e-Fuels",
    "region": "UK & Ireland",
    "score": 6
-  },
-  {
-   "title": "Hydropulse, ITM Power subsidiary, signs Heads of Terms for 150 MW green hydrogen project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUZQRU04VXRlamw3WVF3Wm1oNVpnWWtOaHJBbHVWX29NaHJZbTZQUm11cERTWlJZTkd5SXdlWGVzMEFWTm40aUk4cnQ0cFRVR2sxVXlWNjI4ai1kMmJVZnU3Tlh1c1JwV0pmYnpQUkNQaWV2WUJGdjN4NGYwRjdvRTJCV3duaWZKZVRWR2p3UG41NE5Walk1TnhEMUhXc1pGUFRwU1R1SGJUaHJ2TzVmbzdR?oc=5",
-   "date": "2026-10-13T01:01:03.000Z",
-   "source": "energynews.pro",
-   "origin": "Deal search: final investment decisions",
-   "image": "https://news.google.com/rss/search?q=(%22final%20investment%20decision%22%20OR%20FID%20OR%20%22takes%20FID%22%20OR%20%22reaches%20FID%22)%20(hydrogen%20OR%20eSAF%20OR%20%22e-SAF%22%20OR%20%22e-fuels%22%20OR%20%22synthetic%20fuel%22%20OR%20ammonia%20OR%20%22e-methanol%22%20OR%20electrolyser%20OR%20electrolyzer)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Policy & Auctions",
-   "region": "Global",
-   "score": 13
   },
   {
    "title": "ITM Power, tramite la controllata Hydropulse, progetta un impianto di elettrolisi da 150 MW per produrre H2 verde in una raffineria europea",
@@ -3194,6 +3194,19 @@
    "score": 10
   },
   {
+   "title": "Africa’s green hydrogen pipeline tops $30 billion",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdy1JalBxUHBIWktEV3dGMThNRDRMbmxISGJrUlRGdVIybk1TNEd4YVg0dm5WX1J4YjByaHlRM25aODhDcVZOWk14a3RxMkREMzZRaTFaRHoydUQzNTFfOW9kZXB5V3hXVWVGS0FGSTZPTlhTZ3UwRlZ4ZnJvRExKU0hLYWrSAYoBQVVfeXFMTzhGMFFEa1dyT3hIaVc2YjZRMVZEeG1STmdibTNmWm1sOGtpZDJXWS04T3YyOVJXNTlQeWk1NWJzN0VjZGItMV9lUjRDekgxVHo0SUFLaFI5X2RpUG85Q24xNU84UEhZTF9BQnRCOGFpd1I1Q0lMQjAtT2RSbkZCN1I1by1VU2FLUXFR?oc=5",
+   "date": "2026-10-12T07:00:00.000Z",
+   "source": "The Nation Newspaper",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Infrastructure & Storage",
+   "region": "Africa",
+   "score": 8
+  },
+  {
    "title": "INOX Air Products Cancels Green Ammonia Project",
    "lang": "en",
    "summary": "",
@@ -3219,19 +3232,6 @@
    "topic": "Policy & Auctions",
    "region": "Benelux",
    "score": 5
-  },
-  {
-   "title": "Africa’s green hydrogen pipeline tops $30 billion",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdy1JalBxUHBIWktEV3dGMThNRDRMbmxISGJrUlRGdVIybk1TNEd4YVg0dm5WX1J4YjByaHlRM25aODhDcVZOWk14a3RxMkREMzZRaTFaRHoydUQzNTFfOW9kZXB5V3hXVWVGS0FGSTZPTlhTZ3UwRlZ4ZnJvRExKU0hLYWrSAYoBQVVfeXFMTzhGMFFEa1dyT3hIaVc2YjZRMVZEeG1STmdibTNmWm1sOGtpZDJXWS04T3YyOVJXNTlQeWk1NWJzN0VjZGItMV9lUjRDekgxVHo0SUFLaFI5X2RpUG85Q24xNU84UEhZTF9BQnRCOGFpd1I1Q0lMQjAtT2RSbkZCN1I1by1VU2FLUXFR?oc=5",
-   "date": "2026-10-12T05:53:50.000Z",
-   "source": "The Nation Newspaper",
-   "origin": "Deal search: large investments and funding",
-   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Infrastructure & Storage",
-   "region": "Africa",
-   "score": 8
   },
   {
    "title": "Tesa bezieht Wasserstoff von EWE aus Emden",
@@ -3877,20 +3877,6 @@
    "score": 6
   },
   {
-   "title": "Netzentgeltreform - BNetzA plant eigene Systematik für Elektrolyseure",
-   "titleEn": "Grid fee reform - BNetzA plans its own system for electrolyzers",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXNJZkRUcEM0SWFnY0g1OFphN2JvME41UFdXMU1sdFNubEJCUS1PX1NQdV9UdXhucld0ZDJjOWQxRF9icGtSZHQ5MmJmM2V2M0hUQkdwczBfRkFmODlwd1ZuNXpkQnZiSE40dmxnbzFEektfWkdnT2ZyVEZrQmhXZWJSV09qTmN3V011WWNSWjRIMWxsYnpIdEN2OVJKRWNZN2hMbjZZbGp0Snd5LUE?oc=5",
-   "date": "2026-10-08T07:00:00.000Z",
-   "source": "HZwei",
-   "origin": "HZwei",
-   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Ahzwei.info%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "score": 4
-  },
-  {
    "title": "Von Elektrolyseur bis Schraubenschlüssel: So soll Metall-3D-Druck günstiger werden",
    "titleEn": "From electrolyzers to wrenches: how to make metal 3D printing cheaper",
    "lang": "de",
@@ -3900,6 +3886,20 @@
    "source": "ingenieur.de",
    "origin": "ingenieur.de",
    "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Aingenieur.de%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "score": 4
+  },
+  {
+   "title": "Netzentgeltreform - BNetzA plant eigene Systematik für Elektrolyseure",
+   "titleEn": "Grid fee reform - BNetzA plans its own system for electrolyzers",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXNJZkRUcEM0SWFnY0g1OFphN2JvME41UFdXMU1sdFNubEJCUS1PX1NQdV9UdXhucld0ZDJjOWQxRF9icGtSZHQ5MmJmM2V2M0hUQkdwczBfRkFmODlwd1ZuNXpkQnZiSE40dmxnbzFEektfWkdnT2ZyVEZrQmhXZWJSV09qTmN3V011WWNSWjRIMWxsYnpIdEN2OVJKRWNZN2hMbjZZbGp0Snd5LUE?oc=5",
+   "date": "2026-10-08T07:00:00.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "https://news.google.com/rss/search?q=(Wasserstoff%20OR%20Elektrolyseur%20OR%20eFuels%20OR%20eSAF%20OR%20Brennstoffzelle%20OR%20Ammoniak%20OR%20hydrogen)%20site%3Ahzwei.info%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
    "topic": "Production & Technology",
    "region": "Germany",
    "score": 4
@@ -5058,19 +5058,6 @@
    "score": 5
   },
   {
-   "title": "JCB Steps up Investment as Hydrogen Machines Enter Production After 406Mph Hydromax Record",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRlJwcWJNNHd1T244T2NvQWNSazhyMUYxWkhpalBVVG1aNVNNZGVhUzhTQkRjdHhRWkhWY1hidS1tMXRrVE9SdkJIekNYdVN4MkNHVGx6dHNsaEFQQ3hpYUdDSjJHeUc2MUtvaXVnTWh0NjhxMlk0UW1UbzBfUnhTVkxCeHBvc1hjbU96d3dYbFlVQW1WRjBGb3VMUXZrbExVTUpnMDJ4OTB6TnQzcGJ0WE1OQWZlc0FSNmNPUXZ4NkUtSWRZX0FJSzgwVQ?oc=5",
-   "date": "2026-10-01T07:00:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Deal search: large investments and funding",
-   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "score": 5
-  },
-  {
    "title": "TEAL Mobility Hydrogen €9.95 per kg Benelux Price Update",
    "lang": "en",
    "summary": "",
@@ -5079,6 +5066,19 @@
    "source": "Fuel Cells Works",
    "origin": "Deal search: policy and auctions",
    "image": "https://news.google.com/rss/search?q=hydrogen%20(%22carbon%20contracts%20for%20difference%22%20OR%20%22hydrogen%20bank%22%20OR%20RFNBO%20OR%20H2Global%20OR%20auction%20OR%20%22state%20aid%22%20OR%20%22Wasserstoffbank%22)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "score": 5
+  },
+  {
+   "title": "JCB Steps up Investment as Hydrogen Machines Enter Production After 406Mph Hydromax Record",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRlJwcWJNNHd1T244T2NvQWNSazhyMUYxWkhpalBVVG1aNVNNZGVhUzhTQkRjdHhRWkhWY1hidS1tMXRrVE9SdkJIekNYdVN4MkNHVGx6dHNsaEFQQ3hpYUdDSjJHeUc2MUtvaXVnTWh0NjhxMlk0UW1UbzBfUnhTVkxCeHBvc1hjbU96d3dYbFlVQW1WRjBGb3VMUXZrbExVTUpnMDJ4OTB6TnQzcGJ0WE1OQWZlc0FSNmNPUXZ4NkUtSWRZX0FJSzgwVQ?oc=5",
+   "date": "2026-10-01T07:00:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: large investments and funding",
+   "image": "https://news.google.com/rss/search?q=(hydrogen%20OR%20electrolyser%20OR%20electrolyzer%20OR%20%22green%20ammonia%22)%20(billion%20OR%20million)%20(investment%20OR%20funding%20OR%20financing%20OR%20subsidy%20OR%20grant%20OR%20loan%20OR%20auction)%20when%3A30d&hl=en-GB&gl=GB&ceid=GB:en",
    "topic": "Investments & FIDs",
    "region": "Global",
    "score": 5
