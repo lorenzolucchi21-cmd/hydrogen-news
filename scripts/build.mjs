@@ -7,6 +7,10 @@ import { translateHeadlines } from './translate.mjs';
 const he = heModule.default ?? heModule;
 const shared = fs.readFileSync('src/shared.js', 'utf8');
 const S = new Function(`${shared}; return { prepare, dedupe, windowStart, detectLang };`)();
+// Curated illustrative photos (files in public/img). Only entries whose image files exist are published.
+const imageLibrary = JSON.parse(fs.readFileSync('config/images.json', 'utf8')).images
+  .filter(i => fs.existsSync(`public/img/${i.id}.jpg`));
+if (!imageLibrary.length) console.warn('Warning: no illustrative photos found; stories without their own picture will show no image.');
 const config = JSON.parse(fs.readFileSync('config/sources.json', 'utf8'));
 
 // Source types in config/sources.json:
@@ -50,7 +54,8 @@ function flat(node) {
   return '';
 }
 const plain = v => he.decode(he.decode(flat(v).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')).replace(/<[^>]*>/g, ' ')).replace(/\s+/g, ' ').trim();
-const abs = (v, base) => { try { const u = new URL(he.decode(v || ''), base); return /^https?:$/.test(u.protocol) && !u.username ? u.href : ''; } catch { return ''; } };
+// An empty value must stay empty: resolving '' against the feed address would return the feed address itself.
+const abs = (v, base) => { if (!v) return ''; try { const u = new URL(he.decode(v), base); return /^https?:$/.test(u.protocol) && !u.username ? u.href : ''; } catch { return ''; } };
 
 function parseFeed(xml, base, sourceName, usePublisher = false) {
   const p = parser.parse(xml.replace(/<!DOCTYPE[^>[]*(\[[\s\S]*?\])?\s*>/i, ''));
@@ -138,7 +143,7 @@ const counts = {};
 for (const a of archived) counts[a.origin] = (counts[a.origin] || 0) + 1;
 const data = {
   generatedAt: now.toISOString(),
-  articles: archived.map(({ title, titleEn, lang, summary, link, date, source, origin, image, topic, region, score }) => ({ title, titleEn, lang, summary, link, date, source, origin, image, topic, region, score })),
+  articles: archived.map(({ title, titleEn, lang, summary, link, date, source, origin, image, topic, region, market, score }) => ({ title, titleEn, lang, summary, link, date, source, origin, image, topic, region, market, score })),
   sources: results.map(r => ({ name: r.name, shown: counts[r.name] || 0, status: r.reached ? 'ok' : 'unreachable', error: r.reached ? '' : r.error }))
 };
 
@@ -152,7 +157,8 @@ else console.warn('Warning: the "public" folder is missing, so the phone home-sc
 const html = fs.readFileSync('src/template.html', 'utf8')
   .replace('/*STYLE*/', () => fs.readFileSync('src/style.css', 'utf8'))
   .replace('/*SHARED*/', () => shared)
-  .replace('/*DATA*/', () => JSON.stringify(data).replace(/</g, '\\u003c').replace(/\u2028|\u2029/g, ' '));
+  .replace('/*DATA*/', () => JSON.stringify(data).replace(/</g, '\\u003c').replace(/\u2028|\u2029/g, ' '))
+  .replace('/*IMAGES*/', () => JSON.stringify(imageLibrary).replace(/</g, '\\u003c').replace(/\u2028|\u2029/g, ' '));
 fs.writeFileSync('site/index.html', html);
 
 console.log(`Reached ${reachedCount}/${sources.length} sources; ${archived.length} articles in the 30-day archive.`);

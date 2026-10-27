@@ -74,15 +74,47 @@ const REGIONS = {
   'North America': /united states|\busa\b|\bu\.s\.|\bus\b(?= (government|state|doe|department|navy|energy))|american|canada|canadian|california|texas|\bdoe\b/i,
   'Latin America': /\bchile\b|chilean|brazil|argentin|paraguay|uruguay|colombia|latin america/i
 };
-function regionOf(text, lang) {
-  if (lang === 'de') return 'Germany';
-  if (lang === 'nl') return 'Benelux';
+function keywordRegion(text) {
   let best = 'Global', top = 0;
   for (const [name, re] of Object.entries(REGIONS)) {
     const n = (text.match(new RegExp(re.source, re.flags.includes('i') ? 'gi' : 'g')) || []).length;
     if (n > top) { best = name; top = n; }
   }
   return best;
+}
+function regionOf(text, lang) {
+  if (lang === 'de') return 'Germany';
+  if (lang === 'nl') return 'Benelux';
+  return keywordRegion(text);
+}
+
+// ---- Market priority -----------------------------------------------------------------------------------------
+// RWE's core markets (Germany, the Netherlands, the UK and Denmark) come first, then the rest of Europe/the EU.
+// Any mention counts, so a story about an export project that names Germany as the buyer is a core-market story too.
+// German and Dutch stories count as core unless they are clearly about a region outside Europe.
+const CORE_MARKETS = [
+  /germany|german\b|deutsch|\bberlin\b|hamburg|bavaria|bayern|\bnrw\b|nordenham|niedersachsen|düsseldorf|wilhelmshaven|\bemden\b|salzgitter|\bleuna\b/i,
+  /netherlands|dutch|nederland|niederlande|rotterdam|amsterdam|groningen|eemshaven|\bholland\b/i,
+  /united kingdom|britain|british|england|scotland|scottish|\bwales\b|northern ireland|\bU\.?K\.?\b/,
+  /denmark|danish|dänemark|danmark|esbjerg|copenhagen|aarhus|\bkøbenhavn/i
+];
+const OUTSIDE_EUROPE = new Set(['Middle East', 'Africa', 'Asia-Pacific', 'North America', 'Latin America']);
+function marketOf(text, lang) {
+  if (CORE_MARKETS.some(re => re.test(text))) return 'core';
+  if (lang === 'de' || lang === 'nl') return OUTSIDE_EUROPE.has(keywordRegion(text)) ? 'other' : 'core';
+  return [REGIONS['Other Europe'], REGIONS.Nordics, REGIONS.Benelux].some(re => re.test(text)) ? 'eu' : 'other';
+}
+const MARKET_BOOST = { core: 8, eu: 5, other: 0 };
+const MARKET_PENALTY_OUTSIDE = 3;
+// e-SAF and e-fuel stories keep their place wherever they happen, because they matter for offtake.
+const KEEP_OUTSIDE = new Set(['Aviation & e-SAF', 'Ammonia & e-Fuels']);
+// Order of stories on the page: commercial relevance, recency, and market priority.
+function rankScore(a, now = Date.now()) {
+  const age = (now - Date.parse(a.date)) / 864e5;
+  const market = a.market || 'eu';
+  let s = a.score + Math.max(0, 3 - age * 0.4) + MARKET_BOOST[market];
+  if (market === 'other' && !KEEP_OUTSIDE.has(a.topic)) s -= MARKET_PENALTY_OUTSIDE;
+  return s;
 }
 const SIGNALS = [
   [/final investment decision|\bfid\b|investitionsentscheidung|investeringsbeslissing/i, 6],
@@ -152,8 +184,20 @@ function detectLang(text, hint = 'en') {
   return n.de + n.nl + n.en === 0 ? hint : 'en';
 }
 
+// A story's own picture must be a plain web image address. Feed addresses (for example Google News RSS searches) are
+// not pictures and must never be requested by a visitor's browser.
+function cleanImage(value) {
+  try {
+    const u = new URL(value);
+    if (!/^https?:$/.test(u.protocol) || u.username) return '';
+    if (/(^|\.)news\.google\.com$/.test(u.hostname) && /^\/rss\b/.test(u.pathname)) return '';
+    if (/\.(xml|rss|atom)$/i.test(u.pathname) || /\/(feed|rss)\/?$/i.test(u.pathname)) return '';
+    return u.href;
+  } catch { return ''; }
+}
+
 function prepare(raw, opts = {}) {
-  const a = { title: raw.title, summary: raw.summary || '', link: raw.link, date: raw.date, source: raw.source, image: raw.image || '' };
+  const a = { title: raw.title, summary: raw.summary || '', link: raw.link, date: raw.date, source: raw.source, image: cleanImage(raw.image) };
   if (!a.title || !/^https?:\/\//i.test(a.link) || Number.isNaN(Date.parse(a.date))) return null;
   const t = a.title + ' ' + a.summary;
   if (!(H2.test(t) || WATCH.test(t)) || !COMM.test(t) || EXCL.test(t)) return null;
@@ -163,6 +207,7 @@ function prepare(raw, opts = {}) {
   a.lang = detectLang(t, opts.lang);
   a.topic = topicOf(a.title, a.summary);
   a.region = regionOf(t, a.lang);
+  a.market = marketOf(t, a.lang);
   a.date = new Date(a.date).toISOString();
   return a;
 }
@@ -195,6 +240,69 @@ function windowStart(days, now = new Date()) {
   d.setHours(0, 0, 0, 0);
   d.setDate(d.getDate() - (days - 1));
   return d;
+}
+
+// ---- Illustrative pictures -----------------------------------------------------------------------------------
+// Stories without a picture of their own get a topical, openly licensed photo from the curated library
+// (config/images.json). It illustrates the subject only; it is not a picture of the event itself.
+const IMAGE_FALLBACK = 'hydrogen-general';
+const IMAGE_RULES = [
+  ['ship', /\b(ships?|vessels?|tankers?|shipping|maritime|carriers?|vlacs?|harbou?rs?|hafen|schiff\w*|scheepvaart|havens?)\b|port of |dual-fuel/i],
+  ['aviation', /\be-?saf\b|\besaf\b|aviation|airlines?|aircraft|airports?|\bjet\b|kerosene|kerosin|flugzeug|flughafen|luchtvaart|vliegtuig/i],
+  ['pipeline', /pipelines?|kernnetz|\bcaverns?\b|storage|speicher|opslag|\bgrid\b|\bnetwork|netz\b|terminal|compressor|leitung/i],
+  ['mobility', /fuel cell (vehicle|car|truck|bus)|\bbus(es)?\b|\btrucks?\b|\btrains?\b|\bcars?\b|vehicles?|filling stations?|refuel\w*|tankstelle|tankstation|mobility|mobilit|\blkw\b|\bhgv\b|forklift|\bfcev\b/i],
+  ['industry', /\bsteel|stahl|\bstaal|refiner|raffin|chemical|chemie|cement|zement|fertili[sz]er|ammonia|ammoniak|methanol|industr/i],
+  ['renewables', /offshore wind|\bwind\b|solar|photovolt|renewable|windpark|erneuerbar/i],
+  ['policy', /government|ministry|minister|parliament|regulat|\bpolicy|auction|subsid|bundesregierung|ministerium|european commission|\blaw\b|regierung|gesetz|beleid|state aid|hydrogen bank|(10|ten|zehn)-?(point|punkte)/i],
+  ['electrolyser', /electrolys|electrolyz|elektrolys|\bplant\b|factory|production|\bstack\b|gigafactory|\b\d[\d.,]*[\s-]?(mw|gw)\b|anlage/i]
+];
+const TOPIC_IMAGE = {
+  'Investments & FIDs': 'electrolyser', 'Offtake & Supply': 'pipeline', 'Policy & Auctions': 'policy', 'Infrastructure & Storage': 'pipeline',
+  'Aviation & e-SAF': 'aviation', 'Steel & Industry': 'industry', 'Ammonia & e-Fuels': 'industry', 'Production & Technology': 'electrolyser'
+};
+function imageCategory(a) {
+  if (a.topic === 'Policy & Auctions') return 'policy';
+  if (a.topic === 'Aviation & e-SAF') return 'aviation';
+  const title = (a.titleEn || a.title) + ' ' + a.title;
+  for (const text of [title, a.summary || '']) for (const [cat, re] of IMAGE_RULES) if (re.test(text)) return cat;
+  return TOPIC_IMAGE[a.topic] || IMAGE_FALLBACK;
+}
+function hashString(s) {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); }
+  return h >>> 0;
+}
+// `used` holds the pictures already shown on the page, so neighbouring stories do not repeat a picture while the
+// category still has an unused one. The choice is stable: the same story always starts from the same picture.
+// When every photo of a category is already on the page, a related category is tried before any photo repeats.
+const IMAGE_RELATED = {
+  electrolyser: ['hydrogen-general', 'renewables', 'industry'], 'hydrogen-general': ['electrolyser', 'industry', 'renewables'],
+  mobility: ['hydrogen-general'], pipeline: ['industry', 'hydrogen-general'], industry: ['pipeline', 'electrolyser'],
+  renewables: ['electrolyser'], ship: ['industry'], aviation: [], policy: []
+};
+function pickImage(a, library, used = new Set()) {
+  const category = imageCategory(a);
+  const regional = pool => {
+    // Photos tagged with regions (for example a parliament building) are used for stories from those regions;
+    // other stories get the untagged photos of the category.
+    const local = pool.filter(i => i.regions && i.regions.includes(a.region)), generic = pool.filter(i => !i.regions);
+    return local.length ? local : generic.length ? generic : pool;
+  };
+  let pool = library.filter(i => i.cats.includes(category));
+  if (!pool.length) pool = library.filter(i => i.cats.includes(IMAGE_FALLBACK));
+  if (!pool.length) pool = library;
+  if (!pool.length) return null;
+  pool = regional(pool);
+  const start = hashString(a.link || a.title);
+  for (let k = 0; k < pool.length; k++) {
+    const c = pool[(start + k) % pool.length];
+    if (!used.has(c.id)) { used.add(c.id); return c; }
+  }
+  for (const rel of IMAGE_RELATED[category] || []) {
+    const extra = library.filter(i => i.cats.includes(rel) && !i.regions && !used.has(i.id));
+    if (extra.length) { const c = extra[start % extra.length]; used.add(c.id); return c; }
+  }
+  return pool[start % pool.length];
 }
 
 // ---- Same story, several publishers --------------------------------------------------------------------------

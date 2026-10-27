@@ -46,26 +46,52 @@
   </div>
   <section class="flow" id="flow" aria-label="Deal-flow balance"></section>
   <main id="main" aria-busy="false"><section class="lead" id="lead"></section><div id="sections"></div></main>
-  <footer>Public headline metadata only. Full articles remain with their publishers. A picture is shown on the lead story only when the feed supplies one. Stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals), and reports of the same story by several publishers are shown once. German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.</footer>
+  <footer>Public headline metadata only. Full articles remain with their publishers. Each story shows the picture supplied by the publisher's feed when there is one; otherwise it shows an openly licensed illustrative photo matching the topic (a stock photo, not a picture of the event itself), with its credit. Stories from RWE's core markets (Germany, the Netherlands, the UK and Denmark) and from the rest of Europe are ranked first; stories from outside Europe rank lower, except e-SAF and e-fuels. Within that, stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals), and reports of the same story by several publishers are shown once. German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.
+    <details class="credits" id="credits"></details></footer>
 </div>
 <script>/*SHARED*/</script>
 <script>
 let DATA = /*DATA*/;
+const IMAGES = /*IMAGES*/;
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const safe = u => /^https?:\/\//i.test(u || '') ? u : '';
 const fmt = (d, m = 'short') => new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: m, year: 'numeric' });
-let all = DATA.articles.slice(), active = 'All', note = '', loading = false;
+let all = DATA.articles.slice(), active = 'All', note = '', loading = false, usedImages = new Set();
 
-function rank(a) {
-  const age = (Date.now() - new Date(a.date)) / 864e5;
-  return a.score + Math.max(0, 3 - age * 0.4);
-}
 const LANGNAME = { de: 'German', nl: 'Dutch' };
 function headline(a) { return a.titleEn || a.title; }
 function original(a) {
   return a.titleEn && a.titleEn !== a.title ? `<div class="orig" lang="${esc(a.lang)}">Original (${esc(LANGNAME[a.lang] || a.lang)}): ${esc(a.title)}</div>` : '';
 }
+// Picture: the one supplied by the publisher's feed if there is one, otherwise a topical illustrative photo.
+// If the publisher's picture cannot be loaded, the illustrative photo replaces it (see the error handler below).
+function creditHtml(i) {
+  const c = i.credit || {};
+  return `Illustrative photo: <a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer" title="${esc(c.title)} · ${esc(c.author)} · ${esc(c.license)}">${esc(c.author)}</a>, ${esc(c.license)}`;
+}
+function photo(a) {
+  const own = safe(a.image);
+  const alt = pickImage(a, IMAGES, own ? new Set() : usedImages);
+  const file = i => `img/${i.id}.jpg`;
+  if (own) {
+    return `<figure class="photo"><img src="${esc(own)}" alt="" loading="lazy" referrerpolicy="no-referrer"${alt ? ` data-fb="${esc(file(alt))}" data-cap="${esc(creditHtml(alt))}"` : ''}><figcaption></figcaption></figure>`;
+  }
+  return alt ? `<figure class="photo"><img src="${esc(file(alt))}" alt="" loading="lazy"><figcaption>${creditHtml(alt)}</figcaption></figure>` : '';
+}
+document.addEventListener('error', e => {
+  const img = e.target;
+  if (!img || img.tagName !== 'IMG') return;
+  const fig = img.closest('figure.photo');
+  if (img.dataset.fb) {
+    const fb = img.dataset.fb, cap = img.dataset.cap || '';
+    delete img.dataset.fb;
+    img.removeAttribute('referrerpolicy');
+    img.src = fb;
+    const c = fig && fig.querySelector('figcaption');
+    if (c) c.innerHTML = cap;
+  } else if (fig) fig.remove();
+}, true);
 function alsoCovered(a) {
   const seen = new Set([a.source]), out = [];
   for (const x of a.also || []) if (!seen.has(x.source) && safe(x.link)) { seen.add(x.source); out.push(x); }
@@ -74,7 +100,7 @@ function alsoCovered(a) {
   return `<div class="also">Also reported by ${links}${out.length > 3 ? ` and ${out.length - 3} more` : ''}</div>`;
 }
 function card(a) {
-  return `<article class="story"><div class="k">${esc(a.topic)}</div>
+  return `<article class="story">${photo(a)}<div class="k">${esc(a.topic)}</div>
 <h3>${esc(headline(a))}</h3>${original(a)}<div class="meta">${esc(a.source)} · ${fmt(a.date)} · ${esc(a.region)}</div>
 ${a.summary ? `<p>${esc(a.summary)}</p>` : ''}${alsoCovered(a)}<a class="read" href="${esc(safe(a.link))}" target="_blank" rel="noopener noreferrer" aria-label="Read original article: ${esc(headline(a))}">Read original →</a></article>`;
 }
@@ -83,7 +109,8 @@ function storyList() {
   const q = $('search').value.toLowerCase(), s = $('source').value, r = $('region').value, now = new Date();
   const matches = all.filter(a => new Date(a.date) <= now && (active === 'All' || a.topic === active) && (!s || a.source === s) && (!r || a.region === r) &&
     (!q || (a.title + ' ' + (a.titleEn || '') + ' ' + a.summary + ' ' + a.source).toLowerCase().includes(q)));
-  return groupSimilar(matches.sort((a, b) => rank(b) - rank(a) || new Date(b.date) - new Date(a.date)));
+  const t = Date.now();
+  return groupSimilar(matches.sort((a, b) => rankScore(b, t) - rankScore(a, t) || new Date(b.date) - new Date(a.date)));
 }
 function renderFlow(stories) {
   const f = dealFlow(stories), c = f.current, p = f.previous;
@@ -112,10 +139,11 @@ function render() {
   const snap = new Date(DATA.generatedAt);
   const hours = (Date.now() - snap) / 36e5;
   $('status').textContent = `${a.length} relevant hydrogen headlines from the past ${days} days · Updated ${snap.toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' })}${hours > 12 ? ' (collection is overdue)' : ''}${note}`;
-  // The lead is the best story, or the best of the top three that has a picture.
-  const lead = a.slice(0, 3).find(x => safe(x.image)) || a[0];
-  const rest = lead ? a.filter(x => x !== lead) : [];
-  $('lead').innerHTML = lead ? `<div class="hero">${safe(lead.image) ? `<img src="${esc(lead.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}<div class="k">Lead story · ${esc(lead.topic)}</div>
+  // The lead is the best-ranked story. Every story shows a picture, so no picture is needed to qualify.
+  usedImages = new Set();
+  const lead = a[0];
+  const rest = lead ? a.slice(1) : [];
+  $('lead').innerHTML = lead ? `<div class="hero">${photo(lead)}<div class="k">Lead story · ${esc(lead.topic)}</div>
 <h2>${esc(headline(lead))}</h2>${original(lead)}<div class="meta">${esc(lead.source)} · ${fmt(lead.date, 'long')} · ${esc(lead.region)}</div>${lead.summary ? `<p class="deck">${esc(lead.summary)}</p>` : ''}${alsoCovered(lead)}
 <a class="read" href="${esc(safe(lead.link))}" target="_blank" rel="noopener noreferrer">Continue at publisher →</a></div>
 <div class="side">${rest.slice(0, 2).map(card).join('')}</div><div class="side">${rest.slice(2, 4).map(card).join('')}</div>`
@@ -139,6 +167,7 @@ function sync() {
   all.forEach(a => { const k = a.origin || a.source; counts[k] = (counts[k] || 0) + 1; });
   const up = DATA.sources.filter(s => s.status === 'ok').length;
   $('healthSummary').textContent = `${up} of ${DATA.sources.length} sources reachable at the last collection · ${Object.keys(counts).length} with stories in the 30-day archive`;
+  $('credits').innerHTML = IMAGES.length ? `<summary>Photo credits</summary><ul>${IMAGES.map(i => `<li><a href="${esc(i.credit.url)}" target="_blank" rel="noopener noreferrer">${esc(i.credit.title)}</a> · ${esc(i.credit.author)} · ${esc(i.credit.license)}</li>`).join('')}</ul>` : '';
   $('healthGrid').innerHTML = DATA.sources.map(s => s.status !== 'ok'
     ? `<div class="health-fail">● ${esc(s.name)} — unreachable (${esc(s.error)})</div>`
     : counts[s.name] ? `<div class="health-ok">● ${esc(s.name)} — ${counts[s.name]} in archive</div>`

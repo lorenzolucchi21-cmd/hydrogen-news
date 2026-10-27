@@ -1,0 +1,862 @@
+{
+  "images": [
+    {
+      "id": "20260130-haru-oni",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "20260130 Haru Oni.jpg",
+        "author": "Ildottoreverde",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:20260130_Haru_Oni.jpg"
+      }
+    },
+    {
+      "id": "bhv-124-hg",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "Bhv-124 hg.jpg",
+        "author": "Hannes Grobe",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bhv-124_hg.jpg"
+      }
+    },
+    {
+      "id": "enertrag-hybridkraftwerk",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "Enertrag-Hybridkraftwerk.jpg",
+        "author": "Hanno Böck",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Enertrag-Hybridkraftwerk.jpg"
+      }
+    },
+    {
+      "id": "20141101-xl-hybridkraftwerk-hybrid-p",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "20141101 xl Hybridkraftwerk-hybrid-power-plant-Windkraftanlage-WKA-bei-Prenzlau-1161.JPG",
+        "author": "Molgreen",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:20141101_xl_Hybridkraftwerk-hybrid-power-plant-Windkraftanlage-WKA-bei-Prenzlau-1161.JPG"
+      }
+    },
+    {
+      "id": "helmeth-ptg-anlage",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "Helmeth PtG Anlage.jpg",
+        "author": "Manuel Gruber",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Helmeth_PtG_Anlage.jpg"
+      }
+    },
+    {
+      "id": "biologische-methanisierung-anlage-al",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "Biologische Methanisierung, Anlage Allendorf (Eder) in Deutschland.jpg",
+        "author": "Eva Sonnleitner",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Biologische_Methanisierung,_Anlage_Allendorf_(Eder)_in_Deutschland.jpg"
+      }
+    },
+    {
+      "id": "2018-sotavento-planta-de-xeracio-n-d",
+      "cats": [
+        "electrolyser"
+      ],
+      "credit": {
+        "title": "2018. Sotavento. Planta de xeración de hidróxeno.jpg",
+        "author": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2018._Sotavento._Planta_de_xeraci%C3%B3n_de_hidr%C3%B3xeno.jpg"
+      }
+    },
+    {
+      "id": "liquid-hydrogen-storage-tank-at-laun",
+      "cats": [
+        "hydrogen-general"
+      ],
+      "credit": {
+        "title": "Liquid hydrogen storage tank at Launch Pad 39B.jpg",
+        "author": "TomFawls",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Liquid_hydrogen_storage_tank_at_Launch_Pad_39B.jpg"
+      }
+    },
+    {
+      "id": "hydrogen-supply-system-at-dlr-cologn",
+      "cats": [
+        "hydrogen-general"
+      ],
+      "credit": {
+        "title": "Hydrogen supply system at DLR Cologne.jpg",
+        "author": "DLR",
+        "license": "CC BY 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Hydrogen_supply_system_at_DLR_Cologne.jpg"
+      }
+    },
+    {
+      "id": "artemis-i-prelaunch-nhq202208310014",
+      "cats": [
+        "hydrogen-general"
+      ],
+      "credit": {
+        "title": "Artemis I Prelaunch (NHQ202208310014).jpg",
+        "author": "Bill Ingalls",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Artemis_I_Prelaunch_(NHQ202208310014).jpg"
+      }
+    },
+    {
+      "id": "lh2-tank-construction-update-ksc-202",
+      "cats": [
+        "hydrogen-general"
+      ],
+      "credit": {
+        "title": "LH2 Tank Construction Update (KSC-20211001-PH-GEB01 0017).jpg",
+        "author": "NASA Kennedy Space Center / NASA/Glenn Benson",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:LH2_Tank_Construction_Update_(KSC-20211001-PH-GEB01_0017).jpg"
+      }
+    },
+    {
+      "id": "toyota-mirai-high-pressure-hydrogen-",
+      "cats": [
+        "hydrogen-general"
+      ],
+      "credit": {
+        "title": "Toyota Mirai high-pressure hydrogen tank SAO 2016 9036.jpg",
+        "author": "Mariordo (Mario Roberto Durán Ortiz)",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Toyota_Mirai_high-pressure_hydrogen_tank_SAO_2016_9036.jpg"
+      }
+    },
+    {
+      "id": "lh2-tank-construction-update-ksc-2",
+      "cats": [
+        "hydrogen-general"
+      ],
+      "credit": {
+        "title": "LH2 Tank Construction Update (KSC-20211001-PH-GEB01 0028).jpg",
+        "author": "NASA Kennedy Space Center / NASA/Glenn Benson",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:LH2_Tank_Construction_Update_(KSC-20211001-PH-GEB01_0028).jpg"
+      }
+    },
+    {
+      "id": "berlin-wasserstofftankstelle-messeda",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "Berlin-WasserstoffTankstelle-Messedamm-2007.jpg",
+        "author": "Coenen",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Berlin-WasserstoffTankstelle-Messedamm-2007.jpg"
+      }
+    },
+    {
+      "id": "wasserstoff-tankstelle-stuttgart-flu",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "Wasserstoff Tankstelle Stuttgart Flughafen.jpg",
+        "author": "5R-MFT",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Wasserstoff_Tankstelle_Stuttgart_Flughafen.jpg"
+      }
+    },
+    {
+      "id": "wasserstofftankstelle-hanekenfa-hr-l",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "Wasserstofftankstelle Hanekenfähr Lingen 2026.jpg",
+        "author": "Vinaceus",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Wasserstofftankstelle_Hanekenf%C3%A4hr_Lingen_2026.jpg"
+      }
+    },
+    {
+      "id": "hydrogen-station-in-jyva-skyla",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "Hydrogen station in Jyväskylä.jpg",
+        "author": "Tiia Monto",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Hydrogen_station_in_Jyv%C3%A4skyl%C3%A4.jpg"
+      }
+    },
+    {
+      "id": "kittybrewster-hydrogen-fuelling-stat",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "Kittybrewster hydrogen fuelling station - geograph.org.uk - 5859415.jpg",
+        "author": "Bill Harrison",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kittybrewster_hydrogen_fuelling_station_-_geograph.org.uk_-_5859415.jpg"
+      }
+    },
+    {
+      "id": "hydrogenics-fuel-cell-bus",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "Hydrogenics fuel cell Bus.JPG",
+        "author": "Hydrogen99",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Hydrogenics_fuel_cell_Bus.JPG"
+      }
+    },
+    {
+      "id": "2015-washington-auto-show-1615609164",
+      "cats": [
+        "mobility"
+      ],
+      "credit": {
+        "title": "2015 Washington Auto Show (16156091648).jpg",
+        "author": "U.S. Department of Energy from United States",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:2015_Washington_Auto_Show_(16156091648).jpg"
+      }
+    },
+    {
+      "id": "iz-kovce-gas-pipeline-panoramio",
+      "cats": [
+        "pipeline"
+      ],
+      "credit": {
+        "title": "Ižkovce Gas pipeline - panoramio.jpg",
+        "author": "Györgyfi",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:I%C5%BEkovce_Gas_pipeline_-_panoramio.jpg"
+      }
+    },
+    {
+      "id": "dolne-zelenice-slovakia-gas-pipeline",
+      "cats": [
+        "pipeline"
+      ],
+      "credit": {
+        "title": "Dolné Zelenice, Slovakia , gas pipeline bridge.jpg",
+        "author": "Szombat78",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Doln%C3%A9_Zelenice,_Slovakia_,_gas_pipeline_bridge.jpg"
+      }
+    },
+    {
+      "id": "tubes-5471381148",
+      "cats": [
+        "pipeline"
+      ],
+      "credit": {
+        "title": "Tubes (5471381148).jpg",
+        "author": "Harald Hoyer from Schwerin, Germany",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Tubes_(5471381148).jpg"
+      }
+    },
+    {
+      "id": "aukra-ormen-lange",
+      "cats": [
+        "pipeline"
+      ],
+      "credit": {
+        "title": "Aukra Ormen Lange.jpg",
+        "author": "Bair175",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Aukra_Ormen_Lange.jpg"
+      }
+    },
+    {
+      "id": "gasoducto-junto-a-la-b-145-chile-201",
+      "cats": [
+        "pipeline"
+      ],
+      "credit": {
+        "title": "Gasoducto junto a la B-145, Chile, 2016-02-09, DD 32.JPG",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Gasoducto_junto_a_la_B-145,_Chile,_2016-02-09,_DD_32.JPG"
+      }
+    },
+    {
+      "id": "gas-well-pipes",
+      "cats": [
+        "pipeline"
+      ],
+      "credit": {
+        "title": "Gas Well Pipes.jpg",
+        "author": "Carl Young",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Gas_Well_Pipes.jpg"
+      }
+    },
+    {
+      "id": "sydney-container-port-by-air-2",
+      "cats": [
+        "ship"
+      ],
+      "credit": {
+        "title": "Sydney container port by air -2.jpg",
+        "author": "Aaron Jacobs",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sydney_container_port_by_air_-2.jpg"
+      }
+    },
+    {
+      "id": "container-ship-at-the-hai-phong-inte",
+      "cats": [
+        "ship"
+      ],
+      "credit": {
+        "title": "Container Ship at the Hai Phong International Container Terminal 01.jpg",
+        "author": "Nathan.cima",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Container_Ship_at_the_Hai_Phong_International_Container_Terminal_01.jpg"
+      }
+    },
+    {
+      "id": "container-ships-jessica-b-imo-922638",
+      "cats": [
+        "ship"
+      ],
+      "credit": {
+        "title": "Container ships Jessica B (IMO 9226384) and Marianne Schulte (IMO 9215907) at the container terminal Burchardkai, port of Hamburg-4748.jpg",
+        "author": "Raimond Spekking",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Container_ships_Jessica_B_(IMO_9226384)_and_Marianne_Schulte_(IMO_9215907)_at_the_container_terminal_Burchardkai,_port_of_Hamburg-4748.jpg"
+      }
+    },
+    {
+      "id": "port-jersey-container-ship-sunset-20",
+      "cats": [
+        "ship"
+      ],
+      "credit": {
+        "title": "Port Jersey container ship sunset 2018.jpg",
+        "author": "Eric Kilby",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Port_Jersey_container_ship_sunset_2018.jpg"
+      }
+    },
+    {
+      "id": "napier-port-container-ship",
+      "cats": [
+        "ship"
+      ],
+      "credit": {
+        "title": "Napier Port container ship.jpg",
+        "author": "Panamitsu",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Napier_Port_container_ship.jpg"
+      }
+    },
+    {
+      "id": "container-ship-in-the-port-of-vigo",
+      "cats": [
+        "ship"
+      ],
+      "credit": {
+        "title": "Container ship in the Port of Vigo.jpg",
+        "author": "Toatway",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Container_ship_in_the_Port_of_Vigo.jpg"
+      }
+    },
+    {
+      "id": "jet-with-four-contrails",
+      "cats": [
+        "aviation"
+      ],
+      "credit": {
+        "title": "Jet with four contrails.jpg",
+        "author": "Gunnar Ries",
+        "license": "CC BY-SA 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Jet_with_four_contrails.jpg"
+      }
+    },
+    {
+      "id": "airplane-jet-aviation-aircraft-1-236",
+      "cats": [
+        "aviation"
+      ],
+      "credit": {
+        "title": "Airplane-jet-aviation-aircraft-1 (23698183143).jpg",
+        "author": "www.Pixel.la Free Stock Photos",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Airplane-jet-aviation-aircraft-1_(23698183143).jpg"
+      }
+    },
+    {
+      "id": "airplane-jet-aviation-aircraft-23697",
+      "cats": [
+        "aviation"
+      ],
+      "credit": {
+        "title": "Airplane-jet-aviation-aircraft (23697892593).jpg",
+        "author": "www.Pixel.la Free Stock Photos",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Airplane-jet-aviation-aircraft_(23697892593).jpg"
+      }
+    },
+    {
+      "id": "spoilers-on-an-american-eagle-crj-je",
+      "cats": [
+        "aviation"
+      ],
+      "credit": {
+        "title": "Spoilers on an American Eagle CRJ jet Note airplane flying in distance below.jpg",
+        "author": "Northwalker",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Spoilers_on_an_American_Eagle_CRJ_jet_Note_airplane_flying_in_distance_below.jpg"
+      }
+    },
+    {
+      "id": "airplane-jet-engine-clouds-over-the-",
+      "cats": [
+        "aviation"
+      ],
+      "credit": {
+        "title": "Airplane jet engine & clouds over the Carolinas (12 June 2012).jpg",
+        "author": "James St. John",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Airplane_jet_engine_%26_clouds_over_the_Carolinas_(12_June_2012).jpg"
+      }
+    },
+    {
+      "id": "20240314-delta-jet-vapor-trails-cont",
+      "cats": [
+        "aviation"
+      ],
+      "credit": {
+        "title": "20240314 delta jet vapor trails contrails casa PD204087.jpg",
+        "author": "Paul Danese",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:20240314_delta_jet_vapor_trails_contrails_casa_PD204087.jpg"
+      }
+    },
+    {
+      "id": "sendzimir-s-nowa-huta-steel-mill-bla",
+      "cats": [
+        "industry"
+      ],
+      "credit": {
+        "title": "Sendzimir's (Nowa Huta) steel mill, blast furnace, 1 Ujastek street, Nowa Huta, Krakow, Poland.jpg",
+        "author": "Zygmunt Put Zetpe0202",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sendzimir%27s_(Nowa_Huta)_steel_mill,_blast_furnace,_1_Ujastek_street,_Nowa_Huta,_Krakow,_Poland.jpg"
+      }
+    },
+    {
+      "id": "anacortes-refinery-31911",
+      "cats": [
+        "industry"
+      ],
+      "credit": {
+        "title": "Anacortes Refinery 31911.JPG",
+        "author": "Walter Siegmund (talk)",
+        "license": "CC BY 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Anacortes_Refinery_31911.JPG"
+      }
+    },
+    {
+      "id": "exxon-mobil-oil-refinery-baton-rouge",
+      "cats": [
+        "industry"
+      ],
+      "credit": {
+        "title": "Exxon Mobil oil refinery - Baton Rouge, Louisiana.jpg",
+        "author": "WClarke",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Exxon_Mobil_oil_refinery_-_Baton_Rouge,_Louisiana.jpg"
+      }
+    },
+    {
+      "id": "fawley-oil-refinery-viewed-from-west",
+      "cats": [
+        "industry"
+      ],
+      "credit": {
+        "title": "Fawley oil refinery viewed from Weston Shore, Southampton, 12 April 2015.jpg",
+        "author": "Sw257",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Fawley_oil_refinery_viewed_from_Weston_Shore,_Southampton,_12_April_2015.jpg"
+      }
+    },
+    {
+      "id": "castrop-rauxel-ruetgers-chemicals-gm",
+      "cats": [
+        "industry"
+      ],
+      "credit": {
+        "title": "Castrop-Rauxel Ruetgers Chemicals GmbH 02.jpg",
+        "author": "Arnoldius",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Castrop-Rauxel_Ruetgers_Chemicals_GmbH_02.jpg"
+      }
+    },
+    {
+      "id": "irving-oil-refinery-saint-john-nb",
+      "cats": [
+        "industry"
+      ],
+      "credit": {
+        "title": "Irving Oil Refinery - Saint John, NB.jpg",
+        "author": "Quintin Soloviev",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Irving_Oil_Refinery_-_Saint_John,_NB.jpg"
+      }
+    },
+    {
+      "id": "middelgrunden-wind-farm-2009-07-01-e",
+      "cats": [
+        "renewables"
+      ],
+      "credit": {
+        "title": "Middelgrunden wind farm 2009-07-01 edit filtered.jpg",
+        "author": "Kim Hansen. Postprocessing (crop, rotation, color adjustment",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg"
+      }
+    },
+    {
+      "id": "offshore-wind-farms-photographed-at-",
+      "cats": [
+        "renewables"
+      ],
+      "credit": {
+        "title": "Offshore wind farms photographed at the Port of Noshiro, at sunset 20220728.jpg",
+        "author": "掬茶",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Offshore_wind_farms_photographed_at_the_Port_of_Noshiro,_at_sunset_20220728.jpg"
+      }
+    },
+    {
+      "id": "nordsee-one-offshore-windpark",
+      "cats": [
+        "renewables"
+      ],
+      "credit": {
+        "title": "Nordsee One Offshore Windpark.jpg",
+        "author": "Capmat007",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Nordsee_One_Offshore_Windpark.jpg"
+      }
+    },
+    {
+      "id": "block-island-offshore-wind-farm-p629",
+      "cats": [
+        "renewables"
+      ],
+      "credit": {
+        "title": "Block Island offshore wind farm P6290638m.jpg",
+        "author": "Ionna22",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Block_Island_offshore_wind_farm_P6290638m.jpg"
+      }
+    },
+    {
+      "id": "wind-turbines-and-power-lines-east-s",
+      "cats": [
+        "renewables"
+      ],
+      "credit": {
+        "title": "Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg"
+      }
+    },
+    {
+      "id": "kentish-flats-offshore-wind-farm",
+      "cats": [
+        "renewables"
+      ],
+      "credit": {
+        "title": "Kentish Flats Offshore Wind Farm.jpg",
+        "author": "Back ache",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kentish_Flats_Offshore_Wind_Farm.jpg"
+      }
+    },
+    {
+      "id": "berlin-reichstag-bw-2",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Germany"
+      ],
+      "credit": {
+        "title": "Berlin Reichstag BW 2.jpg",
+        "author": "Berthold Werner",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Berlin_Reichstag_BW_2.jpg"
+      }
+    },
+    {
+      "id": "reichstagsgeba-ude-berlin-mitte-1704",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Germany"
+      ],
+      "credit": {
+        "title": "Reichstagsgebäude, Berlin-Mitte, 170402, ako.jpg",
+        "author": "Ansgar Koreng",
+        "license": "CC BY-SA 3.0 de",
+        "url": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude,_Berlin-Mitte,_170402,_ako.jpg"
+      }
+    },
+    {
+      "id": "reichstag-zur-blauen-stunde-berlin-m",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Germany"
+      ],
+      "credit": {
+        "title": "Reichstag zur blauen Stunde, Berlin-Mitte, 1705312210, ako.jpg",
+        "author": "Ansgar Koreng",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Reichstag_zur_blauen_Stunde,_Berlin-Mitte,_1705312210,_ako.jpg"
+      }
+    },
+    {
+      "id": "berlin-reichstagsgeba-ude-2019-6314",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Germany"
+      ],
+      "credit": {
+        "title": "Berlin, Reichstagsgebäude -- 2019 -- 6314.jpg",
+        "author": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Berlin,_Reichstagsgeb%C3%A4ude_--_2019_--_6314.jpg"
+      }
+    },
+    {
+      "id": "brussels-berlaymont-building-1",
+      "cats": [
+        "policy"
+      ],
+      "credit": {
+        "title": "Brussels-Berlaymont building (1).jpg",
+        "author": "Romaine",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Brussels-Berlaymont_building_(1).jpg"
+      }
+    },
+    {
+      "id": "belgique-bruxelles-schuman-berlaymon",
+      "cats": [
+        "policy"
+      ],
+      "credit": {
+        "title": "Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg",
+        "author": "EmDee",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg"
+      }
+    },
+    {
+      "id": "berlaymont-building-dscf7542-dscf754",
+      "cats": [
+        "policy"
+      ],
+      "credit": {
+        "title": "Berlaymont building (DSCF7542-DSCF7548).jpg",
+        "author": "Trougnouf (Benoit Brummer)",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg"
+      }
+    },
+    {
+      "id": "european-parliament-strasbourg-hemic",
+      "cats": [
+        "policy"
+      ],
+      "credit": {
+        "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg"
+      }
+    },
+    {
+      "id": "big-ben-at-sunset-2014-10-27-17-30",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "UK & Ireland"
+      ],
+      "credit": {
+        "title": "Big Ben at sunset - 2014-10-27 17-30.jpg",
+        "author": "Colin",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunset_-_2014-10-27_17-30.jpg"
+      }
+    },
+    {
+      "id": "london-lambeth-river-thames-houses-o",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "UK & Ireland"
+      ],
+      "credit": {
+        "title": "London , Lambeth - River Thames ^ Houses of Parliament - geograph.org.uk - 2410501.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:London_,_Lambeth_-_River_Thames_%5E_Houses_of_Parliament_-_geograph.org.uk_-_2410501.jpg"
+      }
+    },
+    {
+      "id": "palace-of-westminster-from-the-dome-",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "UK & Ireland"
+      ],
+      "credit": {
+        "title": "Palace of Westminster from the dome on Methodist Central Hall.jpg",
+        "author": "Colin",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg"
+      }
+    },
+    {
+      "id": "binnenhof-the-hague-1867",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Benelux"
+      ],
+      "credit": {
+        "title": "Binnenhof, The Hague 1867.jpg",
+        "author": "Hubertl",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Binnenhof,_The_Hague_1867.jpg"
+      }
+    },
+    {
+      "id": "binnenhof-the-hague-hu-1806",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Benelux"
+      ],
+      "credit": {
+        "title": "Binnenhof, The Hague -hu-1806.jpg",
+        "author": "Hubertl",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Binnenhof,_The_Hague_-hu-1806.jpg"
+      }
+    },
+    {
+      "id": "tweede-kamer-building-den-haag-2010-",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Benelux"
+      ],
+      "credit": {
+        "title": "Tweede Kamer building - Den Haag - 2010 - panoramio.jpg",
+        "author": "StevenL",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Tweede_Kamer_building_-_Den_Haag_-_2010_-_panoramio.jpg"
+      }
+    },
+    {
+      "id": "christiansborg-palace-copenhagen-by-",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Nordics"
+      ],
+      "credit": {
+        "title": "Christiansborg Palace, Copenhagen (by Pudelek).JPG",
+        "author": "Pudelek",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Christiansborg_Palace,_Copenhagen_(by_Pudelek).JPG"
+      }
+    },
+    {
+      "id": "christiansborg-slot-from-west-copenh",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Nordics"
+      ],
+      "credit": {
+        "title": "Christiansborg Slot from west Copenhagen Denmark.jpg",
+        "author": "Jebulon",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slot_from_west_Copenhagen_Denmark.jpg"
+      }
+    },
+    {
+      "id": "2018-christiansborg-from-the-marble-",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Nordics"
+      ],
+      "credit": {
+        "title": "2018 - Christiansborg from the Marble Bridge.jpg",
+        "author": "Moahim",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2018_-_Christiansborg_from_the_Marble_Bridge.jpg"
+      }
+    },
+    {
+      "id": "christiansborg-palace-2017-08-16",
+      "cats": [
+        "policy"
+      ],
+      "regions": [
+        "Nordics"
+      ],
+      "credit": {
+        "title": "Christiansborg Palace 2017-08-16.jpg",
+        "author": "Colin",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Christiansborg_Palace_2017-08-16.jpg"
+      }
+    }
+  ]
+}
