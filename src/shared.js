@@ -242,9 +242,9 @@ function windowStart(days, now = new Date()) {
   return d;
 }
 
-// ---- Illustrative pictures -----------------------------------------------------------------------------------
-// Stories without a picture of their own get a topical, openly licensed photo from the curated library
-// (config/images.json). It illustrates the subject only; it is not a picture of the event itself.
+// ---- Stock photos ----------------------------------------------------------------------------------------------
+// Stories without a picture of their own get a topical, openly licensed stock photo from the curated library
+// (config/images.json). It shows the subject only; it is not a picture of the event itself.
 const IMAGE_FALLBACK = 'hydrogen-general';
 const IMAGE_RULES = [
   ['ship', /\b(ships?|vessels?|tankers?|shipping|maritime|carriers?|vlacs?|harbou?rs?|hafen|schiff\w*|scheepvaart|havens?)\b|port of |dual-fuel/i],
@@ -260,10 +260,16 @@ const TOPIC_IMAGE = {
   'Investments & FIDs': 'electrolyser', 'Offtake & Supply': 'pipeline', 'Policy & Auctions': 'policy', 'Infrastructure & Storage': 'pipeline',
   'Aviation & e-SAF': 'aviation', 'Steel & Industry': 'industry', 'Ammonia & e-Fuels': 'industry', 'Production & Technology': 'electrolyser'
 };
+const SUBJECT_RULES = IMAGE_RULES.filter(([cat]) => !['policy', 'electrolyser'].includes(cat));
 function imageCategory(a) {
-  if (a.topic === 'Policy & Auctions') return 'policy';
   if (a.topic === 'Aviation & e-SAF') return 'aviation';
   const title = (a.titleEn || a.title) + ' ' + a.title;
+  if (a.topic === 'Policy & Auctions') {
+    // A policy story about a clear subject (a pipeline, shipping, steel ...) shows that subject; the government
+    // buildings are kept for general policy news, so the Policy pictures do not all look alike.
+    for (const [cat, re] of SUBJECT_RULES) if (re.test(title)) return cat;
+    return 'policy';
+  }
   for (const text of [title, a.summary || '']) for (const [cat, re] of IMAGE_RULES) if (re.test(text)) return cat;
   return TOPIC_IMAGE[a.topic] || IMAGE_FALLBACK;
 }

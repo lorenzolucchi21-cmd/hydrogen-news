@@ -9,7 +9,7 @@ const shared = fs.readFileSync('src/shared.js', 'utf8');
 const S = new Function(`${shared}; return { prepare, dedupe, windowStart, detectLang };`)();
 // Curated illustrative photos (files in public/img). Only entries whose image files exist are published.
 const imageLibrary = JSON.parse(fs.readFileSync('config/images.json', 'utf8')).images
-  .filter(i => fs.existsSync(`public/img/${i.id}.jpg`));
+  .filter(i => fs.existsSync(`public/photos/${i.file}`) && fs.existsSync(`public/photos/${i.small}`));
 if (!imageLibrary.length) console.warn('Warning: no illustrative photos found; stories without their own picture will show no image.');
 const config = JSON.parse(fs.readFileSync('config/sources.json', 'utf8'));
 

@@ -237,6 +237,29 @@ test('the same story always gets the same picture, and neighbouring stories avoi
   assert.ok(third && ['ship-a', 'ship-b'].includes(third.id), 'repeats only once every picture in the category is used');
 });
 
+test('policy stories about a clear subject show that subject, so Policy is not only government buildings', () => {
+  const cat = (title, extra = {}) => S.imageCategory({ title, topic: 'Policy & Auctions', summary: '', ...extra });
+  assert.equal(cat('Germany approves hydrogen core network pipeline rules'), 'pipeline');
+  assert.equal(cat('EU sets shipping fuel rules for ammonia vessels'), 'ship');
+  assert.equal(cat('Government backs steel decarbonisation with hydrogen subsidy'), 'industry');
+  assert.equal(cat('Wind and solar auction rules updated'), 'renewables');
+  assert.equal(cat('Germany launches 2027 round for carbon contracts for difference'), 'policy');
+  assert.equal(cat('Germany unveils new ten-point plan to scale up the hydrogen market'), 'policy');
+  assert.equal(cat('France plans e-SAF double-sided auction in 2027 budget'), 'aviation');
+});
+
+test('consecutive policy stories from the same country do not repeat a photo while others are available', () => {
+  const lib = Array.from({ length: 8 }, (_, n) => ({ id: `de-${n}`, cats: ['policy'], regions: ['Germany'] }))
+    .concat(Array.from({ length: 6 }, (_, n) => ({ id: `eu-${n}`, cats: ['policy'] })));
+  const used = new Set();
+  const de = Array.from({ length: 8 }, (_, n) => S.pickImage({ title: `German policy ${n}`, topic: 'Policy & Auctions', region: 'Germany', link: `https://example.com/de/${n}` }, lib, used).id);
+  assert.equal(new Set(de).size, 8, de.join(','));
+  assert.ok(de.every(id => id.startsWith('de-')));
+  const eu = Array.from({ length: 6 }, (_, n) => S.pickImage({ title: `EU policy ${n}`, topic: 'Policy & Auctions', region: 'Other Europe', link: `https://example.com/eu/${n}` }, lib, used).id);
+  assert.equal(new Set(eu).size, 6, eu.join(','));
+  assert.ok(eu.every(id => id.startsWith('eu-')));
+});
+
 test('a category that runs out of photos borrows from a related category before repeating', () => {
   const lib = [{ id: 'e1', cats: ['electrolyser'] }, { id: 'g1', cats: ['hydrogen-general'] }, { id: 'g2', cats: ['hydrogen-general'] }];
   const story = n => ({ title: `Developer commissions electrolyser ${n}`, topic: 'Production & Technology', region: 'Global', link: `https://example.com/e/${n}` });
@@ -278,25 +301,46 @@ function jpegSize(buf) {
   throw new Error('no JPEG size found');
 }
 
-test('the photo library: files exist, are 16:9 and light, and every credit is complete and openly licensed', () => {
+test('the photo library: sharp 16:9 files in two sizes, and every credit is complete and openly licensed', () => {
   const { images } = JSON.parse(read('../config/images.json'));
-  assert.ok(images.length >= 60, `${images.length} photos`);
+  assert.ok(images.length >= 90, `${images.length} photos`);
   assert.equal(new Set(images.map(i => i.id)).size, images.length);
+  assert.equal(new Set(images.map(i => i.credit.title)).size, images.length, 'the same photo is listed twice');
   let bytes = 0;
   for (const i of images) {
     assert.match(i.id, /^[a-z0-9-]+$/);
+    assert.equal(i.file, `${i.id}.jpg`);
+    assert.equal(i.small, `${i.id}-m.jpg`);
     assert.ok(i.cats.length && i.cats.every(c => typeof c === 'string'), i.id);
-    const buf = fs.readFileSync(new URL(`../public/img/${i.id}.jpg`, import.meta.url));
-    bytes += buf.length;
-    assert.ok(buf.length < 160000, `${i.id} is ${buf.length} bytes`);
-    const [w, h] = jpegSize(buf);
-    assert.ok(w >= 600 && w <= 720, `${i.id} width ${w}`);
-    assert.ok(Math.abs(w / h - 16 / 9) < 0.03, `${i.id} ratio ${w}x${h}`);
+    const big = fs.readFileSync(new URL(`../public/photos/${i.file}`, import.meta.url));
+    const small = fs.readFileSync(new URL(`../public/photos/${i.small}`, import.meta.url));
+    bytes += big.length + small.length;
+    assert.ok(big.length < 330000 && small.length < 120000, `${i.id}: ${big.length} / ${small.length} bytes`);
+    const [w, h] = jpegSize(big), [sw, sh] = jpegSize(small);
+    assert.equal(w, 1200, `${i.id} large width ${w}`);
+    assert.equal(sw, 640, `${i.id} small width ${sw}`);
+    assert.ok(Math.abs(w / h - 16 / 9) < 0.01 && Math.abs(sw / sh - 16 / 9) < 0.02, `${i.id} ratio ${w}x${h}, ${sw}x${sh}`);
+    assert.ok(big.length > 20000, `${i.id} looks broken or over-compressed (${big.length} bytes)`);
     assert.ok(i.credit.title && i.credit.author && i.credit.license && /^https:\/\/commons\.wikimedia\.org\//.test(i.credit.url), i.id);
     assert.match(i.credit.license, /^(CC0|Public domain|CC BY(-SA)? \d\.\d( [a-z]{2})?)$/i, `${i.id}: ${i.credit.license}`);
     assert.doesNotMatch(i.credit.author, /<|>/, i.id);
   }
-  assert.ok(bytes < 6e6, `library is ${bytes} bytes`);
+  assert.ok(bytes < 40e6, `library is ${bytes} bytes`);
+});
+
+test('policy photos are varied: several kinds of place per region, and no European Commission (Berlaymont) building', () => {
+  const { images } = JSON.parse(read('../config/images.json'));
+  const policy = images.filter(i => i.cats.includes('policy'));
+  const regionCount = r => policy.filter(i => i.regions?.includes(r)).length;
+  assert.ok(regionCount('Germany') >= 8, `Germany ${regionCount('Germany')}`);
+  assert.ok(regionCount('UK & Ireland') >= 5 && regionCount('Benelux') >= 5 && regionCount('Nordics') >= 5);
+  assert.ok(policy.filter(i => !i.regions).length >= 8, 'European photos');
+  for (const i of images) assert.doesNotMatch(i.credit.title, /berlaymont/i, i.credit.title);
+  // At most two photos of the Reichstag building seen from outside.
+  const reichstagOutside = policy.filter(i => /reichstag(sgeb|s)?|bundestag/i.test(i.credit.title) && !/dome|kuppel|plenar|chamber|inside|interior/i.test(i.credit.title));
+  assert.ok(reichstagOutside.length <= 2, reichstagOutside.map(i => i.credit.title).join(', '));
+  const interiors = policy.filter(i => /dome|kuppel|plenar|chamber|hemicycle|interior|hall|saal|folketing|ridderzaal/i.test(i.credit.title));
+  assert.ok(interiors.length >= 6, `${interiors.length} interior photos`);
 });
 
 test('every picture category used by the rules has several photos, and policy has regional photos', () => {
@@ -327,20 +371,26 @@ test('the build publishes the photos and embeds the library and their credits', 
 });
 
 // ---- Page and icons ------------------------------------------------------------------------------------------
-test('every story card and the lead story show a picture, with a credit for illustrative photos', () => {
+test('every story card and the lead story show a picture, with no caption under it and credits at the bottom of the page', () => {
   const html = read('../src/template.html');
   const card = html.match(/function card\(a\) \{[\s\S]*?\n\}/)[0];
   assert.match(card, /\$\{photo\(a\)\}/);
-  assert.match(html, /<div class="hero">\$\{photo\(lead\)\}/);
+  assert.match(html, /<div class="hero">\$\{photo\(lead, true\)\}/);
   assert.doesNotMatch(html, /find\(x => safe\(x\.image\)\)/);
-  assert.match(html, /Illustrative photo:/);
+  assert.doesNotMatch(html, /[Ii]llustrative/);
+  assert.doesNotMatch(html, /<figcaption/);
+  assert.doesNotMatch(read('../src/style.css'), /figcaption/);
   assert.match(html, /id="credits"/);
   assert.match(html, /Photo credits/);
+  assert.match(html, /srcset="photos\/\$\{esc\(alt\.small\)\} 640w, photos\/\$\{esc\(alt\.file\)\} 1200w"/);
+  // A height attribute would override the 16:9 shape of the pictures.
+  assert.doesNotMatch(html.match(/function photo\(a, lead = false\) \{[\s\S]*?\n\}/)[0], /\sheight="/);
+  assert.match(read('../src/style.css'), /\.photo img\{[^}]*height:auto[^}]*aspect-ratio:16\/9/);
   assert.doesNotMatch(html, /No summary supplied/);
   assert.doesNotMatch(html, /\bago\b/);
 });
 
-test('a publisher picture that fails to load is replaced by the illustrative photo, or removed', () => {
+test('a publisher picture that fails to load is replaced by the stock photo, or removed', () => {
   const html = read('../src/template.html');
   assert.match(html, /document\.addEventListener\('error'[\s\S]*?\}, true\);/);
   assert.match(html, /img\.dataset\.fb/);

@@ -14,6 +14,10 @@ A static page that GitHub rebuilds automatically every 4 hours. Colleagues open 
 
 Share that link. From then on the page updates itself every 4 hours (GitHub may delay scheduled runs by some minutes).
 
+## Publishing changes made on your laptop
+
+Instead of uploading files in the browser, double-click **Publish to GitHub.bat** in the folder that contains this project folder (it is not part of the repository). It copies the project into a clean copy of the repository, shows what changed, asks for confirmation, then commits and pushes. Folders are mirrored (files you deleted locally are deleted on GitHub) and `data/` is never touched, because the workflow owns it. Git must be installed; the first push opens a browser window to sign in to GitHub.
+
 ## If something goes wrong
 
 - **Run is red:** open the run in the Actions tab and read the failing step. A message such as "No source could be reached" means the collection could not connect at all; the previous page stays online.
@@ -38,7 +42,7 @@ Only public headline metadata: title, short feed summary, date, image URL if the
 - **Topics and regions** (`src/shared.js`). Each topic (`TOPICS`) has weighted keyword rules; a match in the headline counts double and the topic with the highest total wins (ties go to the topic listed first). Stories written in German are filed under Germany and Dutch ones under Benelux; otherwise the region with the most keyword matches wins, and stories without any are "Global". To change a rule, edit the keywords or weights in `TOPICS` and `REGIONS`.
 - **Same story, several publishers.** Reports of the same story are shown once, with "Also reported by …" links. This is decided in the page by comparing headline keywords and dates (`groupSimilar`).
 - **Market priority** (`CORE_MARKETS`, `MARKET_BOOST`, `rankScore` in `src/shared.js`). Each story is tagged `core` (it mentions Germany, the Netherlands, the UK or Denmark, or is written in German or Dutch about a European topic), `eu` (other European countries or "Europe/EU") or `other`. Core stories get +8 in the ranking and EU stories +5; stories from outside Europe get −3 unless their topic is e-SAF or e-fuels. Change the numbers, or add countries to `CORE_MARKETS`, to shift the balance. Stories from outside Europe stay available through the region filter and search.
-- **Pictures.** A story uses the picture supplied by the publisher's feed when there is one. Otherwise it shows a topical, openly licensed illustrative photo (stock-style, not a picture of the event) from the library in `config/images.json` and `public/img/`, with its credit under the photo and in the "Photo credits" list at the bottom of the page. The photo is chosen from the headline subject (ship, aviation, pipeline, filling station, industry, wind, policy, electrolyser, general hydrogen); government buildings follow the story region (Germany, UK, Netherlands, Denmark/Nordics, otherwise EU). To add a photo, put a 720 px wide 16:9 JPEG into `public/img/`, add an entry with its categories and credit to `config/images.json`, and only use photos under CC0, public domain or CC BY / CC BY-SA licences (for example from Wikimedia Commons).
+- **Pictures.** A story uses the picture supplied by the publisher's feed when there is one. Otherwise it shows a topical stock photo from the library in `config/images.json` and `public/photos/` (about 120 photos from Wikimedia Commons, each stored at 1200 px and 640 px). There is no caption under the pictures; the credits are in the "Photo credits" list at the bottom of the page, as the CC BY and CC BY-SA licences require. The photo is chosen from the headline subject (ship, aviation, pipeline, filling station, industry, wind, policy, electrolyser, general hydrogen). A policy story about a clear subject (for example a pipeline) shows that subject; general policy news shows government buildings and interiors that follow the story region (Germany, UK, Netherlands, Denmark/Nordics, otherwise EU). Photos do not repeat on a page until a category runs out. To add a photo, add two 16:9 JPEGs to `public/photos/` (`name.jpg` at 1200 px wide and `name-m.jpg` at 640 px wide) and an entry with its categories, `file`, `small` and credit to `config/images.json`. Only use photos under CC0, public domain or CC BY / CC BY-SA licences.
 - **Deal-flow balance** (`POSITIVE_SIGNAL`, `NEGATIVE_SIGNAL` in `src/shared.js`). Counts positive deal stories (final investment decisions, offtake and supply agreements, contracts, funding, construction starts) against setbacks (cancellations, delays, insolvencies, withdrawals) over the last 7 days, compared with the 7 days before. At least 8 such stories are needed for a reading. It is a keyword-based indicator of direction, not a precise measurement.
 
 ## Phone home-screen icon
@@ -50,7 +54,7 @@ The page can be added to a phone's home screen: iPhone (Safari) **Share → Add 
 - `config/sources.json` – the sources and their feed URLs (edit to add or remove sources).
 - `src/shared.js` – relevance filter, topics, regions, story grouping and the deal-flow rules.
 - `src/template.html`, `src/style.css` – the page design.
-- `public/` – icons, the web app manifest for the phone home screen, and the illustrative photos (`public/img/`).
+- `public/` – icons, the web app manifest for the phone home screen, and the stock photos (`public/photos/`).
 - `config/images.json` – the photo library: categories, regions and credits.
 - `scripts/build.mjs` – collects feeds with timeouts and retries, merges with the 30-day archive, builds `site/`.
 - `scripts/translate.mjs` – translates German and Dutch headlines to English.

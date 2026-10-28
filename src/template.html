@@ -46,7 +46,7 @@
   </div>
   <section class="flow" id="flow" aria-label="Deal-flow balance"></section>
   <main id="main" aria-busy="false"><section class="lead" id="lead"></section><div id="sections"></div></main>
-  <footer>Public headline metadata only. Full articles remain with their publishers. Each story shows the picture supplied by the publisher's feed when there is one; otherwise it shows an openly licensed illustrative photo matching the topic (a stock photo, not a picture of the event itself), with its credit. Stories from RWE's core markets (Germany, the Netherlands, the UK and Denmark) and from the rest of Europe are ranked first; stories from outside Europe rank lower, except e-SAF and e-fuels. Within that, stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals), and reports of the same story by several publishers are shown once. German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.
+  <footer>Public headline metadata only. Full articles remain with their publishers. Stories use the picture supplied by the publisher's feed when there is one; otherwise a topical stock photo from Wikimedia Commons is shown (credits below). Stories from RWE's core markets (Germany, the Netherlands, the UK and Denmark) and from the rest of Europe are ranked first; stories from outside Europe rank lower, except e-SAF and e-fuels. Within that, stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals), and reports of the same story by several publishers are shown once. German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.
     <details class="credits" id="credits"></details></footer>
 </div>
 <script>/*SHARED*/</script>
@@ -64,32 +64,24 @@ function headline(a) { return a.titleEn || a.title; }
 function original(a) {
   return a.titleEn && a.titleEn !== a.title ? `<div class="orig" lang="${esc(a.lang)}">Original (${esc(LANGNAME[a.lang] || a.lang)}): ${esc(a.title)}</div>` : '';
 }
-// Picture: the one supplied by the publisher's feed if there is one, otherwise a topical illustrative photo.
-// If the publisher's picture cannot be loaded, the illustrative photo replaces it (see the error handler below).
-function creditHtml(i) {
-  const c = i.credit || {};
-  return `Illustrative photo: <a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer" title="${esc(c.title)} · ${esc(c.author)} · ${esc(c.license)}">${esc(c.author)}</a>, ${esc(c.license)}`;
-}
-function photo(a) {
+// Picture: the one supplied by the publisher's feed if there is one, otherwise a topical stock photo (credits are
+// listed at the bottom of the page). If the publisher's picture cannot be loaded, the stock photo replaces it.
+function photo(a, lead = false) {
   const own = safe(a.image);
   const alt = pickImage(a, IMAGES, own ? new Set() : usedImages);
-  const file = i => `img/${i.id}.jpg`;
-  if (own) {
-    return `<figure class="photo"><img src="${esc(own)}" alt="" loading="lazy" referrerpolicy="no-referrer"${alt ? ` data-fb="${esc(file(alt))}" data-cap="${esc(creditHtml(alt))}"` : ''}><figcaption></figcaption></figure>`;
-  }
-  return alt ? `<figure class="photo"><img src="${esc(file(alt))}" alt="" loading="lazy"><figcaption>${creditHtml(alt)}</figcaption></figure>` : '';
+  const sizes = lead ? '(max-width:950px) 100vw, 640px' : '(max-width:600px) 100vw, (max-width:950px) 50vw, 300px';
+  if (own) return `<figure class="photo"><img src="${esc(own)}" alt="" loading="lazy" referrerpolicy="no-referrer"${alt ? ` data-fb="${esc('photos/' + alt.file)}"` : ''}></figure>`;
+  return alt ? `<figure class="photo"><img src="photos/${esc(alt.small)}" srcset="photos/${esc(alt.small)} 640w, photos/${esc(alt.file)} 1200w" sizes="${sizes}" alt="" ${lead ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"></figure>` : '';
 }
 document.addEventListener('error', e => {
   const img = e.target;
   if (!img || img.tagName !== 'IMG') return;
   const fig = img.closest('figure.photo');
   if (img.dataset.fb) {
-    const fb = img.dataset.fb, cap = img.dataset.cap || '';
+    const fb = img.dataset.fb;
     delete img.dataset.fb;
     img.removeAttribute('referrerpolicy');
     img.src = fb;
-    const c = fig && fig.querySelector('figcaption');
-    if (c) c.innerHTML = cap;
   } else if (fig) fig.remove();
 }, true);
 function alsoCovered(a) {
@@ -143,7 +135,7 @@ function render() {
   usedImages = new Set();
   const lead = a[0];
   const rest = lead ? a.slice(1) : [];
-  $('lead').innerHTML = lead ? `<div class="hero">${photo(lead)}<div class="k">Lead story · ${esc(lead.topic)}</div>
+  $('lead').innerHTML = lead ? `<div class="hero">${photo(lead, true)}<div class="k">Lead story · ${esc(lead.topic)}</div>
 <h2>${esc(headline(lead))}</h2>${original(lead)}<div class="meta">${esc(lead.source)} · ${fmt(lead.date, 'long')} · ${esc(lead.region)}</div>${lead.summary ? `<p class="deck">${esc(lead.summary)}</p>` : ''}${alsoCovered(lead)}
 <a class="read" href="${esc(safe(lead.link))}" target="_blank" rel="noopener noreferrer">Continue at publisher →</a></div>
 <div class="side">${rest.slice(0, 2).map(card).join('')}</div><div class="side">${rest.slice(2, 4).map(card).join('')}</div>`
