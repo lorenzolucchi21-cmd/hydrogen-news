@@ -1,6 +1,35 @@
 {
- "generatedAt": "2026-10-28T05:35:09.897Z",
+ "generatedAt": "2026-10-28T09:24:34.331Z",
  "articles": [
+  {
+   "title": "Maersk Tankers: EU funding for ammonia engine retrofit project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGotWGdFRXFBcFJQNmM1SWlNQVRGdGhTQ3ptODg1aUNkZWNwVW0tN0Zqcm1md2NJVnkwZlFWckZyYktaVkVPRTNWdG5XRkpYaWRrVTBzR3l3U0hVT2toRTM2TVBoMmxfTUl0NVpKQmFvbkpWOTVVc05OTUc1c0ZOOVcwNE1XemJsX1Y5R1lkN05ma2lYSmdrRGJmbFU4dw?oc=5",
+   "date": "2026-10-28T06:39:35.000Z",
+   "source": "Ammonia Energy Association",
+   "origin": "Ammonia Energy Association",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 6
+  },
+  {
+   "title": "Unternehmen prüfen Ammoniak-Lieferkette über Hamburg",
+   "titleEn": "Companies check ammonia supply chain via Hamburg",
+   "lang": "de",
+   "summary": "Die Covestro AG, Fertiglobe Plc und die MB Energy Holding GmbH & Co. KG haben eine gemeinsame Absichtserklärung unterzeichnet. Mit dem MoU (Memorandum of Understanding) wollen die Unternehmen Möglichkeiten der Zusammenarbeit entlang der Ammoniak <p class=\"whitespace-pre-wrap break-words\"><strong>Ammoniak</strong> ist e",
+   "link": "https://h2-news.de/wirtschaft-unternehmen/unternehmen-pruefen-ammoniak-lieferkette-ueber-hamburg/",
+   "date": "2026-10-28T06:37:46.000Z",
+   "source": "H2 News Germany",
+   "origin": "H2 News Germany",
+   "image": "https://h2-news.de/wp-content/uploads/2024/09/GLossAmm.jpg",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
   {
    "title": "‘Largest hydrogen consumers in EU’ call on European Commission to overhaul RFNBO targets for industry",
    "lang": "en",
@@ -14,6 +43,20 @@
    "region": "Other Europe",
    "market": "eu",
    "score": 7
+  },
+  {
+   "title": "We fact-checked 100 hydrogen-infrastructure projects announced in 2023–24",
+   "lang": "en",
+   "summary": "We verified 100 hydrogen-infrastructure projects announced in 2023–24 against live sources: half built, a third still just plans, almost none officially cancelled.",
+   "link": "http://hydrogenfuelnews.com/we-fact-checked-100-hydrogen-infrastructure-projects-announced-in-2023-24/8576958/",
+   "date": "2026-10-28T05:10:38.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://public-ghostnews.s3.us-east-1.amazonaws.com/hfn-reality-check/feature-og.png",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 6
   },
   {
    "title": "European CEO-led hydrogen coalition advocates double-sided auctions for domestic H₂ production",
@@ -1661,7 +1704,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWxKWW1lM1VFVlV0YUpncmRRU3p1TVN6RFdPZm5BMjVvQ2RHNlY3SFl0RzM0MHZLTzc5SXhvbU5Va2tPbnJiMUYzdmhJTVpNcmdzTnFfdHFOMUhtblBPTDNaay1zY0NqRFVNdmphc2dDdkpfbzlWMEo0RXVid1RsMHZIT1gyX0VpcFJyaEt4VW5fdWhKLVpWSklkb0t4eHZxNFVmeVp4RVJXUEJ0dm5Samt4UFF2TDVmeHhv?oc=5",
    "date": "2026-10-21T07:31:35.000Z",
    "source": "gasworld",
-   "origin": "Deal search: offtake and supply agreements",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "UK & Ireland",
@@ -4074,7 +4117,7 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzZEUVgtamROOWx0UHhiNTZ1aFpIWWhaNzlTeHdtZGtJUFNfNmd4bVVuTDVvLUJmTHZlWHFsRUNFWEFsVEdyMUtfZng5SlB4TUVaTVI2eHVwY3VVWk1Vc2thbTJnTDFsUV8zMEtFWWs3N1lZZVE5VlFGdmh6d1lodVIwOXRzM0hwUGNVVzNGYmtpQmRUMUE?oc=5",
    "date": "2026-10-12T15:17:43.000Z",
    "source": "Renewables Now",
-   "origin": "Renewables Now",
+   "origin": "Deal search: policy and auctions",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Global",
@@ -4187,7 +4230,7 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzhSY3RUTDVwenRrc0NSbE1NUWlPN3VtMEdJOWMxaVY2X1hkeHRhbzFQaDFsSk8xTXJxbFJUdXAzWDZCUXpWdjd4LWJNY3I0RGEzWkVRTlhsMUxGSkRVLXV6SWhVWHBKZHIxb0tEcE5odjNmMUFvM0M3Qy1XY2pGcjJkLTFKakU2ZjFSMi1nTTkwa3pjbnJRTVJtc1FxNjFMWEc1TFdqQmNTRmZqaVFmRy1CU1huWkFEVE9nYg?oc=5",
    "date": "2026-10-12T07:00:00.000Z",
    "source": "gasworld",
-   "origin": "Deal search: refineries and industry",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Steel & Industry",
    "region": "Global",
@@ -4949,7 +4992,7 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkFJQzQ1VnN2UEVxbWEtaXFpWExjQjVUdXhkMndWSHZRaWhCT2hGUmtJMWtCa0NPcFVqZkhSazBYdU45MWptRXY1VTNNalp4c2tGS0NFa2x0RWZoNmVBTGlvSGRaTGtPdmxjRUNaQng5S1Z0Tlo5NkpVUXdLbXJsd0ZOS2pGZVRKSVhLUUZJN2drN1l2YVBTUndkeDRzSW1tRVBTTm9pN0hlNVRQRHc?oc=5",
    "date": "2026-10-08T07:00:00.000Z",
    "source": "gasworld",
-   "origin": "Deal search: cancellations and delays",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "UK & Ireland",
@@ -5000,6 +5043,20 @@
    "score": 6
   },
   {
+   "title": "Electrolyser maker ITM anticipates lower loss than expected for past financial year",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODVwOGdHN0dQbWlZS01RVC1TckdJWmM1cG0zYXZrVXNOUjFGalNuM0VWQXlSdTJIcDYwME53ZDhJQ0Z2cjJxTHZKUzVEODFLZ05fMGpyUHhjXzNCQlZid1FCeVdfZy0zLTdxQXRwaHhRbjlFX09lYkxsc2hPU281NTZTV2kyTXN5Z1JobVR5SkNVTWM5TWZza3lXX0RpaDBqZVNlVHZKTUJDMEVmLVlxOTNjVHNCVnRCZlRKb0R6eFBKTjZUWVZReEpFdG9IVmgxZW5OS1hkakc?oc=5",
+   "date": "2026-10-08T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
    "title": "Von Elektrolyseur bis Schraubenschlüssel: So soll Metall-3D-Druck günstiger werden",
    "titleEn": "From electrolyzers to wrenches: how to make metal 3D printing cheaper",
    "lang": "de",
@@ -5012,20 +5069,6 @@
    "topic": "Production & Technology",
    "region": "Germany",
    "market": "core",
-   "score": 4
-  },
-  {
-   "title": "Electrolyser maker ITM anticipates lower loss than expected for past financial year",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODVwOGdHN0dQbWlZS01RVC1TckdJWmM1cG0zYXZrVXNOUjFGalNuM0VWQXlSdTJIcDYwME53ZDhJQ0Z2cjJxTHZKUzVEODFLZ05fMGpyUHhjXzNCQlZid1FCeVdfZy0zLTdxQXRwaHhRbjlFX09lYkxsc2hPU281NTZTV2kyTXN5Z1JobVR5SkNVTWM5TWZza3lXX0RpaDBqZVNlVHZKTUJDMEVmLVlxOTNjVHNCVnRCZlRKb0R6eFBKTjZUWVZReEpFdG9IVmgxZW5OS1hkakc?oc=5",
-   "date": "2026-10-08T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
    "score": 4
   },
   {
@@ -5232,16 +5275,30 @@
    "title": "5-MW-Elektrolyseur erweitert Wasserstoffproduktion in Wyhlen",
    "titleEn": "5MW Electrolyser Expands Hydrogen Production in Wyhlen",
    "lang": "de",
-   "summary": "Die EnBW Energie Baden-Württemberg AG und die Naturenergie Hochrhein AG haben im Rahmen des Forschungsprojekts „Reallabor H2-Wyhlen“ eine zweite Wasserstoffanlage eingeweiht. Der neue 5-MW- Elektrolyseur Ein Elektrolyseur ist eine technische Anlage, die Wasser in seine Bestandteile Wasserstoff und Sauerstoff spaltet. D",
-   "link": "https://h2-news.de/wirtschaft-unternehmen/5-mw-elektrolyseur-erweitert-wasserstoffproduktion-in-wyhlen/",
-   "date": "2026-10-07T07:43:39.000Z",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODBkODdaQXBQU3dRbXV2eHBCOExNYmhuY3RxSTRMdjZsel90MFZaWWl1UERicDYxa2RHUXJweF9LbzZ5MW0xaFpGbmVXU2xFQnVZQUdMLWZyWWNTTWhzRl9xaFdIek5TWFdFNU1RX0Z1eHRlOFZ5SGlXNlo5TExndFd6Rks5TEFrS0hFSUhNWDR3OGVOTGg4QkRPbTZlTzBCU3ctZ01n?oc=5",
+   "date": "2026-10-07T07:48:04.000Z",
    "source": "H2 News Germany",
    "origin": "H2 News Germany",
-   "image": "https://h2-news.de/wp-content/uploads/2024/03/PEM_Elektrolyse_5-1.gif",
+   "image": "",
    "topic": "Production & Technology",
    "region": "Germany",
    "market": "core",
-   "score": 4
+   "score": 7
+  },
+  {
+   "title": "Japan’s Iwatani, Cosmo Approve $156M Hydrogen Supply Chain Project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzg5VFR3dGNvUWxORlhEVlVUekRoLWlTWU5BOEVrX3FCXzNiRUctdTRaeVJRMGJsVThzRDlaSnJiNXhzLVBqYUF3VkF4LUx4dzRubmVkWmQwdzRsSXN5V1ZrcmdpS0hPbU5VNlFiOVZVRVRST2drTzNfQUVrbTBUTXVWWjE3eDlqSzhjNEtkYjdlOFV1Tk1xdncxSE55YnZnZFl2cVR6TFdzLUg1NHlEeXF0RGc?oc=5",
+   "date": "2026-10-07T07:00:00.000Z",
+   "source": "ChemAnalyst",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 8
   },
   {
    "title": "Netherlands Injects Over €44M into Hydrogen Mobility Subsidy Scheme",
@@ -5267,20 +5324,6 @@
    "origin": "Hydrogen Insight",
    "image": "",
    "topic": "Steel & Industry",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "Japan’s Iwatani, Cosmo Approve $156M Hydrogen Supply Chain Project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzg5VFR3dGNvUWxORlhEVlVUekRoLWlTWU5BOEVrX3FCXzNiRUctdTRaeVJRMGJsVThzRDlaSnJiNXhzLVBqYUF3VkF4LUx4dzRubmVkWmQwdzRsSXN5V1ZrcmdpS0hPbU5VNlFiOVZVRVRST2drTzNfQUVrbTBUTXVWWjE3eDlqSzhjNEtkYjdlOFV1Tk1xdncxSE55YnZnZFl2cVR6TFdzLUg1NHlEeXF0RGc?oc=5",
-   "date": "2026-10-07T07:00:00.000Z",
-   "source": "ChemAnalyst",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Investments & FIDs",
    "region": "Asia-Pacific",
    "market": "other",
    "score": 8
@@ -6298,20 +6341,6 @@
    "score": 5
   },
   {
-   "title": "France Backs Double-Auction Mechanism To Accelerate Synthetic Aviation Fuel Development",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEdXcHhZeDJkSW05VWhMR3VZcmR1amNIN0dyaVpFZ1V3UUljSFdlMF90LV9fbXBESnYyb25YSmpfbmhxb25LckxfWmc3d0RJc05QbEd1OXktU1RHSUxyWmh6T1RlSVBITTJMeDdVb0xzOThnR1dBMXRZdGlwaFhsR3pmOGJUOTVHOUdyTGNHSF9EdWJmeEJqSWYwTkZjdnR5NVFnNzZtTkZGNEdVcl9sMkpGVQ?oc=5",
-   "date": "2026-10-01T07:00:00.000Z",
-   "source": "energynews.pro",
-   "origin": "Deal search: eSAF and aviation fuel",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 5
-  },
-  {
    "title": "TEAL Mobility Hydrogen €9.95 per kg Benelux Price Update",
    "lang": "en",
    "summary": "",
@@ -6323,6 +6352,20 @@
    "topic": "Investments & FIDs",
    "region": "Global",
    "market": "other",
+   "score": 5
+  },
+  {
+   "title": "France Backs Double-Auction Mechanism To Accelerate Synthetic Aviation Fuel Development",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEdXcHhZeDJkSW05VWhMR3VZcmR1amNIN0dyaVpFZ1V3UUljSFdlMF90LV9fbXBESnYyb25YSmpfbmhxb25LckxfWmc3d0RJc05QbEd1OXktU1RHSUxyWmh6T1RlSVBITTJMeDdVb0xzOThnR1dBMXRZdGlwaFhsR3pmOGJUOTVHOUdyTGNHSF9EdWJmeEJqSWYwTkZjdnR5NVFnNzZtTkZGNEdVcl9sMkpGVQ?oc=5",
+   "date": "2026-10-01T07:00:00.000Z",
+   "source": "energynews.pro",
+   "origin": "Deal search: eSAF and aviation fuel",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Other Europe",
+   "market": "eu",
    "score": 5
   },
   {
@@ -6668,16 +6711,15 @@
    "score": 7
   },
   {
-   "title": "154 Mio. EUR für Reverion: Series B soll Produktion der CO2-negativen Kraftwerke verzehnfachen",
-   "titleEn": "EUR 154 million for Reverion: Series B to increase production of CO2-negative power plants tenfold",
-   "lang": "de",
+   "title": "AM Green Wins H2Global Green Ammonia Contract for Germany",
+   "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazdkU25BREd1UFc5TXJSZlZlZjc0SGZfUjR3V29TUmJlYzdPNFp2MXcya0VkZG5jdFh1Y2w5amtmU1NnYTVOY2FpcDRDRDZrd0stMi0xZTJWZkVrUU9lWU5PY19qOExldUFFS2pDVGNXRmN2VXNtSDVMVjlVel9FUkhlZlNMTzBFa1Z4V0gwMHZVb3BLWW9RT2VjZ0t4MkpkUDVwUEpkZlRHVi1BZERLbUdscVE3bVh4ZjBzMkhEZ2NBcksyanp1SzZIbW5Qdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUdQY1BBdnlFSzBFWEo4V2pMSVZlSGJvdlZmOW4tTjU0Q0RiWTRCbXl1dWwzYm95WU1ScFdCR0JWblQxa2prOHRDM3VFbW9Ua05HajJaUmlqbTlwdFlITTNEZ2RkZTZjWUlLQ2FJaWRmVVQ0d2xWNlJYbDFaVnBHZ0JHY0tlWWJhQnlNaXZodG9EcmQwVTlTR1MzcV9tUmVrNHFoYjRLRERuWGpyaUHSAbMBQVVfeXFMTlpEbFdVUk1UeTEyN3BLUWJxQ1gxRVNhV0FqeFpINUVZUzNCdmVQeG5ZX3BSZDlBQmI1VUFlMUFWTzByY1pVTWtkM1MwN0I1SmcxelJMS3h0dEhGUkhnOXlFTFNjUEg4T1NWUDE0UWhvZGNpVkNEQXdIMlBrNExZa2lDWlRfOE8ySmc0bTJwcWUzLUN3WW95dld1bS1pLUg4RnZhZVRNLVZPV3ctX1QyaHJjSXc?oc=5",
    "date": "2026-09-30T07:00:00.000Z",
-   "source": "Chemie.de",
-   "origin": "Chemie.de",
+   "source": "Rediff MoneyWiz",
+   "origin": "Deal search: policy and auctions",
    "image": "",
-   "topic": "Investments & FIDs",
+   "topic": "Policy & Auctions",
    "region": "Germany",
    "market": "core",
    "score": 7
@@ -6698,15 +6740,16 @@
    "score": 7
   },
   {
-   "title": "AM Green Wins H2Global Green Ammonia Contract for Germany",
-   "lang": "en",
+   "title": "154 Mio. EUR für Reverion: Series B soll Produktion der CO2-negativen Kraftwerke verzehnfachen",
+   "titleEn": "EUR 154 million for Reverion: Series B to increase production of CO2-negative power plants tenfold",
+   "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUdQY1BBdnlFSzBFWEo4V2pMSVZlSGJvdlZmOW4tTjU0Q0RiWTRCbXl1dWwzYm95WU1ScFdCR0JWblQxa2prOHRDM3VFbW9Ua05HajJaUmlqbTlwdFlITTNEZ2RkZTZjWUlLQ2FJaWRmVVQ0d2xWNlJYbDFaVnBHZ0JHY0tlWWJhQnlNaXZodG9EcmQwVTlTR1MzcV9tUmVrNHFoYjRLRERuWGpyaUHSAbMBQVVfeXFMTlpEbFdVUk1UeTEyN3BLUWJxQ1gxRVNhV0FqeFpINUVZUzNCdmVQeG5ZX3BSZDlBQmI1VUFlMUFWTzByY1pVTWtkM1MwN0I1SmcxelJMS3h0dEhGUkhnOXlFTFNjUEg4T1NWUDE0UWhvZGNpVkNEQXdIMlBrNExZa2lDWlRfOE8ySmc0bTJwcWUzLUN3WW95dld1bS1pLUg4RnZhZVRNLVZPV3ctX1QyaHJjSXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazdkU25BREd1UFc5TXJSZlZlZjc0SGZfUjR3V29TUmJlYzdPNFp2MXcya0VkZG5jdFh1Y2w5amtmU1NnYTVOY2FpcDRDRDZrd0stMi0xZTJWZkVrUU9lWU5PY19qOExldUFFS2pDVGNXRmN2VXNtSDVMVjlVel9FUkhlZlNMTzBFa1Z4V0gwMHZVb3BLWW9RT2VjZ0t4MkpkUDVwUEpkZlRHVi1BZERLbUdscVE3bVh4ZjBzMkhEZ2NBcksyanp1SzZIbW5Qdw?oc=5",
    "date": "2026-09-30T07:00:00.000Z",
-   "source": "Rediff MoneyWiz",
-   "origin": "Deal search: policy and auctions",
+   "source": "Chemie.de",
+   "origin": "Chemie.de",
    "image": "",
-   "topic": "Policy & Auctions",
+   "topic": "Investments & FIDs",
    "region": "Germany",
    "market": "core",
    "score": 7
@@ -7003,7 +7046,7 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzN4TnhOQl9CUUdCZUtwNFFrWjVKbExLUC1uTXdQdGhFRG1XNzZPcW1sWkZpSXhnNTAxcDB2SjhFdXNQQko1Tllpdi1kdksyaG1FX0wyS1J1d2ZzYmtQaU96R3Flei1uU29IcXBQRTlfVUdkbExNUklvZTVieExXTWhwYnh6LXc?oc=5",
    "date": "2026-09-29T07:00:00.000Z",
    "source": "Yahoo Finance",
-   "origin": "Deal search: eSAF and aviation fuel",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Global",
@@ -7311,7 +7354,7 @@
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 14,
+   "shown": 15,
    "status": "ok",
    "error": ""
   },
@@ -7335,7 +7378,7 @@
   },
   {
    "name": "H2 News Germany",
-   "shown": 11,
+   "shown": 12,
    "status": "ok",
    "error": ""
   },
@@ -7785,7 +7828,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 23,
+   "shown": 22,
    "status": "ok",
    "error": ""
   },
@@ -8199,7 +8242,7 @@
   },
   {
    "name": "Ammonia Energy Association",
-   "shown": 6,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
@@ -8241,25 +8284,25 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 22,
+   "shown": 26,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: offtake and supply agreements",
-   "shown": 8,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 6,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 15,
+   "shown": 14,
    "status": "ok",
    "error": ""
   },
@@ -8271,13 +8314,13 @@
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 15,
+   "shown": 14,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 22,
+   "shown": 23,
    "status": "ok",
    "error": ""
   },
