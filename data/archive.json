@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T14:30:36.551Z",
+ "generatedAt": "2026-10-31T19:57:12.477Z",
  "articles": [
   {
    "title": "Trotz Millionen-Förderung: Kein Wasserstoff-Initialnetz für Mainz",
@@ -24,7 +24,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS01XaVV4VGl0YVhLblVFSUhSYnpkSXpYOVF3NWhyRy00emZIdTgtc2Y2NnVBMXNuYlhnSkRYT1JhS2FsemM1Y09SbWFiOHc2N3UzMFlaU1dPTEtLR092S0stbTgzakp1MUs5UEFURUJXZGYxQmVmUmVlVkFLaGZDdWdndHFvMGpMaTVZSVk5c1pwdmowNEtKUUZleGZ5RWh4dGxna3Q3cFBGeU0?oc=5",
    "date": "2026-10-30T15:49:26.000Z",
    "source": "SWR",
-   "origin": "Deal search: Germany (DE)",
+   "origin": "Deal search: Germany setbacks (DE)",
    "image": "",
    "topic": "Infrastructure & Storage",
    "region": "Germany",
@@ -3416,6 +3416,20 @@
    "score": 12
   },
   {
+   "title": "Indian renewables developer promises $4.2bn investment in two green ammonia projects: report",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXJWSnlQS2RCSjdOZ1hIemhMUTBrcGd0VDBoMWU3YXJMR3hTVDNpMmx2S2tFeE9MbXNkU0VCT0xucnFkNVdwaWcwWkNjZ1FybjZkYWVNOFdOc1lqUzhvbjA1d0dIdlBqdm10RGVtX0x4VUNyaHo1cWZTUVdNM2FrNDhHRExvejVUVWdQTVJLUHExd2dlZFByNUx2WUpxejNFeHJ3TEFpUVYwS3NwWnQ1bUVqTW8zejRmOTJMS2hweWs5dnVETE1aWl9sYVJWMjFFYnpKcW1SbklMZ0Rrdmc?oc=5",
+   "date": "2026-10-21T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 10
+  },
+  {
    "title": "Germany adopts ten measures for its hydrogen market, including at least €1.5 billion",
    "lang": "en",
    "summary": "",
@@ -5225,7 +5239,7 @@
    "title": "NDF Chief: SR31.5 billion invested in green hydrogen project",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HWHVhVlB5c24zckdLcHVuWUdkX3FHRC1PdkFxYWVndDlYazZUNF9Jcy1BZ0dlOTA4akYtMjc3SHAzOXkyVy0ydE1kX2JFbkxkQ3NGdQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclB1ZXhHRFVMWU14YVlzWFpmMmIwYjhSMlV3REtSal9NNUNQSUs5X1JXMVd4RVVWdTlmM3B2bWhWNFRvdEh3MFBlQ0p0VlhMWHZSYld5enpYZlJoVU1SUjlKWDhTdEEwQlJIZEw1bkZMT0FSLVhBMTRPbnZzam9lT3BYQ0hwNkppRkU1bEwyNUwwdjJjRTRvckFKb2tXVEtWdnVJN2xIMHJrd2JoYTNPZDFFWXk?oc=5",
    "date": "2026-10-14T07:00:00.000Z",
    "source": "Saudi Gazette",
    "origin": "Deal search: large investments and funding",
@@ -5320,20 +5334,6 @@
    "score": 5
   },
   {
-   "title": "World’s first green-ammonia ship-to-ship refuelling takes place in China",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOERwSVJjSE5uNFNjRG0xN09qal9NQnpROHI1Y05iTGNZY2hZci1senBoU3RIZmR1Y0tYdkJvUEVITk5VRldwN0I4RVJNckxyQWpPQzFNSnZpaDJOYTJGdVV0MElNMFJFZHlVOEEzbFFVMnJRQVhRamVHQVFnU3Y0QXF4U3NCOFhnTEMyWDg5bkh0bGlhdnpfUVVfM1F6Q3BuZnJTS2wxOEFYQ3lLOV9wYV9KcnQ5Qmt5V3phSFZCOUZjZG0t?oc=5",
-   "date": "2026-10-14T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 3
-  },
-  {
    "title": "thyssenkrupp nucera baut erstmals ein selbst betriebenes Montagezentrum für Elektrolysezellen in Europa auf",
    "titleEn": "Thyssenkrupp nucera is setting up a self-operated assembly centre for electrolytic cells in Europe for the first time",
    "lang": "de",
@@ -5346,6 +5346,20 @@
    "topic": "Production & Technology",
    "region": "Germany",
    "market": "core",
+   "score": 3
+  },
+  {
+   "title": "World’s first green-ammonia ship-to-ship refuelling takes place in China",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOERwSVJjSE5uNFNjRG0xN09qal9NQnpROHI1Y05iTGNZY2hZci1senBoU3RIZmR1Y0tYdkJvUEVITk5VRldwN0I4RVJNckxyQWpPQzFNSnZpaDJOYTJGdVV0MElNMFJFZHlVOEEzbFFVMnJRQVhRamVHQVFnU3Y0QXF4U3NCOFhnTEMyWDg5bkh0bGlhdnpfUVVfM1F6Q3BuZnJTS2wxOEFYQ3lLOV9wYV9KcnQ5Qmt5V3phSFZCOUZjZG0t?oc=5",
+   "date": "2026-10-14T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
    "score": 3
   },
   {
@@ -5658,20 +5672,6 @@
    "score": 6
   },
   {
-   "title": "Belgian shipping giant to start construction on Namibian green-ammonia terminal next year",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQam1tVERUaUlxT1NNdk9DYVZoazlEaTJsa2ltWi1Gel9oUmlyLTJlWGp0RDZmWXBjTVRhOUZubGstQlQwaXlIUnVQcE95TUNKSVlvbVlvVTNndXU1ZWdaRVA3UFhNcFVzNHl4Q3hjUzlYaGlfUjY5RHZVelJtYkJhQ1I5a3BsV09vcUN2VVB3WVZNYTNXTVV4TkxYUFp1WW9icHUwR3IzYlpzV2xWX3hyN0lPX3lTOGFyNUtjZk1WX3c0TXlUejJRaGRRM1phcU16aWh6ZlN5dk1RM1Qx?oc=5",
-   "date": "2026-10-13T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Benelux",
-   "market": "eu",
-   "score": 5
-  },
-  {
    "title": "EWE und VERBUND gründen Joint Venture für eines der größten Wasserstoffprojekte Europas",
    "titleEn": "Ewe and VERBUND establish joint venture for one of Europe's largest hydrogen projects",
    "lang": "de",
@@ -5697,6 +5697,20 @@
    "image": "",
    "topic": "Ammonia & e-Fuels",
    "region": "Nordics",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "Belgian shipping giant to start construction on Namibian green-ammonia terminal next year",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQam1tVERUaUlxT1NNdk9DYVZoazlEaTJsa2ltWi1Gel9oUmlyLTJlWGp0RDZmWXBjTVRhOUZubGstQlQwaXlIUnVQcE95TUNKSVlvbVlvVTNndXU1ZWdaRVA3UFhNcFVzNHl4Q3hjUzlYaGlfUjY5RHZVelJtYkJhQ1I5a3BsV09vcUN2VVB3WVZNYTNXTVV4TkxYUFp1WW9icHUwR3IzYlpzV2xWX3hyN0lPX3lTOGFyNUtjZk1WX3c0TXlUejJRaGRRM1phcU16aWh6ZlN5dk1RM1Qx?oc=5",
+   "date": "2026-10-13T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Benelux",
    "market": "eu",
    "score": 5
   },
@@ -6654,7 +6668,7 @@
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcjVhSHY2ck82bHhjaS1wb3B0RlhJdHZTNFl4cHlzRzV0UW5uZEZwZXRzMlhybGMtdWZ1MXRYQVNiUENBdng0cU9pZ2UxZTRFdnhCcDRZRUIzT2ZPWVU2N1dCZV9oQmFHemRnb3lOOEtfN29RTzBUSmk2M0g2TFZtU0NOR2xNcC1wMGVNTU9mdzVleWgzOTg3NkdrTjFIOURESEthQ1B0b0pNTDBqWWlfNDFoTDQ5cUpFSjc1bjhiY1dYaUN4anpnd1hZLUVVY3RVV0E2ZnZ3bWdQa3ZoZVBpWkhBc3RkZW5nZXEtZ2tJcWVlLVN4TnhaWFVubnNzeDVJY01kaFM3dVk4V0RiRkp3?oc=5",
    "date": "2026-10-08T08:36:33.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: cancellations and delays",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -6719,20 +6733,6 @@
    "score": 7
   },
   {
-   "title": "Deloitte Romania assisted OMV Petrom in implementing strategic green hydrogen production projects at the Petrobrazi refinery through NRRP",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOWURPTGdrcnZwamUwRzUxWU5PczRTOUVyWHg5bEcxUTVXOEpZcFdMRTIxa3d4b2I1V1djZVRCYkRrLThETVRDWmpkYnNTMmNFVUJJM2pkNUhkZ3JybFR0WnJXbTA0eUdSdXZnWDg3S1lYdTJUQ3ZFOTBzLW1zb1NER0c4ZDJXanZMdGxPeW9Rc05wS0l3UHhGMzNfbFVPcGFzSXFWTXVBT0RJQkh0LUF6U3IyR2EycDFBcWs5ZGtsenFNa3hsUjVwcFIzLUZES1J5Mktoc0lhTGZmLWwxRjRnTnhtTFhlV3BxYV9ZeFdOZ1QyUUs0Vy1rWDFwV2IwZGtfLU9TeGt5aThIZUxuVTlHWUs4UVNuZnpVZjVnRDFEVGtiUFpBNDlQRjV3?oc=5",
-   "date": "2026-10-08T07:00:00.000Z",
-   "source": "Deloitte",
-   "origin": "Deal search: refineries and industry",
-   "image": "",
-   "topic": "Steel & Industry",
-   "region": "Middle East",
-   "market": "other",
-   "score": 6
-  },
-  {
    "title": "Maharashtra’s $3-billion green ammonia project nixed over viability concerns",
    "lang": "en",
    "summary": "",
@@ -6754,7 +6754,7 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzItV0dyem9XWEttT1d2Z1h1Q2h6aHZRUkhXZmxadDhQd3RVUE4yUW9jaWVLZThzZzdaMUc5VnBJblB5SlhjWlpmV09sMW5DT1NfLWdNb0xhYXBia1ZYWWNfdVpDeXpMdERncklpejd1T05hSnQ2aDVrYW0yYl93cVVJaEJ5dDR1ZWY2R2psQmlmSmxMNVZOZmgtbTFnTnhweDV5Uw?oc=5",
    "date": "2026-10-08T07:00:00.000Z",
    "source": "baumarktmanager.de",
-   "origin": "Deal search: fuel cells and e-fuels (DE)",
+   "origin": "Deal search: Germany (DE)",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Germany",
@@ -6777,18 +6777,18 @@
    "score": 6
   },
   {
-   "title": "Electrolyser maker ITM anticipates lower loss than expected for past financial year",
+   "title": "Deloitte Romania assisted OMV Petrom in implementing strategic green hydrogen production projects at the Petrobrazi refinery through NRRP",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODVwOGdHN0dQbWlZS01RVC1TckdJWmM1cG0zYXZrVXNOUjFGalNuM0VWQXlSdTJIcDYwME53ZDhJQ0Z2cjJxTHZKUzVEODFLZ05fMGpyUHhjXzNCQlZid1FCeVdfZy0zLTdxQXRwaHhRbjlFX09lYkxsc2hPU281NTZTV2kyTXN5Z1JobVR5SkNVTWM5TWZza3lXX0RpaDBqZVNlVHZKTUJDMEVmLVlxOTNjVHNCVnRCZlRKb0R6eFBKTjZUWVZReEpFdG9IVmgxZW5OS1hkakc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOWURPTGdrcnZwamUwRzUxWU5PczRTOUVyWHg5bEcxUTVXOEpZcFdMRTIxa3d4b2I1V1djZVRCYkRrLThETVRDWmpkYnNTMmNFVUJJM2pkNUhkZ3JybFR0WnJXbTA0eUdSdXZnWDg3S1lYdTJUQ3ZFOTBzLW1zb1NER0c4ZDJXanZMdGxPeW9Rc05wS0l3UHhGMzNfbFVPcGFzSXFWTXVBT0RJQkh0LUF6U3IyR2EycDFBcWs5ZGtsenFNa3hsUjVwcFIzLUZES1J5Mktoc0lhTGZmLWwxRjRnTnhtTFhlV3BxYV9ZeFdOZ1QyUUs0Vy1rWDFwV2IwZGtfLU9TeGt5aThIZUxuVTlHWUs4UVNuZnpVZjVnRDFEVGtiUFpBNDlQRjV3?oc=5",
    "date": "2026-10-08T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "source": "Deloitte",
+   "origin": "Deal search: refineries and industry",
    "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
+   "topic": "Steel & Industry",
+   "region": "Middle East",
    "market": "other",
-   "score": 4
+   "score": 6
   },
   {
    "title": "Von Elektrolyseur bis Schraubenschlüssel: So soll Metall-3D-Druck günstiger werden",
@@ -6803,6 +6803,20 @@
    "topic": "Production & Technology",
    "region": "Germany",
    "market": "core",
+   "score": 4
+  },
+  {
+   "title": "Electrolyser maker ITM anticipates lower loss than expected for past financial year",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODVwOGdHN0dQbWlZS01RVC1TckdJWmM1cG0zYXZrVXNOUjFGalNuM0VWQXlSdTJIcDYwME53ZDhJQ0Z2cjJxTHZKUzVEODFLZ05fMGpyUHhjXzNCQlZid1FCeVdfZy0zLTdxQXRwaHhRbjlFX09lYkxsc2hPU281NTZTV2kyTXN5Z1JobVR5SkNVTWM5TWZza3lXX0RpaDBqZVNlVHZKTUJDMEVmLVlxOTNjVHNCVnRCZlRKb0R6eFBKTjZUWVZReEpFdG9IVmgxZW5OS1hkakc?oc=5",
+   "date": "2026-10-08T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
    "score": 4
   },
   {
@@ -7035,20 +7049,6 @@
    "score": 7
   },
   {
-   "title": "South Korea sets out $747bn energy transition plan, with role for hydrogen in steelmaking and transport",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPell2c2k4OTVGc1RtY19HSFpkZHl1VERSWG9YelRCNTg5Qy1vV0pGN0g5aTA5bzNVSGNNZHlfYmRHU0JqWnVUZDhQeHRwaXNPbHVBYzNfc3NzMHB4b1E1enFqSXI4dmpwdThpWmtUUUJ1Y2tmeHZ0eFlrdWkyX3dUdTZCOFpHc0JpY0RjV1RqMDBUczFrUDMwM0o4VUJhNnk3ZGc4YkU1WlNqYi1GbXNTMXdjeWhoamowNUlMV21rWVlSdW9MVDQzRHI2U3FOY0xERkkxY3F4YkVnYUxnbEFBcFhCenEzVWc?oc=5",
-   "date": "2026-10-07T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Steel & Industry",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 8
-  },
-  {
    "title": "Japan’s Iwatani, Cosmo Approve $156M Hydrogen Supply Chain Project",
    "lang": "en",
    "summary": "",
@@ -7074,6 +7074,20 @@
    "topic": "Policy & Auctions",
    "region": "Benelux",
    "market": "core",
+   "score": 8
+  },
+  {
+   "title": "South Korea sets out $747bn energy transition plan, with role for hydrogen in steelmaking and transport",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPell2c2k4OTVGc1RtY19HSFpkZHl1VERSWG9YelRCNTg5Qy1vV0pGN0g5aTA5bzNVSGNNZHlfYmRHU0JqWnVUZDhQeHRwaXNPbHVBYzNfc3NzMHB4b1E1enFqSXI4dmpwdThpWmtUUUJ1Y2tmeHZ0eFlrdWkyX3dUdTZCOFpHc0JpY0RjV1RqMDBUczFrUDMwM0o4VUJhNnk3ZGc4YkU1WlNqYi1GbXNTMXdjeWhoamowNUlMV21rWVlSdW9MVDQzRHI2U3FOY0xERkkxY3F4YkVnYUxnbEFBcFhCenEzVWc?oc=5",
+   "date": "2026-10-07T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "market": "other",
    "score": 8
   },
   {
@@ -7195,7 +7209,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXdVYThUQ2VBVzFvcEZrYkhYa2ZGZFd4X2xtMjV5cU5yVXdCSUM5YzIwdFF1ZHJNbWVyRXEwOWttVXE3RkhIMmFlM3FaVVI1TWJnalpLMkFLZGJhOVY5RU1NdWU3UzZGUGtMR2NIS2J3ZU9UWG9TcTZpaWNHYXhIc0dzQWtHaGxxX0pLd1RpX3F6dk13ZC1kNkx4NzJtSzEyeXV0UjZhazUwUQ?oc=5",
    "date": "2026-10-06T13:04:12.000Z",
    "source": "energynews.pro",
-   "origin": "Deal search: eSAF and aviation fuel",
+   "origin": "Deal search: large investments and funding",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Other Europe",
@@ -8954,19 +8968,19 @@
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 9,
+   "shown": 8,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 50,
+   "shown": 51,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 16,
+   "shown": 17,
    "status": "ok",
    "error": ""
   },
@@ -8984,13 +8998,13 @@
   },
   {
    "name": "Deal search: Germany setbacks (DE)",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: fuel cells and e-fuels (DE)",
-   "shown": 3,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
