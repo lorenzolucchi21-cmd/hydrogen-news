@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T05:57:19.981Z",
+ "generatedAt": "2026-11-01T15:04:10.785Z",
  "articles": [
   {
    "title": "Microbial technology is turning end-of-life oilfields into hydrogen-producing bioreactors",
@@ -7826,8 +7826,8 @@
   {
    "name": "Hydrogen Central",
    "shown": 6,
-   "status": "unreachable",
-   "error": "HTTP 415"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Hydrogen Europe",
@@ -8066,14 +8066,14 @@
   {
    "name": "Bioenergy International",
    "shown": 4,
-   "status": "unreachable",
-   "error": "HTTP 415"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Green Air News",
    "shown": 0,
-   "status": "unreachable",
-   "error": "HTTP 415"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "gCaptain",
@@ -8084,8 +8084,8 @@
   {
    "name": "Splash247",
    "shown": 0,
-   "status": "unreachable",
-   "error": "HTTP 415"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Euractiv",
@@ -8228,578 +8228,578 @@
   {
    "name": "Hydrogen Insight",
    "shown": 61,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Recharge",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Reuters",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Bloomberg",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Financial Times",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Argus Media",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Montel News",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Renewables Now",
    "shown": 22,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energy Voice",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Renewable Energy World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Euronews",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "energate messenger+",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ZfK",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Change Inc.",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Innovation Origins",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Nederland Waterstofland",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "WaterstofNet",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Hydrogen Council",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "IEA",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "European Commission Energy",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Clean Hydrogen Partnership",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "German Economy Ministry",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Netherlands Enterprise Agency",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "RWE Press",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Liquide",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Products",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Linde",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Shell",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "bp",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "TotalEnergies",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Uniper",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Equinor",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "OMV",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Gasunie",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "EWE",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "thyssenkrupp nucera",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ITM Power",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Nel Hydrogen",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Topsoe",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Siemens Energy",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Plug Power",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Port of Rotterdam",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Business Insider Deutschland",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Gründerszene",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Tagesspiegel",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "FAZ",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Süddeutsche Zeitung",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Manager Magazin",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ZEIT",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "HZwei",
    "shown": 14,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Chemie.de",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "CHEManager",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Windbranche",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "erneuerbareenergien.de",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "IWR",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energie & Management",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Klimareporter",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "dena",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ingenieur.de",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "VDI nachrichten",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Industrie Magazin",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Neue Zürcher Zeitung",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Het Financieele Dagblad",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "NRC",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Duurzaam Bedrijfsleven",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energievergelijk / Energeia NL",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Enlit World",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Investing.com",
    "shown": 17,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "TradeWinds",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Upstream",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ICIS",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Politico Europe",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Hydrocarbon Engineering",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "H2 View",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Business Wire",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Chemistry World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Ammonia Energy Association",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Splash247 (shipping)",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Aviation Week",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Flight Global",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Transport World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Biofuels International",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "CHEManager International",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: final investment decisions",
    "shown": 25,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: offtake and supply agreements",
    "shown": 24,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: refineries and industry",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
    "shown": 8,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: large investments and funding",
    "shown": 51,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: cancellations and delays",
    "shown": 17,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: policy and auctions",
    "shown": 14,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Germany (DE)",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Germany setbacks (DE)",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: fuel cells and e-fuels (DE)",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Netherlands (NL)",
    "shown": 10,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: project milestones",
    "shown": 21,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: project milestones (DE)",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   }
  ]
 }
