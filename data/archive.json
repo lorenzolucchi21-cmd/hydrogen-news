@@ -1,6 +1,246 @@
 {
- "generatedAt": "2026-11-03T11:53:26.385Z",
+ "generatedAt": "2026-11-03T19:29:07.283Z",
  "articles": [
+  {
+   "title": "PosHYdon: integratie is de uitdaging offshore-elektrolyse — artikel bevat een betaalmuur",
+   "titleEn": "PosHYdon: Integration is the Challenge of Offshore Electrolysis - Article Contains a Paywall",
+   "lang": "nl",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmdlSnRkeGlqbk84TUhsZ1RhbVZPbUtJQ2N4QkdaejBtVzl2WDlxN2t0TWctRTdHYnh3R2FkVXhXSkdXU3B2MVRKWjRlRHVBcHFVaFJBdHVtdG0zeFg0Tl9ESE5OLVgtV0NzWlNIU3FUUlE0NEtkVUpOWHJZajRmYW0wMA?oc=5",
+   "date": "2026-11-03T16:45:17.000Z",
+   "source": "Energievergelijk / Energeia NL",
+   "origin": "Energievergelijk / Energeia NL",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Benelux",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "PosHYdon: integratie is de uitdaging offshore-elektrolyse",
+   "titleEn": "PosHYdon: integration is the challenge of offshore electrolysis",
+   "lang": "nl",
+   "summary": "De grootste uitdaging voor de productie van groene waterstof op zee is niet technisch, maar organisatorisch. De belangrijkste barrières liggen op de raakvlakken tussen technologie, infrastructuur, regelgeving, vergunningen, contracten en belanghebbenden. The post PosHYdon: integratie is de uitdaging offshore-elektrolys",
+   "link": "https://energeia.nl/poshydon-integratie-is-de-uitdaging-offshore-elektrolyse/",
+   "date": "2026-11-03T16:42:15.000Z",
+   "source": "Energeia",
+   "origin": "Energeia",
+   "image": "https://energeia.nl/wp-content/uploads/sites/2/2026/11/ENI-Poshydon-26-11-03--170x170.jpg?image-crop-positioner-ts=1793699354",
+   "topic": "Production & Technology",
+   "region": "Benelux",
+   "market": "core",
+   "score": 6
+  },
+  {
+   "title": "Bloom Energy Gains 9% on California Resources’ 1 GW Fuel Cell Tie-Up and Barclays Upgrade",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGNnTFRsUkhMVFN4TmdCb3F2ajNjODZ2ZVFCaVFERmtzMzJ3LV9meG5EOEo4U09XbW1fVllZS1VoeWRLNzhiNVhPOXNXQ2Jvb1VzeTNSUjVwWEw1QUxYOTYteUdxVUFBa1haWVcydEpoLWxwbnpxdUNUMlBpVFZhREhWTWxsbFJPQ2ZxaW9tTTE0RFA4ZE4tVElUMnJXdk9GVGRsRzdZMW0wN3FBZDdOQ2hvUmZPUWkz?oc=5",
+   "date": "2026-11-03T16:41:15.000Z",
+   "source": "TIKR.com",
+   "origin": "Deal search: fuel cells and e-fuels (DE)",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "North America",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Towngas and DBS Hong Kong Sign MoU to Launch the First Sustainable Financing Initiative for Hong Kong's Green Hydrogen Projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/02/h2/towngas-and-dbs-hong-kong-sign-mou-to-launch-the-first-sustainable-financing-initiative-for-hong-kong-s-green-hydrogen-projects",
+   "date": "2026-11-03T16:06:14.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "Vivakor Hires International Strategist to Advance Proposed Texas Airport Hydrogen and CNG Project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/03/h2/vivakor-hires-international-strategist-to-advance-proposed-texas-airport-hydrogen-and-cng-project",
+   "date": "2026-11-03T15:47:46.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "North America",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "South Korea Reboots Clean Hydrogen Power Auction Plan",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sMXVVZG1yZUpDR1NLYVZNV0hMUENNLVB0UW5lVVBXSEIySUhaaDlHYzFIYkFXNmJTNzVmQ0FrcW1aOFFiUk45ZFBJZVRobkJtOWxlWXhDRUwzR3FDMk9LSlNldEJNdm5Edmw5bUFlQVU2QQ?oc=5",
+   "date": "2026-11-03T15:19:24.000Z",
+   "source": "Energy Intelligence",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Anteros Signs MoU with PetroDexia to Test Stimulated Hydrogen at Seagull Project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/02/h2/anteros-signs-mou-with-petrodexia-to-test-stimulated-hydrogen-at-seagull-project",
+   "date": "2026-11-03T14:59:43.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "Safer Hydrogen Pipelines: HyLINE II Research Partners Gather at Tenaris in Italy",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/10/28/h2/safer-hydrogen-pipelines-hyline-ii-research-partners-gather-at-tenaris-in-italy",
+   "date": "2026-11-03T14:54:21.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 3
+  },
+  {
+   "title": "South Korea’s 500MWh of clean hydrogen power auctions begin",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlNILUJneklCQVczc3lQaGMxLVFBNmgxTFRYUzh2cXg3TlF4VFgzMFphRE51MFlNMUo1cnlvQ2ROUm9YTVp3Yld5dFJJeVllR3ZRbU5NUUpoUFo4SmVtcF9JZ0syaDJCZmQtdVBpVk9fMlVhRE16bjJiU0RIYTl4Z0xIWTJJYlNZa2VtMllqdkRKSzFhcVhxLWhGenNxbWxjTXZoc2VIeVIxQQ?oc=5",
+   "date": "2026-11-03T14:50:33.000Z",
+   "source": "gasworld",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Master’s Thesis: Experimental Investigation of Material Effects in PEM Water Electrolysis",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS3VQUVFINlVoUkRxMjlfRUNNSHdXU0ltbXloSm1wSzFTY2U2QTZTbFJCYnljZFdaemFOSDNzWTRlVDMxOEJLOFNld1R1RzZxRW96YTVVSHpZZEVvRWxmY0JwSFh2VWJkX1JDdTBYTFA3RUJlMUtWWTRKTzZ6bGVlbUVrS1pPdGxqUE03NGJGM2RQZ2ZGYkRSNzlhY2JYOThUZ2U1SmM3dk10VnE2S0pTQkpJNUFDWVN3NnI0U1FId1lneU1XRnhXNG1XSW5YdUl1UXpLUVE4am5qbWFUcElhOVRubGxOdw?oc=5",
+   "date": "2026-11-03T14:41:17.000Z",
+   "source": "Siemens Energy",
+   "origin": "Siemens Energy",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "LONGi’s Hydrogen Systems Heading to Greece as Amyntaio Project Gets Investment Approval",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/03/electrolyzer/transcript-evonik-industries-ag-q3-2026-earnings-call-nov-03-2026",
+   "date": "2026-11-03T14:35:18.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "LEAG Secures 3.68GW of Hydrogen-Ready Power Projects in Germany’s First Capacity Auction",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/03/h2/leag-secures-3-68gw-of-hydrogen-ready-power-projects-in-germany-s-first-capacity-auction",
+   "date": "2026-11-03T14:30:38.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "market": "core",
+   "score": 12
+  },
+  {
+   "title": "Thyssenkrupp plans new hydrogen tender as tkH2Steel moves ahead",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzByYVVQcjRYSTU0TXotcXVicjVkQ2FxZDd5WUdscDg5LV9VYWltWldGMmxfNzBQUjA2YlA0LUZ0a3Z5RE1MWG1fS3RpVFgzSlBNT2Y5X2l5bjJUZkRwQnVUMnQ0alRKSGoxdi1XMlJOV0ZCcjFIZzRKMThMSDd1bWphN1JwY0s5VERPT0xPNWF4RHhSVnZBbmRON19HV1pPcFdkTHR3?oc=5",
+   "date": "2026-11-03T14:24:55.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Vivakor hires consultant for Texas airport hydrogen project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkQ4RjhSUllvdzMtdV9qUWxYdnM0VWZIVDdYLTA1clpROGY4ZVRIWWJhZUhDOXhTX0g3QkJfY24wS055aVItVXljRmJSMEEzQUVuSXBTemdwcG0xSHNTNHlyNjNLNFlwWUlVU19OT3Rnc0xIa1dwSlhkMXM0THA3Wl9MVmppYWx5eXdUb21IUEdHTEg3SVVsc0VyZGxLbURzZnBVcGotSTF3QTJjYlFJVEVVWHBqSmc?oc=5",
+   "date": "2026-11-03T14:20:29.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "North America",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Vivakor hires consultant for Texas airport hydrogen project By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjVVdi1aOWNCLVg3eVhHZGJPZ3pqT0lvMUdVY0cxWjNFQXdpT21zSWxvbXlJa04ta29mWHIxWHRvLTcxdG5jQ0VKckJYOTk4SFNfamY1S1dBQWtpNVN2QV9HSlIyZGV2aGdYUlRETEdJZkQweXhvY0tpUEdyNF9UNjc0YmpCakxCVUoteW02YXYzRUNMYTlBNGl4a2xMLXNqU2lEcUkxdmNKWExXbm9WaHJxWUt5QUhTM2k3Nw?oc=5",
+   "date": "2026-11-03T14:12:41.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "North America",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "RWE Secures 2.1GW Hydrogen Ready Gas Power Project Win",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0ViV25GQ0luWWZyWENnanRzQVdCZGd4VUo1SVhGa1ZMSFlfc0xVb1FtNV9rNEVsc2NhYnBDVlVocVp2ZzZsSVdyZDZxTFlNWE90RV9fWWdPN1Nzd0puVjRHaWhkQ2tPR0QxckhmQmF5QWd5SnJSNUJJNFd1S2hDc29SajRXeHV4blFSSl94RXVTUzFCeTlWNnBjUUV5UEtzQlhjdER3cXRlZGY0YWFvZnFSZDN0S3owWTdZNDVGdGkyUEU?oc=5",
+   "date": "2026-11-03T12:45:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
+   "title": "Primary Hydrogen Corp. (TSXV:HDRO) Records 4.35 Million Shares Traded as Natural Hydrogen Claims and Wicheeda North Drill Plans Draws Focus",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHEzTDRhd1JzSEc1V0pjVEJNMC1fMmtHQm92UmU3b0xZZnlxbkFyM3dlSkJsLTRaZnFKbXJBdDFNZVJlQjFnRVlWYjNmR3MtNmZnT1E3Z2E1Q1FKa2FBMmlVR1gzVjRqM3lwUWMwRkFRTHhQTmRrZmlPaTA1cVZYNVdJem5IcmRLdTJlYUJSQ0c0VnFmSDl6RktBMDVJNVZOQndLTGxyRkF2NTBEMmtNMEgzcEVkeXdseGxXdVVVQkpMNTBENVdjM1RQNHFSUG1DbXJ6X1JnRHI2TkF1ZEkwdlVHdTNjcW1wb0JCTTZoTEZnQkxLUXA1YQ?oc=5",
+   "date": "2026-11-03T12:44:00.000Z",
+   "source": "kalkine.ca",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
   {
    "title": "Elcogen, Hygreen explore solid oxide electrolysis collaboration",
    "lang": "en",
@@ -27,6 +267,20 @@
    "topic": "Infrastructure & Storage",
    "region": "UK & Ireland",
    "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Abu Dhabi, Evolve Fuels sign agreement to explore e-SAF production opportunities",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2JXYlUzdmhoOWNDejE0V0dXaFNGWHdrc3Z1RDFkNG1FUzlsQWRsUjB5RElvTDliSjhvTEQtbHMyckkzc3ZaYUtVYnJGSUlWUE14NzdtN0FoaC1IekxKMVd3b29sY2FYWmN4Z19ybS00ZV9Nc3lOMURPWlcwdkFLY1F5TGw3Z2V4MloxMFczTDg5ZlI0NmtPZnNJakRvcURlRlRXMFNOQkY5bHBkWTRvT3M0ck13T2Zfa3dR?oc=5",
+   "date": "2026-11-03T09:56:47.000Z",
+   "source": "TradeArabia",
+   "origin": "Deal search: eSAF and aviation fuel",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Global",
+   "market": "other",
    "score": 5
   },
   {
@@ -1039,7 +1293,7 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVVE2N0M0ZkhURnp3d2FQSUF5M0dZWExVSXNWcFRvdk02bnJ3TVhpd09vdm96SU5YaFE0MWczajQ4X3J3a2FRakQzWkVGanh4NkFyWkdVeDV2UF9xQjhoRElmdlcxaU44U0ZJTlQ1MnVKQ2ItMVFUMlI1azZCem5jeW04UDRqNDJULU85SWZRcGxYYmc5enB5WG5fUHdFUGNWZC1RMWp4RnlZRTVqRkxLRkFWQ21MLTYyR0swaGJSaUlOV3hNX05zb0NoUEFYN1JUR0ducVp2WXJmendFQU1MeEwxNEJJb1VYRUljZTh3?oc=5",
    "date": "2026-10-30T05:47:00.000Z",
    "source": "TradingView",
-   "origin": "Deal search: project milestones",
+   "origin": "Deal search: offtake and supply agreements",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Global",
@@ -1569,7 +1823,7 @@
    "title": "India’s Green Hydrogen Offtake Commitments Reach 5.56 Lakh Tonnes Per Year By October 2026",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkRQMFZFZ2hpdzIweHFpZXRRZ2p0X29ZR2hvSTQxM3cyMEd6LWtXUEZDeDA2UzU3S3VKemxWd3I2WF9CQkVnUS1ENUxZcWdQY1REQTNSSmMxZWN2THBsdW1qMU14V2k2eW43M01yNUVFcFRxUTg1VHc4N3JUekthaU1PWWg0TDlkZy1acXEwTWVESFk1VmZrRTRaYnpfaEJyRjdrMHBWMmRLS2p2bDgxdExZLXdZSEE2NWh3bGN6emJsbTUzcTBxdG1yWXZUcnp3bXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRFVDeC11R2RaMXlxcjl6Vjljbmt6amhEcnNta3NMM2RUQ01OTjM1azZXM2lWTGR0WWtsVlhvVkZzSUF2eld6SG9yUTk0V1Y5bkVEUFBtU0JQWDh1NTk0bWN1cFdmNXVlNnVYMzJZcUoteE4tTFdwRk9OQjlIazJIYTVUbF9XTnNyUWxtMDFjSl83LUxXZEhzRzNIVm02bEJTalZSUEZzMWlhMlFrTDJVajI3OWdaSWxaOWpXd1dlbktwSUlQdTJmRmZzWnQ4YlFEa2xFbWFaV0gyMFE?oc=5",
    "date": "2026-10-29T09:56:04.000Z",
    "source": "KNN India",
    "origin": "Deal search: offtake and supply agreements",
@@ -2064,7 +2318,7 @@
    "title": "JERA to buy 70,000t/y of ammonia from AM Green site in India",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWplTGdkeFZxNVg0akRKMUZsUVlCWmRJVGpLcWhRLUx6R1VhaEkxNXM1bGl4Yk81VUZjZV9ydGhKNDFkY2EySUxZcDZ4dFJpVkNxYTRRbXF5UVJYemVTeVUzRjVGTmM5ZjY5V2dvcV9vLVJRUHllcmJkYy04VklURXpFV0pTT3Rab3AzUjQtUUVHdFRRcjdLWjBITGtpeUda?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFpmeE9ZM0JvYV9iVjZwNW9nWEQ1UFhuR1IxQVRRZFRDNmNNQ0NlZG5xM215T3d2YkRXLXRpOWk1NXZZcUxkLW5MeFFla3pqUWttUHNPdUEtLXBYclBNQW1qN1E4V1FsVHY4bl81ay1YcWpScDkzUHZKWHhZLWswNXNlTHhxcGwxWnpvOVpWYkZZMEtVM3Z5aTRLZ2xCOGxsRFZDRU5yM2NSazExbk5EYXJUVlNiVkhpczAzQzhXRC1WOUIwWHFGVUNERTNBQWtGSjFfeV9GenlWUWxMcUZnaEM3WTN4VVNTb1E?oc=5",
    "date": "2026-10-28T12:11:49.000Z",
    "source": "Renewables Now",
    "origin": "Renewables Now",
@@ -7572,7 +7826,7 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkFJQzQ1VnN2UEVxbWEtaXFpWExjQjVUdXhkMndWSHZRaWhCT2hGUmtJMWtCa0NPcFVqZkhSazBYdU45MWptRXY1VTNNalp4c2tGS0NFa2x0RWZoNmVBTGlvSGRaTGtPdmxjRUNaQng5S1Z0Tlo5NkpVUXdLbXJsd0ZOS2pGZVRKSVhLUUZJN2drN1l2YVBTUndkeDRzSW1tRVBTTm9pN0hlNVRQRHc?oc=5",
    "date": "2026-10-08T07:00:00.000Z",
    "source": "gasworld",
-   "origin": "Deal search: final investment decisions",
+   "origin": "Deal search: offtake and supply agreements",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "UK & Ireland",
@@ -7853,6 +8107,20 @@
    "score": 6
   },
   {
+   "title": "South Korea sets out $747bn energy transition plan, with role for hydrogen in steelmaking and transport",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPell2c2k4OTVGc1RtY19HSFpkZHl1VERSWG9YelRCNTg5Qy1vV0pGN0g5aTA5bzNVSGNNZHlfYmRHU0JqWnVUZDhQeHRwaXNPbHVBYzNfc3NzMHB4b1E1enFqSXI4dmpwdThpWmtUUUJ1Y2tmeHZ0eFlrdWkyX3dUdTZCOFpHc0JpY0RjV1RqMDBUczFrUDMwM0o4VUJhNnk3ZGc4YkU1WlNqYi1GbXNTMXdjeWhoamowNUlMV21rWVlSdW9MVDQzRHI2U3FOY0xERkkxY3F4YkVnYUxnbEFBcFhCenEzVWc?oc=5",
+   "date": "2026-10-07T11:10:15.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 8
+  },
+  {
    "title": "Fertigung - Thyssenkrupp nucera will Elektrolysezellen für Europa zentral in Portugal montieren",
    "titleEn": "Manufacturing - thyssenkrupp nucera wants to assemble electrolysis cells for Europe centrally in Portugal",
    "lang": "de",
@@ -7925,17 +8193,17 @@
    "score": 7
   },
   {
-   "title": "South Korea sets out $747bn energy transition plan, with role for hydrogen in steelmaking and transport",
+   "title": "Netherlands Injects Over €44M into Hydrogen Mobility Subsidy Scheme",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPell2c2k4OTVGc1RtY19HSFpkZHl1VERSWG9YelRCNTg5Qy1vV0pGN0g5aTA5bzNVSGNNZHlfYmRHU0JqWnVUZDhQeHRwaXNPbHVBYzNfc3NzMHB4b1E1enFqSXI4dmpwdThpWmtUUUJ1Y2tmeHZ0eFlrdWkyX3dUdTZCOFpHc0JpY0RjV1RqMDBUczFrUDMwM0o4VUJhNnk3ZGc4YkU1WlNqYi1GbXNTMXdjeWhoamowNUlMV21rWVlSdW9MVDQzRHI2U3FOY0xERkkxY3F4YkVnYUxnbEFBcFhCenEzVWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamZnRjlsQlVlaXdGYktTSXBGSmNjUEt6QmNpMW5fVWxnV2lqT1hzZlFLbXJyMGRaTG1HS1FZQXRlRFlNaHRYRHNnUHhpUklDdG1BNUI0YW5fdmlIQzN2ZDk4aHRWVVpDX2hoU01VVGdnUE4wcDBfVTlabHo1VnBSY2kwbERmWXVRLXZVdkFPSDh5eVFRdUx0ZXRDVlVFbEp0Y241V3JLdDh0ek9Y?oc=5",
    "date": "2026-10-07T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "source": "Hydrogen Fuel News",
+   "origin": "Deal search: large investments and funding",
    "image": "",
-   "topic": "Steel & Industry",
-   "region": "Asia-Pacific",
-   "market": "other",
+   "topic": "Policy & Auctions",
+   "region": "Benelux",
+   "market": "core",
    "score": 8
   },
   {
@@ -7950,20 +8218,6 @@
    "topic": "Investments & FIDs",
    "region": "Asia-Pacific",
    "market": "other",
-   "score": 8
-  },
-  {
-   "title": "Netherlands Injects Over €44M into Hydrogen Mobility Subsidy Scheme",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamZnRjlsQlVlaXdGYktTSXBGSmNjUEt6QmNpMW5fVWxnV2lqT1hzZlFLbXJyMGRaTG1HS1FZQXRlRFlNaHRYRHNnUHhpUklDdG1BNUI0YW5fdmlIQzN2ZDk4aHRWVVpDX2hoU01VVGdnUE4wcDBfVTlabHo1VnBSY2kwbERmWXVRLXZVdkFPSDh5eVFRdUx0ZXRDVlVFbEp0Y241V3JLdDh0ek9Y?oc=5",
-   "date": "2026-10-07T07:00:00.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Benelux",
-   "market": "core",
    "score": 8
   },
   {
@@ -8441,7 +8695,7 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzBMcXIxbkR2VzUwSm1ad09POGR5b0VPSTUyMUZrRkxDdjdOU3dLTkV4VktSZ0JmWjNJbU54d2dfb2l5c3RrX0hWZEVlTk5SQWQ0VHpheFRlTjNzbHQxcWFrQ01Zc19KRVpfY1NaSUcxZHFYRlk1ZTZyTGVXcUU3VHY0S3NLZjRKUmM0M0dR?oc=5",
    "date": "2026-10-05T07:00:00.000Z",
    "source": "UA.NEWS",
-   "origin": "Deal search: final investment decisions",
+   "origin": "Deal search: eSAF and aviation fuel",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Germany",
@@ -8618,7 +8872,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 57,
+   "shown": 63,
    "status": "ok",
    "error": ""
   },
@@ -8643,8 +8897,8 @@
   {
    "name": "Hydrogen Central",
    "shown": 6,
-   "status": "unreachable",
-   "error": "HTTP 500"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Hydrogen Europe",
@@ -8702,7 +8956,7 @@
   },
   {
    "name": "Energeia",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -9086,7 +9340,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 29,
+   "shown": 30,
    "status": "ok",
    "error": ""
   },
@@ -9278,7 +9532,7 @@
   },
   {
    "name": "Siemens Energy",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -9434,7 +9688,7 @@
   },
   {
    "name": "Energievergelijk / Energeia NL",
-   "shown": 2,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
@@ -9446,7 +9700,7 @@
   },
   {
    "name": "Investing.com",
-   "shown": 18,
+   "shown": 20,
    "status": "ok",
    "error": ""
   },
@@ -9542,13 +9796,13 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 31,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: offtake and supply agreements",
-   "shown": 23,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
@@ -9560,13 +9814,13 @@
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 9,
+   "shown": 11,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 59,
+   "shown": 60,
    "status": "ok",
    "error": ""
   },
@@ -9578,7 +9832,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 16,
+   "shown": 19,
    "status": "ok",
    "error": ""
   },
@@ -9596,7 +9850,7 @@
   },
   {
    "name": "Deal search: fuel cells and e-fuels (DE)",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -9608,7 +9862,7 @@
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 22,
+   "shown": 21,
    "status": "ok",
    "error": ""
   },
