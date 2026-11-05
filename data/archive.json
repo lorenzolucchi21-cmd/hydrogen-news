@@ -1,6 +1,246 @@
 {
- "generatedAt": "2026-11-05T12:16:01.116Z",
+ "generatedAt": "2026-11-05T19:58:37.012Z",
  "articles": [
+  {
+   "title": "Denmark meets hydrogen pipeline booking threshold",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXNjWWVJQURpa05hMThQUFZ5RUlJZldOMmJJTm51YkYzb2RzSW1pMWlHaXFGZVNiLWk4TGg4Njd5ODNzcExZa3NLcDBkcHo3T1JRc3Nrak5ydjMtSjRrQWhWUnp3N1pTUElJYXVMNDdNYl9HdGVCaWhCSDJwR2h6bk5GS19nV3plazNid3lNVm1LZVpUeU1TdS00RHhsakRzLThnZkRsRUZDRk8zZ2c2TEgySXBkVWUxTmlVNEo2UGNpdw?oc=5",
+   "date": "2026-11-05T17:07:38.000Z",
+   "source": "Argus Media",
+   "origin": "Argus Media",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Nordics",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Mainz Halts Hydrogen Pipeline After Buyers Fail to Commit, Leaving €7M in State Funding Unused",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/02/h2/mainz-halts-hydrogen-pipeline-after-buyers-fail-to-commit-leaving-7m-in-state-funding-unused",
+   "date": "2026-11-05T16:57:19.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
+   "market": "other",
+   "score": 12
+  },
+  {
+   "title": "Air Products: $3.2Bn Write-Off After Pulling Out of Clean Hydrogen Projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/h2/air-products-3-2bn-write-off-after-pulling-out-of-clean-hydrogen-projects",
+   "date": "2026-11-05T16:34:04.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
+   "title": "Kia EV7 and H2-Carnival in the works",
+   "lang": "en",
+   "summary": "Kia is apparently planning a battery-electric EV7 and a hydrogen-powered van from the Carnival series, which is available in certain markets. This is according to a Korean portal citing an internal company document that lists production plans for the coming years.",
+   "link": "https://www.electrive.com/2026/11/05/kia-ev7-and-h2-carnival-in-the-works/",
+   "date": "2026-11-05T16:00:00.000Z",
+   "source": "electrive",
+   "origin": "electrive",
+   "image": "https://www.electrive.com/media/2025/02/kia-ev3-gwangmyeong-suedkorea-south-korea-produktion-production-2025-01-min-400x267.jpg",
+   "topic": "Other Hydrogen News",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Yokogawa wins automation contracts for world’s largest liquefied hydrogen carrier",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRU9oWnRXWkN0TjB2Vk1JMFdCQ2ZGLTNId3FoRjBPSHJhYmNBSEdnVmdYa0hSR1hrS21udUljOXE3Y3hwVW1QMEpoemRxNEliVkRMY1B2MUVzT2JEMFhGQWdlb0c1RWNQRVdFTVFIN0FPVmVWZHBGd3V5YXBUT1luRHNUaXFaSENJNG5yYjFMZ3lYUjhQbXNmLVRhUFNZRlcwcWtCaDZjeV9tdUtmb2JGYlpWbFM3bkRQZU4taTRn?oc=5",
+   "date": "2026-11-05T15:48:49.000Z",
+   "source": "BIC Magazine",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "German government signs off on half-a-billion-euro grant agreement with Danish green hydrogen project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTY0dEs0dHhlQ3Fkcm9tZkJUM0htUVIxalFLX2lnS0VfYUJ2VWFWZGJZQzFfd0txX1JudW1fOVVzVXE0OFMtWmloN0ZqZ3M1T1ZHLUxsLUlILXplUWZuLVZicGlpTUtkX3dSYktyTEtkUjhkTllHcTI3SVczQm9oOGY2WkNjNmMyVkItZXNaWWpBbG1pNmE3djVHMFFUR0dSQkhqOThhbk1BTTZ5U2R6aUlEbV8wV2VwNUtyLWg2RnBVXy11b1ZuOTUtam5OQ3Rqa0dOVi1OQ3k5SEZPMzlEY1p5NXBLSlliNC1YMw?oc=5",
+   "date": "2026-11-05T15:40:59.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "Amber Grid Plans Upgrade to Measure Hydrogen in Lithuania’s Gas Network",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/h2/amber-grid-plans-upgrade-to-measure-hydrogen-in-lithuania-s-gas-network",
+   "date": "2026-11-05T15:18:10.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "DBS Bank Backs Towngas Green Hydrogen Push in Hong Kong’s First Dedicated Clean Hydrogen Financing Deal",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/02/h2/dbs-bank-backs-towngas-green-hydrogen-push-in-hong-kong-s-first-dedicated-clean-hydrogen-financing-deal",
+   "date": "2026-11-05T15:09:44.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Ballard FCmove®-SC Fuel Cell Engine Makes Series-Production Debut in Next-Generation Solaris Urbino 12 Hydrogen Bus",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/fuel-cells/ballard-fcmove-sc-fuel-cell-engine-makes-series-production-debut-in-next-generation-solaris-urbino-12-hydrogen-bus",
+   "date": "2026-11-05T14:43:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Asahi Kasei and Power to Hydrogen sign clean hydrogen MoU",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRC11QWtBUkVVMTItVGw3RHhjcm13a3U5bERvVFpMNWZQRFZwSEoyS1VhdmVnbF91bnhkY0Q0SjhXNmd5NGJQVTVGZ05ISFpxeFNzbXVGSEtwbm1sS29Ld3FraUNDUE9aVUVCdkdUMnBKVkxIeXFib2VIS2s1TmVMX0x3WEY1UzhSMm5taFhWVFpBVXV6SkE?oc=5",
+   "date": "2026-11-05T14:19:40.000Z",
+   "source": "Enlit World",
+   "origin": "Enlit World",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
+   "title": "New Zealand Backs Natural Hydrogen Exploration With NZ$17.8m Grant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/green-hydrogen/new-zealand-backs-natural-hydrogen-exploration-with-nz-17-8m-grant",
+   "date": "2026-11-05T13:37:48.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
+   "title": "Air Products writes off billions of dollars after scrapping clean hydrogen projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmJkbFNTSW1md212N1RvUjFBUXg3LS03aUlfbnpha2lFRS1KN09QTVhmMXZNU2NDN29oOXp0akQxSktNWjZfcWtKdlJVT2Y5Y05peEdmakhzMDV1azUzN243NUlBOTdaRWM1U2gzTnhVeEpBTTZlSlhleTRHT1pUaHNEYUY4bW4zOF95bDg2aFRidHpZcjVpRDh1aGVxX2drcVVQNkVpLU5wZ0ZnOG5OcUJodnNETWJ6RzI5cnpfalh3QURNb3RzSm1hOFc5M0hsSXlOQQ?oc=5",
+   "date": "2026-11-05T13:25:52.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Politician slams omission of hydrogen-ready Schkopau plant from German auction",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZnFvOUFqMnVhODNJVXN4Z25rRlMtTWRJdW9pd1VFRmtSUFdGQ2FLN3BRTXpDZVJUVVk5Vy0zMV9WaFJvY3VqVm1oeW13QnZDTGtHZENkN0UxRWdwY0w1ald1UTRITDUyMjJnYkJuMlpNOUV4Y2pwdGsyWmVBSUdnaWNHLUFvX2JnQVdweVhVeFhfVXdjVnZkVkNxX18yWEIyWFRGSXV4bmVRRG41Tk1aTWZXVTFCNTYxSXBEOFJ6S2EyNDZyU1BJdktR?oc=5",
+   "date": "2026-11-05T13:07:34.000Z",
+   "source": "Quantum Commodity Intelligence",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Germany's Schkopau Hydrogen Plant Misses First Capacity Auction",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlVxTF83RmlHX2NXUmQ5b0IwUU1LLUZoX2ZoNXhaMVNvTW9YMXRYVG9KejJFRXo4Yk1GUjEzcEFkY0MxeFNKVzlCSHN6YXhRdk1NbFBlRG1xcXJKT19HSGxpWkUxU3pPNmU1RWExc3FXbGxMN2hfTVFfMDZEMGJpV0t0cDQtVC1ZMTgtLVFubHZSeGhLNWx0ZTdYdS1PRVhBYi12TzR1TmJvS2NkWTlCeFN0LTY2UHVNOTBFRnlB?oc=5",
+   "date": "2026-11-05T13:05:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "market": "core",
+   "score": 6
+  },
+  {
+   "title": "Wasserstoff: Verband fordert schnelleren Ausbau von Wasserstoffspeichern",
+   "titleEn": "Hydrogen: Association calls for faster expansion of hydrogen storage facilities",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcThySlV6aS1DYlJZVGhiSEk3dG10blV5QnFaZl9XUlVhSS1ueG1fTEsyUW54LXhYV2VuU0hxQmZDNTlMRmljNVRWQVpYeVp6VlgxMy1WRGNHRXZrRVZ5Tl9Yd0hWWUp4STRZVmVVOTUzbjNPU05mTDhxZWF6d1Y3ZFBVaUliNEs5MHY1MENHbVFSVzRwS1piTm1ISTRLSE8yRmpGNk4wNjl6bHZ0ZnUxclZzVlZMOUFmWVF1STFfUkhYV1pnZFJ3NEZoWmVZTzQ?oc=5",
+   "date": "2026-11-05T13:01:00.000Z",
+   "source": "Energie & Management",
+   "origin": "Energie & Management",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "NZ Invests $17.8m in Natural Hydrogen Exploration",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3dlTmJrNHlQa3dnaXpncjhvVWRrYmJaWXlmY0EwSC13d3lqVi03MjZsMGcyMmxRZzM1MThiMlVJakVmUmozUXBWSUlmLTE0WW1DVkxscXFRU2JBdzd2V0hKTmluV3lVOW9rUzhMWE81V213bzlIeEJuMkZ2ZVMycEVFQjVaM2xDcEdyU0o4QkZudGEtZWNYQnQydEEyMmZJeVBCVDJrdHpRRDRjMGZzN1B6OUpVQVdnbHVR?oc=5",
+   "date": "2026-11-05T12:37:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "56 Mrd. Euro für Wasserstoffspeicher",
+   "titleEn": "56 billion euros for hydrogen storage",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcm5TSVlLalFqN2o1U3JoMWtMQjJ2TGFJQzEtcExrdjJvNjd2SEhUVzhxSzNMUk9iRW96aTVIanBUblFwaTdjeFExTXdlQm1HdVp5SzlPclBLdjVYa3ZHcDRXY3d6M1pORzdPdHdfc2FTQUk1MUlNMjNKOVQ4TnNra1RBUEtCR3BlcFVv?oc=5",
+   "date": "2026-11-05T12:20:00.000Z",
+   "source": "energate messenger+",
+   "origin": "energate messenger+",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
   {
    "title": "Ballard FCmove®-SC fuel cell engine makes series-production debut in next-generation Solaris Urbino 12 hydrogen bus – Company Announcement - FT.com",
    "lang": "en",
@@ -20,7 +260,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWDhFQzAzUzYyamVyanRrR1p5cGRJaVdPMlhCSlVJaERtRF8xb1BUNnI2RXJnYzhtUHZ4aDZXVHBoU2ZrRzdmQ0lXUlFTR3E1QzAzRS1RVWd3LWlpay1mcUJNT25xQUxSU1hncFlGN2dEUEc3MF9rQXoxam1tZFp2dmh3eWRmY29LeHdpNjU0ZF8wMHc4dGIyU2I3LVdPQ3hmM1FjUHh3UjRZQlRKNWRmNlU0T3pPVkpUT2cxa01hZlM1VXpUTGJRbHltVW9xWk05em11OEk0RklDSFNYZmp3Y2MwRUpZQnN1Z1cwbzJjdXUwU0QwZzVV?oc=5",
-   "date": "2026-11-05T10:55:55.000Z",
+   "date": "2026-11-05T11:43:28.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
    "image": "",
@@ -43,20 +283,6 @@
    "region": "Benelux",
    "market": "core",
    "score": 5
-  },
-  {
-   "title": "German government signs off on half-a-billion-euro grant agreement with Danish green hydrogen project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTY0dEs0dHhlQ3Fkcm9tZkJUM0htUVIxalFLX2lnS0VfYUJ2VWFWZGJZQzFfd0txX1JudW1fOVVzVXE0OFMtWmloN0ZqZ3M1T1ZHLUxsLUlILXplUWZuLVZicGlpTUtkX3dSYktyTEtkUjhkTllHcTI3SVczQm9oOGY2WkNjNmMyVkItZXNaWWpBbG1pNmE3djVHMFFUR0dSQkhqOThhbk1BTTZ5U2R6aUlEbV8wV2VwNUtyLWg2RnBVXy11b1ZuOTUtam5OQ3Rqa0dOVi1OQ3k5SEZPMzlEY1p5NXBLSlliNC1YMw?oc=5",
-   "date": "2026-11-05T09:55:42.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 8
   },
   {
    "title": "EU vergibt Wasserstoff-Zuschläge: Über 1 Milliarde Euro für Dekarbonisierung der Industrie und Elektrolysekapazitäten im Gigawattmaßstab",
@@ -137,7 +363,7 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT1hPcDMzUUJFTEZQd0RWNTR6NkFMZy1SUmJUalM3emd6blltMlY3YWN1TUdqVVk5UkVNMzE3M2pqWVdnd2w4Zy1nY3k0STNUMW1CLUcwaEZ2dXA5MEg1bkZ0aFo2d3U4S0txQ2Q3UXJUdDNIRTVVaTI1ZVhsYWQ4anlDVERNZnJ1cDFXMUlicTE0MEdUUENZYk5oSE5GcTUyeDVuOWNDdTlnLU81dHh0T0t2QTEwOHBjZEg5VXBDMmowNnN0czRjYkZ1LUJ4TnMzNWF0SFQ1eDN6YnpDeEJBY3pJbw?oc=5",
    "date": "2026-11-05T06:21:38.000Z",
    "source": "EU-Startups",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: refineries and industry",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -382,6 +608,20 @@
    "region": "Global",
    "market": "other",
    "score": 4
+  },
+  {
+   "title": "Danish green hydrogen pipeline to Germany clears crucial hurdle that threatened its future",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnJBUjNBV1IwaDcwcWo0NWROMGowMVZ2eEQ4aXJlSXUyZU0wUm1VOE9XeXM2d1ZmWW9DZUtLeElrQ29aZ3pRUmhqLVdoNWRpQjZGY2QxQXBVSlY4WXZaTmVCYUdBR2ExQnJkWmcteDd5cGRoRERPV1dkVllGSk5kRXlYRTV4eVpJNjR2S2I4M0laTGJjMlY0LV82RkNRY2JVYTZCM2I1LU9tQkxQTWtUZ01tVlFwRmctWG1lYTkxRW5HV3J5dml3OGdsV01ZNk5aY2JlSlF0eFRsSkVjeEE?oc=5",
+   "date": "2026-11-04T20:00:14.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
   },
   {
    "title": "Air Products earnings on deck as hydrogen projects face scrutiny By Investing.com",
@@ -1357,7 +1597,7 @@
    "titleEn": "Mainz networks leave the fingers of hydrogen pipeline",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlBaYXNhcEpKSHdSR2I5XzlrLWxYN2l0aTdHZERrZDJSQ3dBeGJ2c3V3X2ZCWmpyX1ZyUXBXb1VnWjg3bmUtQlRWOUMzYlB2UWtZRUp6Qm5EUDVBelJIMUtDdTdTLU5VSEItVGZ6ZGhQQU1HMWViTXF2REtINWZ4VDlRdnpTUV9KX1BYeUlvc3pfdzE0anpSbldvYXIwUXZCcUoxVS16OEZHOUdtUEp0aVJtbndOaTRpTEh4Vg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRF94d0lBM0lrcVlacFUwTGRJN25XVktDWkJpSThnekxFcGlTMkhzSGs5WnVmcU1DWi1wbk9tZjhsLXZ2VkZuRjg0X0wxclpRYnRWbUFsdFIxOWdsTGUxRXVxTUJBU3A0Q2JBVXdQQTNMYUpyN1N5T05mYVBjVG5JUE9PdTBUX29kNDBUR2ZQSWhWX3hiNWVTeGdORkthMXllUFd0VjVwMWhteVpMdDdXT3JmS3FLVUoydEp5bU1DV3VCOE0?oc=5",
    "date": "2026-11-02T15:56:00.000Z",
    "source": "Energie & Management",
    "origin": "Energie & Management",
@@ -1543,7 +1783,7 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWU4T3I0c1VfV2k2VWFUMGZPcGE2aXZrZTd1MVJoSEtaY29MSTVabmN6NVJWNmhnRUVtdHEyME5BbkVoN3NkSUVJdnNrN0hERjA2aGgtVFZKbUlfVjJPanMtU3JuTGdFb1pCVEVlU1VLQ084NzVmUlhLbWR1QjVvUXdn?oc=5",
    "date": "2026-11-02T08:00:00.000Z",
    "source": "The Aviation Hub",
-   "origin": "Deal search: eSAF and aviation fuel",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Global",
@@ -2039,7 +2279,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObG82NVVIT0xOamd3XzFMMl9FdUlTRnh5QjN3TFhUdVJNcG9OeTJCMklnLUx4aFhxVkJmaHJOQlNGdkROcUN6Zl9pR01oTUMtNjlacXd3X2dqSGMwNGhsaEhYY0ZxcV9aeWtXb1ZRTmVkZERweklldnhVWGRyaFNfYVZnUFdnZUpiSXlKOG9Hb0x6b3FtZUpiWWQ0WU53NFJsQjQwdVB1em03N0NmbGVjMjBpWnl3LTFBR0VrdnNxaFZmZEp6UjI2OUVEM01yMXdvNlNlN3Y1bDNleW5nWVlleWtoc05RVWFzNmd1RU9odkN6ajZ2R1RwMGxsbGpUam00UTA0?oc=5",
    "date": "2026-10-30T11:51:39.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: cancellations and delays",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Asia-Pacific",
@@ -2321,7 +2561,7 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSUNadmp6Sy1zRVp0Z2FKLVk1dW9wcEd2ZXBaTWlxTjVBaWRIOXljT1FDc1llTWNHUXM5UXdTS3ZHalNjSXhjOEY4bmlRTFNLSlNwUndUMndBZzdDSmFfcy1pNkNHUndYNGlJeWdBaFVTRFpUUWh4QnBuaUtfLWtNeUxlV25kUjhneUlIUFRaVHFjZGdDTmtJb3RZampFWXRQbDk3RnpzVy1iWVd5QWg5aXg3ZGNjM2F2ZFJ6WjRENExYY1JWazEzcG9BOVRwcmNzeVd3MnNvSFNTY1VCc2ZvQ3IwaVg?oc=5",
    "date": "2026-10-29T16:50:24.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: cancellations and delays",
    "image": "",
    "topic": "Other Hydrogen News",
    "region": "Benelux",
@@ -8276,20 +8516,6 @@
    "score": 8
   },
   {
-   "title": "Q8Aviation selects ETFuels for proposed UK e-SAF supply deal",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXVacS0wVlJYSWJwMDJXaHFlM2x0bEcxWnJIdnFrelBNV0ZlSWt2ci05c25HZXNRQWNmMDJYR1RqdExsMkpnZjg0NXduWmtvRFlTdENseGZhMktpcHNxYmpncEhNOUtUcjc5N1lGTGxPc00wY1F3MGFSX2hoODJub2xENEhsNGJTZjlCczdMMF9BekxVbW1LLUhNQVVRb3VhbUE?oc=5",
-   "date": "2026-10-09T07:00:00.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Aviation & e-SAF",
-   "region": "UK & Ireland",
-   "market": "core",
-   "score": 8
-  },
-  {
    "title": "Wasserstoffhub: EWE und Verbund planen 500 MW",
    "titleEn": "Hydrogen hub: ewe and Verbund plan 500 MW",
    "lang": "de",
@@ -8301,6 +8527,20 @@
    "image": "",
    "topic": "Production & Technology",
    "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "Q8Aviation selects ETFuels for proposed UK e-SAF supply deal",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXVacS0wVlJYSWJwMDJXaHFlM2x0bEcxWnJIdnFrelBNV0ZlSWt2ci05c25HZXNRQWNmMDJYR1RqdExsMkpnZjg0NXduWmtvRFlTdENseGZhMktpcHNxYmpncEhNOUtUcjc5N1lGTGxPc00wY1F3MGFSX2hoODJub2xENEhsNGJTZjlCczdMMF9BekxVbW1LLUhNQVVRb3VhbUE?oc=5",
+   "date": "2026-10-09T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "UK & Ireland",
    "market": "core",
    "score": 8
   },
@@ -9215,7 +9455,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 72,
+   "shown": 78,
    "status": "ok",
    "error": ""
   },
@@ -9401,7 +9641,7 @@
   },
   {
    "name": "electrive",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -9671,7 +9911,7 @@
   },
   {
    "name": "Argus Media",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -9683,7 +9923,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 29,
+   "shown": 28,
    "status": "ok",
    "error": ""
   },
@@ -9707,7 +9947,7 @@
   },
   {
    "name": "energate messenger+",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -9971,7 +10211,7 @@
   },
   {
    "name": "Energie & Management",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -10037,7 +10277,7 @@
   },
   {
    "name": "Enlit World",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -10139,7 +10379,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 27,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
@@ -10151,13 +10391,13 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 15,
+   "shown": 16,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 9,
+   "shown": 8,
    "status": "ok",
    "error": ""
   },
@@ -10169,13 +10409,13 @@
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 20,
+   "shown": 22,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 21,
+   "shown": 23,
    "status": "ok",
    "error": ""
   },
@@ -10205,7 +10445,7 @@
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 23,
+   "shown": 24,
    "status": "ok",
    "error": ""
   },
