@@ -1,6 +1,263 @@
 {
- "generatedAt": "2026-11-06T12:02:35.675Z",
+ "generatedAt": "2026-11-06T19:20:28.797Z",
  "articles": [
+  {
+   "title": "Google Confirms $17 Billion Wyoming Data Centre Investment With 702MW Bloom Fuel Cells and Carbon Capture",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/clean-energy/google-confirms-17-billion-wyoming-data-centre-investment-with-702mw-bloom-fuel-cells-and-carbon-capture",
+   "date": "2026-11-06T17:30:51.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 12
+  },
+  {
+   "title": "Thyssengas Opens Ground in Xanten for Hydrogen Pipeline Inspection Prep",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/h2/thyssengas-opens-ground-in-xanten-for-hydrogen-pipeline-inspection-prep",
+   "date": "2026-11-06T16:08:54.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Hydrogen UK Warns of Fresh Uncertainty as Government Expected to Scale Back Strategy and Funding",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/06/h2/hydrogen-uk-warns-of-fresh-uncertainty-as-government-expected-toscales-back-strategy-and-funding",
+   "date": "2026-11-06T16:05:34.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "UK & Ireland",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "Wasserstoff statt Kohle: Start einer Produktionsanlage für Grünstahl verzögert sich",
+   "titleEn": "Hydrogen instead of coal: Start of a production plant for green steel is delayed",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU1FzRU5fR2k5cWUtdVZGaGVBMnRGVTFYU0hEZ0szOWN4eTB1U0p1VUs2bHRPMURfYTRjTEh5SFJYcjE5LWoxakwwYnZhWUU0N0FTZ29YTS1nRVV2X3FmdE1UTFpzVGwxd3VMNWxEcnQtanpTSmlxMXpWY25OTmw5dUlwUVBwOHprQWJ1bnpQTlQ5dy1nUEZyTTk0RFNCZ1ZHSlM4c0RUelN1QVZiVHN3ekNHall3QktoY2NwZ29JclhrUERkeUE5S2RLQnIzcVZoNFdWeGh3?oc=5",
+   "date": "2026-11-06T15:53:53.000Z",
+   "source": "Tagesspiegel",
+   "origin": "Tagesspiegel",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Germany",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Wasserstoff statt Kohle - Start einer Produktionsanlage für Grünstahl verzögert sich - Wirtschaft - SZ.de",
+   "titleEn": "Hydrogen instead of coal - Start of a production plant for green steel is delayed - Economy - SZ.de",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOODcwYzUwRXpVNVFPNUc4NWFxUDBNUHlnWjV1YUh3R0ZEZ1A1dnhheGhWc014Y3RlUVctQnprRzNaRDBmVnZDOFY0dzM3NTVrWTA3QUhPbG9IMWFRN2c2VFFzTUl2X2ZkdUUwLVF4Ui01ZWF1OWctNmhkWDlGZzR5UUdjREFjdmJTOENTTy1ZTE9aaWFDNmt2TWZmeTdFeXg1ZmZZd3J1YjIzY2VHQ3NOaVl4SXQ0c0Jtd2F4R2FFVDEzMzVoLVhwOHFIT0tad25HN1ZTMFB3WUVjd3N0TnRkUzg3NkhfZzQ2dHh1LVlTOEpZQ1NLYlhZcEtwNXR3UUNDbzRCNA?oc=5",
+   "date": "2026-11-06T15:52:59.000Z",
+   "source": "Süddeutsche Zeitung",
+   "origin": "Süddeutsche Zeitung",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Germany",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Austria Premiere: Natural Gas Pipeline Converted to 100 Percent Hydrogen for the First Time",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/06/h2/austria-premiere-natural-gas-pipeline-converted-to-100-percent-hydrogen-for-the-first-time",
+   "date": "2026-11-06T15:40:13.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 3
+  },
+  {
+   "title": "UK Introduces Hydrogen Power Subsidy Legislation More Than Three Years After First Policy Pledge",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/06/h2/uk-introduces-hydrogen-power-subsidy-legislation-more-than-three-years-after-first-policy-pledge",
+   "date": "2026-11-06T15:16:18.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "UK & Ireland",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "PosHYdon Pilot Provides Practical Lessons for Future North Sea Hydrogen Projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/h2/poshydon-pilot-provides-practical-lessons-for-future-north-sea-hydrogen-projects",
+   "date": "2026-11-06T15:01:35.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "UK introduces legislation for hydrogen power plant subsidies more than three years after policy announcement",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSlBCaTIxVGhMM2lpRFFXZG5sMHFPZTYxX0YzZU9sbThjemVpOWZXVXNnYy1VYjBEUjN4SGlIclVLNm45VHpBRkhNM3RiQjRfT0poUHZJV1dYMGVFZnhmVlVXVUJfcDN6T2FTZkFOeTd6cmt4VDhRdnUxcGZZbzliMDNBRDlVcFRpT2tXLTlzMnQ4WEE3SVBpTFVvcGsxbXJYWEdzV0p5dURMZmo4b3p4YUdDRXZISjFLT0JSOFgtY1ZUSGdvb3BQZmpZdnhKNWczMUQ1ZDkwakVad2RLejhsQ1Nac0xFM0R4M3MxSWJTOA?oc=5",
+   "date": "2026-11-06T14:35:53.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "UK & Ireland",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Dutch minister confirms 550MW of green hydrogen projects awarded massive subsidies in 2022 have been scrapped",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWxUeFhlUVVsYzJJV29tbDNYNjdhRHRjVXpuMlQwUFFsa2NMVEhLZmthLWZ5UGZjR1VsRHpUaG4tempTaHFhcVFMTFUzaGNHS2tnUDRuVWFjUFRzd042Q3R0TE10dExWOFYzWnIxMmR4MEtEVEZqUGJJeW5DNVRrYWFIOVZBU1RqUHY1ZDF3dTd3eWNvMTJWMGVITktSalVTbTVkQUlQTzhxUVRjdGdBRERaLVI4NUN3ZEZGWVlZN0UtVlF0YkIteGJqNGtxUUxLRzNGVUpZYmJMb1BlWlRTTWRNWVlOMG9YY2lsdWJQYUo3QQ?oc=5",
+   "date": "2026-11-06T14:31:23.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Benelux",
+   "market": "core",
+   "score": 16
+  },
+  {
+   "title": "Speicher - EWE besteht Wasserstoff-Dichtheitstest an Kaverne in Huntorf",
+   "titleEn": "Storage - ewe passes hydrogen leak test at cavern in Huntorf",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNem9ESzU4enJTOWlPRlU3U0gwSEgtTlVQdmpUbUdYWWZrZjI2UkN5bGd5TWJmOUxjbVd3d3Y0ZWc3UGQwWXdEUTJLTlpvVVhzX3RMREVoNjd0SDRZSHp4V2ZaQmxUZG1mek1TMHgyaktJR3RzdzRWUUdsck1WVjlCWC1nUEhmS3lHOHZWZGxhc201UWdzR0g2ZEN1aw?oc=5",
+   "date": "2026-11-06T14:24:58.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Aberdeen to Host Scotland’s First Mainland Hydrogen Valley as £9M EU Project Launches",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/02/h2/aberdeen-to-host-scotland-s-first-mainland-hydrogen-valley-as-9m-eu-project-launches",
+   "date": "2026-11-06T14:03:33.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 6
+  },
+  {
+   "title": "RWE und Kawasaki starten Testbetrieb mit Europas größter Wasserstoff-Kraftwerksturbine",
+   "titleEn": "RWE and Kawasaki start test operation with Europe's largest hydrogen power plant turbine",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1VBVEpLY0E3dTlRc1hPYnVoaHdKcWM4TkJoLXRqUkc3d1FONTZiQlF5dU1rNFFhS01iaUQ1LWd5N0hNZG1IMDdoRG41U1JtN0UxQm5uV283ZXFDdEs2RHRHZXg0N1ZsWW1iTFVFajNXWFV6VVJna0pmZ3MwNkVUOUJwcjdIc1JSaUJNU0VFbC1fQU1RM1g3WURSVVJVLTc1U2tOa3cwdnBqQ0lPWGJPMkZDZ01zU1NiOUtOWlR3OWg2bzhEQXc?oc=5",
+   "date": "2026-11-06T13:47:00.000Z",
+   "source": "pv magazine Germany",
+   "origin": "pv magazine Germany",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Hydrogen-Fuelled Power Generation: RWE and Kawasaki Commence Trial Operations with 34-MW Gas Turbine in Lingen",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/06/electrolyzer/hydrogen-fuelled-power-generation-rwe-and-kawasaki-commence-trial-operations-with-34-mw-gas-turbine-in-lingen",
+   "date": "2026-11-06T13:44:20.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "EWE passes hydrogen tightness test at Huntorf cavern",
+   "lang": "en",
+   "summary": "EWE has passed a tightness test on a former natural gas cavern converted for hydrogen storage at its Huntorf site in the Wesermarsch district in Northwest-Germany – first with nitrogen, then with hydrogen. From 2028, the cavern is expected to store around 16 million standard cubic metres of hydrogen...",
+   "link": "https://www.h2-international.com/storage/storage-ewe-passes-hydrogen-tightness-test-huntorf-cavern",
+   "date": "2026-11-06T13:38:50.000Z",
+   "source": "H2 International",
+   "origin": "H2 International",
+   "image": "https://www.h2-international.com/sites/default/files/styles/content__zoomed/public/2026-11/261106h2speicherhuntorfcrobinzuchjpg_2.jpg?itok=FyLOAD7n",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 6
+  },
+  {
+   "title": "How much of the billions of euros in Dutch subisides for green hydrogen projects has actually been paid out?",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTRRdERMaHpvNHUzX2hNbngtcGN6UGlUck54VDNPVHZqQUtpT1ZNVkJJSVJRS1ZZQ3JTbHVKck9rWlh2YmtYR3VYeTM4b0tnaFhSNTVxUXBZdE5oSFlGQldEVTNtckRLR0RiZERIR2FVREM5M3FnUnpNNi05NnVINWlkYThnQU1LV1hpUlNidUVMcjRaUnZodDBrcVNKLVdLNkZmMzlpVXZWZXdydzlnbW9BV3YwbHdYaW15SXFqdWhHQmxlUmFpZmx6clNhRFd0SFBxQ2JVRFlFdHQ4RnhZUVVxX2wxRDU2ek9ndWV2T2w?oc=5",
+   "date": "2026-11-06T13:16:20.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Benelux",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "South Korea raises non-price weighting in clean hydrogen tenders to 50%",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNG5ackZLTjJ1V1IxUjA1NWh5dGFOSVdKT2NVWDFvU2JrM3p3Q0NkRGdsSWpDOWVobkxvUmpvMlptcENoTmxzRG1fRzNZR204SnV0aWtPdHd3SkxFNGhUaUtDanRjd2FaYXZkalF2V0gxcHJ6VWdOT2V1SWh4aUVyajhGQkUzMGZCLVhVcE5Kb1BlenhvNmhEdVQzSXo?oc=5",
+   "date": "2026-11-06T13:02:21.000Z",
+   "source": "energynews.pro",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Wasserstoff: Wasserstoffspeicher in Huntorf besteht Dichtheitstest",
+   "titleEn": "Hydrogen: Hydrogen storage in Huntorf passes leak test",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMktrZFlzRmIxUFFrc1A3RzQyNkFQOWtBTHYzRHhWSlBoQXJSS0tSTHpFSEZuUkZMZ0wzb1I5Ukh0SnBrNExzVUVlS2JiaXBwMmRZV2V1cTN1MjQ1RlAxVW9EaEdWWEx1SUMyQzlDYVBZSlZ1eGotVWlTOWF3VG1SZ0g2Qmhqbk50ZFBjd21QcmtxZ19CRk5oOVN5SFI1azNuQXBvcTduQU4zdGNPRkJPbVpZVzY0Um5kbzlrR05oZw?oc=5",
+   "date": "2026-11-06T12:50:00.000Z",
+   "source": "Energie & Management",
+   "origin": "Energie & Management",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
   {
    "title": "China Datang files USD 2bn green methanol project in Hainan",
    "lang": "en",
@@ -150,7 +407,7 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEtRT1BOa21XOUFzWkIybU5kYVN0Qy1QSHV2NDhCUjFGelFWa3hTcWtFVWFIaXF2TnFwOWwzeDBOQXdWRlVPbHAyQmhzT3JLUWJEX24yc08yd3QtYl9TZkRySDlDdl9GaXBzcVNGc2dGUUl5aFI1cEw4ekxXUGRtZkpwLThyaTZ0WDJ5czI1OVMyWUNJdXhOME15b2xRNGlE?oc=5",
    "date": "2026-11-05T23:02:36.000Z",
    "source": "energynews.pro",
-   "origin": "Deal search: policy and auctions",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Global",
@@ -171,6 +428,20 @@
    "region": "Germany",
    "market": "core",
    "score": 7
+  },
+  {
+   "title": "NTT DATA Announces Agreement with Bloom Energy for 900 MW of Onsite Power Generation Across Multiple Data Center Projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/05/clean-energy/ntt-data-announces-agreement-with-bloom-energy-for-900-mw-of-onsite-power-generation-across-multiple-data-center-projects",
+   "date": "2026-11-05T19:29:21.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
+   "market": "other",
+   "score": 8
   },
   {
    "title": "Denmark meets hydrogen pipeline booking threshold",
@@ -1284,6 +1555,21 @@
    "region": "North America",
    "market": "other",
    "score": 7
+  },
+  {
+   "title": "Der Wasserstoffhochlauf braucht einen verlässlichen politischen Kurs, der Investitionen ermöglicht und tragfähige Märkte schafft",
+   "titleEn": "The hydrogen ramp-up needs a reliable policy course that enables investment and creates viable markets",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVEcySk5JREJDa2FVdVdCZHl0Z0RKbGpreHBVZDdZckFJWnFUUHFqV09UYnl3V3kwa2NfcnNuYk1kV00wblZSQ0JPQ2Jsam1ySGNxNUdqRHFpaWRuMGhkS2ZQUVZSeXR5QXJDVjV6WDVSZXlmLUZBQWpodTRpRzctRW5UajY1S3Q0Q1JwNmtSVE9MNDhIMW5rYzAwRDZSbEs5ODVnTEs5MHJhTGhTR204cGNOLVFCWExvVF9KMlJnem5QeVVhWWJkV1BUb3RzMTNrNWUtTHJqT1FERTNfRzltVzA5WWRSM1c5Skp6ald4dWVIelgxSl9Cb3FPMFlza2dsbGhiWlVQbGlsTUQ0aml4UExtSVN3MFh1UnNSRlAyN2Y?oc=5",
+   "date": "2026-11-03T23:00:00.000Z",
+   "source": "Tagesspiegel",
+   "origin": "Tagesspiegel",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "market": "core",
+   "score": 4
   },
   {
    "title": "PosHYdon: integratie is de uitdaging offshore-elektrolyse — artikel bevat een betaalmuur",
@@ -3602,7 +3888,7 @@
    "title": "JERA to buy 70,000t/y of ammonia from AM Green site in India",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFpmeE9ZM0JvYV9iVjZwNW9nWEQ1UFhuR1IxQVRRZFRDNmNNQ0NlZG5xM215T3d2YkRXLXRpOWk1NXZZcUxkLW5MeFFla3pqUWttUHNPdUEtLXBYclBNQW1qN1E4V1FsVHY4bl81ay1YcWpScDkzUHZKWHhZLWswNXNlTHhxcGwxWnpvOVpWYkZZMEtVM3Z5aTRLZ2xCOGxsRFZDRU5yM2NSazExbk5EYXJUVlNiVkhpczAzQzhXRC1WOUIwWHFGVUNERTNBQWtGSjFfeV9GenlWUWxMcUZnaEM3WTN4VVNTb1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWplTGdkeFZxNVg0akRKMUZsUVlCWmRJVGpLcWhRLUx6R1VhaEkxNXM1bGl4Yk81VUZjZV9ydGhKNDFkY2EySUxZcDZ4dFJpVkNxYTRRbXF5UVJYemVTeVUzRjVGTmM5ZjY5V2dvcV9vLVJRUHllcmJkYy04VklURXpFV0pTT3Rab3AzUjQtUUVHdFRRcjdLWjBITGtpeUda?oc=5",
    "date": "2026-10-28T12:11:49.000Z",
    "source": "Renewables Now",
    "origin": "Renewables Now",
@@ -8757,6 +9043,20 @@
    "score": 8
   },
   {
+   "title": "Hygen signs hydrogen off-take deal with GeoPura for Bradford plant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEJGYmZjd2tId3pKcElKU0xET3FyaHNtckkyS2NUUEtkVmJFS1VEV2ZUZ09yRzVOcGMzMXFneUFjV2xlM0JaZDVZX2wxb18yM0k0MUVxOVotVDNHZ0lFQWt2MkNLbTJFakg1V1BCVzYtRF9RVkxoVFNJcGpTalFPT0h6ck02VS1tY0dfV01vUHMxd21SX3dHbmlZdDF3RDI3Tlh6MmZwRUhJdw?oc=5",
+   "date": "2026-10-09T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
    "title": "Q8Aviation selects ETFuels for proposed UK e-SAF supply deal",
    "lang": "en",
    "summary": "",
@@ -8783,20 +9083,6 @@
    "topic": "Production & Technology",
    "region": "Germany",
    "market": "core",
-   "score": 8
-  },
-  {
-   "title": "Hygen signs hydrogen off-take deal with GeoPura for Bradford plant",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEJGYmZjd2tId3pKcElKU0xET3FyaHNtckkyS2NUUEtkVmJFS1VEV2ZUZ09yRzVOcGMzMXFneUFjV2xlM0JaZDVZX2wxb18yM0k0MUVxOVotVDNHZ0lFQWt2MkNLbTJFakg1V1BCVzYtRF9RVkxoVFNJcGpTalFPT0h6ck02VS1tY0dfV01vUHMxd21SX3dHbmlZdDF3RDI3Tlh6MmZwRUhJdw?oc=5",
-   "date": "2026-10-09T07:00:00.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Global",
-   "market": "other",
    "score": 8
   },
   {
@@ -9426,7 +9712,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 77,
+   "shown": 86,
    "status": "ok",
    "error": ""
   },
@@ -9462,7 +9748,7 @@
   },
   {
    "name": "H2 International",
-   "shown": 11,
+   "shown": 12,
    "status": "ok",
    "error": ""
   },
@@ -9576,7 +9862,7 @@
   },
   {
    "name": "pv magazine Germany",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -9852,7 +10138,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 70,
+   "shown": 71,
    "status": "ok",
    "error": ""
   },
@@ -10116,7 +10402,7 @@
   },
   {
    "name": "Tagesspiegel",
-   "shown": 3,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -10128,7 +10414,7 @@
   },
   {
    "name": "Süddeutsche Zeitung",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -10146,7 +10432,7 @@
   },
   {
    "name": "HZwei",
-   "shown": 13,
+   "shown": 14,
    "status": "ok",
    "error": ""
   },
@@ -10182,7 +10468,7 @@
   },
   {
    "name": "Energie & Management",
-   "shown": 6,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
@@ -10350,7 +10636,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 27,
+   "shown": 30,
    "status": "ok",
    "error": ""
   },
