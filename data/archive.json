@@ -1,6 +1,21 @@
 {
- "generatedAt": "2026-11-07T05:53:49.010Z",
+ "generatedAt": "2026-11-07T14:52:38.043Z",
  "articles": [
+  {
+   "title": "Bundesnetzagentur plant Sonderbehandlung von Elektrolyseuren für Netzentgelte",
+   "titleEn": "Federal Network Agency plans special treatment of electrolyzers for network charges",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW4yNTdLNTItT19TeUdfY1BUeUw5b1d4UXRCNUN5MC1sOWJoX085ejlhMzFvcGk3TGZ5T3Y4R1RNbTlEeUJwZE1LaEgzRlZ6c1Y0OWdwU2FtUG1qVHFYNV9TZHdqSmtIU09Vb2ZlMkdzbWJhLUU5MHB5MmZ2NHlmSU53Q2NGaWxaaXBuX3NtV3IwR0dILU8ydHFxMXNwMTBOU1AwanBGcTd4RVBGa3luWURQZEItT0xONjI2WmdHV215VjA?oc=5",
+   "date": "2026-11-07T10:38:16.000Z",
+   "source": "erneuerbareenergien.de",
+   "origin": "erneuerbareenergien.de",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 4
+  },
   {
    "title": "Baotou Hydrogen Pilot Funding Rare Earth Opportunity",
    "lang": "en",
@@ -1220,7 +1235,7 @@
    "score": 3
   },
   {
-   "title": "Master’s Thesis: Experimental Investigation of Material Effects in PEM Water Electrolysis",
+   "title": "Master’s Thesis: Experimental Investigation of Material Effects in PEM Water Electrolysis - ドイツ - 306450",
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdS01dF9xOGFwWG9nM3JHaTJIS1Y5T0JvbVRjZTEzeGJXRHp0UW5ZbGxFQU9MWWJ6cG1FMVBVS3FlLWdWSHpZRUpuVEtybHNxaG5BZVVROEtrV0JvWTZNbU9YaW0xS24tNk02Z0xVVnJfcjdUdVdkYkNqMEFHWHFzQ0tYZkRQY0dEdGRnUC1SMlhzTnlwaGxDcHd2b0VacS15WWxQTzBOWUFLeTR4WU5EWHVBeTJiaXNsZEpnVjQ0a0JYRmY4YjhBWVBOdGlUNkI1N0dsZXc4MFhFaXlSOEx0elprb28tQQ?oc=5",
@@ -2042,7 +2057,7 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclNYMGJJSkphaUxIZzNxMms5bkpxbXRBT1hoMWx3dU5fUTlnMGFRWWt2b1l0dE1SekFpTFVlY2NqcXQ2blg4X1lZTnd6R0U0VVJuQk5UbTk1WGN3bVZ5R09xaWF5Zk01UE14dzVjdVd5QURUdHdHbklpRlNETVZqbFRkWmkyb1AxOVdwNERTWFpHN0tXeUxmQzh2eDVUeWlEdGp6Q09pUWZzVmcxb1otT2xLc2dlSmg3Umx4TmV0SkZaTXZoV1d1Mnl3eTZ0Rk0?oc=5",
    "date": "2026-11-02T23:32:46.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: policy and auctions",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Asia-Pacific",
@@ -9275,20 +9290,6 @@
    "score": 4
   },
   {
-   "title": "World's first green ammonia-powered dry bulk vessel begins maiden voyage",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXhoUktBQUJ2RFlHMEdseGxvOEtlT0kxUkhERnVJbEExUmVBb1p3cmN2WHZYUHh3emc2WmRuekF2SFBNMjBMMVh6UzlISjhiZXM4NjUybVFxV21NNzY4ODJ0OG1aaUVDdzNLY3M5ZkFkaVRGYnJEYWFPRFZ3VnlIQnlOeTQyQkMtY0tYRHQyOGRiRmJMSVVTdnF1QXVZdExyOFhtWmNHeXZGY050aWJobE5yVk01WXZEV0VMekV5VG1pWk0?oc=5",
-   "date": "2026-10-09T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
    "title": "CMB.Tech launches world's first ammonia-powered dry bulk vessel on maiden voyage to Australia",
    "lang": "en",
    "summary": "",
@@ -9300,6 +9301,21 @@
    "topic": "Ammonia & e-Fuels",
    "region": "Asia-Pacific",
    "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Baustart für Europas größtes Projekt für grünen Wasserstoff",
+   "titleEn": "Start of construction for Europe's largest green hydrogen project",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVEyRVVQYmRNUEYwRXhza28xMWltUEFlNE9KWlpsRlFFdVdUR1cydHB3d2hoVEVwdkpLWE1ORjBMQmU5V2wzTFhXcDhyTUNNcG5pUWZpc21EU3RTZk5OV0tjcGVVaTVtSkVtUnpFeUNwR0YtRXNabHA1TXctQU9SeWhFR2kwQnR3TF81R2hHWnVNQzlXRFVoaTRnNEltQQ?oc=5",
+   "date": "2026-10-09T07:00:00.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Germany",
+   "market": "core",
    "score": 3
   },
   {
@@ -9331,6 +9347,20 @@
    "score": 3
   },
   {
+   "title": "World's first green ammonia-powered dry bulk vessel begins maiden voyage",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXhoUktBQUJ2RFlHMEdseGxvOEtlT0kxUkhERnVJbEExUmVBb1p3cmN2WHZYUHh3emc2WmRuekF2SFBNMjBMMVh6UzlISjhiZXM4NjUybVFxV21NNzY4ODJ0OG1aaUVDdzNLY3M5ZkFkaVRGYnJEYWFPRFZ3VnlIQnlOeTQyQkMtY0tYRHQyOGRiRmJMSVVTdnF1QXVZdExyOFhtWmNHeXZGY050aWJobE5yVk01WXZEV0VMekV5VG1pWk0?oc=5",
+   "date": "2026-10-09T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
    "title": "Erster Elektrolyse-Wasserstoff fließt von Lingen nach Marl",
    "titleEn": "First electrolysis hydrogen flows from Lingen to Marl",
    "lang": "de",
@@ -9341,21 +9371,6 @@
    "origin": "HZwei",
    "image": "",
    "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Baustart für Europas größtes Projekt für grünen Wasserstoff",
-   "titleEn": "Start of construction for Europe's largest green hydrogen project",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVEyRVVQYmRNUEYwRXhza28xMWltUEFlNE9KWlpsRlFFdVdUR1cydHB3d2hoVEVwdkpLWE1ORjBMQmU5V2wzTFhXcDhyTUNNcG5pUWZpc21EU3RTZk5OV0tjcGVVaTVtSkVtUnpFeUNwR0YtRXNabHA1TXctQU9SeWhFR2kwQnR3TF81R2hHWnVNQzlXRFVoaTRnNEltQQ?oc=5",
-   "date": "2026-10-09T07:00:00.000Z",
-   "source": "HZwei",
-   "origin": "HZwei",
-   "image": "",
-   "topic": "Other Hydrogen News",
    "region": "Germany",
    "market": "core",
    "score": 3
@@ -9424,8 +9439,8 @@
   {
    "name": "Hydrogen Central",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Hydrogen Europe",
@@ -9664,14 +9679,14 @@
   {
    "name": "Bioenergy International",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Green Air News",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "gCaptain",
@@ -9682,8 +9697,8 @@
   {
    "name": "Splash247",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Euractiv",
@@ -9825,7 +9840,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 67,
+   "shown": 66,
    "status": "ok",
    "error": ""
   },
@@ -10143,7 +10158,7 @@
   },
   {
    "name": "erneuerbareenergien.de",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -10359,7 +10374,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 24,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
