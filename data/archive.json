@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-08T15:08:44.514Z",
+ "generatedAt": "2026-11-08T20:27:15.701Z",
  "articles": [
+  {
+   "title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
+   "lang": "en",
+   "summary": "California has been one of hydrogen’s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies. Los Angeles and",
+   "link": "https://cleantechnica.com/2026/11/08/california-biggest-ports-not-betting-hydrogen-ships/",
+   "date": "2026-11-08T16:04:03.000Z",
+   "source": "CleanTechnica",
+   "origin": "CleanTechnica",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "North America",
+   "market": "other",
+   "score": 9
+  },
   {
    "title": "US Hydrogen Sector Faces Setbacks Amid Funding and Demand Issues",
    "lang": "en",
@@ -2644,6 +2658,20 @@
    "score": 7
   },
   {
+   "title": "Gold Hydrogen Secures $4 Million Eric Sprott Investment in $7.9 Million Placement to Fund Ramsay Helium Plant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbWtsVU5PZkU2M0ZvSFJFWTd3czh2Qm9MUThrQ0ZPM1ZWRXY4QW9VS1JNU3hfaTg3b1g3LWszWVpXU0V1OWxXMDZTR0FWWXB6QkZCWjBzQUJGRk1HOUR3WVh0ZXI0Ukw4bUJaWVZTLVBwZ20ybHVXelFHNmNrcUZmOWhOTG1YMVhHX0gyVWJiMy1qRkNadjc4a1RSb09IYUlKZHpWbzJoOXpHWUdjN3BUQThUUTF5QnpaMEVKSlBHZXY4Ql8tZGFJbGZnVmJVQXlEc2hPLWlkS3YtRkZkTG9PU3Bn?oc=5",
+   "date": "2026-11-01T23:15:03.000Z",
+   "source": "Kalkine",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 7
+  },
+  {
    "title": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
    "lang": "en",
    "summary": "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight. In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity. The first two ships, rated at 4,000 deadweight tonne",
@@ -3783,6 +3811,20 @@
    "region": "Germany",
    "market": "core",
    "score": 7
+  },
+  {
+   "title": "CORRECTION: Electrolyser commissioning ‘ongoing’ at landmark 100MW e-SAF project — but no grid connection yet",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPampuWldHU3V0VmZEb1lfcFcza1JzOXdfS0h5Qk5QR2t0YnlCVHlQZ1hua0tDYkEwNDRqMGN3NllvdzdDSDdKRlkxcTUxWGVWdnl6aG5pZi13ZnpkdUtIOEpFcGpTd0xzQmhvVmYxMzRDeGhRcFpRbUQyOUo5NnhZdGJBcUZ0NHFfdDExaWU3Tkw2V043NXMzbHQwZDVCSTY1TFU0T0JPSUYzX1RRUVBwYUptM0l1ekxfVy02dmNKQTBwV2pnVko5eW15U21jWk90RVBEcllHLUpLUFdRNk0zSDZBWGc5ZjVoNUp3Mm8tOGU?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Global",
+   "market": "other",
+   "score": 9
   },
   {
    "title": "Finnland schafft die Voraussetzungen für groß angelegte unterirdische Wasserstoffspeicher in kristallinem Grundgestein",
@@ -8753,6 +8795,20 @@
    "score": 4
   },
   {
+   "title": "Nel adds to Rheinmetall's partners on local synthetic fuels project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnNWZWhsSHZuVHF3ODY2b2RVMi14cDZkbXAxX3FtZzFUeG5SVV95YWdBUzhZczU2OHBXS0llTWpFeTg0SkRYQmJxQVJ6Y2RjVmtZQTFmT0Y0OE1zYXJxejNsZnZDMVdUaEFTTW5jVjRLbXNpWHR1Xzk1WkFEUUdReGtUQnEzeDA1THpod2RBd0hUMWYyR1dSNTNVSEFHQi1KZi11RFU4TTZLZw?oc=5",
+   "date": "2026-10-13T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
    "title": "120 Kilometer: Neue Wasserstoffleitung durch Niedersachsen genehmigt",
    "titleEn": "120 kilometres: New hydrogen pipeline through Lower Saxony approved",
    "lang": "de",
@@ -8765,20 +8821,6 @@
    "topic": "Infrastructure & Storage",
    "region": "Germany",
    "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Nel adds to Rheinmetall's partners on local synthetic fuels project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnNWZWhsSHZuVHF3ODY2b2RVMi14cDZkbXAxX3FtZzFUeG5SVV95YWdBUzhZczU2OHBXS0llTWpFeTg0SkRYQmJxQVJ6Y2RjVmtZQTFmT0Y0OE1zYXJxejNsZnZDMVdUaEFTTW5jVjRLbXNpWHR1Xzk1WkFEUUdReGtUQnEzeDA1THpod2RBd0hUMWYyR1dSNTNVSEFHQi1KZi11RFU4TTZLZw?oc=5",
-   "date": "2026-10-13T07:00:00.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
    "score": 3
   },
   {
@@ -9329,7 +9371,7 @@
   },
   {
    "name": "CleanTechnica",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -9587,7 +9629,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 64,
+   "shown": 65,
    "status": "ok",
    "error": ""
   },
@@ -10109,7 +10151,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 67,
+   "shown": 68,
    "status": "ok",
    "error": ""
   },
