@@ -1,6 +1,77 @@
 {
- "generatedAt": "2026-11-08T20:27:15.701Z",
+ "generatedAt": "2026-11-09T06:17:36.593Z",
  "articles": [
+  {
+   "title": "EWE successfully completes leak test at salt-cavern hydrogen-storage facility converted from natural gas",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcmlITVgtSVQyazdNQVJwRllydWtldEJZc3NxcXdsVzlaVUJobC1qdkRWV3RLOGdENy1qNWg0TjlpSXE0MGNnT0EzU1pUdDFwRlZnSl9KN3hDY0F1c3dNUnpqMkFITUFWUzkwV2VKVDd6dVprSGxKUHVpVFJWYUFqRG5kVmI2NFhRUXJVWTI3bzZzSDExd3dFclJSaWhkQWlOcEFHQVJYTzNNYnRtU2ktUFVYSFZTMmFlVXF2UjU4Y3hBalRJTHRwV2V5OV83enB5TGJxYW9CQkxSZ2RsOHVRV3FhWVFSczFHdDNTNFltVm0?oc=5",
+   "date": "2026-11-09T05:24:44.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Van de tien IPCEI waterstof­projecten zijn er zes gestopt",
+   "titleEn": "Of the ten IPCEI hydrogenprojects, six have stopped",
+   "lang": "nl",
+   "summary": "Nederland heeft de afgelopen jaren ruim €1,05 mrd aan subsidie beschikt voor tien waterstofprojecten die het Europese IPCEI-label dragen. Zes daarvan zijn inmiddels gestopt. \"Het gebrek aan realisatie is niet primair te wijten aan IPCEI-waterstof maar aan marktomstandigheden.\" The post Van de tien IPCEI waterstof­proje",
+   "link": "https://energeia.nl/van-de-tien-ipcei-waterstofprojecten-zijn-er-zes-gestopt/",
+   "date": "2026-11-09T05:00:00.000Z",
+   "source": "Energeia",
+   "origin": "Energeia",
+   "image": "https://energeia.nl/wp-content/uploads/sites/2/2026/11/ANP-555370140-scaled-170x170.jpg?image-crop-positioner-ts=1793718860",
+   "topic": "Policy & Auctions",
+   "region": "Benelux",
+   "market": "core",
+   "score": 10
+  },
+  {
+   "title": "Hydrogen-fuelled power generation: RWE and Kawasaki commence trial operations with 34-MW gas turbine in Lingen",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWZsTm9MalBORXN2QXRqSWZVdldkbUszb29nd3VjN1hvWEpQQ2o2UW40S25LMFAyRGFITThEOHBfbWNHa2d6TV9VWlhoNkRCY0VhTGc2dFFteDUxMkp0MHFKbEFGZ01aU3B6QWMwWGdBdTg2d05La3NUeTVUVldPTVdBck95dEdtWHNrWlZyRHhPZmRTV2toY1liNkFfUktkVkRBaXJCZW5RZlIwWnRKd2RlQl9kUVUzNmNYcmNR?oc=5",
+   "date": "2026-11-08T21:15:26.000Z",
+   "source": "RWE Press",
+   "origin": "RWE Press",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source",
+   "lang": "en",
+   "summary": "JERA's investment in Koloma represents a significant step towards exploring natural hydrogen as a potential low-carbon energy source, aiming to enhance energy security and advance decarbonization.",
+   "link": "http://hydrogenfuelnews.com/jera-invests-in-koloma-to-explore-natural-hydrogen-as-future-clean-energy-source/8577037/",
+   "date": "2026-11-08T17:19:01.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1794202627967.jpeg",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "RWE and Kawasaki Commence Field Trial of 34-MW Hydrogen-Compatible Gas Turbine in Germany",
+   "lang": "en",
+   "summary": "RWE and Kawasaki have launched a field trial of a 34-MW hydrogen-compatible gas turbine in Lingen, Germany, aiming to test its capabilities using hydrogen and assess its role in future energy systems reliant on renewables.",
+   "link": "http://hydrogenfuelnews.com/rwe-and-kawasaki-commence-field-trial-of-34-mw-hydrogen-compatible-gas-turbine-i/8577036/",
+   "date": "2026-11-08T17:13:40.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1794202689011.jpeg",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 5
+  },
   {
    "title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
    "lang": "en",
@@ -14,6 +85,20 @@
    "region": "North America",
    "market": "other",
    "score": 9
+  },
+  {
+   "title": "FluoRok Raises $30 Million In Series A Funding To Scale Hydrogen Fluoride-Free Chemical Manufacturing",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJSQ21pUHlHbk81N0lnTFpJdTZldG9aeF9JcmhRX1VlQXVHOWc4LXlrUmUzSGRmMEE0YlprSlUxWkNnUUJYbkc0T3dXOTVaS1VjNkd6aGU4WU9xQVNtZnI5aUdmaWRIYWxQX21CQVVBTUhsOGtydWlFSXMzdjJiczlRZ2x3ejZibFpxd3llbmU1d0I1UnBrTGVBS1VXQTFXdlVrZjRRWEVPOHZnbFdBbEpxb2IweUNzZ1J2WA?oc=5",
+   "date": "2026-11-08T14:29:09.000Z",
+   "source": "Pulse 2.0",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 8
   },
   {
    "title": "US Hydrogen Sector Faces Setbacks Amid Funding and Demand Issues",
@@ -441,20 +526,6 @@
    "score": 3
   },
   {
-   "title": "Hydrogen-Fuelled Power Generation: RWE and Kawasaki Commence Trial Operations with 34-MW Gas Turbine in Lingen",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/11/06/electrolyzer/hydrogen-fuelled-power-generation-rwe-and-kawasaki-commence-trial-operations-with-34-mw-gas-turbine-in-lingen",
-   "date": "2026-11-06T13:44:20.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
    "title": "EWE passes hydrogen tightness test at Huntorf cavern",
    "lang": "en",
    "summary": "EWE has passed a tightness test on a former natural gas cavern converted for hydrogen storage at its Huntorf site in the Wesermarsch district in Northwest-Germany – first with nitrogen, then with hydrogen. From 2028, the cavern is expected to store around 16 million standard cubic metres of hydrogen...",
@@ -483,6 +554,20 @@
    "score": 3
   },
   {
+   "title": "NTT DATA Partners with Bloom Energy for a Game-Changing Onsite Power Generation Initiative",
+   "lang": "en",
+   "summary": "NTT DATA partners with Bloom Energy to deploy 900 MW of onsite power generation, boosting energy efficiency for global data centers.",
+   "link": "http://hydrogenfuelnews.com/ntt-data-partners-with-bloom-energy-for-a-game-changing-onsite-power-generation-/8577028/",
+   "date": "2026-11-06T13:07:30.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1793970449716.jpeg",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 7
+  },
+  {
    "title": "South Korea raises non-price weighting in clean hydrogen tenders to 50%",
    "lang": "en",
    "summary": "",
@@ -501,7 +586,7 @@
    "titleEn": "Hydrogen: Hydrogen storage in Huntorf passes leak test",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHFJV3V4cnYtT0JXU3daSWJTQmxsSm9HRzBzZ1FOeWFQQTNJb1JUb2NMQzBpRE9ubWdKNGRLY0ZpcnhyVjZaajlUY01GTHlHUVhmSXJtN2xpNldIYUt4cy1LOGlSc3RMZWVFWmpQXzBQLVFBblRQSUhGOFJBUW9ZY05ubmphN1ZGVFhvSENNdzl6WEwtMV8zMWZSMGFMZWFkRUdIT01kV3EzX0lYdmJCell1cFRGYmFWLWVjbXQ5SW96aUU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMktrZFlzRmIxUFFrc1A3RzQyNkFQOWtBTHYzRHhWSlBoQXJSS0tSTHpFSEZuUkZMZ0wzb1I5Ukh0SnBrNExzVUVlS2JiaXBwMmRZV2V1cTN1MjQ1RlAxVW9EaEdWWEx1SUMyQzlDYVBZSlZ1eGotVWlTOWF3VG1SZ0g2Qmhqbk50ZFBjd21QcmtxZ19CRk5oOVN5SFI1azNuQXBvcTduQU4zdGNPRkJPbVpZVzY0Um5kbzlrR05oZw?oc=5",
    "date": "2026-11-06T12:50:00.000Z",
    "source": "Energie & Management",
    "origin": "Energie & Management",
@@ -575,7 +660,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORG84QmJtNml6bVFDQ0UzdklJUWZrWEhBVTVhR2JfbW5mNnJ2VnlkVkNfR2l2bG1BblF5QUV6SzRpYjlKOHRMdmF0SU44VjhhTVlhYnRFa21IZS16MVkwQ2pnNXd6U1ljd3NVY2N3b3h3SmtXUkI5eE5maEVaRVRNVW94YlpoTVk2cVp5eFRiY0hLMXpfY0pYRnpnUGlqR2V0Nl9B?oc=5",
    "date": "2026-11-06T07:16:04.000Z",
    "source": "Dealroom",
-   "origin": "Deal search: policy and auctions",
+   "origin": "Deal search: large investments and funding",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Germany",
@@ -1166,14 +1251,14 @@
   {
    "title": "Low-cost green hydrogen hopeful lands fresh grant to build pilot at site of proposed offshore wind hub",
    "lang": "en",
-   "summary": "Green hydrogen CSIRO spin-off wins new grant funding to build fourth pilot plant, this time next to what could be Australia's first dedicated offshore wind port. The post Low-cost green hydrogen hopeful lands fresh grant to build pilot at site of proposed offshore wind hub appeared first on Renew Economy.",
-   "link": "https://reneweconomy.com.au/low-cost-green-hydrogen-hopeful-lands-fresh-grant-to-build-pilot-at-site-of-proposed-offshore-wind-hub/?utm_source=rss&utm_medium=rss&utm_campaign=low-cost-green-hydrogen-hopeful-lands-fresh-grant-to-build-pilot-at-site-of-proposed-offshore-wind-hub",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ29oVmNmQ3A5T1FxN1VBUkJLRWFsb1NNVFZISVVZN1hzUmZXSW1ibWxoa2RZVVgwdTVWSDZUS1IySEVsejRvWnktTmt3NGpmYmVMaXB2ZFJrWFVJRU8zWkpZX2J5QW01eE5aQ3pBbEVxNWlfYnhkMWlCWllkdWdZQVRCd0ZPTThvYjl5azNuYWVkamtaVVIxNXpLSGhiQ25aZVBwc3pTemlHTHVLWm45NWFlQjBiUmduOTJXQ0ZQaG5nZUdObUl3NHI0MNIB0AFBVV95cUxNcTdDNkoxaGt3UFJXNEdEOEFGejNMRTBydHh0Q1pXN1ZIaWlnWm9NVmJMSHJzQjNuWnlnRmZLVVZUZHB1T0ZLNmtWTnBQOVV5c1Y0WWRvMHpNYk0tRkM5X3NZcUtIa3ZmUjM4MUUzOTNrRmZkM3RsazBBeFpMSGx3Y3hLYl85cnJxNnZ0Q2FucWtzT3lkbTVxTnhpcGptaTM5QnlYVjFpVXVycUE1eDVhQWhFWUhXb25EanQ5c1luemhQUWlhUUJiYUUzV3pSMUhP?oc=5",
    "date": "2026-11-05T04:24:19.000Z",
-   "source": "RenewEconomy",
-   "origin": "RenewEconomy",
-   "image": "https://reneweconomy.com.au/wp-content/uploads/2023/08/SOE-ceramic-membrane-LR-382x250.jpg",
+   "source": "Renew Economy",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
    "topic": "Infrastructure & Storage",
-   "region": "Asia-Pacific",
+   "region": "Global",
    "market": "other",
    "score": 5
   },
@@ -8795,20 +8880,6 @@
    "score": 4
   },
   {
-   "title": "Nel adds to Rheinmetall's partners on local synthetic fuels project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnNWZWhsSHZuVHF3ODY2b2RVMi14cDZkbXAxX3FtZzFUeG5SVV95YWdBUzhZczU2OHBXS0llTWpFeTg0SkRYQmJxQVJ6Y2RjVmtZQTFmT0Y0OE1zYXJxejNsZnZDMVdUaEFTTW5jVjRLbXNpWHR1Xzk1WkFEUUdReGtUQnEzeDA1THpod2RBd0hUMWYyR1dSNTNVSEFHQi1KZi11RFU4TTZLZw?oc=5",
-   "date": "2026-10-13T07:00:00.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
    "title": "120 Kilometer: Neue Wasserstoffleitung durch Niedersachsen genehmigt",
    "titleEn": "120 kilometres: New hydrogen pipeline through Lower Saxony approved",
    "lang": "de",
@@ -8821,6 +8892,20 @@
    "topic": "Infrastructure & Storage",
    "region": "Germany",
    "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Nel adds to Rheinmetall's partners on local synthetic fuels project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnNWZWhsSHZuVHF3ODY2b2RVMi14cDZkbXAxX3FtZzFUeG5SVV95YWdBUzhZczU2OHBXS0llTWpFeTg0SkRYQmJxQVJ6Y2RjVmtZQTFmT0Y0OE1zYXJxejNsZnZDMVdUaEFTTW5jVjRLbXNpWHR1Xzk1WkFEUUdReGtUQnEzeDA1THpod2RBd0hUMWYyR1dSNTNVSEFHQi1KZi11RFU4TTZLZw?oc=5",
+   "date": "2026-10-13T07:00:00.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
    "score": 3
   },
   {
@@ -9149,61 +9234,18 @@
    "region": "Germany",
    "market": "core",
    "score": 3
-  },
-  {
-   "title": "Green Hydrogen Germany: EWE and Verbund Launch 500MW Plant Collocated With Cavern Storage",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS1V5dWROMGpTMUNXUkJJNk83X0Z3ZnFzT0JZT25tdEVIMU44eTNfQmsyNHpoY00xb0RGeWpBT0pMSmNhbUhMZGJzNndwRHRmUjA2UmV3ai14WlpHZWZ6QVdtWjFSQ1NLUFYtQ09pMEhUcW52ZDBTaGZWVHhSNkNZRENfeVNLSjkxa3NJTnV5QXVXOWl3ejN4bjZYVURZeVZvdlVuMjQ0Q3pYbFVfYVk2MUVaRVVMMUg2MnZHQTVvbFMwbVpYRUs3UlF0SGNtU0U?oc=5",
-   "date": "2026-10-10T07:00:00.000Z",
-   "source": "Tech Times",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 8
-  },
-  {
-   "title": "Plug Power's Danish Electrolyser Deal Is Signed, but the Switch Stays Off Until Arcadia Signs Off",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVFhKVklVcGFxSGdDbklSQUMycUZVM1dSUmJkQVJEeFh5RVNTWkZLTE5vVG1jcXEwNUhsMk5xSUNISTY4VnNZZ0tkd25PREs2U2xELTRxS2V0Y1I3N3N0UGtEb0lhNHlCcVBUREU1eURXVWZXcndPbW9Qcm9XSjRZWEFLUUpOQ3FSNWJsUDJDcWNnUHJHVVZneDJHMlYxSmJTcGFIQ2FTdDhzLWpqNU1oeTlINUtQVWtqUzd0NERnYXVrTmpOQUtGRWlmMG8zeDlTRXZiYkVPV1A4NnJzdlo1UDBYR1ZoSjZlbkgwVVdGX1ZYdk50a2EtLXNULVQ?oc=5",
-   "date": "2026-10-10T07:00:00.000Z",
-   "source": "AD HOC NEWS",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Nordics",
-   "market": "core",
-   "score": 6
-  },
-  {
-   "title": "EWE und Verbund gründen Joint Venture für Wasserstoff-Hub in Norddeutschland",
-   "titleEn": "Ewe and Verbund establish joint venture for hydrogen hub in northern Germany",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUk5BQUF4LWZoaFV4UFJ6VktWWmloaHQ5T1p3RlFZZ0x6cEd4bThJR3Q4OFRUQUEtU1gyU25yaDhOZnd1VWxRQ3RpekhMaG40emF4cXNTQ1E5NGlQeVdOZmgxUTB5VU40eTZrS2VrQmpWYzQxd0RiNXZvSzR5a2RueFkyUlFQRUt3ejVSUVJUWS0xbV9fZU9rUXQ3bC1qU0JJVkFtNnRIYnZDeFZkaWtEMUdoUjQxZ3R1QmY3SnlvYw?oc=5",
-   "date": "2026-10-10T07:00:00.000Z",
-   "source": "erneuerbareenergien.de",
-   "origin": "erneuerbareenergien.de",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 4
   }
  ],
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 30,
+   "shown": 33,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 83,
+   "shown": 82,
    "status": "ok",
    "error": ""
   },
@@ -9287,7 +9329,7 @@
   },
   {
    "name": "Energeia",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -9365,7 +9407,7 @@
   },
   {
    "name": "RenewEconomy",
-   "shown": 1,
+   "shown": 0,
    "status": "ok",
    "error": ""
   },
@@ -9629,7 +9671,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 65,
+   "shown": 66,
    "status": "ok",
    "error": ""
   },
@@ -9767,7 +9809,7 @@
   },
   {
    "name": "RWE Press",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -9947,7 +9989,7 @@
   },
   {
    "name": "erneuerbareenergien.de",
-   "shown": 6,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -10127,7 +10169,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 29,
+   "shown": 27,
    "status": "ok",
    "error": ""
   },
@@ -10151,7 +10193,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 68,
+   "shown": 71,
    "status": "ok",
    "error": ""
   },
@@ -10163,7 +10205,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 26,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
