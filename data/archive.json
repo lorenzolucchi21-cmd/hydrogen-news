@@ -1,6 +1,62 @@
 {
- "generatedAt": "2026-11-09T18:43:56.519Z",
+ "generatedAt": "2026-11-10T02:43:02.446Z",
  "articles": [
+  {
+   "title": "World Hydrogen Expo 2026 Closes at KINTEX With 266 Companies From 22 Countries",
+   "lang": "en",
+   "summary": "World Hydrogen Expo 2026 Closes at KINTEX With 266 Companies From 22 Countries WHE 2026 brought together industry leaders to explore hydrogen investment, international cooperation and commercial applications. This event was a place where global hydrogen industry leaders shared strategies for commercialization and worke",
+   "link": "https://hydrogen-central.com/world-hydrogen-expo-2026-closes-at-kintex-with-266-companies-from-22-countries/",
+   "date": "2026-11-10T02:42:48.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Hydrogen-fuelled power generation: RWE and Kawasaki commence trial operations with 34-MW gas turbine in Lingen",
+   "lang": "en",
+   "summary": "Hydrogen-fuelled power generation: RWE and Kawasaki commence trial operations with 34-MW gas turbine in Lingen Lingen, 6 November 2026 Today, RWE and Kawasaki Heavy Industries (KHI) held a ceremony to mark the commissioning of a hydrogen-compatible gas turbine with a capacity of 34 megawatts at the Emsland gas-fired po",
+   "link": "https://hydrogen-central.com/hydrogen-fuelled-power-generation-rwe-and-kawasaki-commence-trial-operations-with-34-mw-gas-turbine-in-lingen/",
+   "date": "2026-11-10T02:36:01.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Jiangsu’s Dafeng green hydrogen demonstration connects first 100.48 MW of solar to power grid",
+   "lang": "en",
+   "summary": "Jiangsu’s Dafeng green hydrogen demonstration connects first 100.48 MW of solar to power grid The first phase of solar capacity for the province’s first provincial-level green hydrogen demonstration project has been connected to the electricity grid. The first 100.48 megawatts of solar power generation equipment have c",
+   "link": "https://hydrogen-central.com/jiangsus-dafeng-green-hydrogen-demonstration-connects-first-100-48-mw-of-solar-to-power-grid/",
+   "date": "2026-11-10T02:35:33.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "Sahamco's Ambitious Green Hydrogen Project in Dakhla",
+   "lang": "en",
+   "summary": "Sahamco Holding BV has unveiled significant advancements in its renewable hydrogen and ammonia project in Dakhla, Morocco, targeting a capacity of one million tonnes of ammonia per year. Supported by a framework from the Moroccan government, this initiative positions Morocco as a key player in the global green hydrogen",
+   "link": "http://hydrogenfuelnews.com/revolutionizing-renewable-energy-sahamco-s-ambitious-green-hydrogen-project-in-d/8577041/",
+   "date": "2026-11-09T19:11:27.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1794251486237.jpeg",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Africa",
+   "market": "other",
+   "score": 4
+  },
   {
    "title": "40km hydrogen pipeline between Luxembourg and France given greenlight",
    "lang": "en",
@@ -388,6 +444,20 @@
    "score": 10
   },
   {
+   "title": "CSIRO spinout lands $15 million to make green hydrogen using less power",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPei1SRzI1UGJXMHFySlp4akp3SlNaNkJQRWtXYm5GZWhkNy1FVTFqcnRPM2huUjZ4Z3FZVGVwN3B5aWZCYk9pdjhUMGE0d3FTZzFtVE9MT0xwRVEwclVlVWRDSlJVVVNfa3VQbHo0ZWEwZE82U0JxYmdYLXd1ak55N2oza215Ylhpb1RSa0NuX3pVMER5T0t1RGE5VlNpMlhTMmpDekRlUlpZdEYyWDBRQU8wSWM?oc=5",
+   "date": "2026-11-09T04:30:00.000Z",
+   "source": "Startup Daily",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
    "title": "APSAC and ISCC ink MoU to advance certified SAF supply",
    "lang": "en",
    "summary": "The Asia Pacific Sustainable Aviation Centre (APSAC) and ISCC System GmbH (ISCC) have entered into a Memorandum of Understanding (MoU) to explore cooperation on Sustainable Aviation Fuel (SAF) sustainability certification, industry education and stakeholder engagement across the Asia-Pacific region. A key focus is help",
@@ -400,20 +470,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 6
-  },
-  {
-   "title": "Hydrogen-fuelled power generation: RWE and Kawasaki commence trial operations with 34-MW gas turbine in Lingen",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWZsTm9MalBORXN2QXRqSWZVdldkbUszb29nd3VjN1hvWEpQQ2o2UW40S25LMFAyRGFITThEOHBfbWNHa2d6TV9VWlhoNkRCY0VhTGc2dFFteDUxMkp0MHFKbEFGZ01aU3B6QWMwWGdBdTg2d05La3NUeTVUVldPTVdBck95dEdtWHNrWlZyRHhPZmRTV2toY1liNkFfUktkVkRBaXJCZW5RZlIwWnRKd2RlQl9kUVUzNmNYcmNR?oc=5",
-   "date": "2026-11-08T21:15:26.000Z",
-   "source": "RWE Press",
-   "origin": "RWE Press",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 5
   },
   {
    "title": "JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source",
@@ -9576,41 +9632,12 @@
    "region": "Germany",
    "market": "core",
    "score": 4
-  },
-  {
-   "title": "Plug lands a 280 MW electrolyzer order for a Danish e-SAF project, while the broader partnership now stretches beyond the 1 GW mark",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRjhkN1pLWXdvQ2ZXSmhJcWtSRWxJeWdBWGZ3NUFKaGl5TXNndGlneE9mLWNFczZPRnpXM3NxaWc5NkxRclM0am9oOEhEalBOcmNMWWFTMUVManQxU004emRRWUo2bGV3b3dDX1F2WUdBRUZobGlFb09FbEpJLTA?oc=5",
-   "date": "2026-10-11T07:00:00.000Z",
-   "source": "Energies Media",
-   "origin": "Deal search: eSAF and aviation fuel",
-   "image": "",
-   "topic": "Aviation & e-SAF",
-   "region": "Nordics",
-   "market": "core",
-   "score": 13
-  },
-  {
-   "title": "Wasserstoff: Speicher im Fels brauchen mehr als dicke Wände, um dicht zu sein",
-   "titleEn": "Hydrogen: Storage in the rock needs more than thick walls to be tight",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMG5LZWhzUUNXWVVkSDYxN1lSUG1TNFE4SXMwLWg5Z1BNZ2dMRi03NTJTRW9uc09WbGR5RjgyZ2xxNE1jMGRXY3VUV1dxTXZGYVJhTy01Z0NnM3NDWl9XTFNVMW4wMnpzSk5iTFBxbXZjcWo2Vzh5cmNxY0tOeVpBb3dTX0I0aEt4dlEwUHpoWERuU3BOaVc0djIwXzBzdE5NcE1PWldmUUZTcV93M2I5QkpDUXRiWmUxNVg5LUJYaw?oc=5",
-   "date": "2026-10-11T07:00:00.000Z",
-   "source": "ingenieur.de",
-   "origin": "ingenieur.de",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
   }
  ],
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 33,
+   "shown": 34,
    "status": "ok",
    "error": ""
   },
@@ -9640,7 +9667,7 @@
   },
   {
    "name": "Hydrogen Central",
-   "shown": 20,
+   "shown": 23,
    "status": "ok",
    "error": ""
   },
@@ -10180,7 +10207,7 @@
   },
   {
    "name": "RWE Press",
-   "shown": 1,
+   "shown": 0,
    "status": "ok",
    "error": ""
   },
@@ -10390,7 +10417,7 @@
   },
   {
    "name": "ingenieur.de",
-   "shown": 4,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
@@ -10558,13 +10585,13 @@
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 9,
+   "shown": 8,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 70,
+   "shown": 71,
    "status": "ok",
    "error": ""
   },
