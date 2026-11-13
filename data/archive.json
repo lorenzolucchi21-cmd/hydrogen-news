@@ -1,8 +1,134 @@
 {
- "generatedAt": "2026-11-13T12:08:36.729Z",
+ "generatedAt": "2026-11-13T19:37:34.307Z",
  "articles": [
   {
-   "title": "Oman green hydrogen auction ties power to data centres",
+   "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany",
+   "lang": "en",
+   "summary": "...former natural gas pipeline converted to carry hydrogen , with deliveries to TotalEnergies’ refinery in Leuna scheduled to begin in 2027. The project aims to demonstrate an integrated hydrogen value chain... The post The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany appear",
+   "link": "https://www.pv-magazine.com/2026/11/13/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany/",
+   "date": "2026-11-13T15:41:03.000Z",
+   "source": "pv magazine",
+   "origin": "pv magazine",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 9
+  },
+  {
+   "title": "Brazil’s Energy Regulator Authorises First Green Hydrogen Project to Access National Grid",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/13/h2/brazil-s-energy-regulator-authorises-first-green-hydrogen-project-to-access-national-grid",
+   "date": "2026-11-13T15:33:32.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Latin America",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Luxembourg Puts Hydrogen Cars on Equal Footing With Battery EVs in Revamped Subsidy Scheme",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/12/h2/luxembourg-puts-hydrogen-cars-on-equal-footing-with-battery-evs-in-revamped-subsidy-scheme",
+   "date": "2026-11-13T14:51:31.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Benelux",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "Qair inaugurates 20-MW green hydrogen plant in France",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDU0RFdNdzVvQVJraFZjTDhqeHIzb21HTjBzeHE3YnMxbVc2NURsT0ljd0xkR0lqSVdTVnVRMDVuelVGMTFRTDloYTZNUk1nTllwZVdTQVVkUkFGSGFYQlRTcVFhVXBoa3dMUnoxUU5qdnZQbzc4V01qbTFrYVJtQUgzT2FpQThPdGYyRUZ5clhoUHlPVkNVbA?oc=5",
+   "date": "2026-11-13T14:50:43.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 7
+  },
+  {
+   "title": "Mercedes-Benz and HyIron Sign Deal to Scale Up Green Hydrogen-Based Iron Production After Successful Namibia Pilot",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/13/h2/mercedes-benz-and-hyiron-sign-deal-to-scale-up-green-hydrogen-based-iron-production-after-successful-namibia-pilot",
+   "date": "2026-11-13T14:22:37.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Africa",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "One of Europe’s Largest E-SAF Projects Enters Engineering Phase in Sweden",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/13/h2/one-of-europe-s-largest-e-saf-projects-enters-engineering-phase-in-sweden",
+   "date": "2026-11-13T14:01:19.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 4
+  },
+  {
+   "title": "Mercedes-Benz plans to scale up green hydrogen-based steel use in luxury cars following successful Namibian pilot",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc004dnM2Y3ZubUxkbzU2aUJ0a3lmYnVwNG5oOW4yWG9NU1dpNDJ0eEpndjFLNGNUZnRyMExaNW1JVHNlWjhVSGVjMHRwY2dVZDFLczhXQ2VyRV85YU9HeTdRbElNTHNobC02cmxSRVRvTmNNcTBiTVN4dl94SnczWXZEWXRtZGoxWDUxV2tlbXBQLUZ0YmxCcUhaSVlaSDh5Zl9JU01jeWVkVTFxbTdjQXN0NTZjSGx0ZVZQd3hyN1hydEJpdTlEU3YwdHhoMEZQRFBYWXQ1ZE43T0JqckpqMFRxX3Q3Q0VySUdndGd4dXUxc2xMc2t0NTI3Q2Q?oc=5",
+   "date": "2026-11-13T13:43:33.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Africa",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Hyd’Occ (Qair and Arec Occitanie) Inaugurates the Largest Renewable Hydrogen Production Unit in France",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/13/clean-energy/hyd-occ-qair-and-arec-occitanie-inaugurates-the-largest-renewable-hydrogen-production-unit-in-france",
+   "date": "2026-11-13T13:32:33.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 6
+  },
+  {
+   "title": "Hydrosonic and Maximator Hydrogen strengthen Clean Energy Partnership",
+   "lang": "en",
+   "summary": "The Clean Energy Partnership (CEP) has welcomed two new members: Hydrosonic and Maximator Hydrogen. Both companies bring expertise in hydrogen refueling infrastructure to the network—from measurement technology to modular refueling stations.",
+   "link": "https://www.h2-international.com/mobility/mobility-hydrosonic-and-maximator-hydrogen-strengthen-clean-energy-partnership",
+   "date": "2026-11-13T13:04:19.000Z",
+   "source": "H2 International",
+   "origin": "H2 International",
+   "image": "https://www.h2-international.com/sites/default/files/styles/content__zoomed/public/aurora/2026/11/578665.jpeg?itok=WNm9Z1EV",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Oman opens green hydrogen auction with data centres as the buyers",
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSkFTOGxWN0NrYUtVYl9XQ254X0pUc0xxNG1RbUhrX0tGU2JiNmVNcjctb0t6RlBFNlRnLWxYNk01TVBDVHJHVUttTGxiVHBHdURPSGtKR1E4Q0lOdl9saEl5b3htdEdiM0VRWA?oc=5",
@@ -10,7 +136,7 @@
    "source": "Tbreak UAE",
    "origin": "Deal search: policy and auctions",
    "image": "",
-   "topic": "Policy & Auctions",
+   "topic": "Offtake & Supply",
    "region": "Middle East",
    "market": "other",
    "score": 5
@@ -42,6 +168,48 @@
    "region": "Nordics",
    "market": "eu",
    "score": 6
+  },
+  {
+   "title": "Repsol boosts Spanish industry with its largest renewable hydrogen investment in Tarragona",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeW5hVEQ2V3NwTUtkRjRJckFIZjJYNzEtUTI2VWk2cTBJaDZDakVoLTU4bDVyQ0ZhZktPZzFudk5McVNkOGFvbkVkYmdrMGtUc1ZZdEw2MmpYY01yTExoeGNfa0lEUllEaHhuQ3BUMzdWU2J1NjF2d0pXSzZYSUQzdDNCVS1NdGhaaW9nTnVpN3JRQklQQXN0c0pTMGxzMUNKb1hJMUFwQmNoWnljOHJOY1Q3QWtKRngzTFR2VmpMRHBBWWJ3b1BOdA?oc=5",
+   "date": "2026-11-13T10:40:20.000Z",
+   "source": "euro-petrole.com",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "Oman signs green hydrogen deals at COP31 in Türkiye",
+   "lang": "en",
+   "summary": "Oman has awarded two integrated green hydrogen projects in Duqm with a combined planned annual production capacity of about 121,000t by 2032.",
+   "link": "https://www.energymonitor.ai/news/oman-signs-hydrogen-deals-cop31/",
+   "date": "2026-11-13T10:15:26.000Z",
+   "source": "Energy Monitor",
+   "origin": "Energy Monitor",
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/R3-consortium-1.jpg",
+   "topic": "Offtake & Supply",
+   "region": "Middle East",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "One of Europe’s largest e-SAF projects kicks off engineering phase",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUllzZDRIbzFtT2dVRTRYYjhMblpkbk9UOWFCSGJpNzJma3NuODFSVkFxaHdHOEp5aDFGN2tSSko0RGM1LUwwUUJHR0pWTnJ6WDRtVzhVa21vdjZNd3BTOENjQV95WU82bW9zekRqbWpVMlcwOWVuX0ltX0g0Y0V3Q0VMWlEyaDFNV19BZWVNRFFWelFFZ19pb21MTDY4SDhHQV9taGpTenBKZ21yM3pVZjFLZ1M5eExIZU5JYllB?oc=5",
+   "date": "2026-11-13T10:13:28.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 4
   },
   {
    "title": "Two green hydrogen projects win Omani tax breaks in third auction",
@@ -92,7 +260,7 @@
    "lang": "nl",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkRoaVJxdUZDX2tyWU42dlBmbV81RnBUVW1JRjFnNDFXRzFFZW00MGRiXzF2bzB2VFdsOTBvTVBHdHVhWGozOVNncTM0aThOZ2NWWTRxZ19ENE8yb0o4LXBXenhsVmk0bzdPbnlwRHp6TFFkNUZid1ZOeXNOLTluaVI1NndFT0d4VW14NnhaekZMbGFyMmhqWGFxWEJWWDZ2dkRaWTVNUWNlYThUM25mc1JDVDJEck1fdmFN?oc=5",
-   "date": "2026-11-13T08:18:49.000Z",
+   "date": "2026-11-13T08:29:11.000Z",
    "source": "Industrielinqs",
    "origin": "Deal search: Netherlands (NL)",
    "image": "",
@@ -442,6 +610,21 @@
    "score": 10
   },
   {
+   "title": "Repsol genehmigt 150-MW-Elektrolyseur in Tarragona - Nachrichten und Statistiken",
+   "titleEn": "Repsol approves 150 MW electrolyzer in Tarragona - News and statistics",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0Z1eVpUUDE0TzZ4eURhN0ZnazBHRWd5Slh1dkphUVJucUJKVGthQlJIRjhpOWRxclJhalNYQ1dPeGc2b0c3QlJvODFHWGdLUXR2VUY3dno5dk95bVVRdkZDUmNCUUpCbnZQOHVIRG1yZ2hYeGhIeEpyQnBJdjZVSUs1bC1idE9Ra1RiOWdVYzNzOEU5cnRXTWtBQQ?oc=5",
+   "date": "2026-11-12T15:40:47.000Z",
+   "source": "IndexBox",
+   "origin": "Deal search: project milestones (DE)",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 9
+  },
+  {
    "title": "Igneo has entered into a binding agreement to acquire 100% of Nowega, a gas transmission system operator in Germany, from Erdgas Münster GmbH – hydrogen",
    "lang": "en",
    "summary": "Igneo has entered into a binding agreement to acquire 100% of Nowega, a gas transmission system operator in Germany, from Erdgas Münster GmbH – hydrogen 10 November 2026, London and Münster: Igneo Infrastructure Partners (“Igneo”), a global infrastructure manager with €30.5 billion* of assets under management, has ente",
@@ -637,6 +820,20 @@
    "region": "Global",
    "market": "other",
    "score": 3
+  },
+  {
+   "title": "Topsoe and Sasol clinch tech deal for 66,000-tonne e-SAF plant in Sweden",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTko4d0hBQTRaaE1LQkRTSEJxWmJJS0NLeHpPUjlMbGtUZjlZRkZEY085ZTAxMlJMOGFzQWdyV2dYbDlteDlKTG45WXhHcHJJcVJVOXZ6c3ZjbUFJMkpheGNTd2wyRlZBU01mUFlsMTdDUHc0SElFazFxR0J5OXhJWEhmVlMyd0pnel9qT1pORjlkWTFFTDVaZW5Bc1NLRk9QNWw0MTY2akNhckptRkRNMTk4VElnN0RYOE5MUEdxN2REdThTdjFR0gHHAUFVX3lxTE9OSjh3SEFBNFpoTUtCRFNIQnFaYklLQ0t4ek9SOUxsa1RmOVlGRkRjTzllMDEyUkw4YXNBZ3JXZ1hsOW14OUpMbjlZeEdwcklxUlU5dnpzdmNtQUkySmF4Y1N3bDJGVkFTTWZQWWwxN0NQdzRISUVrMXFHQnk5eElYSGZWUzJ3Smd6X2pPWk5GOWRZMUVMNVplbkFzU0tGT1A1bDQxNjZqQ2FySm1GRE0xOThUSWc3RFg4TkxQR3E3ZER1OFN2MVE?oc=5",
+   "date": "2026-11-12T13:00:00.000Z",
+   "source": "Indian Chemical News",
+   "origin": "Deal search: eSAF and aviation fuel",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 7
   },
   {
    "title": "Energiepark Bad Lauchstädt is now producing green hydrogen",
@@ -878,6 +1075,21 @@
    "region": "Global",
    "market": "other",
    "score": 6
+  },
+  {
+   "title": "Wasserstoffhochlauf stockt – Speicheraufbau braucht jetzt politische Impulse",
+   "titleEn": "Hydrogen ramp-up stalls – storage infrastructure now needs political impetus",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQlpFME04NFN0S3BVVk90WW52MU9VdWQ4TklwTzRyNmNNUlZ2RmZJUmJjTlluLWlST0xtTEJkQ3pUd295WGEzVE5vT3BvVjhrZndBUXMxeVcyYzJvT2dpUnFSMHJwYnZfcmZuRFJ0V1FwQnlSSHFFclF6WU4zLVlmbkhkbGtkMXRpTE5YTXFQd0xDMDhyLVM0V1k1VXlPQVVPWVVnMGhFOWFPbkg1VVQ5OFVRZEd2MEVISlBXQ3FxdE9pRUFlcjRUMmduU2JBMUc2Q2hRcg?oc=5",
+   "date": "2026-11-11T23:00:00.000Z",
+   "source": "Tagesspiegel",
+   "origin": "Tagesspiegel",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
   },
   {
    "title": "Adecoagro S.A.: Adjusted EBITDA reached $471.8 million in 9M26, reaching an all-time high for a nine-month period. Monthly records set for urea and ammonia production and strong cane productivity. – Company Announcement - FT.com",
@@ -1181,7 +1393,7 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGw2M2hjZGd0QkhkWDVIOWJVT1g1bUw4d1FMbFRJMTJKREZrR3pIY1llOWljQzQtTWxFdHR2NE54VDAxYXkwVkRJMko2X1BEQ3IzR2xLZHBmSW9WSHNiaU03eTYzWW5MNDJGc0szWFJ5bkE3cVpjX0Zfd0tuZG9DYTg3NS1tQ2hDVFNmbzUxTQ?oc=5",
    "date": "2026-11-11T12:33:00.000Z",
    "source": "Fuel Cells Works",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: policy and auctions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Other Europe",
@@ -1480,7 +1692,7 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWlg4VlhLUTZwdDFNR0VKUWRfU3J4dTd0eEJraFVtMDEyTUt6QzFCcVROeC0tMnFnWUQ5enp1LXdkZVlJSnZ0WnNuczdNbHVFeE5NRUcxUHpSX0VRVVVTbGlLRkNQVHV2TFBkMHRhNXRvTEdkbUFiVjR0cWlWdFZDVWpRV0RqT3haNWt2b2RPVXpNd09IN2NubnVOendvNGJpeVAwMmJURzNkUXg4VGJILWpNQzlIclJoT1AxMlUxc2Y5Y3J1dVRhbEgwSHJ0QXQwRzFYa0dScUJyT2poXzlTYQ?oc=5",
    "date": "2026-11-10T15:42:51.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Deal search: refineries and industry",
+   "origin": "Hydrogen Insight",
    "image": "",
    "topic": "Steel & Industry",
    "region": "Germany",
@@ -2263,6 +2475,20 @@
    "region": "Middle East",
    "market": "other",
    "score": 3
+  },
+  {
+   "title": "Asahi Kasei signs MoU with Power to Hydrogen to boost AEM electrolysis tech",
+   "lang": "en",
+   "summary": "Japan-headed Asahi Kasei Corporation, a diversified global company, has announced that it has signed a Memorandum of Understanding (MoU) with US-based Power to Hydrogen Inc.(P2H2), a developer of anion exchange membrane (AEM) electrolyzer systems, to evaluate manufacturing scale-up and commercialization of water electr",
+   "link": "https://bioenergyinternational.com/asahi-kasei-signs-mou-with-power-to-hydrogen-to-boost-aem-electrolysis-tech/",
+   "date": "2026-11-09T07:41:04.000Z",
+   "source": "Bioenergy International",
+   "origin": "Bioenergy International",
+   "image": "https://bioenergyinternational.com/wp-content/uploads/sites/3/2026/11/p2h2asahikasei.jpg",
+   "topic": "Production & Technology",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
   },
   {
    "title": "Germany backs Danish green hydrogen projects with EUR 1.2bn",
@@ -3486,6 +3712,20 @@
    "score": 4
   },
   {
+   "title": "Namibia allocated US$56 million for green industry projects Staff Reporter NAMIBIA is set to receive US$56 million (roughly N$935.9 million) in climate financing to support green hydrogen and other low-carbon industrial projects, as part of a US$140 million in",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NM0hBd2p2ZGZIYnpOYVRpeV9URWI3OXJzT1FvV3R1WFJfZmpNekYxNGJ2RUxiVE90WnNBdGtCU29ZbW53YmlUVWJmdnhzZnk1Snc?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "source": "Instagram",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Africa",
+   "market": "other",
+   "score": 8
+  },
+  {
    "title": "Johnson Controls launches industrial ammonia heat pump",
    "lang": "en",
    "summary": "US-based Johnson Controls has introduced a standardized industrial heat pump for food and beverage processing facilities. The system uses ammonia as a refrigerant and delivers heating capacities from 200 kW to 2 MW, with hot water temperatures of up to 87.8 C. The post Johnson Controls launches industrial ammonia heat ",
@@ -3683,20 +3923,6 @@
    "region": "Other Europe",
    "market": "eu",
    "score": 5
-  },
-  {
-   "title": "Namibia allocated US$56 million for green industry projects Staff Reporter NAMIBIA is set to receive US$56 million (roughly N$935.9 million) in climate financing to support green hydrogen and other low-carbon industrial projects, as part of a US$140 million in",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NM0hBd2p2ZGZIYnpOYVRpeV9URWI3OXJzT1FvV3R1WFJfZmpNekYxNGJ2RUxiVE90WnNBdGtCU29ZbW53YmlUVWJmdnhzZnk1Snc?oc=5",
-   "date": "2026-11-05T00:00:16.000Z",
-   "source": "Instagram",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Africa",
-   "market": "other",
-   "score": 8
   },
   {
    "title": "Australian hydrogen technology backed for steelmaking pilot",
@@ -10330,7 +10556,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 102,
+   "shown": 107,
    "status": "ok",
    "error": ""
   },
@@ -10366,7 +10592,7 @@
   },
   {
    "name": "H2 International",
-   "shown": 11,
+   "shown": 12,
    "status": "ok",
    "error": ""
   },
@@ -10402,7 +10628,7 @@
   },
   {
    "name": "Energy Monitor",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -10474,7 +10700,7 @@
   },
   {
    "name": "pv magazine",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -10541,8 +10767,8 @@
   {
    "name": "Energy Live News",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 504"
   },
   {
    "name": "Interesting Engineering",
@@ -10594,7 +10820,7 @@
   },
   {
    "name": "Bioenergy International",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -10756,7 +10982,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 71,
+   "shown": 74,
    "status": "ok",
    "error": ""
   },
@@ -10798,7 +11024,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 29,
+   "shown": 30,
    "status": "ok",
    "error": ""
   },
@@ -11020,7 +11246,7 @@
   },
   {
    "name": "Tagesspiegel",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -11272,13 +11498,13 @@
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 11,
+   "shown": 12,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 68,
+   "shown": 67,
    "status": "ok",
    "error": ""
   },
@@ -11290,7 +11516,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 30,
+   "shown": 31,
    "status": "ok",
    "error": ""
   },
@@ -11326,7 +11552,7 @@
   },
   {
    "name": "Deal search: project milestones (DE)",
-   "shown": 2,
+   "shown": 3,
    "status": "ok",
    "error": ""
   }
