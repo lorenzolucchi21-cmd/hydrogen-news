@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T17:57:58.738Z",
+ "generatedAt": "2026-11-14T23:53:23.637Z",
  "articles": [
   {
    "title": "Oman targets data centres in new green hydrogen auction",
@@ -25,6 +25,20 @@
    "origin": "Hydrogen Central",
    "image": "",
    "topic": "Policy & Auctions",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 7
+  },
+  {
+   "title": "KONČAR Wins EU Innovation Fund Backing for 2.5MW Power Interface Targeting Green Hydrogen Electrolysers",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/14/electrolyzer/koncar-wins-eu-innovation-fund-backing-for-2-5mw-power-interface-targeting-green-hydrogen-electrolysers",
+   "date": "2026-11-14T16:55:43.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
    "region": "Other Europe",
    "market": "eu",
    "score": 7
@@ -232,7 +246,7 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZGw0ZVY3NTA2cEo1YVFBaVhQVmV5eEhFaEtMUk1namhRQWJ1MFNIN200UndEdHpBRjVFaHJjZmRwbUFEaVVlejFWa1FvTkhqeVBRWG5TSEdpQmVBWTVTVmRRSThYbV9STzdWZU5zd29zS19pRnVyLVpsc1I1VV9oSF9Jam5Qd3E0S1lVYUh1OUpPVWsyX01sTGJ1Y3JiTEdJ?oc=5",
    "date": "2026-11-14T04:20:56.000Z",
    "source": "IndexBox",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: refineries and industry",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -1843,7 +1857,7 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN1Zkb3V2WEFPb3F1UlYwRW9IRmRMRkpTMWZDVFB0R1JlakRVeVBWN2o5MkFPWkZRTWk3ZFNVZURUMHNyU3RBVDZyQlFnbHNjRUE0R21CWXhDdy1sdW9UNm5YQV9NRVAzR0NNWEtsemZydWpWVkUxZk8yVDV2RXlKcXhvV1ZnNkVtbHFBQXRxWGEyZlh2REJuLXdvNkthemNWekFBYTdIZEZzeWttS3pBbnEyLXdqb2I5SkY4ZWtvMFBaTW9Id1U2NWVDTGxpYlRVZFo5dm9jM2Q4Z2M?oc=5",
    "date": "2026-11-11T11:21:48.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: cancellations and delays",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Other Europe",
@@ -1996,7 +2010,7 @@
    "title": "Green hydrogen demand slump delays electrolyser projects to August 2027",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORm9TX2x5TWF0blYwV0U3V2NFazZfYno0elQ3TzdoRVUyYnF2TEFPcVJfTjMxaTJBdXlkSVBhUVRQRVVub09pYkptSXFfUEhVbVJNNFI4MGZpbDdfOXAyQnBwc0dyaUszaHBoU0x2MW4weDdhSE9ld0ZxU3hyODY4OU9Qc0dsZTZOV1VjbFl6UXc0ZElVV2J0UHY3bTRvSV9WRGg1UXc5TzZpUTh4Z0N5VlkydWhxSDlTV2N4bDIxNFhCek83MG8wYm5IcE50TWdlUGlkM3BFY2dMNG41QlHSAeMBQVVfeXFMTjAwc0FiZXUzTnp6U0JwS2I2YU0wUjQybmNlX19pQjM3RFV4SFBQZzd3U05IME1fVzRZY3dUTHBISFFHUmtHeFg0SzFsS1NYYkM0OXB4QkJORmhFVW5raXNqbG5EaGJYZXh1X2xXNnp3b0VBVWFpQ2hTUjIyaFBhVmtDbnF0c051Sm9NT3Q2N1RvTURiTU52Vi1lb1NsOThmazRhb0kzbU5oZnMtcGFaS0pOR3dDVENqNWx0cXJUdTRZUms5T1dnbGRMSzhqMlJwQmViM2dORTU0ZEFRMThTNGxSelE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZEtkVmR6UTN0dUJoNy0zTTVyM0tuUUl4SnVseXhBcmVLMU1jV3FuX2QwX1FoNmFjWDB0djdIcHI3VDRoN21tbThMQmd1V2tpa3dUc0t1aVAxaURkUVpmQnI2ZC1WSTUzcHVCVlpCNUluM3lxQ0pSbHk4Wl84UTNKVmJNc2NUYkR1dmRUWXAwYjUwaV9JYV9ibnRZY05uMzMtcmUxSTlTd09ta3Y2Mnp6MFF0RUF4aWFsdmdfZUlfc3oxZEJFWFlwVEs2OU1WUEdzWDV2d3JDMWYzcVREaW5FNFJoSGY5REptVEHSAeMBQVVfeXFMTjAwc0FiZXUzTnp6U0JwS2I2YU0wUjQybmNlX19pQjM3RFV4SFBQZzd3U05IME1fVzRZY3dUTHBISFFHUmtHeFg0SzFsS1NYYkM0OXB4QkJORmhFVW5raXNqbG5EaGJYZXh1X2xXNnp3b0VBVWFpQ2hTUjIyaFBhVmtDbnF0c051Sm9NT3Q2N1RvTURiTU52Vi1lb1NsOThmazRhb0kzbU5oZnMtcGFaS0pOR3dDVENqNWx0cXJUdTRZUms5T1dnbGRMSzhqMlJwQmViM2dORTU0ZEFRMThTNGxSelE?oc=5",
    "date": "2026-11-10T18:16:36.000Z",
    "source": "The Economic Times",
    "origin": "Deal search: cancellations and delays",
@@ -10523,7 +10537,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 103,
+   "shown": 104,
    "status": "ok",
    "error": ""
   },
@@ -10949,7 +10963,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 69,
+   "shown": 68,
    "status": "ok",
    "error": ""
   },
@@ -11459,7 +11473,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 16,
+   "shown": 17,
    "status": "ok",
    "error": ""
   },
@@ -11471,13 +11485,13 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 69,
+   "shown": 68,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 20,
+   "shown": 21,
    "status": "ok",
    "error": ""
   },
