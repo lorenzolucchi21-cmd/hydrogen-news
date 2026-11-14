@@ -1,6 +1,104 @@
 {
- "generatedAt": "2026-11-14T11:25:42.652Z",
+ "generatedAt": "2026-11-14T17:57:58.738Z",
  "articles": [
+  {
+   "title": "Oman targets data centres in new green hydrogen auction",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmNnZDZOekd6VlNJaFJSMjNLdk1WTGlKdEtLQWVqUjRIODNiOUZHSVc3VDIxa3RfUGUta1NBNG5nMnBTWXBybS1kcmxsZXNscVVNWWd3Z3lFcmNvQXFtOVczWDBYNWtucG1COXZWNVBRRVFKMnpWN2ZMVWVBZW9VbG96c09KejVRMmtpMGg4QjZaMzNjV01qQ2xSUQ?oc=5",
+   "date": "2026-11-14T17:46:52.000Z",
+   "source": "Muscat Daily",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Middle East",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Burckhardt Compression secures orders for semiconductor hydrogen application",
+   "lang": "en",
+   "summary": "Burckhardt Compression secures orders for semiconductor hydrogen application Winterthur, Switzerland / Shenyang, China, 22. October 2026 – Shenyang Yuanda Compressor Co., Ltd. (SYCC), a subsidiary of Burckhardt Compression, has secured several orders for diaphragm compressor units supporting hydrogen applications in th",
+   "link": "https://hydrogen-central.com/burckhardt-compression-secures-orders-for-semiconductor-hydrogen-application/",
+   "date": "2026-11-14T16:58:33.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 7
+  },
+  {
+   "title": "VIVIFY Technology Signs Letter of Intent to Serve as Primary Hydrogen Energy Infrastructure Provider for ELISIUM, a Planned Cognitive City in Hendry County, Florida",
+   "lang": "en",
+   "summary": "VIVIFY Technology Signs Letter of Intent to Serve as Primary Hydrogen Energy Infrastructure Provider for ELISIUM, a Planned Cognitive City in Hendry County, Florida DELRAY BEACH, Fla., Oct. 20, 2026 /PRNewswire/ — VIVIFY Technology, a Florida-based hydrogen energy company, today announced it has signed a letter of inte",
+   "link": "https://hydrogen-central.com/vivify-technology-signs-letter-of-intent-to-serve-as-primary-hydrogen-energy-infrastructure-provider-for-elisium-a-planned-cognitive-city-in-hendry-county-florida/",
+   "date": "2026-11-14T16:50:16.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "H2Accelerate proposes more funding for hydrogen trucks",
+   "lang": "en",
+   "summary": "H2Accelerate proposes more funding for hydrogen trucks Hydrogen truck group H2Accelerate is calling for a European funding mechanism so hydrogen vehicles can compete with diesel on total cost of ownership (TCO). The partnership – which includes Daimler Truck, Volvo Group, Hyundai Hydrogen Mobility, Linde, TEAL Mobility",
+   "link": "https://hydrogen-central.com/h2accelerate-proposes-more-funding-for-hydrogen-trucks/",
+   "date": "2026-11-14T16:36:00.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 7
+  },
+  {
+   "title": "Hydrogen station builder Resato declared bankrupt",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaUZhLTVyUjgwZ3p5TFYyQkdtYzQ1MUZ6ZU1wUVBMdUFySnlQaTlhV2h2S2dHcVVWdlN6eGJYVktQWDhCZUFqLWo0M0RlSHlDamRmNi1DWVRkZWxObDRYenE5dVFwZm1qRGJIbF83aWZkNHV5M2J1Y1NVNFY3Q1ZqWTNrdzAzdw?oc=5",
+   "date": "2026-11-14T16:32:16.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Deal search: cancellations and delays",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "KONČAR NEXUS selected among European Union Innovation Fund projects – hydrogen included",
+   "lang": "en",
+   "summary": "KONČAR NEXUS selected among European Union Innovation Fund projects – hydrogen included The new train has been designed to meet the specific requirements of the railway line between Zagreb and Split, which is partly electrified and partly non-electrified. It offers 150 seats and features free Wi-Fi, power outlets at ev",
+   "link": "https://hydrogen-central.com/koncar-nexus-selected-among-european-union-innovation-fund-projects-hydrogen-included/",
+   "date": "2026-11-14T15:56:31.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "Vidi grants for UT researchers who work on networks, hydrogen and waste heat",
+   "lang": "en",
+   "summary": "Vidi grants for UT researchers who work on networks, hydrogen and waste heat Three University of Twente researchers will each receive up to €850,000 from the Dutch Research Council (NWO). Clara Stegehuis wants to understand how networks change when a virus or a hacker strikes. Chris Baeumer is looking for materials tha",
+   "link": "https://hydrogen-central.com/vidi-grants-for-ut-researchers-who-work-on-networks-hydrogen-and-waste-heat/",
+   "date": "2026-11-14T15:56:13.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Benelux",
+   "market": "core",
+   "score": 5
+  },
   {
    "title": "TE H2 Chile Cancels H2 Magallanes Green Hydrogen Project Amid Economic Challenges",
    "lang": "en",
@@ -1898,7 +1996,7 @@
    "title": "Green hydrogen demand slump delays electrolyser projects to August 2027",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZEtkVmR6UTN0dUJoNy0zTTVyM0tuUUl4SnVseXhBcmVLMU1jV3FuX2QwX1FoNmFjWDB0djdIcHI3VDRoN21tbThMQmd1V2tpa3dUc0t1aVAxaURkUVpmQnI2ZC1WSTUzcHVCVlpCNUluM3lxQ0pSbHk4Wl84UTNKVmJNc2NUYkR1dmRUWXAwYjUwaV9JYV9ibnRZY05uMzMtcmUxSTlTd09ta3Y2Mnp6MFF0RUF4aWFsdmdfZUlfc3oxZEJFWFlwVEs2OU1WUEdzWDV2d3JDMWYzcVREaW5FNFJoSGY5REptVEHSAeMBQVVfeXFMTjAwc0FiZXUzTnp6U0JwS2I2YU0wUjQybmNlX19pQjM3RFV4SFBQZzd3U05IME1fVzRZY3dUTHBISFFHUmtHeFg0SzFsS1NYYkM0OXB4QkJORmhFVW5raXNqbG5EaGJYZXh1X2xXNnp3b0VBVWFpQ2hTUjIyaFBhVmtDbnF0c051Sm9NT3Q2N1RvTURiTU52Vi1lb1NsOThmazRhb0kzbU5oZnMtcGFaS0pOR3dDVENqNWx0cXJUdTRZUms5T1dnbGRMSzhqMlJwQmViM2dORTU0ZEFRMThTNGxSelE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORm9TX2x5TWF0blYwV0U3V2NFazZfYno0elQ3TzdoRVUyYnF2TEFPcVJfTjMxaTJBdXlkSVBhUVRQRVVub09pYkptSXFfUEhVbVJNNFI4MGZpbDdfOXAyQnBwc0dyaUszaHBoU0x2MW4weDdhSE9ld0ZxU3hyODY4OU9Qc0dsZTZOV1VjbFl6UXc0ZElVV2J0UHY3bTRvSV9WRGg1UXc5TzZpUTh4Z0N5VlkydWhxSDlTV2N4bDIxNFhCek83MG8wYm5IcE50TWdlUGlkM3BFY2dMNG41QlHSAeMBQVVfeXFMTjAwc0FiZXUzTnp6U0JwS2I2YU0wUjQybmNlX19pQjM3RFV4SFBQZzd3U05IME1fVzRZY3dUTHBISFFHUmtHeFg0SzFsS1NYYkM0OXB4QkJORmhFVW5raXNqbG5EaGJYZXh1X2xXNnp3b0VBVWFpQ2hTUjIyaFBhVmtDbnF0c051Sm9NT3Q2N1RvTURiTU52Vi1lb1NsOThmazRhb0kzbU5oZnMtcGFaS0pOR3dDVENqNWx0cXJUdTRZUms5T1dnbGRMSzhqMlJwQmViM2dORTU0ZEFRMThTNGxSelE?oc=5",
    "date": "2026-11-10T18:16:36.000Z",
    "source": "The Economic Times",
    "origin": "Deal search: cancellations and delays",
@@ -2388,6 +2486,20 @@
    "score": 9
   },
   {
+   "title": "AusBioEnergy signs feedstock deal with LDC",
+   "lang": "en",
+   "summary": "In Australia, biomethanol project developer AusBioEnergy (ABE) has announced that it has signed a term sheet with Louis Dreyfus Company (LDC) for the long-term supply of agricultural residues to its planned renewable methanol facility at Moree in New South Wales (NSW).",
+   "link": "https://bioenergyinternational.com/ausbioenergy-signs-feedstock-deal-with-ldc/",
+   "date": "2026-11-10T00:07:18.000Z",
+   "source": "Bioenergy International",
+   "origin": "Bioenergy International",
+   "image": "https://bioenergyinternational.com/wp-content/uploads/sites/3/2026/11/abeldc.jpg",
+   "topic": "Offtake & Supply",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
    "title": "Sahamco's Ambitious Green Hydrogen Project in Dakhla",
    "lang": "en",
    "summary": "Sahamco Holding BV has unveiled significant advancements in its renewable hydrogen and ammonia project in Dakhla, Morocco, targeting a capacity of one million tonnes of ammonia per year. Supported by a framework from the Moroccan government, this initiative positions Morocco as a key player in the global green hydrogen",
@@ -2691,7 +2803,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0xrR3pDWWlEdzFpYkpXdjJvUFpzOWxOS3RrOC10ZERwdDNIbU1qNUlyaGlmVXBoSTVFUFRKN0xpSUpBN29uNzFVOG92QWpLX2J5dVNLaGMwbzNTYkpYYlJ5X0Fhbzl3MHJ0S25oSTdXV19OQ1laQ1dDazF5NFI2dXNlNzNocGpuZVEwTkFpREJYOVhNSEdhS1doM1BpY0tkMXk5dFRRQm5MbHdwSnN5V2o4ZThkOXZkUXhCd0FRTVYydTA3N2VlVlFSelNNZkg2bmdfSFNvWm9qSTFDNjQzeVRR?oc=5",
-   "date": "2026-11-09T12:49:55.000Z",
+   "date": "2026-11-09T12:50:22.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
    "image": "",
@@ -4919,6 +5031,20 @@
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Asia-Pacific",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Master’s Thesis: Experimental Investigation of Material Effects in PEM Water Electrolysis",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS3VQUVFINlVoUkRxMjlfRUNNSHdXU0ltbXloSm1wSzFTY2U2QTZTbFJCYnljZFdaemFOSDNzWTRlVDMxOEJLOFNld1R1RzZxRW96YTVVSHpZZEVvRWxmY0JwSFh2VWJkX1JDdTBYTFA3RUJlMUtWWTRKTzZ6bGVlbUVrS1pPdGxqUE03NGJGM2RQZ2ZGYkRSNzlhY2JYOThUZ2U1SmM3dk10VnE2S0pTQkpJNUFDWVN3NnI0U1FId1lneU1XRnhXNG1XSW5YdUl1UXpLUVE4am5qbWFUcElhOVRubGxOdw?oc=5",
+   "date": "2026-11-03T14:41:17.000Z",
+   "source": "Siemens Energy",
+   "origin": "Siemens Energy",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
    "market": "other",
    "score": 5
   },
@@ -8304,20 +8430,6 @@
    "score": 9
   },
   {
-   "title": "Hydrogen station builder Resato declared bankrupt",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGRzbTczRGZBaHBjM0djY19fUlFfZDFidkNzUGxodXhvSzVTM2tGendBUWJtdkV1b1RkNFdsVFRVc3lMaFJBR1NuUEJVX2hUT1ZGcXhGT2xmOTZxQnBETXM3TmtwWXJkc0F6THNtQnVVV3QzTjlaQV9nbnp0NEFWN0RIYTkyWE95YS1PLQ?oc=5",
-   "date": "2026-10-23T12:43:18.000Z",
-   "source": "Mobility Plaza",
-   "origin": "Deal search: cancellations and delays",
-   "image": "",
-   "topic": "Other Hydrogen News",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
    "title": "Zwei Jahre Wasserstoff-Kernnetz: Aus dem Plan entsteht ein Netz",
    "titleEn": "Two years of the hydrogen core network: The plan creates a network",
    "lang": "de",
@@ -10435,7 +10547,7 @@
   },
   {
    "name": "Hydrogen Central",
-   "shown": 47,
+   "shown": 52,
    "status": "ok",
    "error": ""
   },
@@ -10675,7 +10787,7 @@
   },
   {
    "name": "Bioenergy International",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -11071,7 +11183,7 @@
   },
   {
    "name": "Siemens Energy",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -11371,7 +11483,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 30,
+   "shown": 31,
    "status": "ok",
    "error": ""
   },
