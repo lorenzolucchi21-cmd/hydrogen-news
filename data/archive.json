@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T19:37:34.307Z",
+ "generatedAt": "2026-11-14T00:52:12.282Z",
  "articles": [
   {
    "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany",
@@ -68,6 +68,20 @@
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Africa",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Why Is GE Vernova (GEV) Balancing Hydrogen Turbine Progress With A Nuclear Delay?",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMTBKMFlOY0w4RHZ5MXlOQmtDRGJld2hmcjBtdW5YeUJOalQxalNWdVRDZTVJa0FwUlFYVnBoM3RUUHBGMFNIMGtKcEpvLXUyMXZjX3lMMTRpS2xka2pjZ1pFM0lOWk9zSVJCaVBibWhkak52WTZjbXRyaHhzTlM4cVpPYw?oc=5",
+   "date": "2026-11-13T14:11:04.000Z",
+   "source": "Yahoo! Finance Canada",
+   "origin": "Deal search: cancellations and delays",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
    "market": "other",
    "score": 5
   },
@@ -4107,7 +4121,7 @@
    "score": 3
   },
   {
-   "title": "Master’s Thesis: Experimental Investigation of Material Effects in PEM Water Electrolysis",
+   "title": "Master’s Thesis: Experimental Investigation of Material Effects in PEM Water Electrolysis - ドイツ - 306450",
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdS01dF9xOGFwWG9nM3JHaTJIS1Y5T0JvbVRjZTEzeGJXRHp0UW5ZbGxFQU9MWWJ6cG1FMVBVS3FlLWdWSHpZRUpuVEtybHNxaG5BZVVROEtrV0JvWTZNbU9YaW0xS24tNk02Z0xVVnJfcjdUdVdkYkNqMEFHWHFzQ0tYZkRQY0dEdGRnUC1SMlhzTnlwaGxDcHd2b0VacS15WWxQTzBOWUFLeTR4WU5EWHVBeTJiaXNsZEpnVjQ0a0JYRmY4YjhBWVBOdGlUNkI1N0dsZXc4MFhFaXlSOEx0elprb28tQQ?oc=5",
@@ -10148,403 +10162,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 7
-  },
-  {
-   "title": "Europe needs up to €60 billion to close its hydrogen gap by 2030",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1BTZ0VoMDVXNDA0Z2tlWXdETzlTdGZHendCbnhoVWVoZWhBQUc0WWpnMkZpc3RMZmE3b3R1R1p4c0tHaG10Zy1GanZONXgwWHI3VldsYzlraHJzYnV4cWh3RE5yNUI0b21CTnBwU1AyM2g3WXFzdFJNaFdFdk42djd3N3I2cEYtUm1LYjc4YmNGT0dUVWY4RGk3SW1SUFhzSGZnekpn?oc=5",
-   "date": "2026-10-15T22:48:41.000Z",
-   "source": "Review Energy",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 7
-  },
-  {
-   "title": "AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to 1.6 GW Mainspring Generator Deal",
-   "lang": "en",
-   "summary": "American Electric Power (AEP), which said in July that it had secured about 13 GW of gas turbines for deployment through 2031, this week announced plans for a $4 billion, 702-MW Bloom Energy fuel cell plant in Wyoming to supply Google and purchased 190 MW of Mainspring Energy linear generators under an agreement for up",
-   "link": "https://www.powermag.com/aep-plans-4-billion-fuel-cell-power-plant-for-google-signs-up-to-1-6-gw-mainspring-generator-deal/",
-   "date": "2026-10-15T21:35:31.000Z",
-   "source": "POWER Magazine",
-   "origin": "POWER Magazine",
-   "image": "https://www.powermag.com/wp-content/uploads/2025/01/fig2-bloom-energy-sofc-fuel-cells.png",
-   "topic": "Production & Technology",
-   "region": "North America",
-   "market": "other",
-   "score": 13
-  },
-  {
-   "title": "La capacità di elettrolisi europea dovrebbe superare i 2 GW entro fine 2027: tutti i numeri del Clean Hydrogen Monitor 2026 di Hydrogen Europe",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYlFoeUs5QWx6LWxqWjBHbzFsamc4c1pzQnRJSndXcExNTV9lc1dkNDROQURHRGdtcFdRQXVKUENZcEpJZUtPWTcydk84VHk3Vm5FTndwTVA0bDRLZ2czU0JSWU9VNlNzcEEwamVEZG44RWhMcWpscmd0NjJFRXg4WXVkOXM3dmVXRl96TTlpN09DOHRoZ0c3Q01fRnF6dTBfdG9yOUxXTlR5NFZBN2dGNEduSWNFSVB3TTZxdE1UUDlaVktFY3ZoeUt6M0NmN1paUmkyYTB0ei12b0hseHJNTEplQlpHQ0VQX1hmejJVTzg2aE84SlZQWGVWUHZ0ampP0gGHAkFVX3lxTE1icUlxdmhfTzY2U05YendnbVNaQnZ0ZXJYb0FLZUNNa3lzMTl3aURKbFlZVkVsZVYtaWt1b09YOWhEeHZvY3hGSTBWcXdoVld5TGVQck5Sd2NxeGtkNi11QjM2a05xSjJ6aFdvT05LQXppR0tlNHBaU0FpZF9tZ1FxR1Bxdk43UV9Lbk1JZS04dlZncjVNeDBZVDJCRDRmM2xqTTRxd0JqemtNd0xIekFlVjV5U3p2Yk1PZkRoTkkxV1VZdlBFZy1CR1B5eTlwOVc2a0Jwc3R1aVhlSndjTWt3NU9SNDZmQWpHZ3JQZ0s0YTJNS01vTkpmb2Z3Zl9FWlYtSm14cUZB?oc=5",
-   "date": "2026-10-15T21:03:26.000Z",
-   "source": "HydroNews",
-   "origin": "Deal search: policy and auctions",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 7
-  },
-  {
-   "title": "Perpetual Next and Air Liquide join forces to accelerate biomethanol plant technology",
-   "lang": "en",
-   "summary": "Perpetual Next N.V. (Amsterdam) has signed a License and Engineering Agreement with Air Liquide Engineering and Technologies (Paris) for the supply of syngas-to-methanol technology for Perpetual Next’s first biomethanol facility, with an option to extend across other biomethanol sites. The agreement marks an important ",
-   "link": "https://www.chemengonline.com/perpetual-next-and-air-liquide-join-forces-to-accelerate-biomethanol-plant-technology/",
-   "date": "2026-10-15T18:40:27.000Z",
-   "source": "Chemical Engineering",
-   "origin": "Chemical Engineering",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "core",
-   "score": 5
-  },
-  {
-   "title": "Everllence to supply compressor train for green ammonia project in India",
-   "lang": "en",
-   "summary": "Everllence SE (Augsburg, Germany) has received an order to supply a PARSYN® synthesis gas compressor train to AM Green Ammonia India Pvt. Ltd. (Hyderabad, India) for its green ammonia project in Kakinada, Andhra Pradesh, India. The order marks the first commercial application of PARSYN®, a compressor train concept deve",
-   "link": "https://www.chemengonline.com/everllence-to-supply-compressor-train-for-green-ammonia-project-in-india/",
-   "date": "2026-10-15T18:28:44.000Z",
-   "source": "Chemical Engineering",
-   "origin": "Chemical Engineering",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "core",
-   "score": 5
-  },
-  {
-   "title": "Bosch secures 45MW PEM electrolyzer stack order from FEST for European hydrogen projects",
-   "lang": "en",
-   "summary": "In the UK, Fuel Cells Works reported that Germany’s Bosch has secured an order for 36 Hybrion proton exchange membrane (PEM) electrolysis stacks from FEST GmbH, with a combined electrical capacity of 45MW. Each stack has a rated electrical input of 1.25MW. FEST will integrate the equipment into electrolysis systems for",
-   "link": "https://biofuelsdigest.com/bosch-secures-45mw-pem-electrolyzer-stack-order-from-fest-for-european-hydrogen-projects/",
-   "date": "2026-10-15T14:45:07.000Z",
-   "source": "Biofuels Digest",
-   "origin": "Biofuels Digest",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 6
-  },
-  {
-   "title": "Cosmo Energy Group and Iwatani to advance hydrogen business at Chiba refinery",
-   "lang": "en",
-   "summary": "In the UK, Digital Refining reported that Cosmo Energy Holdings and Iwatani Corporation announced that they have made the final investment decision to jointly advance their hydrogen business centered on the restoration of an existing hydrogen production unit and the construction of a new liquefied hydrogen plant at Cos",
-   "link": "https://biofuelsdigest.com/cosmo-energy-group-and-iwatani-to-advance-hydrogen-business-at-chiba-refinery/",
-   "date": "2026-10-15T14:39:35.000Z",
-   "source": "Biofuels Digest",
-   "origin": "Biofuels Digest",
-   "image": "",
-   "topic": "Steel & Industry",
-   "region": "UK & Ireland",
-   "market": "core",
-   "score": 13
-  },
-  {
-   "title": "Hydropulse signs heads of terms for 150 MW green hydrogen project",
-   "lang": "en",
-   "summary": "In the UK, ITM Power announced that its Build, Own, Operate (BOO) subsidiary, Hydropulse, has signed Heads of Terms with a European oil refinery for a large-scale green hydrogen project. The project in development comprises 150 MW of ITM Power’s Alpha electrolyzer platform to produce green hydrogen on site under a 10-y",
-   "link": "https://biofuelsdigest.com/hydropulse-signs-heads-of-terms-for-150-mw-green-hydrogen-project/",
-   "date": "2026-10-15T14:36:06.000Z",
-   "source": "Biofuels Digest",
-   "origin": "Biofuels Digest",
-   "image": "",
-   "topic": "Steel & Industry",
-   "region": "UK & Ireland",
-   "market": "core",
-   "score": 16
-  },
-  {
-   "title": "Metacon unit wins EU grant for biogas hydrogen project",
-   "lang": "en",
-   "summary": "In Bulgaria, Renewables Now reported that Metacon AB’s Greek subsidiary, Metacon SA, has secured $210,138 in European Union funding for its role in a 36-month project to produce high-purity hydrogen from biogas. The project involves developing an integrated system that lets biogas producers add hydrogen production to e",
-   "link": "https://biofuelsdigest.com/metacon-unit-wins-eu-grant-for-biogas-hydrogen-project/",
-   "date": "2026-10-15T14:31:17.000Z",
-   "source": "Biofuels Digest",
-   "origin": "Biofuels Digest",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 10
-  },
-  {
-   "title": "Japanese energy giant invests in Bill Gates-backed natural hydrogen explorer Koloma",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVFvWVhKcWkwY0JETkFqaTM3Y2pyMHg5ZDBQdmU3Z3BMSFlRTHJzeFZlU0pZSXRhSzl0OGJxUFhXdEVxeV9JVWJkS1hCY1VjNXhLOVVoV1BRSm5ZU0xrQWVUb0Q3cGZVVlBKQXdmV0c4VUpGUnNSNVlpUUN3VTR3ZWhyOXRoNUlpQVZ1WC1LbUVFbWthWV9iVm9ZMUtpSC1VRnRlUDVGSVc4cTdqM0NydHdEdklHdzM3QUp2M25XT2ZhZTI4NzUycnZqakF4eVN0RGFRdQ?oc=5",
-   "date": "2026-10-15T14:09:39.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Baubeginn der Wasserstoff-Pipeline: BMW Group bindet das Werk Leipzig an Wasserstoff-Kernnetz an",
-   "titleEn": "Start of construction of the hydrogen pipeline: BMW Group connects the Leipzig plant to the hydrogen core network",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3MxLVV0VjBOYlc0dzdTc29zX25XWEVXZm02cExLMFI3elVGTElSd1Y0cjFGU2UyTXdjR29BUm5tcHBlMGJuZ1dxbGhQbW1WWTRKOUNvdTNucWlqNHlZbzJySzZSMlZkVkRmSEE1VkdMTkRTQ0h1YkYyV1pFQ0JoVmxUZ0NBT29hS1V2dWJPNDJrSnNnR3hCTEJWOW9vZGxNOHM5d2FsNHVyYmtxYV8yTzBmLXUwMXgxNUlCYzVvZTBjN0NCQVNmQUZxWWRjUkFzeDJfYmtRYnY?oc=5",
-   "date": "2026-10-15T13:09:05.000Z",
-   "source": "LEIPZIGINFO.DE",
-   "origin": "Deal search: project milestones (DE)",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 8
-  },
-  {
-   "title": "Zusätzliche Elektrolysekapazitäten unserer Nachbarländer beeinflussen den deutschen Strommarkt",
-   "titleEn": "Additional electrolysis capacities of our neighbouring countries influence the German electricity market",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDZmY1o4cm9KYUxqSTF1S3c0aTZJVzZleXRoX2dMM3RpMHpiMWVNakVHWlJSSWJjdUNHaWtZYVhGNVo2bE03UnAzbkpUVWwzZFFNTno4RkhJcDE3ci1pZDcwY1Z5ajNWM0NJZWZkTUFQNm1jUFBVLXhkdy1GbzdZS1pMWnVTQndoNVZ5engyRnR4dVQtZmNrYW5WT3dDSGF3OXM4eVFTTm82QnpoOEtiSXZmUlIzbjNlNjJZLUo4NkFhWUpkRGhsaUQ0ek9SQVJrX3hkcmg0MnJzemstbjRURQ?oc=5",
-   "date": "2026-10-15T12:42:00.000Z",
-   "source": "pv magazine Germany",
-   "origin": "pv magazine Germany",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "‘Australia must look beyond China for green hydrogen-based iron exports’: IEEFA",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjcwQzRCc1F1Z21uQVN2eXNPNXpHU0VrSWVPUVFJNHh4Y0VSbGZFT2g1Vm5jQVhlSGJHU3FJaUxDVUhsTk9pel9VUkdSeWFrT3U5dnpHbU9qQWI0RTlnc2JlUzB0OHZqMldLT0NvMzgtSkQ1S2RuZi00UG5fU2M3RVhRV0JfbzcyV08zZ2swRElidmVXb1ZOM2xJTG1MMkZhbzZXbF9jWFlPWGp6eUI1VTRBcFpteHhkQVBFMUdYRkV0NWpmWWpkbkprQzc?oc=5",
-   "date": "2026-10-15T12:19:08.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Steel & Industry",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "DLA Piper hat EWE Hydrogen beim Abschluss eines Wasserstoffliefervertrages mit einem Industrieunternehmen in Hamburg beraten",
-   "titleEn": "DLA Piper advised ewe Hydrogen on the conclusion of a hydrogen supply contract with an industrial company in Hamburg",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdmw5LWs0c1AwQWxaWUhFV2Rtc1ROUnl3MVljSjRHTTR5N1BqY3hFWkNsb0hVMmxRU0pEMzRiWWQ5a29Vd05kcks2Z0J0Rzd2bk1vZ0tzdTVjYmhDV21JaDl6V0lDa1JsQ2UxTVFxRkxnQWxfbjlqZ2c0NS1WejY0Y2dnRzY5QjJtUWRCMmZHdDd4QldZYVczVHVjNExkeDdQRGxPZlpRaXYtcjlsc09NTkw2Q2J3Nzd0UDUtU1pCYzFRN043Sl9EU0p6MnIzM2hPLTdWai12YWI0NFhOZFdHQURuRWt2SGEtOHdzTkJfYlJCb1M4bnZ5ZGlXbXVTV0JwQlktUw?oc=5",
-   "date": "2026-10-15T09:57:00.000Z",
-   "source": "pv magazine Germany",
-   "origin": "pv magazine Germany",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Germany",
-   "market": "core",
-   "score": 6
-  },
-  {
-   "title": "INTERVIEW | ‘Our talks with green hydrogen offtakers are now less about price, and more about whether we can deliver on time’",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTGNBQU1BR0lKRFZ3TGFzQ0lqcjJRVDRETGhfNDF4RWc1UGFmeGk1cC1lc2k5WnBqRkl1VGhMNjBJSkxCSk5xVzJRNTFvVThFcEtCQWtVVlg3bjRlZXhHcTFFTFM3N3Y4NnM0ZkkzcDRmQlVNWDIyN1RtVElJN2RhYy1IZkMtaWZGTFY2SVAxNHM1WVlYUjNWSkE3b3UtaHVhcG5sQWJRRXYxTjlmVGhiQTNweGtyYURfYmlYNnJnaEdIOURyUzdzeGZQS1pyVWdoS2hWa3NpMVRmM2loQ1NWVUNpaXI1b0s4eWZxZWtxSU56MXhkVU1oS3BNWDVMZjM3bGxfUjNUdw?oc=5",
-   "date": "2026-10-15T08:53:12.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "China completes world’s first commercial green ammonia ship-to-ship bunkering",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTB4VGxRd3k0ZTNiVl92emtwUjBaYUNSVUlPTUxQNEQyZkNDWGs5Tm1qbkJnUmw4UFVaVTkyZVBCRUFQUldWaDVXRnRRQ21ndW9DbDg3NmxEbm0tRk5hWF9DYVFORU5RUVo1d2lMUTNNNHlrWVBrSjM1UGVRRGR1OXk2SmtCSVdVTEt2ZmdoT1VJajNLOHdmdTVhTVVHQTJF?oc=5",
-   "date": "2026-10-15T08:09:51.000Z",
-   "source": "Splash247 (shipping)",
-   "origin": "Splash247 (shipping)",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Alquion secures a contract to build a 500 kW flexible electrolyser for Nyrstar",
-   "lang": "en",
-   "summary": "Alquion has taken the final investment decision for a 500 kW demonstration electrolyser at the site of the Nyrstar zinc smelter in Budel (NL). The Flexolyser is set to demonstrate, as a flexible electrolyser, that it can be switched on and off more than twenty times a day without suffering any degradation. This has bee",
-   "link": "https://www.industrylinqs.com/hydrogen/2026/10/alquion-secures-a-contract-to-build-a-500-kw-flexible-electrolyser-for-nyrstar/",
-   "date": "2026-10-15T07:42:33.000Z",
-   "source": "Industrylinqs",
-   "origin": "Industrylinqs",
-   "image": "https://www.industrylinqs.com/wp-content/uploads/2026/10/FlexolyserAlquion-scaled-840x840.jpg",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 14
-  },
-  {
-   "title": "Perpetual Next and Lhyfe join forces on plans for biomethanol and hydrogen in Delfzijl",
-   "lang": "en",
-   "summary": "Perpetual Next and Lhyfe Delfzijl have taken the first step towards an agreement to supply up to 12,000 tonnes of renewable hydrogen per year to Perpetual Next’s planned biomethanol plant in Delfzijl. With the planned plant in Delfzijl, DeltaNor, Perpetual Next aims to convert biogenic waste streams into biomethanol on",
-   "link": "https://www.industrylinqs.com/hydrogen/2026/10/perpetual-next-and-lhyfe-join-forces-on-plans-for-biomethanol-and-hydrogen-in-delfzijl/",
-   "date": "2026-10-15T07:39:15.000Z",
-   "source": "Industrylinqs",
-   "origin": "Industrylinqs",
-   "image": "https://www.industrylinqs.com/wp-content/uploads/2026/10/Lhyfe-scaled-840x840.jpg",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "Europe’s green H2 capacity rises 19% to 677 MW",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3VRbHF5X09sMEdXWjZ0eERIRUNZOTdtLWtadHBBUV81alhEejh3ZURoa3VLWHNYUUlfVVE4aTM0ckV6Y1RVazJlcndrczhlNVdvOTRXejR6SW9veFNZbUgyU0VjM2lVQ0pBVDdDTnZBNDZkSk5HMDBQMDB6MjlaTm83dU5mNHpxamJwb1FtblhmRDBOVDJtNnJyb282VnRDdENyTHZzRHNqNHFM?oc=5",
-   "date": "2026-10-15T07:29:51.000Z",
-   "source": "Montel News",
-   "origin": "Montel News",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 8
-  },
-  {
-   "title": "AEP to invest USD 4bn in fuel cell power project to supply Google",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVRsSGVVMnFoMDZjR1BoejczMUpkS3ZvSDV1TUswemhKb2NUVkJFYkxkQUlZdkVSNWZ2NG4yMk94UkRPWDN4aHFPb2N4T0FpcWNMZlVVVjZkeUFZRS1EZlZDZVoxZGxsSi1YaWExQi0xVnNIa25zNmNjWVNxaGlpWkNtdUVZZzFYZjl3Ni10NGxSXzBKaU81ZUMyZ3R2a0x2Q0JoMlJsTF8?oc=5",
-   "date": "2026-10-15T07:21:38.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 10
-  },
-  {
-   "title": "GeoPura secures offtake from Bradford’s 35 MW green hydrogen electrolyser",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkxuaXhvVFpNalp4RG1oejV3OTU4WGQ0SVpyQlRrMy1JN3Qyb2JQUjcyM1QwRHp4allTX2RmQkswSVRfai1fb0hCVkl3cFVLUkM3ZE4tRzJyUjREWHoySlVuLTlvVDJKUFEyWV94SjRHR2NybmtXbnNZUzF1WjBxYXdKTVZJV0NPTkZvRmFpQk45TS0wNjNLbTdpaE5TYThPQkF6WDJYRERodXp3QnEta05ZM25EZw?oc=5",
-   "date": "2026-10-15T07:00:00.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Global",
-   "market": "other",
-   "score": 11
-  },
-  {
-   "title": "Nel reports near-$15m loss amid revenue collapse in alkaline electrolyser business",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWmZTZERlOGlNNGpXNE9SZ0ZQZEtweEJqYXlxQ25fcGNpQk1GdzhGRVVRTTZ2eVVMaUhtRlhwUVdhdW9PakR0NnJNMWpKQmFuakdLTC1BOXZMNVZuV0x0RGZkMzBJZUVpZzNfR3pnVFp2U2h0a25JWU5hZTh6ZDlWbGdWaFkzTkNvclFDNTFyT196SzA2MlhTa29DU25mcS1vOHAxRldDemNLaVBkM0FsNURCSU5nMmZFTm9CbUF3YWpqQm93VkVhbVJpSUNiMWg2QWtaVV93?oc=5",
-   "date": "2026-10-15T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "Plug Power reports Q3 net cash usage of approximately $28M By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekNPSC12bF9GX3dROXlWWEVJakYyWVd4Rmd0SUROM2h1eGU3QlJUVWlyMDljNU5YMjBnbXdSNzM4UkxLNl9XUXFFUFFiRUdpRTdXVjhselRzV21WQ2F4MGVrUDc4Z3VzYU16czBlNUd4OGQ0NHpMUXF5d2FERGZtZ2xEdzZoZHJFOWt1V2RSN1ZpcFlSdjM2bm42endrdFo1bGc4RlI5S2w4MEFTUDYzZXBWZDA0dEVxSkE?oc=5",
-   "date": "2026-10-15T07:00:00.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "What explains the cost advantage of Chinese electrolysers?",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3JiY3kxNHg3ZHNmZ3dWNjAyY3g2SEFhQWYwRFZCTXhkUk1YeXoxdkpYQUlqZGFHU0hHY2laWEdrWlhJTENJZTBEUEZCb3ZhVkVqalRybjNvNXhlSm5CTk9mdFVHcHROR1dLWGs0TTVpOFZvQzJscGtJSkhwLW51alZGRzZrYlhGaFdTRFVsZlZFNWkz?oc=5",
-   "date": "2026-10-15T07:00:00.000Z",
-   "source": "IEA",
-   "origin": "IEA",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Gebotszonenteilung: Nördliche Stromgebotszone würde Preisanstieg durch zusätzliche Elektrolyse abfedern",
-   "titleEn": "Bidding zone division: Northern electricity bidding zone would cushion price increase by additional electrolysis",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3d5X3htNEV2cWQwRXVkZy14S1RaRXJaNFlaeTVCN1BCSVFHR0V4cC1CZXBCdEd4Q3NWRjdTSm1yTDZZRHJnLXdrT2h5cWlfdlkwOVVBVThGVWRBcF80aHMyRFpCR2lvbUw1MmtvakwzenFLcVNMLUQxdGpaaE5WTVB3bE8xeml6Y2Nfb2Voc3RPRE96cDEyNGlIRHdHcUxHdlJWMkozcVdlT0YxSXZwNGtoM0VYUEd4Y3ZGTy1DWXRPOU5vRUpEbkRkZEVRZTJ2bGVMcjU4SnBwMHRHSlRGbEFB?oc=5",
-   "date": "2026-10-15T07:00:00.000Z",
-   "source": "Tagesspiegel",
-   "origin": "Tagesspiegel",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Wasserelektrolyse - 1 News von TU Wien",
-   "titleEn": "Water electrolysis - 1 news from TU Wien",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zM3Q4elZMd1BKelEzWXMzaHhrbkVVZjFsdTMxWjg0cnAySnZveWxKLUk5dmo5Z1RuU3NYMWJqOW9xbHRtMW1Nc0xuV1lkanpRQnlXaHRDdzRlNDVJZlVkR18wcUhhbkR2YUhmWkZ0dw?oc=5",
-   "date": "2026-10-15T04:19:52.000Z",
-   "source": "Chemie.de",
-   "origin": "Chemie.de",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "‘Skyrocketing grid fees could weaken investor confidence in green H₂’: Hydrogen Europe",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWlBaeWsyV1pScGkzZk5FdTNOWmZ5VzFYdElEQW02Rk8tMkltRktrOXdzS2x6S3ZJUXEydEwyc0xMOXFjT0dSUkZyQnFyNEZWUGYxSE5KX1N6cEZ5eWR4WFI0ajA0QjY1YVFnLVZPZElHcmUzWEpiREtCNDlEVFVXci1sRk9WeGhWX1l1X1NMc2FQQ2lOTDZPUmppUy1GYzBTYldSZDdUcFdlaW1IOG5RU1hlc0lJemZvZWJxZzNHMWlXUTAteko2Ym5ubUpVQQ?oc=5",
-   "date": "2026-10-15T04:18:05.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 4
-  },
-  {
-   "title": "Linde's 24 MW Green Hydrogen Production at Leuna Faces Multi-Year Delay",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQS1Vd2hqVFMwUVZINHNxNGl6NklkZkpySXpLNzRnSzZoVUNGRlJGa0dyM0M5SS16Y0phOWp4ZkZiQXJKRGpxMDZWZ0tkZlByT2RDaTNlbFcyc0NhemcybFp0NTgwTGpQWE03cFpPSEU3U21seGlCWTBrZlg2OWRadW10VjVESlUxWV9ua2h2Wk40dEQ0LXZGM0xqcEFJZXRCaEo5LTZpY0VabFk5NmFtajZZdw?oc=5",
-   "date": "2026-10-15T02:29:14.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Deal search: cancellations and delays",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "core",
-   "score": 9
   }
  ],
  "sources": [
@@ -10562,7 +10179,7 @@
   },
   {
    "name": "Industrylinqs",
-   "shown": 3,
+   "shown": 1,
    "status": "unreachable",
    "error": "HTTP 403"
   },
@@ -10670,7 +10287,7 @@
   },
   {
    "name": "POWER Magazine",
-   "shown": 1,
+   "shown": 0,
    "status": "ok",
    "error": ""
   },
@@ -10706,7 +10323,7 @@
   },
   {
    "name": "pv magazine Germany",
-   "shown": 6,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -10767,8 +10384,8 @@
   {
    "name": "Energy Live News",
    "shown": 2,
-   "status": "unreachable",
-   "error": "HTTP 504"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Interesting Engineering",
@@ -10808,7 +10425,7 @@
   },
   {
    "name": "Chemical Engineering",
-   "shown": 13,
+   "shown": 11,
    "status": "ok",
    "error": ""
   },
@@ -10850,7 +10467,7 @@
   },
   {
    "name": "Biofuels Digest",
-   "shown": 4,
+   "shown": 0,
    "status": "unreachable",
    "error": "HTTP 403"
   },
@@ -10982,7 +10599,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 74,
+   "shown": 69,
    "status": "ok",
    "error": ""
   },
@@ -11018,13 +10635,13 @@
   },
   {
    "name": "Montel News",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Renewables Now",
-   "shown": 30,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
@@ -11090,7 +10707,7 @@
   },
   {
    "name": "IEA",
-   "shown": 1,
+   "shown": 0,
    "status": "ok",
    "error": ""
   },
@@ -11246,7 +10863,7 @@
   },
   {
    "name": "Tagesspiegel",
-   "shown": 6,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -11282,7 +10899,7 @@
   },
   {
    "name": "Chemie.de",
-   "shown": 4,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
@@ -11384,7 +11001,7 @@
   },
   {
    "name": "Investing.com",
-   "shown": 26,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
@@ -11444,7 +11061,7 @@
   },
   {
    "name": "Splash247 (shipping)",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -11480,7 +11097,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 22,
+   "shown": 20,
    "status": "ok",
    "error": ""
   },
@@ -11516,7 +11133,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 31,
+   "shown": 30,
    "status": "ok",
    "error": ""
   },
@@ -11552,7 +11169,7 @@
   },
   {
    "name": "Deal search: project milestones (DE)",
-   "shown": 3,
+   "shown": 2,
    "status": "ok",
    "error": ""
   }
