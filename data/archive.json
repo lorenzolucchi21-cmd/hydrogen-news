@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T23:53:23.637Z",
+ "generatedAt": "2026-11-15T06:21:58.058Z",
  "articles": [
   {
    "title": "Oman targets data centres in new green hydrogen auction",
@@ -1412,6 +1412,20 @@
    "score": 7
   },
   {
+   "title": "RWE and Kawasaki commission a 34 MW hydrogen turbine in Lingen",
+   "lang": "en",
+   "summary": "RWE and Kawasaki Heavy Industries (KHI) have commissioned a 34 MW gas turbine at the Emsland gas-fired power station in Lingen, Germany, which is capable of running on 100 per cent hydrogen. Over the coming months, the partners will be testing how the turbine performs under the operating conditions and loads typical of",
+   "link": "https://www.industrylinqs.com/hydrogen/2026/11/rwe-and-kawasaki-commission-a-34-mw-hydrogen-turbine-in-lingen/",
+   "date": "2026-11-12T07:59:33.000Z",
+   "source": "Industrylinqs",
+   "origin": "Industrylinqs",
+   "image": "https://www.industrylinqs.com/wp-content/uploads/2026/11/2026-11-06-Group-picture-infront-of-H2GT-Lingen-1-e1793976396562-840x840.jpg",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
+  {
    "title": "SkyNRG and Skelleftea Kraft Advance 130,000 Tonnes-Per-Annum eSAF Project SkyKraft into FEED",
    "lang": "en",
    "summary": "",
@@ -1935,6 +1949,20 @@
    "region": "Benelux",
    "market": "core",
    "score": 5
+  },
+  {
+   "title": "Four out of seven Dutch IPCEI hydrogen projects have been halted; funding has been withdrawn",
+   "lang": "en",
+   "summary": "Four of the seven hydrogen projects that were awarded Dutch IPCEI funding in 2022 have been halted, together accounting for 550 MW of electrolysis capacity. Of the 783.5 million euros that the government allocated across the seven projects, only 1.9 million euros was ultimately allocated to those four projects. This wa",
+   "link": "https://www.industrylinqs.com/hydrogen/2026/11/four-out-of-seven-ipcei-hydrogen-projects-have-been-halted-funding-has-been-withdrawn/",
+   "date": "2026-11-11T08:23:41.000Z",
+   "source": "Industrylinqs",
+   "origin": "Industrylinqs",
+   "image": "https://www.industrylinqs.com/wp-content/uploads/2026/04/shutterstock_2681962469-scaled-e1775721612861-840x840.jpg",
+   "topic": "Policy & Auctions",
+   "region": "Benelux",
+   "market": "core",
+   "score": 20
   },
   {
    "title": "Tecnicas Reunidas secures FEED contract for 66,000-tonne e-SAF plant in Sweden",
@@ -7318,6 +7346,20 @@
    "score": 5
   },
   {
+   "title": "Finnish research: large-scale hydrogen storage is also possible in solid rock",
+   "lang": "en",
+   "summary": "Underground hydrogen storage facilities can also be constructed in crystalline rock. This is the conclusion reached by the Finnish research institute VTT and the Geological Survey of Finland (GTK). They investigated the possibilities in collaboration with eighteen partners from the Finnish hydrogen economy. Finland doe",
+   "link": "https://www.industrylinqs.com/hydrogen/2026/10/finnish-research-large-scale-hydrogen-storage-is-also-possible-in-solid-rock/",
+   "date": "2026-10-28T08:59:05.000Z",
+   "source": "Industrylinqs",
+   "origin": "Industrylinqs",
+   "image": "https://www.industrylinqs.com/wp-content/uploads/2026/10/Photo_Matti-Immonen_Geological-Survey-of-Finland-GTK_2.jpg-scaled-e1792395458958-840x840.jpg",
+   "topic": "Infrastructure & Storage",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 5
+  },
+  {
    "title": "‘Largest hydrogen consumers in EU’ call on European Commission to overhaul RFNBO targets for industry",
    "lang": "en",
    "summary": "",
@@ -7808,6 +7850,20 @@
    "region": "Global",
    "market": "other",
    "score": 13
+  },
+  {
+   "title": "Spanish company H2SITE plans to build an ammonia cracker in the Port of Rotterdam",
+   "lang": "en",
+   "summary": "The Spanish technology company H2SITE wants to build an ammonia cracker in the Port of Rotterdam with a capacity of 20 tonnes of hydrogen per day. The project, known as Phantom, has been selected for EU funding from the Innovation Fund. According to the project description, the plant is set to become the first commerci",
+   "link": "https://www.industrylinqs.com/hydrogen/2026/10/spanish-company-h2site-plans-to-build-an-ammonia-cracker-in-the-port-of-rotterdam/",
+   "date": "2026-10-27T08:47:51.000Z",
+   "source": "Industrylinqs",
+   "origin": "Industrylinqs",
+   "image": "https://www.industrylinqs.com/wp-content/uploads/2025/02/shutterstock_2392364643-scaled-840x840.jpg",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Other Europe",
+   "market": "core",
+   "score": 12
   },
   {
    "title": "AM Green, JERA ink long term supply agreement for Green Ammonia",
@@ -10315,217 +10371,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 7
-  },
-  {
-   "title": "EDF offloads Hynamics and associated hydrogen projects",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek14V2tjSTBzTVZvOU01ZTFhSmFrYm95aU5NbW1HdDVPbG5TTnZJVGxTTWdMWTluSS1UalQ1OTFqYTlyckVHNC1ldURKVHNHdnZQV2pqQVZQNnBsdVpSRDlab0N6N2tFNV84SkJ6QXhDMjFxazRqSk56YU5qM3M3Tk05YmhROFRsV2F3aGpfVTZscmxiOHB2cTVndw?oc=5",
-   "date": "2026-10-16T20:57:05.000Z",
-   "source": "Energy Voice",
-   "origin": "Energy Voice",
-   "image": "",
-   "topic": "Other Hydrogen News",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "ITM Power corrects AGM notice for equity securities amount By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNm8zaVlla0tNRkt5clRtZVJiMXBDdzk4dm4wNXZVamlyRTczTmVYWUc5dDRhRER4WElqc244NG5sck5wOXN5UlpUbElsZnhFV3JGb19sQ2ZXbFU2UGlPN2Mzdlk3NWdvYV9Jbk9oQWQwMXlBOG1MNzBfYlRKZlRFT0lBVUtWQlNLS25HUDk5ckl6WnBtSjVTUjF2NVBCSE9rYTMzelRNTnpmcmpKeDViVUlzWHZxb3BtN2NN?oc=5",
-   "date": "2026-10-16T15:14:00.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Azolla Hydrogen expands fueling network via $2.1M grant",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlAzb1BQODV6OW5KeTZ1REdRc1p1R3pJeHpIU1hGUlRZTzJuRFJnVzVQRlpxQmhtLTlNM3pmd2NJTDh3T21NY3U0WmI2TFN2XzJpUFhPcmZKTU1nQzZqeENBUTB2YUhUdTFzT0VhcWdSQzFhbF9MMU52SmRwLXlrS2c3QU5BQk9kRUstY0thOWFLMjg?oc=5",
-   "date": "2026-10-16T14:18:31.000Z",
-   "source": "Mobility Plaza",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Global",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "Kakinada Green Ammonia Plant Secures $100 Million ADB-Backed Loan",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1Z6ZWdOQlBLS1p0R0ZlalZZYzVxc0VuV2U2ZFBRcm8xWnNyRjdfLUhvZUdGRm9Cbld5RmJjdjJIeXJGdmNzSU1hLUtVckdxaXlqM2h1eElLLXVhZUpEanlYTG05ZE55OUU1QkdOa1BjUjltV1lXNm5paFNvd0VNYkZTNWxWQkRVUndfVzlQNTE?oc=5",
-   "date": "2026-10-16T14:05:04.000Z",
-   "source": "Urban Acres",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "ADB and Japan Back AM Green’s 1.1-Million-Tonne Green Ammonia Plant with $100M Loan",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/16/energy-innovation/adb-and-japan-back-am-green-s-1-1-million-tonne-green-ammonia-plant-with-100m-loan",
-   "date": "2026-10-16T12:32:07.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "Siemens to digitalise 100MW hydrogen plant in Portugal",
-   "lang": "en",
-   "summary": "The project is expected to produce up to 15,000 tonnes of gas annually The post Siemens to digitalise 100MW hydrogen plant in Portugal appeared first on Energy Live News .",
-   "link": "https://www.energylivenews.com/2026/10/16/siemens-to-digitalise-100mw-hydrogen-plant-in-portugal/",
-   "date": "2026-10-16T12:00:00.000Z",
-   "source": "Energy Live News",
-   "origin": "Energy Live News",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 8
-  },
-  {
-   "title": "ReFuelEU sustainable aviation fuel mandate here to stay: European Commission",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjBCUHpjbnR4b0VMTXFDQ09EWHctTml5aG9vOVpkcXJGcUtsRkpyeFNHZ0JReDEwV1FadEgyelVUY1cyamZzQ0Rqbm96aW56bjdVZ0pMejBsRkFLYzdQVWV4WXhlU0VJVENFRjFnUHQwcnA3RGJCSmdKbWZKN2xkQWVXeE5wWG9rblBPZUFGX0RkdDhURjhSV2EtZ3JUZGZMcWI1UDNvMjY1Z0RiaGlsQmozLS0xQTJLS2UyM1dpSQ?oc=5",
-   "date": "2026-10-16T11:51:12.000Z",
-   "source": "Flight Global",
-   "origin": "Flight Global",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 6
-  },
-  {
-   "title": "CMB.Tech to begin building green-ammonia terminal next year",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWF1YUQ1QWZnQ0RLMVhxc0dHNVBBWFg0TXZLYkM4TUlBUjk5WHN4ZHFtN3pVRmJRTTNyUVJubWJ3ajJfWFphWWFhZkllUnI3b0tWT3ZKRTBpU3lUOHR6Rl9BZVJVb3BHRVZiOE9mWXlSdFBKTEtxYm16ZXJTWG1IZDI3R25LR0JybVFiUmdheHZrbkRrQlJhXzMtV2lKX1M0MGlzUF9jeVhkTUY3b0FCS2Q4UmhEUVNX?oc=5",
-   "date": "2026-10-16T11:05:28.000Z",
-   "source": "TradeWinds",
-   "origin": "TradeWinds",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
-   "lang": "en",
-   "summary": "...factory currently produces 140 MW annually, with capacity expandable to 1 GW+ through incremental investment,” said the Estonia-based company. ITM Power announced that its build-own-operate (BOO) subsidiary, Hydropulse, has signed... The post The Hydrogen Stream: P2X starts selling renewable methane to European mark",
-   "link": "https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/",
-   "date": "2026-10-16T10:09:57.000Z",
-   "source": "pv magazine",
-   "origin": "pv magazine",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 15
-  },
-  {
-   "title": "Power2X and Advario have been granted permit for an e-SAF factory in Rotterdam; construction will take three to four years",
-   "lang": "en",
-   "summary": "Power2X and Advario have been granted the final environmental permit for E-Fuels Rotterdam, their planned hub in the Botlek for the production and logistics of sustainable fuels. Construction of the plant, terminal, pipelines and waterfront is expected to take three to four years. The e-SAF capacity amounts to approxim",
-   "link": "https://www.industrylinqs.com/fuel/2026/10/power2x-and-advario-have-been-granted-a-nature-conservation-permit-for-an-e-saf-hub-construction-will-take-three-to-four-years/",
-   "date": "2026-10-16T08:16:58.000Z",
-   "source": "Industrylinqs",
-   "origin": "Industrylinqs",
-   "image": "https://www.industrylinqs.com/wp-content/uploads/2024/10/Power2X-and-Advario-to-develop-world-scale-e-SAF-hub-in-the-Port-of-Rotterdam-980x660-1-840x660.jpg",
-   "topic": "Aviation & e-SAF",
-   "region": "Benelux",
-   "market": "core",
-   "score": 7
-  },
-  {
-   "title": "Top Green Hydrogen Companies in 2026: Biggest Investments, Projects, Production Capacity and Commercial Opportunities",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd1p0eEhwcTJadGNSWDJ2QnY0VGVKNHZlYmdTRnpqR1BLR3huX3lVZ1BDMTJ5XzRFd2p5U0NTUnctdHRfNm00M2ZNeDNQdGd5TGlFY0hxSHl5a2ZZc3NuVVdMVHpjcjNvVHU5NUZzNmR6elRWVXVzTnZQTmgxRHVJckpEVkZIV1M5TF90SjBCMXBXVDZhMzUwLUtqNWtCZ0gxS0F1ZFh1c2t0X1l3eXMyNkUtX1k4UjBnOHVTV21WMlFvZzAwUUU2MmN5czdQcGh2bkl2UTBKNGJRN1o1N2pJaGxiVG5YM0p3SkZmWlR5Y3l6eTYxTmc?oc=5",
-   "date": "2026-10-16T08:02:54.000Z",
-   "source": "GreentechLead",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "Mangaluru: HYDGEN inaugurates 20 MW hreen hydrogen electrolyser manufacturing facility",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0w4UTgxN1RKbmMtS2xKY0J5NG1oZ253dHVDMzlpRm1QMVVnSmtUUk5KYU92ZVZXRjA1RFJ1NDFWSUJUZkRWeUY1M0ptY0lBelZMa0Q1eHF6d3l5M3RSN3FwTWpaZklmckx0Tl9NQzcyaWpHQ0JLMm9kOW5xRUlCSEY5UlRWYzdRV0VGRzlEVTlMOVc5el90Nzk1bGY5WGhEeWh1ZnFxVGtkUXllQll4cmoza0ZYSGM0bDlxZ3d5QUNmbXY0?oc=5",
-   "date": "2026-10-16T07:00:00.000Z",
-   "source": "Mangalore Today",
-   "origin": "Deal search: project milestones",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "ADB And Japan Finance 1.1 Million Tonne Green Ammonia Plant In India Under ACCEL",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVloyNy1iT05GdFNTTFlhd1hyV01XX05jWHBIM1JPRUlPQmt4cmJ0VWhmSWxiNUdxcFRKVlpYX1NTN3NLWDZTb2dvSElPRE5Jb1hxUnRWa0FHSTJ0bTA0ZjlsaUhLbjVVYVdocV80RmlYLVR1UEttSkJ2bnBETE1yd25wM3BJQURsRXYwTWdfaVg3dldraGdNNEx3eEw2bEVLcW11a0pnYS1fb0tFRVdBbVVWYVl2NzVP?oc=5",
-   "date": "2026-10-16T07:00:00.000Z",
-   "source": "SolarQuarter",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "Grüner Wasserstoff: Markthochlauf bei Elektrolyse bleibt trotz Patentzuwachs ungewiss",
-   "titleEn": "Green hydrogen: market ramp-up in electrolysis remains uncertain despite patent growth",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOURFaGVRNk1nR2wzSUlnQXAtYTE1Z3loVkZZaG9VNUw1RHBtRFIwMUcxRlc4WEUxajVCTTd6SWpoMWk0bU11bGlVaGRLRHRuaHdJU19vTkJHWWVlMmtxLVJSeVpVVnVBVENoZ2NpRzVhamtOYXJteUp0SWhMWWxEaXMwUGIwMUw4TFhEUjVhZmhMZk8ybXY5ZF9ZQWM4OVVRZXU1aVl3Qlc5YURINXFJNjJFLTZVeHBkRWVEVEJpbmpER0dQLVE?oc=5",
-   "date": "2026-10-16T07:00:00.000Z",
-   "source": "Tagesspiegel",
-   "origin": "Tagesspiegel",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "EXCLUSIVE | ‘Japan has likely allocated up to 50% of its clean hydrogen Contracts for Difference budget so far’",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcTVUN3cxX00tQTJsT0o2TVVaY3g3R05FOUUtNTZEaEZsbHhZZmk4dVBiN3AxcjFYMU1tX3JkVXJ4YTR3VnZfbjRJQ0I1OGZLZXRWVVo5WTlGbU9mOEY0RVNMUkExdmtXREZkM3VFNjVacjhQeldpckRqeUN6RnhTcUhlelZFckt3Mk9UejRvU0RBbEIxRjlZNkJEOWlyZkNlcnpQVWNVV2lNTHZZQWo3aVdXRlVQNS1rT0UxWjdZZEFVcERwa1J1MW15cnVoaFJLRmZ5eHotVERVZkVxX1J6QzdIRkVoTy0xWVpQUVdmSQ?oc=5",
-   "date": "2026-10-16T04:20:57.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 7
   }
  ],
  "sources": [
@@ -10537,15 +10382,15 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 104,
+   "shown": 103,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Industrylinqs",
-   "shown": 1,
-   "status": "unreachable",
-   "error": "HTTP 403"
+   "shown": 4,
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "Hydrogen Tech World",
@@ -10562,8 +10407,8 @@
   {
    "name": "Hydrogen Central",
    "shown": 52,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Hydrogen Europe",
@@ -10592,8 +10437,8 @@
   {
    "name": "Gasworld",
    "shown": 0,
-   "status": "unreachable",
-   "error": "HTTP 403"
+   "status": "ok",
+   "error": ""
   },
   {
    "name": "European Hydrogen Observatory",
@@ -10681,7 +10526,7 @@
   },
   {
    "name": "pv magazine",
-   "shown": 5,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -10747,7 +10592,7 @@
   },
   {
    "name": "Energy Live News",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -10802,8 +10647,8 @@
   {
    "name": "Bioenergy International",
    "shown": 5,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Green Air News",
@@ -10820,8 +10665,8 @@
   {
    "name": "Splash247",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Euractiv",
@@ -10963,579 +10808,579 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 68,
-   "status": "ok",
-   "error": ""
+   "shown": 67,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Recharge",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Reuters",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Bloomberg",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Financial Times",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Argus Media",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Montel News",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Renewables Now",
    "shown": 29,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energy Voice",
-   "shown": 3,
-   "status": "ok",
-   "error": ""
+   "shown": 2,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Renewable Energy World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Euronews",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "energate messenger+",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ZfK",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Change Inc.",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Innovation Origins",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Nederland Waterstofland",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "WaterstofNet",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Hydrogen Council",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "IEA",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "European Commission Energy",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Clean Hydrogen Partnership",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "German Economy Ministry",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Netherlands Enterprise Agency",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "RWE Press",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Liquide",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Products",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Linde",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Shell",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "bp",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "TotalEnergies",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Uniper",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Equinor",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "OMV",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Gasunie",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "EWE",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "thyssenkrupp nucera",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ITM Power",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Nel Hydrogen",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Topsoe",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Siemens Energy",
    "shown": 5,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Plug Power",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Port of Rotterdam",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Business Insider Deutschland",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Gründerszene",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Tagesspiegel",
-   "shown": 5,
-   "status": "ok",
-   "error": ""
+   "shown": 4,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "FAZ",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Süddeutsche Zeitung",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Manager Magazin",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ZEIT",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "HZwei",
    "shown": 11,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Chemie.de",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "CHEManager",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Windbranche",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "erneuerbareenergien.de",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "IWR",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energie & Management",
    "shown": 8,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Klimareporter",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "dena",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ingenieur.de",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "VDI nachrichten",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Industrie Magazin",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Neue Zürcher Zeitung",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Het Financieele Dagblad",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "NRC",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Duurzaam Bedrijfsleven",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energievergelijk / Energeia NL",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Enlit World",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Investing.com",
-   "shown": 25,
-   "status": "ok",
-   "error": ""
+   "shown": 24,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "TradeWinds",
-   "shown": 5,
-   "status": "ok",
-   "error": ""
+   "shown": 4,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Upstream",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ICIS",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Politico Europe",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Hydrocarbon Engineering",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "H2 View",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Business Wire",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Chemistry World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Ammonia Energy Association",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Splash247 (shipping)",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Aviation Week",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Flight Global",
-   "shown": 2,
-   "status": "ok",
-   "error": ""
+   "shown": 1,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Transport World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Biofuels International",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "CHEManager International",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: final investment decisions",
    "shown": 22,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: offtake and supply agreements",
    "shown": 22,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: refineries and industry",
    "shown": 17,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
    "shown": 12,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 68,
-   "status": "ok",
-   "error": ""
+   "shown": 64,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: cancellations and delays",
    "shown": 21,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: policy and auctions",
    "shown": 31,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Germany (DE)",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Germany setbacks (DE)",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: fuel cells and e-fuels (DE)",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Netherlands (NL)",
    "shown": 12,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 21,
-   "status": "ok",
-   "error": ""
+   "shown": 20,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: project milestones (DE)",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   }
  ]
 }
