@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T15:38:46.760Z",
+ "generatedAt": "2026-11-15T21:00:51.100Z",
  "articles": [
   {
    "title": "Repsol Approves 150 MW Tarragona Green Hydrogen Project",
@@ -1999,7 +1999,7 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTldjYi16cXN0YWtmQ2FFNXZXazl1ZzNDQ1BxZ24wZU5GNVk4OVpvWTY3ZkN4Z2NZYkxWR0FqTXJiRkhTekptbHVzcnhzQ3Z6ZjUwMVFxNkRBMnNsWWVtS2tFQi1QM05yWkQ2bWRjYktmUlJ6UlZlRjQybkVRaE93TGFFLUNtTjRzX1lFVFBtejhsSnl6UEZyYm90VHdGUW5YVXBHaGVRSjlDd2loNnZoaGx4Zmx5bEpFWmwyVHBLN2xwVkV4ZEluRzFqRDlqdWpGYW1oYjFn?oc=5",
    "date": "2026-11-11T05:30:25.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: cancellations and delays",
    "image": "",
    "topic": "Ammonia & e-Fuels",
    "region": "Asia-Pacific",
@@ -10808,7 +10808,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 67,
+   "shown": 66,
    "status": "ok",
    "error": ""
   },
@@ -11336,7 +11336,7 @@
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 21,
+   "shown": 22,
    "status": "ok",
    "error": ""
   },
