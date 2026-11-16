@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T21:00:51.100Z",
+ "generatedAt": "2026-11-16T06:20:44.120Z",
  "articles": [
   {
    "title": "Repsol Approves 150 MW Tarragona Green Hydrogen Project",
@@ -610,7 +610,7 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeW5hVEQ2V3NwTUtkRjRJckFIZjJYNzEtUTI2VWk2cTBJaDZDakVoLTU4bDVyQ0ZhZktPZzFudk5McVNkOGFvbkVkYmdrMGtUc1ZZdEw2MmpYY01yTExoeGNfa0lEUllEaHhuQ3BUMzdWU2J1NjF2d0pXSzZYSUQzdDNCVS1NdGhaaW9nTnVpN3JRQklQQXN0c0pTMGxzMUNKb1hJMUFwQmNoWnljOHJOY1Q3QWtKRngzTFR2VmpMRHBBWWJ3b1BOdA?oc=5",
    "date": "2026-11-13T10:40:20.000Z",
    "source": "euro-petrole.com",
-   "origin": "Deal search: project milestones",
+   "origin": "Deal search: refineries and industry",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Other Europe",
@@ -1176,7 +1176,7 @@
    "titleEn": "Hydrogen: Ines warns of gap in H2 storage",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDdMT0xDTDFNeVc0bG94Q0lvSzgyYmdsM1hDcjhLVzBzLXJscFlBLV9SY0FLWmlNUGpQZXQzeVJwUzRERXJGMXhnVEhUMGNZMVk3OUdCS1YtaERiU1kyN2N6ZTJLMXR3aktsOXNxajhuUW1EV3NqMEIxUTI3U2VkZGlaQlhIMXFja21ZOVJVT0JIcVdBMDlqcGdtQ1hCTjhsLVBBeVRGVk1JekU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFppYlVRT2xBNGFvY0lHczRqOTBXZFR0NWxhOWNWcnZIY0kweVl6WUk5NEZkV1ViTERpbkR6VjZLVUJmME45ZU1JemJwWlMwdU1SRVNzQTFLYkVKU05ERURubThDUTVGY2xkV0hBOG5qekR4ajRQV2JYTGZ1cTgzWmFvRHltaXVvTlNsUzRPU18zQk53R2NiT3F3Qzk1NW1vZXFjX0pack9lRHJEZmlPTUJ6NA?oc=5",
    "date": "2026-11-12T13:47:00.000Z",
    "source": "Energie & Management",
    "origin": "Energie & Management",
@@ -1424,6 +1424,20 @@
    "region": "Germany",
    "market": "core",
    "score": 7
+  },
+  {
+   "title": "Repsol, Enagás Renovable to develop 150 MW electrolyser in Tarragona",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVdsZVJnM1FOLUc3TzM3akVmOUxubW1qMHo5YWhDb0FYTG1naWhzU3JNRDN4RG5tNHZIQldQSmFfenlqb0U2ckRpUzRZLU5SY051X0xKQ3ZYWF9NVGpKSnRpbGxyWE1KcWFNX0YwRFVhUVlJTUtUbnNvVTVKYzZVRlZ0UXRqMDRnTWdlQmNheEM0dUc0TFBSbWhucDNVSzR6V19xZGpFWEVYaHZILXV5REZqNHdNTUtqSVVB?oc=5",
+   "date": "2026-11-12T08:00:00.000Z",
+   "source": "Quantum Commodity Intelligence",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 9
   },
   {
    "title": "RWE and Kawasaki commission a 34 MW hydrogen turbine in Lingen",
@@ -2873,7 +2887,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSXhEcjVyODI0blBEd0YtTDJ4ZFM0R0MycXFxZ2tIazVmTmNIY1VIdWc1TTN2SWk0ZWNZc1BJRGlFM0FFVEN2NGdwd18xeW43clplVGZRM0t2M19GcEdXUE12ck1la3lqOGVaRzJuTmQ5c05YdmVBczg0ZXFqODV3Sng5cFpNSXBYXzRDeHA2X1FKUkxWY3h2YWlGVGNMeGFwTXlldlZZSXJyNndPVWM2a2tKSDIyd3BORHY2dm9YT3ZhSGpTZHAzYVh1cHg5MkZsQ3VodlBfdno3NEwxUHJNTE02b3FpTzltenpsNXp5TkhYRFU?oc=5",
-   "date": "2026-11-09T12:34:55.000Z",
+   "date": "2026-11-09T12:35:16.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
    "image": "",
@@ -10343,34 +10357,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 3
-  },
-  {
-   "title": "Kakinada Green Ammonia Plant Gets $100M ADB Loan",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDdhc2FEaHdBekE5M0E1WmpVLUdVeW41blpRR3VkU1praUVobVBRa3dqN2d3OXFuOGtnRHR1dDJMbm81WjJOYkl0RWRZUlBtMmdpWi1kckg3dVkzbTRMWGEtNWotV1YzbER0cmFjM0dldXpDanBJczBILUpNYVpoY0EzemdDSlpGZGFabk5PZmU?oc=5",
-   "date": "2026-10-17T07:00:00.000Z",
-   "source": "Urban Acres",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "ADB and Japan back AM Green Ammonia (India)’s mega green ammonia plant in $100 million financing push",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdHZ1dlAzTGI4aFJ3S2N6YUJfRUNMUnpxcUZrUGpnVXMzQkt5djZZQUN4eWIzTVlRT1dDUFFKei1JMVhqeDRPcmtqNjhSTUVJYzNxUUU5ZVBQYU52aHU4SW9BVDBqWnRTNm9aUnA4Tk5MbWlaeTg3UlczVWJodkVSM3RKRlMtOW9tM2g0MElvcmxiYms4RDJzYnNCc1dBeklrcmFqS09JRG84OWZPS215SkNLSlJlSk4xNlV3NEV5dFRWN2l6ZDRFQnppTGNraDJVcnpDdk5hb0dRdUF6U0hB0gHmAUFVX3lxTE5HMzZzRFVwLW1zc0JWcndJMjR0Q3ZWRUpqREdxZ1VqRTJlY1FWZXhZOHA2dzRiZE9KcmFtWFRCd0xmNmNSTXNGOEhZMDd1SFFWS1RIWm03WFhoV0ZOQWh2M3RjYnFCZlEwdUZfeTJ5YVNFRWg1WW1RdWF4ZjQxdjZqRDA2Q3BvRVBUNkNDekUwWHBMMHZ0UEg4R2NKVGJQUVkxbU1BOWphODlZVUhPRnY4OXd6SWo0Q000UzZZaGN5T2FkZEdmUDNnMHIxaC1oWlhwZDdvcHN6dW5fNFRLSkpmTWUtd3h3?oc=5",
-   "date": "2026-10-17T05:38:28.000Z",
-   "source": "Indian Chemical News",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 7
   }
  ],
  "sources": [
@@ -11318,7 +11304,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 17,
+   "shown": 19,
    "status": "ok",
    "error": ""
   },
@@ -11330,7 +11316,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 64,
+   "shown": 62,
    "status": "ok",
    "error": ""
   },
@@ -11372,7 +11358,7 @@
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 20,
+   "shown": 19,
    "status": "ok",
    "error": ""
   },
