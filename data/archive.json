@@ -1,6 +1,90 @@
 {
- "generatedAt": "2026-11-16T18:28:12.343Z",
+ "generatedAt": "2026-11-17T02:54:19.727Z",
  "articles": [
+  {
+   "title": "Cummins Told Electrolyser Customers to Stop. Who Keeps the Hydrogen Plants Running?",
+   "lang": "en",
+   "summary": "A stop-use recommendation, a shrinking OEM workforce and mixed customer markets reveal the overlooked economics of hydrogen equipment after sales end. The post Cummins Told Electrolyser Customers to Stop. Who Keeps the Hydrogen Plants Running? appeared first on CleanTechnica .",
+   "link": "https://cleantechnica.com/2026/11/16/cummins-hylyzer-stop-use-hydrogen-equipment-support/",
+   "date": "2026-11-16T23:07:20.000Z",
+   "source": "CleanTechnica",
+   "origin": "CleanTechnica",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Topsoe and Sasol to supply e-SAF technology for Alby PtX facility in Sweden",
+   "lang": "en",
+   "summary": "Topsoe A/S (Kgs. Lyngby, Denmark), a leading global provider of advanced energy transition solutions for producing clean and conventional fuels and chemicals, and Sasol Ltd. (Johannesburg, South Africa), a global chemicals and energy company, have signed a license and engineering agreement with Alby PtX AB (Alby, Swede",
+   "link": "https://www.chemengonline.com/topsoe-and-sasol-to-supply-e-saf-technology-for-alby-ptx-facility-in-sweden/",
+   "date": "2026-11-16T21:32:29.000Z",
+   "source": "Chemical Engineering",
+   "origin": "Chemical Engineering",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "Técnicas Reunidas wins FEED contract for Alby PtX e-SAF plant in Sweden",
+   "lang": "en",
+   "summary": "Técnicas Reunidas, S.A. (Madrid, Spain) has been awarded the design engineering contract for the development of an industrial-scale e-SAF (sustainable synthetic aviation fuel) plant that Alby PtX AB (Sweden) plans to build in the town of Alby, in the Swedish municipality of Ånge. The plant is designed to produce around",
+   "link": "https://www.chemengonline.com/tecnicas-reunidas-wins-feed-contract-for-alby-ptx-e-saf-plant-in-sweden/",
+   "date": "2026-11-16T21:30:09.000Z",
+   "source": "Chemical Engineering",
+   "origin": "Chemical Engineering",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "TotalEnergies abandons $16 billion green hydrogen project in Chile",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0NtMXFTN29sYTQ5SmFUZGt4SmN1XzE0UEEtaUN5d1lwNUZvdUZJNGNvMFNlNERSa25HanBhQmlWdDFJVjVhOEpjYkNLRC0wRFRUZFI4VlhQTllkcjZLdndrdXo2UFF6QURRVlpYRFJqRFNDSTdTX2hnWklCcVFCVDEwOTg2VmJjN2FRVVNJbHI2VS1rdUtCNzFLZ0VhaDJvVGNTbHBDSURGcWFRR29UOHRYX0FMY09K?oc=5",
+   "date": "2026-11-16T21:02:32.000Z",
+   "source": "Upstream",
+   "origin": "Upstream",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Latin America",
+   "market": "other",
+   "score": 11
+  },
+  {
+   "title": "Topsoe and Sasol selected for e-SAF project in Sweden",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2xld1RTc3pjYlhyT1lpVjFLNEExT0t3NktCTE5oSzJ4RVMwYTJubXVfX0xHbS00clN4a0hzMmN2eVBaY0VvZ2NlM1RtNGlPN19zMTBmWlNqT1hNVHFqc0J4NG53Q3MzSWQ3YzRFNDR5ZnRDa0ZNUHNvVEZWZ0Q2NTFRR2pncDBwa2NPR3h0M0EwMllW?oc=5",
+   "date": "2026-11-16T20:52:11.000Z",
+   "source": "Biomass Magazine",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "Swedish e-SAF Production Projects Advance Into Design Phase",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGYydElwN1JXRUF4NFJIVk9DVWJZSE9WWmptcHFDbGYtNTFXUjR6eE51TGZ4Sk9uOEdHMWRqZnM5d0xHRDBVUTFPVVg4Z2g4SGRhdGp5SGtxN0xkc21MejhBaUxUci1KczhoY0syQ1VIcks4cEFCbzN4dFR4d1lDUmlTc0NXT1NGQUVOQXVBaXNZc2FJb0ZwTnAzc0ctamJOQ2xRZkIycGVYZVhBakI0YXlkOA?oc=5",
+   "date": "2026-11-16T19:31:26.000Z",
+   "source": "Aviation Week",
+   "origin": "Aviation Week",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 4
+  },
   {
    "title": "Oman Selects Two Green Hydrogen Projects in Duqm as Fourth Auction Pivots to Data Centres",
    "lang": "en",
@@ -28,20 +112,6 @@
    "region": "Global",
    "market": "other",
    "score": 14
-  },
-  {
-   "title": "TotalEnergies abandons $16 billion green hydrogen project in Chile",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0NtMXFTN29sYTQ5SmFUZGt4SmN1XzE0UEEtaUN5d1lwNUZvdUZJNGNvMFNlNERSa25HanBhQmlWdDFJVjVhOEpjYkNLRC0wRFRUZFI4VlhQTllkcjZLdndrdXo2UFF6QURRVlpYRFJqRFNDSTdTX2hnWklCcVFCVDEwOTg2VmJjN2FRVVNJbHI2VS1rdUtCNzFLZ0VhaDJvVGNTbHBDSURGcWFRR29UOHRYX0FMY09K?oc=5",
-   "date": "2026-11-16T15:42:30.000Z",
-   "source": "Upstream",
-   "origin": "Upstream",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Latin America",
-   "market": "other",
-   "score": 11
   },
   {
    "title": "Hy2Gen inks €140m European Hydrogen Bank subsidy agreement",
@@ -114,6 +184,20 @@
    "score": 3
   },
   {
+   "title": "Topsoe secures technology contract with Pupuk Indonesia for ammonia-urea project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVkyZXQ5VjR1UGtFbXY3ZEF3TGhybDQ1TWZaWjEzTnVaOEdjdW16V3duM0xvdGZxRUpRVVJXVzRYR0dZZ2Jma2pYbGVXMUtaRFhleFREcmtWaG9TWldzTDl2Z2FSTXAtTC1tUUtzR1NJZWhqczk1WkEtQ0xqZ2tlN3JVVUxXMVFpbWJaUVZjdEI0UlZsUTliRTN2d0ZQamJYVGV6UFNRbEYwNTVJVU16emJCNnZPaXFjOHBvQVpGdHJDbjE5ak4wc0VJVTRmWXhsLXcxZUFIczBZRW1t?oc=5",
+   "date": "2026-11-16T13:09:41.000Z",
+   "source": "ICIS",
+   "origin": "ICIS",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 5
+  },
+  {
    "title": "TotalEnergies JV scraps USD-16bn green H2, ammonia project in Chile",
    "lang": "en",
    "summary": "",
@@ -163,20 +247,6 @@
    "date": "2026-11-16T12:32:45.000Z",
    "source": "Topsoe",
    "origin": "Topsoe",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "Topsoe secures technology contract with Pupuk Indonesia for ammonia-urea project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVkyZXQ5VjR1UGtFbXY3ZEF3TGhybDQ1TWZaWjEzTnVaOEdjdW16V3duM0xvdGZxRUpRVVJXVzRYR0dZZ2Jma2pYbGVXMUtaRFhleFREcmtWaG9TWldzTDl2Z2FSTXAtTC1tUUtzR1NJZWhqczk1WkEtQ0xqZ2tlN3JVVUxXMVFpbWJaUVZjdEI0UlZsUTliRTN2d0ZQamJYVGV6UFNRbEYwNTVJVU16emJCNnZPaXFjOHBvQVpGdHJDbjE5ak4wc0VJVTRmWXhsLXcxZUFIczBZRW1t?oc=5",
-   "date": "2026-11-16T12:07:06.000Z",
-   "source": "ICIS",
-   "origin": "ICIS",
    "image": "",
    "topic": "Ammonia & e-Fuels",
    "region": "Asia-Pacific",
@@ -1140,20 +1210,6 @@
    "region": "Nordics",
    "market": "eu",
    "score": 7
-  },
-  {
-   "title": "Topsoe and Sasol selected for e-SAF project in Sweden",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJZemNSS2xGeTJIOHhDM2F3Z0xLRmxMS19zcmdjNU8tX0dMVmUtWGNUdTYyWUo5VXUyYnlKMGdVTXBVWm0zNXJxQmdTNHpYNXNQS3pTOVREZDYtTXM4VmVwSUx0Q3JvejRuazlXNllPamk3V0JlX1Zad0RtVm5ZeFd3SmlLZGpUY2ZYS2VTUkVtdVhTMFhMcEtQYkpZbGpSM3BiMHU3VUtvLU1DYlVTbFd3Z08?oc=5",
-   "date": "2026-11-12T16:34:04.000Z",
-   "source": "Hydrocarbon Engineering",
-   "origin": "Hydrocarbon Engineering",
-   "image": "",
-   "topic": "Aviation & e-SAF",
-   "region": "Nordics",
-   "market": "eu",
-   "score": 5
   },
   {
    "title": "Meta buys certificates from green hydrogen-based steel plant under construction in Sweden",
@@ -10525,110 +10581,12 @@
    "region": "Global",
    "market": "other",
    "score": 8
-  },
-  {
-   "title": "AM Green Wins Germany-Backed Green Ammonia Auction With €585 Million Deal",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemF1ckFtSlVFT3FVMm1EUGxyQzFNcVh5c3paZmZKRkxxVk12TUw1WUhJZHM0T0hBSnpfekxsTXIzVVlXX01TOTUtcFlkVWllR2lhTkozdzhTelRJMVVDdEQ3NFZ5RnNJVFozbktkbU1PSmxmNzV6VWJYNktTbEN4dk9MOFMwaTRmUmMtM1E5NWNaNlNBRjd6aGdITS1kZjhQNHpDTnpoYm14dEk?oc=5",
-   "date": "2026-10-18T23:51:34.000Z",
-   "source": "India Business Trade",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 12
-  },
-  {
-   "title": "Construction begins on Japan's largest hydrogen liquefaction plant with a capacity of 50 tons per day",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFlqVjRzQURic0hBUWFFLUNHZFBDVmRNTkNuSDhXcGhEZFppcFpaY09BMkRxTDIxM05Ta2ZGMVZMb2ZCNl9RWFRrYnhHT01CZVpnV0lrbWkwRkZLWlAwNzB0UDRPSkc1TGxMUGM1YVhteVlReUdLZEtlSTNFMGFCWW1aWGFURWFOLVVobXZlYnNIQVc4QUlCSE9kNmhTRUdjYk1xa2FSU3pMUnA4V2FUdDdaSGxGZw?oc=5",
-   "date": "2026-10-18T15:00:00.000Z",
-   "source": "Moomoo",
-   "origin": "Deal search: project milestones",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "Green Hydrogen News: L&T’s Refinery Contract Anchors Production as Thermax Advances Electrolysis Pilots",
-   "lang": "en",
-   "summary": "L&T has anchored its green hydrogen strategy with domestic electrolyser commissioning at Hazira and Kandla and a 10,000 tpa contract with IndianOil’s Panipat refinery, while Thermax advances licensed alkaline systems and a 720 kW SOEC pilot. Investors should focus on commissioning milestones, utilisation rates and sepa",
-   "link": "http://hydrogenfuelnews.com/green-hydrogen-news-l-t-s-refinery-contract-anchors-production-as-thermax-advanc/8576911/",
-   "date": "2026-10-18T14:19:30.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792333169554.jpeg",
-   "topic": "Steel & Industry",
-   "region": "Global",
-   "market": "other",
-   "score": 13
-  },
-  {
-   "title": "Modeled Aftissat Wind-to-Hydrogen System Could Yield 510 Tonnes of Green Hydrogen at €2.87/kg",
-   "lang": "en",
-   "summary": "A techno-economic model in the journal Hydrogen explores converting curtailed electricity from Morocco’s Aftissat wind farm into about 510 tonnes of green hydrogen annually at 2.866 euros/kg. The site-specific study outlines a 10.867 MW PEM electrolyzer, compression, storage, and zero residual curtailment, pending real",
-   "link": "http://hydrogenfuelnews.com/modeled-aftissat-wind-to-hydrogen-system-could-yield-510-tonnes-of-green-hydroge/8576909/",
-   "date": "2026-10-18T14:12:34.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792332753828.jpeg",
-   "topic": "Infrastructure & Storage",
-   "region": "Africa",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "Green Hydrogen News: Andalusia Opens Public Consultation on 10 MW Almonte Plant",
-   "lang": "en",
-   "summary": "Andalusia invites public feedback on a proposed 10 MW alkaline electrolysis plant in Almonte, targeting hydrogen-to-gas blending and environmental review.",
-   "link": "http://hydrogenfuelnews.com/green-hydrogen-news-andalusia-opens-public-consultation-on-10-mw-almonte-plant/8576908/",
-   "date": "2026-10-18T14:08:58.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792491806846.jpeg",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "Hydrogen Fuel Cell News: SEOJIN SYSTEM Secures Major SOFC Module Supply Deal with Bloom Energy",
-   "lang": "en",
-   "summary": "SEOJIN SYSTEM has secured multi-billion-KRW contracts to supply solid oxide fuel cell modules to Bloom Energy, supporting the scaling of distributed on-site power generation.",
-   "link": "http://hydrogenfuelnews.com/hydrogen-fuel-cell-news-seojin-system-secures-major-sofc-module-supply-deal-with/8576907/",
-   "date": "2026-10-18T14:08:00.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792491402065.jpeg",
-   "topic": "Offtake & Supply",
-   "region": "Global",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "World’s First Commercial Ship-to-Ship Green Ammonia Bunkering Completed in Zhoushan, Zhejiang, China",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN0traE85dzRpRVlEaEt4UHNTdDFaUC1CQlNFVGJEd3JsaDNoOFMxNFFmRk1JS1h0UnJLeXc3bFluamRtYTA2NlduMUY3WXFrUjVKd2dVRG5xVnBIYlA3TWNRZWEza3luX3Z5dVRaSUhNY0MtSzJXZGV3LWFab1p3cjVaeVlmSjgwQU5SSHliY0ZzblhGVXZtQ1ZtelVnYlQtOTFfUThseHozVmJOT0UzQTh2c0cya1pzM0d6Mkp5Sjl0cUtRNFNiRWVoV2MzVG9Wb3BiM2NLM0ZBcmNNZXFOYmhqVVk3M2FkYXc?oc=5",
-   "date": "2026-10-18T08:03:00.000Z",
-   "source": "Business Wire",
-   "origin": "Business Wire",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 3
   }
  ],
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 39,
+   "shown": 35,
    "status": "ok",
    "error": ""
   },
@@ -10802,7 +10760,7 @@
   },
   {
    "name": "CleanTechnica",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -10886,7 +10844,7 @@
   },
   {
    "name": "Chemical Engineering",
-   "shown": 11,
+   "shown": 13,
    "status": "ok",
    "error": ""
   },
@@ -11492,7 +11450,7 @@
   },
   {
    "name": "Hydrocarbon Engineering",
-   "shown": 3,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -11504,7 +11462,7 @@
   },
   {
    "name": "Business Wire",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -11528,7 +11486,7 @@
   },
   {
    "name": "Aviation Week",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -11570,7 +11528,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 19,
+   "shown": 20,
    "status": "ok",
    "error": ""
   },
@@ -11582,7 +11540,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 63,
+   "shown": 62,
    "status": "ok",
    "error": ""
   },
@@ -11624,7 +11582,7 @@
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 19,
+   "shown": 18,
    "status": "ok",
    "error": ""
   },
