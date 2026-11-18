@@ -1,6 +1,49 @@
 {
- "generatedAt": "2026-11-17T23:33:08.734Z",
+ "generatedAt": "2026-11-18T07:20:39.143Z",
  "articles": [
+  {
+   "title": "Asahi Kasei, Circularise und Furuya Metal starten ein Projekt zur Rückverfolgbarkeit von Edelmetallen in Elektroden für die Chlor-Alkali-Elektrolyse - Demonstrationsprojekt zielt auf Versorgungssicherheit für die knappen Metalle Iridium und Ruthenium ab",
+   "titleEn": "Asahi Kasei, Circularise and Furuya Metal launch a project for the traceability of precious metals in electrodes for chlor-alkali electrolysis – Demonstration project aims to ensure security of supply for the scarce metals iridium and ruthenium",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWm1Dd1NBOGw0dHNTbHFaM25nU2FqcWxsR2pfVlk2eFBNNXh0ZnBpWnZFYlJZT2pBTDg4XzlSY293X3pVZ0RKUjVUNDFXNmMxLUVrYlAzenVaY0FMSG1DNnZHbk1xMklaVjNQSEE3T292UlJYRmRYSWJLemY5TTJjTmZRRFg5amY5eTJZS3haMTZYbXhKbTd3YndjRWpBajNvX1lGX3NoZEU1Vi1VbklUTDQwVGh5TTdSX0NUdkRkQUNuZlhOQlVVZ2JKdDJac0ROd1hyUHd0TlVwdjNOY3BiWFduclgtT1FRanlkblpHOEpHd0o1cVE5Q2xQVVN1bTlONndadXpQZ191Qmp6aWRCN2tJOGJua2Nv?oc=5",
+   "date": "2026-11-18T05:05:19.000Z",
+   "source": "Chemie.de",
+   "origin": "Chemie.de",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "Indian renewables and green hydrogen firm takes majority stake in fellow developer Ocior",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMkRQS20xUnI3THkxQzMtZnVaM2hJcjF4OXo4aTktR3FlQ1NLcWlBZlE1Z3R2TVZGd0QxYXBUSkx2MkFQRFRpbExSWnl6aElqNjI5OG94bGh0dVltQXp2SHc2ZHl5QXJhNkpNR21ReFg1Mk1qRjFMSk1XRFl5aWpmTGFOZ2xRM19ReFVsNlJBc2xWc1NQd2g0Q0t2dUlwTG1aU3U2azdVc3JObzVKTC1INEpaTW5ERnlNQ29uM0pfd2tOdzZjODVIVXB2NXFOaFh6anRVRTZVMXFFY2M?oc=5",
+   "date": "2026-11-18T02:26:42.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Petronas subsidiary announces 870MW Titan green hydrogen and ammonia project in southern India",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM2k4dV9wUzJjQjZRZU14N2tjVHMySUZ3aURGbGdiRW1Cc0tiMDNzNDdNUnJYcEt1WHozT1hjMkZ5Zjg5UEV4VjRFOGN0OXBkbzBMb0ZNdEtqZVkyZXpmMVRaN3FwMmtjMDcyZ2lPZjRXZ1NoZ3l4dHhsLUgzcjd0VHhLLTlweHozejIyXzVEeHgwUWhnM1RDQ1lGaFZYT285Mnh1bEZUNHNPeGgzc0gtM3RQQ01wNnBKY0IySllHMXpKM1lQRkUyM1RtTlB5YWdm?oc=5",
+   "date": "2026-11-18T01:41:15.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 11
+  },
   {
    "title": "GeoComputing Signs Memorandum of Understanding with Gold Hydrogen to Explore Private AI for Subsurface Workflows – Company Announcement - FT.com",
    "lang": "en",
@@ -28,6 +71,21 @@
    "region": "Global",
    "market": "other",
    "score": 8
+  },
+  {
+   "title": "115 Kilometer durch MV: Neue Wasserstoff-Pipeline soll 2028 starten",
+   "titleEn": "Approval process for hydrogen pipeline begins",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT3l4aThlU3hqbnZBN01DbzFOOVpPajFCaFZBa2FsVG5XSFpvQk1PenFrOFRKb0ZfRXFPWnBCZUJRUTdFTElGS3RWTnYxRTFyaE1DajZSb2NOUXRBS09FOTdDVXdLVk9rRFVTU3BVdDBLVzZCbUZRMnZ6VUk5c0RwdnZmUHZPTU1zSkhubXZicy11VXFuRXkxOVhCMmV0Z0NMMmNMelpjcVlERzhOQUhGMWtZbVJpMVZpZ2tNamhRNXJ6X2N5ODg5ajNfbTFNb1NrU3NnT295dDB3S0ltYnM1Wg?oc=5",
+   "date": "2026-11-17T17:31:00.000Z",
+   "source": "Tagesschau",
+   "origin": "Tagesschau",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
   },
   {
    "title": "Plug Power launches GenEco Scale electrolyzer plant with Arcadia eFuels",
@@ -58,20 +116,6 @@
    "score": 6
   },
   {
-   "title": "Indian renewables and green hydrogen firm takes majority stake in fellow developer Ocior",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMkRQS20xUnI3THkxQzMtZnVaM2hJcjF4OXo4aTktR3FlQ1NLcWlBZlE1Z3R2TVZGd0QxYXBUSkx2MkFQRFRpbExSWnl6aElqNjI5OG94bGh0dVltQXp2SHc2ZHl5QXJhNkpNR21ReFg1Mk1qRjFMSk1XRFl5aWpmTGFOZ2xRM19ReFVsNlJBc2xWc1NQd2g0Q0t2dUlwTG1aU3U2azdVc3JObzVKTC1INEpaTW5ERnlNQ29uM0pfd2tOdzZjODVIVXB2NXFOaFh6anRVRTZVMXFFY2M?oc=5",
-   "date": "2026-11-17T16:06:29.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 4
-  },
-  {
    "title": "EU's Green Methanol Targets Risk Strengthening Chinese Imports Instead of European Production, Regulator Warns",
    "lang": "en",
    "summary": "",
@@ -98,6 +142,21 @@
    "region": "Global",
    "market": "other",
    "score": 9
+  },
+  {
+   "title": "Wasserstoff-Pipeline für BMW macht Fortschritte",
+   "titleEn": "Hydrogen pipeline for BMW making progress",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzFpUTItbVZJdjc1SzhqSEZHc09kTGl6Z3lydnNxSlRaTzY1REdDOG10ZDdZNXpZQTZLXzE0WFpfRzVOaE51NFBVMzE4aDBUVHRzeE5wQnppMkxNaXA2TWRTNU90ZU1VeHNiN3JZMmU0U0ZiQkdvVTFYWDlyZDkzNUUtY1UxQm9DYmJBT3lFV21oSFpRbWRtOGVR?oc=5",
+   "date": "2026-11-17T15:49:00.000Z",
+   "source": "energate messenger+",
+   "origin": "energate messenger+",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
   },
   {
    "title": "Brazilian Green Hydrogen Pilot Faces Cancellation After Offtake Talks Fail",
@@ -311,6 +370,20 @@
    "score": 10
   },
   {
+   "title": "‘RED III green methanol targets could deepen import dependence without strengthening domestic production’",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLWZYX1QzSG1yeXk3d29ZMGpscW9jalhOaWVKMXlmc1dXd3VKQlpZWmNRQWczVENDdWZERmM1cXFWSlhlMThTay14a3I4dVVLWUFmSEFuNWxZREZCUFRoRlB3QnFpOFJodnBaOUZXS2RGQTlCWXk2ZkdYZTFrR1hzbzQ2QXl6SDMtZnhUNEJoVmItTXpFcEIyRk4zQlhSRlJGdDd5MFU2OHNEQlZyTWZkOWNlTXc5YnBkZE5VaU1fQnN0bkpzSDJqWmxjcTFoc0NjMDF6bXNIRG1zcmVPWTBZMzFKbzR2Q0E2ckNZcjNoS01aUQ?oc=5",
+   "date": "2026-11-17T13:32:58.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
    "title": "German minister aims to boost hydrogen market amid energy transition",
    "lang": "en",
    "summary": "German minister aims to boost hydrogen market amid energy transition German Economy Minister Katherina Reiche wants to accelerate the development of a hydrogen market, as Europe’s biggest economy aims to become climate-neutral. A 10-point plan presented by Reiche’s ministry on Monday includes a proposal to support comp",
@@ -445,7 +518,7 @@
    "titleEn": "EU hydrogen market: Electrolysis projects with 4.2 GW secured – Expansion is lagging behind targets",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3BJYXl6SVdtS20tY05MaGVpaVhUZUtraUsxeHNJRG1jU1NrVi0wSzRDNGI2WnNMdGI3R1NvRkE4al80cksyWkwyOEpoOU5IZzVSYUhvMDhpZFV1dGJqbjhJMzhRWkctNjhiQXVNWG85aUFvdGtsT29uZWZCcW01SUdVay10MFZodmNBSFM1UmVpZE1sX3pNU2F5TkR3eWc2ZlZwbDJDRGZTeWJjYWZCa0x4cDQwMU04WnJJZVcwbElPX1BETkc1SmRodGhPTEE1V0U3X0VOZjhtZGt5Q1pxb3doOUp6R1RSSnc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT0JTdFRfNWFTTTNoWnl1T29BQU1icVA3THhkVnB5U00tUWxsUEFHZGQzVER2T1dnLUtWU1p5cjNGdGVDaEtEWE5IcTNXUXJINUdFQjJLc3Faa1dKMExUclFTYTFKLTdzeVlJbUdrTU5aaDNVcThrQXI3SHFFLVUzdE5QUGMzblhxUjRZc1VDNWUwRVgxZnBsYkhSV2dDc0dRb3c0Snkxcm93OUJOU2duLVJwZ2NYZWJSdjdYTWNYWmRRbUhwbVpIaVlHNjJUMFJBcTctRmhMREJnSlktZXpFd3JDSWFSYlo1?oc=5",
    "date": "2026-11-17T09:22:00.000Z",
    "source": "Windbranche",
    "origin": "Windbranche",
@@ -574,7 +647,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPajFINHdzTXQ2TlhCckVvMjVyOUh5QTQwXzczLW9rYWRXRzFhRHBiZWdyeXBhQjcxZTJ0WlJNMXl0Mi1ucWtyV0NVYkZCU09jRE42ZnMzbUM5TG5jWEpZS0l1U0d3OE5NRWJPUUNrTE5CSUtuZFdCQ2FiOHBGZDF2VkhNMnBXekZjbXRqVzJlZnhvTkl3SG9YcjdlSGc1N21IaXA1YVI5N1BYbE81TjFlazNnbmZfMXRobEhtaUVnbko0RWJfTnhqdWpkUlFoQQ?oc=5",
    "date": "2026-11-17T08:25:26.000Z",
    "source": "Hydrogen Central",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: project milestones",
    "image": "",
    "topic": "Production & Technology",
    "region": "Other Europe",
@@ -674,7 +747,7 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2xld1RTc3pjYlhyT1lpVjFLNEExT0t3NktCTE5oSzJ4RVMwYTJubXVfX0xHbS00clN4a0hzMmN2eVBaY0VvZ2NlM1RtNGlPN19zMTBmWlNqT1hNVHFqc0J4NG53Q3MzSWQ3YzRFNDR5ZnRDa0ZNUHNvVEZWZ0Q2NTFRR2pncDBwa2NPR3h0M0EwMllW?oc=5",
    "date": "2026-11-17T04:51:51.000Z",
    "source": "Biomass Magazine",
-   "origin": "Deal search: refineries and industry",
+   "origin": "Deal search: eSAF and aviation fuel",
    "image": "",
    "topic": "Aviation & e-SAF",
    "region": "Nordics",
@@ -823,19 +896,18 @@
    "score": 4
   },
   {
-   "title": "Genehmigungsverfahren für Wasserstoff-Pipeline beginnt",
-   "titleEn": "Approval process for hydrogen pipeline begins",
-   "lang": "de",
+   "title": "Earnings call transcript: Ballard Power Systems posts Q3 2026 revenue miss By Investing.com",
+   "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT3l4aThlU3hqbnZBN01DbzFOOVpPajFCaFZBa2FsVG5XSFpvQk1PenFrOFRKb0ZfRXFPWnBCZUJRUTdFTElGS3RWTnYxRTFyaE1DajZSb2NOUXRBS09FOTdDVXdLVk9rRFVTU3BVdDBLVzZCbUZRMnZ6VUk5c0RwdnZmUHZPTU1zSkhubXZicy11VXFuRXkxOVhCMmV0Z0NMMmNMelpjcVlERzhOQUhGMWtZbVJpMVZpZ2tNamhRNXJ6X2N5ODg5ajNfbTFNb1NrU3NnT295dDB3S0ltYnM1Wg?oc=5",
-   "date": "2026-11-16T16:31:00.000Z",
-   "source": "Tagesschau",
-   "origin": "Tagesschau",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUNSR2tOc2ZNQl9lYnNHanpWYlpVaXZYaGFXVDdOUnVaQ25oRm5sejdFRF9SSkpCWF9jUWxzZmtnMWswWW1zMGhYTjJkb0lfc0ZkcjZPd3VPOENRZXZHejhMOGdtaENjUjZHUW9jNU9fbFVUT2FOaDJtSjlMbVd4dEZieE5TakpIM0JCcW9yTEVjT1BhdTlCSmR0bUtVUnZIdUNKOHAzVmlJSk8wRE4wbFpOSjZsbUxTaXlidHpVMXp5WHF2NTN3UzBRR05WUWM?oc=5",
+   "date": "2026-11-16T16:51:28.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
    "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
   },
   {
    "title": "Oman Selects Two Green Hydrogen Projects in Duqm as Fourth Auction Pivots to Data Centres",
@@ -1757,7 +1829,7 @@
    "date": "2026-11-13T10:15:26.000Z",
    "source": "Energy Monitor",
    "origin": "Energy Monitor",
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/R3-consortium-1.jpg",
+   "image": "",
    "topic": "Offtake & Supply",
    "region": "Middle East",
    "market": "other",
@@ -2643,6 +2715,20 @@
    "score": 6
   },
   {
+   "title": "Google tests new Gemini 4 Hydrogen model for speed, report says By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlBsdklUeUUtUTU2TkotUG95LVlwWjBkSDY0V3haSTFJR09WVDZoR2VweE04QjZrclFjUkNPNFRiSFhhNDJzUlhnVXJlR3k4YksxdlY3V0dQb1locGF1SjhQTC1QRmI2TDFlX0pxVlZTMFlxZlh0N19ONmJwUmwyTFk3RkJSenVqeWdrUWQ1SUJoOEtUcGNsZnVaU1dqcE82MGc1MHl0YmJ6eWM0U0xVMWl6c19SVXlVaVhPcm1JM1k?oc=5",
+   "date": "2026-11-11T23:04:59.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
    "title": "Wasserstoffhochlauf stockt – Speicheraufbau braucht jetzt politische Impulse",
    "titleEn": "Hydrogen ramp-up stalls – storage infrastructure now needs political impetus",
    "lang": "de",
@@ -2698,20 +2784,6 @@
    "region": "Other Europe",
    "market": "eu",
    "score": 11
-  },
-  {
-   "title": "Google tests new Gemini 4 Hydrogen model for speed, report says By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajAtRkYxMTVwMVBwby1jQW8ybHNTckp2S0RyTE9lN0hPSm8yWi1mVG9vNjV6NTU1RFFCRXk1OEpZR1Z5bDEzbWZEQjQzcGZHNlVFR1hZTFIySy14N0FRbDRTWlZaYU9oTUtobVpEZHRiY1oyZk9EUURRMzBCY0c0TlFPMG1yMXRfbzJjTThUTjhrcHRzVDZpQTM5QXdSM0lOX0pHLVgtT090TzNXTWJVYlBhNHNvd0MxNE10NVh0Q0o?oc=5",
-   "date": "2026-11-11T17:06:47.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
   },
   {
    "title": "Indian government agrees to commissioning delay for 1.5GW of subsidised electrolyser production",
@@ -2945,7 +3017,7 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGNwT2JIaUFJb3hZeUV5WVU5YkxJSTBNcXJoSGRYQWxsU1FKQ1Bpams4eXdZOFdOXzNEWWlhUkhGOE5ORWJpdjF1NFJEdmd1dGVXTUx1NUhkQk4zMVRocUhfWjRuWmh6WG9WcXZLeHo5QTNSLWlDUC1oWW96cEFFQWxJVVNsYzhIUHpzSVJmLUpjSHE3S2JNclhwNUU0dw?oc=5",
    "date": "2026-11-11T13:38:02.000Z",
    "source": "Renewables Now",
-   "origin": "Renewables Now",
+   "origin": "Deal search: policy and auctions",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Nordics",
@@ -3947,8 +4019,8 @@
    "title": "Plug Power earnings on deck as hydrogen firm eyes profitability By Investing.com",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0hKTXVWclR6a2RYYmFVV19rclZObnZ6eDdZcjZ4eHhLek91cGZCZzZPSzZsSmUwMDlIMzlhM0VQLVUtU2M5VzZKYjhnTnlTVkUzWGZrM2JNZGt2RzNGVGhETFp5SFAtb3duMlhSc0R4Z3BIMVZURnNHVUh2VkJRdWVuaVFNekFtSjVWcUs0bTY4MGJFUUVKZnpXYWIzblliSUpWUVFrMHVJcGdvdTROMThxeHdfWFlmTWtBLW5xWDZzUQ?oc=5",
-   "date": "2026-11-09T14:48:54.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGQyUEw0UWJFRUpMSE94UWNLVDczODFDV2dmNnBNTEoyanpnNU9WLTB0UlFUY3MzdzlqMVdSbjBKOXNPVUhqNThCVDFwQVlacmRXTFhkTXFQMC1reHlvRmxXb09wQVNVM0k1LVZuZ09yeHJwNEFiMGZ2RDhpUERTcjJrcHNqYjVZa1R1OWpwYnBPWFJJbXdOZXp1Y0ZSX240eU5iaVZHWjc3RmhJNU56c0FDUTJoYi1ULUJsdEZIZGRHQQ?oc=5",
+   "date": "2026-11-09T14:59:57.000Z",
    "source": "Investing.com",
    "origin": "Investing.com",
    "image": "",
@@ -10936,489 +11008,6 @@
    "region": "Global",
    "market": "other",
    "score": 3
-  },
-  {
-   "title": "Kawasaki Heavy Industries begins construction of hydrogen liquefaction plant",
-   "lang": "en",
-   "summary": "Kawasaki Heavy Industries, Ltd. (Tokyo) announced that it has started construction of a hydrogen liquefaction plant (hereinafter “the Plant”) at the Kawasaki LH2 Terminal (Ogishima, Kawasaki-ku, Kawasaki City, Kanagawa, Japan). With a liquefaction capacity of 50 tons per day, the Plant will significantly exceed the lar",
-   "link": "https://www.chemengonline.com/kawasaki-heavy-industries-begins-construction-of-hydrogen-liquefaction-plant/",
-   "date": "2026-10-19T17:37:03.000Z",
-   "source": "Chemical Engineering",
-   "origin": "Chemical Engineering",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "The Plug GenEco Electrolyzer",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE1DaUt5cDRyX0tGS0tEblljQzdsNTY1Vklzb29NSXlWdG5md05wblV0VFJ6bkhVX25FOXZBNFJlTjlBWXNxZVcxWUMtazF5RkctZHFyRXNlcWpTQlloTVFTTVdsNERaOWRaTlJJQldkeWxINTk0UmFzbEtsaG5IZGdQYlNuODQ3bFhKY2kwWE0?oc=5",
-   "date": "2026-10-19T16:21:54.000Z",
-   "source": "Plug Power",
-   "origin": "Plug Power",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Plug Power appoints Lee Sweetland as engineering lead By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1FNUFRMZnR5UG4tMEhzQUhRR3JWSHhLLWNEQTRNam8xSE53X1lUWE1zVGFJZTM1UUNLTC1WUHVxekxZN1hCSVB6SzhBb3IxOFBvUDhYOElkRWg2c0xCMFRnTzRHaDc0Wlp1Z3pHVmdRUHphZm9DOTAzd2w3ZHVxUjNvZ1FWOHpFUDhtY21TX2NHaHB4ZGdTTU1POFZQYllHWTBqWmlvQndfY1J6U2ttNFR4LVM?oc=5",
-   "date": "2026-10-19T15:17:23.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "China Commissions 60MW/120MWh Storage at Guohua Rudong Solar-Hydrogen Complex",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/14/green-hydrogen/china-commissions-60mw-120mwh-storage-at-guohua-rudong-solar-hydrogen-complex",
-   "date": "2026-10-19T14:56:29.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "Germany unveils new ten-point plan to scale up the hydrogen market",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2RJcTU0OG1GUmVYZHg4aldMY0VLZi1acE1pM2NFVjZqRUtIWEFDTE9qY0tKdkF4WFR0RnVFVnFBUTRETlJlbnhOU3ZtVnV6Vi1tOEpsRXl2WkM4N2RtbGZzTGxXTDdxejdlN3dWc19vc0hVMi1hWlNFTG9zaE1YVFd1N3NoNGFpYU5CdHd6TUtxY1l1ODlEenBZLTYwNTZ0UFg1LVh5WjN3TmgwUDFWUFk5MVozTEpq?oc=5",
-   "date": "2026-10-19T14:56:02.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Germany to Invest €1.5Bn in Hydrogen by 2027",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUQ2d09hclpvUktGcVExUF81aWRLNG5vVlVNQVhiM090dGFuV3gtYl9VT0Q2YnMtOTZrMUxQTHZLQTNUYlNHQU5pSmVVdkMzdDBHNDFJRm5JYU1MUVlOWDhPcGdwa2JOVVkza0lCcVE5WDNIazRDNUpYaFRvRWh1TjlUM1Z6VmpBZUxOZDc5ZGNXcTY4dHFVdzB0cFk0Zk1maTFDT3dhdy1Pbkc3WlV4UA?oc=5",
-   "date": "2026-10-19T14:51:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Deal search: policy and auctions",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Germany",
-   "market": "core",
-   "score": 9
-  },
-  {
-   "title": "CPH2 concludes initial investigation into electrolyser test failure",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3lYdHQ3b3gtNFFuUU13SE9oN0twOTBpc0N6N09XXzVXYzhhU0Rvd0NoVVRNVGc0dWJDSWRMLVNfaWw2eExiNDlKMURSR2JyaE5JVmZ0ZlhPUFMzbEt6eG5NN2l0YlhDRXRPa2N3NFdOV1U1RVRkV3ZrVENucDIxRzNuYzM0bEN4OVgxTGRwZGI2LV9rUXN5dGtOcnJVdXlwUGc?oc=5",
-   "date": "2026-10-19T14:28:24.000Z",
-   "source": "Energy Voice",
-   "origin": "Energy Voice",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "H2Global Foundation and H2DER sign MoU to advance clean hydrogen in Türkiye",
-   "lang": "en",
-   "summary": "Istanbul, 12 October 2026 – The H2Global Foundation and H2DER, the Green Hydrogen Producers Association, have signed a Memorandum of Understanding (MoU) to explore opportunities for cooperation in Türkiye’s emerging clean hydrogen sector.",
-   "link": "https://h2-global.org/news/h2global-foundation-and-h2der-sign-mou-to-advance-clean-hydrogen-in-turkiye/",
-   "date": "2026-10-19T13:44:24.000Z",
-   "source": "H2Global",
-   "origin": "H2Global",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Global",
-   "market": "other",
-   "score": 11
-  },
-  {
-   "title": "Thailand Approves Toyota’s THB1.49 Billion Hydrogen Hilux Project — 3,000 Trucks a Year for Export",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzZtN2s1N0NvbHQ4Ri12d0gxbXFQZUlvVmVOaW82aU5oWkxWTkpNYWw3Uk5sNUQxdjVnRGpuUGozT3duZkpZcGh3Sk00VUo2NDVwWEVHT0U4a29IN1JsX0FlaDR5UXpjS0pPSU9GZ1M3c3QzSXl6UEo1MnNMSDFqeU5wZzZSbXd4VVFzZ0ZUanljVU5BRFZ5MFo2MlZ1LXYwbVFWc1RDV3dGdUpqX2k4WENQaFFxVWNRbXhuU3c5YW9abi1lYnlaMEI2LVU0Q2UzTHJtNzYtM1Q5amNmcWc?oc=5",
-   "date": "2026-10-19T13:40:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "Indian electrolyser maker Greenzo raises $14m in latest funding round",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JMZkw0bTJiaHFzRzgtdnNSdVpnbVRQeFFqb0Y1WUFCRmM2dU84YndTamVYeGRGQUh2dTdONGVXaVZXa2dmLUl5bURMUzJNRzd3WDBCa0N2cHRialF3cVQ0YThaZUZITEd6SHU0NWNDRkl3YlRRM0t4b0kzTmZYZnFHakROSS10elVuN2lkb0N3NHB6aTVrRjduUEI5Y2FQeEFfTnJJOUVzVmtTYTl4bXhGZW1zTGZpeG5lQUVrM250czBT?oc=5",
-   "date": "2026-10-19T13:05:59.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 10
-  },
-  {
-   "title": "UK electrolyser maker ITM posts record annual revenue, but still registers overall net loss for 2025-26 financial year",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVEtNVnNxRzAyR2ItTTQ2QjI5am5tWWtyVWpaQ3c1em9DbGdneWZGTEtjTjVScG1IalZPekE0NUdkUkxISEh5aERnQksycFhvSWVod1pTdVpvUTlhczljU0NWemVYSkthUzZTb19lZk41NEpDRC1rTFhVbWV6STJra2FRdE92WXU2ZmR0Ynd1S21rNEtYN1BhQjF6OGZwdW9idGI3bjVPYU5iRGcxNl90bXA5bjlXSVNiVGt4dzZZRGVnM2RldzB4WkxRa1BndG1pcjAybjJzQzJOTnlkT0twRk9BOW5rSG0xNVlGdF9pNUdsbUp1VVNYdXRoaXVscktidWZDeFR3?oc=5",
-   "date": "2026-10-19T12:40:59.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "UK & Ireland",
-   "market": "core",
-   "score": 4
-  },
-  {
-   "title": "Greenzo Energy nets USD 14m to advance electrolyser manufacturing",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzl1OWtJTGktNXVGSE9Kd1JJZGdrTUdkR0xwWS0wMDlOQlZjWjlMcTd4bS1GT1dvZmswUG14UDRReXVDdDJFZHJzMGlfV09TeHRtYy1LVnVRR2VIUDVaM1djTmNSSDQzZHEyVlVUUDBwNV9DMGgzc0xCTnhIQ3dDNnhvOVlhZko3N3NrYzhKUTRQNG1nZmZHNDBnVk1TbjgyYlUyNUtGWEQ?oc=5",
-   "date": "2026-10-19T12:34:29.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "Energie: Zehn-Punkte-Plan – Reiche will Wasserstoffmarkt fördern",
-   "titleEn": "Energy: Ten-Point Plan - Rich Want to Promote Hydrogen Market",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFV4Z2JtVFRKeEVwRzRtTGJMaU93MUxUbGZmQUVuTTJZQ0JpNHpmdDl6YjcxeFNKUmVkbXRXN215MWpQdzdNb2N2SHBwTUl6WmpvdUtERFJ4SVZjM01wQXR6UzBVSnpsZEs4dU5taFpEeGJJVXRLM01yVVBvU1Yyd1dFcHVxTHZ2aktTeUQzSGVzLVRMSHRkOG5RbXNJTUhnTU0wNV9BeXpJQU8tcUU1X3NfX2lLVXI3N0I1OUhxeUVRUGVh?oc=5",
-   "date": "2026-10-19T12:29:20.000Z",
-   "source": "Handelsblatt",
-   "origin": "Handelsblatt",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Earnings call transcript: ITM Power posts FY 2026 EPS beat as losses narrow By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDR1Z2JCYXZwUVV6SEx0UTBWc3ZLaEl3RUhrRUdJMGVOQXVMUGZyNGhSSVZFMk5RVldlckdRWnRST0FsVDlWZG40d3lOSjNqT1hZZ2Z6SmVmWUlmN2Z5ZWlYRGUwVThmeHRVRldBNHp5bnNJQlNuWWJUQ3JWLWh6eGpoSk51T1JxaVpTOFBha0RqbThKc1c2V09lMWRlWDhnLWRCTm95NUJwMHZWNWRsNEhKZlVhNHVma2ZCM0NfcGdBM2FpNldnREFfNTdZNk5Q?oc=5",
-   "date": "2026-10-19T12:06:56.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Stargate to supply replacement stacks for Cummins electrolysers",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGZaMkpzMldJcDF0cUxCaHNkQU1FTElRVFNOdUV4TjFnWTE2TnAtZWF5c3pISGRSMzZ1NU5hX0VJNTA5WWktdzA4WHpiOXlVc3VkemxlUGhFRWVLdDBWQTRmVDc4WWdLWTNpS2pRRGMxZG1oSklnZUxHanFXMzhWOWZPSW5wY1ZQLWhRQWZQekNfOFJEWUJaaFpxREZWWmhyWVV3WExR?oc=5",
-   "date": "2026-10-19T11:55:40.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Teurer Hoffnungsträger: Zehn-Punkte-Plan soll Wasserstoffmarkt anschieben",
-   "titleEn": "Expensive bearer of hope: ten-point plan to boost hydrogen market",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc1o1NWd2U2hyMzE3YWlBUXpiT09WblhSeGIxZVBSQWNxV3hYLWdzMWdOd21NSEQ1VVlaaGlGYXJaSjVxNWVuejRRY0p2cGFhRF9FZTJrUnRjT2NHSlU5VjAxdndVRENHenVrUUl5V1JsUlFmUnlkb3JmLXZYUkNrVS1TR1lEYXI4M2VfeVBONXlFSEgtU0xDYXkxZFQ?oc=5",
-   "date": "2026-10-19T11:53:22.000Z",
-   "source": "n-tv",
-   "origin": "n-tv",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Germany to ring-fence €1.5bn for hydrogen in next year’s Carbon Contracts for Difference auction",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTVpyMlI5ZWlzd2M5Z2tHQ1ZBbEZLTUpQc1BzSHVJME96Uk9jSEc1eFNIZV84dTk5N3JTY0Z0OXBUQWZoNEhtWU94X1pGUFR0cVNza21tYVJ3RWJhQ3p0YUNjR2RWVGxUVkcwNWxwY0NmVW50dUhaTE1tX0U1WGxnYVlEM0dZbENGdU1JREpsVnVLc2ZNMEZ2MUpWT3FTSlpUaFpEYkZKVC1aQmZSRjV5X2ZKNnhpdXZnaEN1T0lCNUtlbGNkeEcwN2p4dDV2bHVVMzdZREdpNEM0TVRLaGRj?oc=5",
-   "date": "2026-10-19T11:50:58.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 12
-  },
-  {
-   "title": "Germany unveils plan to accelerate adoption of hydrogen",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEJxTHRZWDdibl93SndRblVOMXgzcy1CSmJZd1Z5SVg5NWNXYmRlZnM2cHhpcVZiblNNOVd0ZTVIb0RNWlEzWTVJV0N1bmg4Zk8teUozUV9peVJNU2ljNmxybUN6dEZEUzN5M0lMR0tMdFQ5dS1TdjV5VVEtNGJvZFlsdE9aNDdxR18xaWhPYjNUTkY3Sl9IbkY1WXhrTl9USXpJ?oc=5",
-   "date": "2026-10-19T11:02:32.000Z",
-   "source": "Reuters",
-   "origin": "Reuters",
-   "image": "",
-   "topic": "Other Hydrogen News",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "F&E: Stadtwerke planen 3.200 MW Elektrolyseleistung",
-   "titleEn": "R&D: Municipal utilities plan 3,200 MW of electrolysis capacity",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGZDX2M4dkJ4N0lVOFQ0X1FvSG1BYlkzaENwVENPVW5kbEdXZWVIRDAtVnU0UlZEcmpPSGdLazFKTGNVaWgyZE5CQ0xCNmVmNTZWOHRYb1N6b2E1T0lNMl9IcTY2WEdfYjNtLW8wY0YxamtnQ3YzLWxWU3FnRGh1VDc4LUVaV3lBZEdOLXlhSkhjbGJnalBNRGNubWotNndnaXZpY2VNTEc5UDJzMXcyVXdYX25Mdw?oc=5",
-   "date": "2026-10-19T10:55:00.000Z",
-   "source": "Energie & Management",
-   "origin": "Energie & Management",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 9
-  },
-  {
-   "title": "ITM Power FY26 slides: record revenue, 83% profitable backlog By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkpfYk9IYlpGc3MyLVIzLWVkaXAzOEJBcEtHQ2dsOHNqREhSQXJnRFBnNW1CVk0zcXIyXzd0MlowMDRQeUR4TXVlSVQwZ0hsWmhUVXVDTGFJaThwQ1Q5Uk1FdmVEcDlYYWFNdElMRHpXZWJVN25tQzJiS25JekQyeHlmdjNuSkh6eFMyeVJvTUhwNllnaUFVQXhnNmg4WUdsaWl3VEhHODI2elRFYVltaTNfNjZQNDB1ODAw?oc=5",
-   "date": "2026-10-19T10:14:13.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Elektrolyseure - Cummins beauftragt Stargate Hydrogen mit Ersatzteilversorgung für HyStat-Flotte",
-   "titleEn": "Electrolyzers - Cummins commissions Stargate Hydrogen to supply spare parts for HyStat fleet",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnJPOTJKWVlXSlBUU2g1aERYMC1Sb05nV1A0clhCU0pCUTZOZFhCMl96TTYwRFRqRnVQUXd6bEJqOXdpUUhqQzV5bmxha05KbVNlSWFRSjhWMU5wYXBkcm1wMEdpTDhObDE2bzVVemR0dUpSQ0NjenBQczBaUTZuRGVBNTE0RnVacDdfWlRHbGhtcGx4WkdiWHBFUmNvUDRLX3RXMk5TOFB4cUJsd25WNlhmZUdWTkt5?oc=5",
-   "date": "2026-10-19T09:50:06.000Z",
-   "source": "HZwei",
-   "origin": "HZwei",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 6
-  },
-  {
-   "title": "Reiche stellt neues Paket vor: Wirtschaftsministerium will Wasserstoff-Ausbau voran bringen - Milliardenförderung",
-   "titleEn": "Reiche presents new package: Ministry of Economics wants to advance hydrogen expansion - billions in funding",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjJkVlFJSi1pRnFvd1B2NUVwYWdPaklBSkEzZUlOUDV1UWdKM1JOZlhkakdPZnc5Ti1Zc2Y3cHNITEQ5MS0yaUpyLXNYbENGNUtYRXl2bHhSb0VBQy1EVUlyRV8zNnFhbHRzMW9vd0FDOGhTNURjR0tRNlhCbS15MmlFcFNkQkR3MmRfa2FMYVVHcUFLOFhiYmFuRDRUVFhxT292OWtseHFES2lGS3RBcGpaSmhmcUxlT0liVnl1Tmxzdw?oc=5",
-   "date": "2026-10-19T09:30:27.000Z",
-   "source": "n-tv",
-   "origin": "n-tv",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Germany",
-   "market": "core",
-   "score": 5
-  },
-  {
-   "title": "Greenzo Energy Secures ₹2.51 Billion to Expand Electrolyzer Manufacturing",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQklvbW9JZjNCNjVmVlBaUVNlUHphNk94STA3OFdEZUcyMTNrZmV5MFlRMXlnUzhlYTJYYnhpVmdSNG1nWE5ycEJ5NmduNmdwSDF5MG9lQTZ0cDVQeWZmcEJmVGNUcE41SkdodnVGQ1RFeVdjRzNzeDdneXJCeGM1UkRZTW0wNWdOaFlVc29zRzJmQjNoUFdfTTRzeDBKUUtBcUVKbHJzYXR3Nzl4WkE?oc=5",
-   "date": "2026-10-19T09:27:55.000Z",
-   "source": "Mercomindia.com",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "Cummins selects Stargate Hydrogen to manage legacy alkaline electrolysers as it steps back from green H₂ market",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUVM5MmZaT3R4UHFPS0pPR3hqcFNsc0pwZ19WaFNVRFRnWFNFaHdRVERBd3pkZjF0VGVmaGQwSm4zQ0d5T294ZjVJYkU3U1FCQ2Z3c0I3T00zaEtsUk92NnlmMGFrd3JhYzdZRy02REp1SVp1bWV4aS1vNjNaSDIzSGhlOVJpcHdpN3RYRklJQUF6dmFtdUxkaW9ZbTN0RDhQZDFBRGRFNEFSUVpEcWJfaV9Wc0Itb2xIUlZBZkNqNlBRZ0lfZDBVTDRoUmw3TXVSNm8wQWJIX29tRjJDVW1xZTVXdnNTZXZScGw1ZmcxMjlSTDdIei1EM3NxQlc?oc=5",
-   "date": "2026-10-19T09:24:24.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Uniper agrees 40,000 t/yr e-SAF offtake with Arcadia",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelJTZEJtUElQR3NLdkJuZVlZWFF4bHRIU3ZEQ1RBVFZfNGI3bWZhNUhKbFVPeDFWWnhiWk43a0lRWHptbW8yd0FJU2dBNWJ6a2NmeDBHaXZja3lOQmpYSHczdW1hVTQ4Y19qWnhYSkRQR3N1STdsTFJzU0xYX2l0bFJ4dzF1RDhhb25xdkZldjNHOUV6U3Frc0lEaDBhdjV2QnNFOWFja1ZGWHdlX3hIbEpJZWhfcVdXWHVXalZETFE4dU53OXc?oc=5",
-   "date": "2026-10-19T09:22:24.000Z",
-   "source": "Argus Media",
-   "origin": "Argus Media",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "Von 320 auf 820 MW: Wie Deutschlands größtes Wasserstoff-Ökosystem noch größer wird",
-   "titleEn": "From 320 to 820 MW: How Germany's largest hydrogen ecosystem is getting even bigger",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMDBPZ0poSFppYkViT3VWRjRFMzJOYVNmVm1kNDBQTUg5a21CVms3OFJfSjBjQXpfTENOeWN5Sm11dEstdzZwSndYVXF5ZXRNZlFRdUJWLVBHOFl0Q0dvTWVURWpra21lYnpyWE9GQWYzUnhpN2dFaHlETm5uQmx4d2daZXU0dGhucVNzSWZCUzUzZUVJNXhkLUVQYjE4S1lTbTlRME9lN05pRnFZc3FYcFNoTHFaRnJPcmlQcU41dmFMS3MzM0RZcU9waF84UmtybU5rLUJxMXc1MU9rakJPTDhXbmdVSTZQMjNtZQ?oc=5",
-   "date": "2026-10-19T09:17:07.000Z",
-   "source": "ingenieur.de",
-   "origin": "ingenieur.de",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 7
-  },
-  {
-   "title": "Erster Wasserstoff-Großvertrag: Salzgitter kauft bei EWE in Emden",
-   "titleEn": "First major hydrogen contract: Salzgitter buys from ewe in Emden",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYTN4UXV4RFppMEpkTnRnMk9oY3NZQXdQQ01WOVNTRDRfdkNRTG1oOHhZR2hQNzNmZ3F6REtsTnROb0xDQlRSSzJLTmdmY3loLUdMM3NwUGxlUFFuNFMxSUxnYVkwM1lMVW1OUjFvNnpHVUFJQlMwNTl2U3VxcVVZTVpwVk15ZXZOTXZXTlllNk9lN1FmbnVUQi1acVNzckhJb1VxQ0lub3Z0TUNKaXl1MFlEdFhkQ01sWllHZmt3T1VjWmhOcFBwSzA2TDdKMGNRdHMxYnlYZkJMQzNqNEVZU1VKVQ?oc=5",
-   "date": "2026-10-19T09:02:07.000Z",
-   "source": "ingenieur.de",
-   "origin": "ingenieur.de",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Germany",
-   "market": "core",
-   "score": 4
-  },
-  {
-   "title": "ADB, Japan provide financing for AM Green's ammonia project in India",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXpLa1dLclN1RmNmWHptQ240cktkakpIUFRaVlB2YXZRRzd6ZWFYWE9acDZVWTNrX3habWJ1aVhaY1h0NXI4WHpQLUE5MUdhdUYtZTZQbnUtanZxLTY5YzI2Ymt0Ykxldm4wNVdpY3NnajRIVXYwMTJwTUhVRmxhVGRmdUNCXzJhdmJPM2cwaE5keDNvNXYzLUdBWWF0MFJib0VhbW9OWE5UZw?oc=5",
-   "date": "2026-10-19T08:31:25.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Cummins commissions Stargate Hydrogen with spare parts supply for HyStat fleet",
-   "lang": "en",
-   "summary": "Stargate Hydrogen takes over the aftermarket supply for the alkaline electrolyser fleet of the HyStat series from Cummins. The Estonian company will henceforth supply replacement stacks and services for more than 400 installed systems in 65 countries.",
-   "link": "https://www.h2-international.com/market/electrolysers-cummins-commissions-stargate-hydrogen-spare-parts-supply-hystat-fleet",
-   "date": "2026-10-19T07:48:33.000Z",
-   "source": "H2 International",
-   "origin": "H2 International",
-   "image": "https://www.h2-international.com/sites/default/files/styles/content__zoomed/public/aurora/2026/10/572491.png?itok=nIH-vYrb",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Global Investor Commits Over $600 Million to Support India’s Renewable Energy and Green Hydrogen Expansion",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUdDal9VN2RKa2hxRGFLNjNBZnM5eFgxUnBuY3NDSVBhZ0lneWRWNzloMTFzcG9aRGYweDhXd0dmMU1XNTd6U0JYUVFpdnVWVXNMYnB4b2hzdjd6VUhnWkhaNjRrTlU3cFcxYkV0SGZFdWRUaGFuNFNManIyZzRObHNaNnJrMEwxY09uMFU4dFYzWHJNVFU4SkcwYVBvaDFGV3V5WmRmMC1TV2tHSm5sTG42M3pRcEdSd0wwekxBYkNzbWx4azhVdDh5OEJsbXAtajlpTnJ4OGo?oc=5",
-   "date": "2026-10-19T07:00:00.000Z",
-   "source": "SolarQuarter",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "Thailand approves $44.5 million from Toyota investment in hydrogen pickups",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR1JpWk52VVBJN3hoMGkzMVAweUhWSThCTjgxamVEZEg3V05TZkxlLUZlajhyZy01QmR2d1RTUndpczZrMk4tNnJtU3ctZ0lNWC02b1lSbHM1Y21nNmctZjFRTFpRUEJkODk2WGUzOEhNcGhmM3VSVTYtUWJDWlVyUmJ3RWdVamxnR2lPR1Zqa2RSOGJxOWhwNTQ1Y2tKNFZ1UHZUVWVJWThTUTctSHZBOW1qOUY0bDY2UFBSSHA2RnZuYUJGc3pNdE5BUTNGTHJ0ck1OY0VEbFVRck0?oc=5",
-   "date": "2026-10-19T07:00:00.000Z",
-   "source": "TradingView",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "ITM Power Revenue Surges 68 Percent to GBP 43.6 Million",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEdXdjl6Q0prQ19uQWl3bjY5MW5MZGFMbFNTS3ZOS1RDdkdoT1J5bnE5WGs0TjlQSEtlRHNEOFptQTBqS0ZzaGNKaUNfMFNJeDZ2Z3JuOXhyNlAzWHVHbTF4WUpnZUpRZUFkNk9OZ0g5RkdLbkRvaFRSZ2lxUEZFdnVGSWtBNXA5RFRTSWZTek5Gdk5WZDJwN21Yc25UWTFSejdJeTQyVFZFTjVtYlhfSUxQMExwTWVadC1jZVVXLVRyNlRlY3ltalRKY25BbURGOUE?oc=5",
-   "date": "2026-10-19T07:00:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "Chinese electrolysers’ cost advantage over Western technology shrinks considerably on export: IEA",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTkwtalFFa2h1RzFFYjlrT2hnZ2NMZFBRUl9JU3E2OTNrM21qZlJsOGdwLVlMdnlCT18zU0h6OGc0cnJhRUdfSm5sZGUya1E0TjJfNGNDcnV3RXRGRHVuWjh6OE5ISVAzaG1XRW5yUG9pd3JjR0FxeFNJOTRsOXVQd0pENXZHQS0xZ1V1Qi1SSXhNM2t1cDVRZ3laNnNhR29UTmFORjNXYWxybWw0bGJiWWgtaEhoYzhPRi00YTRwbFlub2JhcG9SbHpzMmhYOTh1TkhIZldJNjhPckdIbld5S2txQ2pTcFRT?oc=5",
-   "date": "2026-10-19T07:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "BOI backs Toyota’s THB1.49bn hydrogen Hilux production",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NVnBCVXNwSjNkdGZUQ3VMY1BiUnlYVFpKVlNlejhrNTZEODBPUEJmTkRnMlloYkZWa0Y2MFFfTGlYOGxwc3pBV09lZi16UmdaSGZyVG9mNzBBUVB6Y1JTTmtfVVBhRWdreWdN?oc=5",
-   "date": "2026-10-19T03:47:00.000Z",
-   "source": "Nation Thailand",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 8
   }
  ],
  "sources": [
@@ -11430,7 +11019,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 110,
+   "shown": 109,
    "status": "ok",
    "error": ""
   },
@@ -11455,8 +11044,8 @@
   {
    "name": "Hydrogen Central",
    "shown": 63,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Hydrogen Europe",
@@ -11466,7 +11055,7 @@
   },
   {
    "name": "H2 International",
-   "shown": 12,
+   "shown": 11,
    "status": "ok",
    "error": ""
   },
@@ -11478,7 +11067,7 @@
   },
   {
    "name": "H2Global",
-   "shown": 3,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -11682,7 +11271,7 @@
   },
   {
    "name": "Chemical Engineering",
-   "shown": 15,
+   "shown": 14,
    "status": "ok",
    "error": ""
   },
@@ -11695,14 +11284,14 @@
   {
    "name": "Bioenergy International",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Green Air News",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "gCaptain",
@@ -11713,8 +11302,8 @@
   {
    "name": "Splash247",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 415"
   },
   {
    "name": "Euractiv",
@@ -11736,7 +11325,7 @@
   },
   {
    "name": "Handelsblatt",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -11748,7 +11337,7 @@
   },
   {
    "name": "n-tv",
-   "shown": 3,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -11856,7 +11445,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 74,
+   "shown": 70,
    "status": "ok",
    "error": ""
   },
@@ -11868,7 +11457,7 @@
   },
   {
    "name": "Reuters",
-   "shown": 3,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -11886,7 +11475,7 @@
   },
   {
    "name": "Argus Media",
-   "shown": 4,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
@@ -11898,13 +11487,13 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 30,
+   "shown": 26,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Energy Voice",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -11922,7 +11511,7 @@
   },
   {
    "name": "energate messenger+",
-   "shown": 6,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
@@ -12096,7 +11685,7 @@
   },
   {
    "name": "Plug Power",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -12150,13 +11739,13 @@
   },
   {
    "name": "HZwei",
-   "shown": 13,
+   "shown": 12,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Chemie.de",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -12186,7 +11775,7 @@
   },
   {
    "name": "Energie & Management",
-   "shown": 8,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
@@ -12204,7 +11793,7 @@
   },
   {
    "name": "ingenieur.de",
-   "shown": 3,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -12258,7 +11847,7 @@
   },
   {
    "name": "Investing.com",
-   "shown": 26,
+   "shown": 24,
    "status": "ok",
    "error": ""
   },
@@ -12354,7 +11943,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 21,
+   "shown": 20,
    "status": "ok",
    "error": ""
   },
@@ -12366,19 +11955,19 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 22,
+   "shown": 21,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 14,
+   "shown": 15,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 69,
+   "shown": 63,
    "status": "ok",
    "error": ""
   },
@@ -12420,7 +12009,7 @@
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 20,
+   "shown": 21,
    "status": "ok",
    "error": ""
   },
