@@ -1,13 +1,296 @@
 {
- "generatedAt": "2026-11-18T07:20:39.143Z",
+ "generatedAt": "2026-11-18T17:12:56.257Z",
  "articles": [
+  {
+   "title": "ACME reaches FID on $3.6bn Odisha green ammonia project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnJZOC1kcXc3bUZLRGhBazVaMElpWDNBaEtZQm54LVF6UmxXbjBZVGhsTWRuUFVJSDlCMllFRklRdjhkbzFzank1ZnlrSkFuWUNrTDhycGQ1LW96VVRhcXNwdEw0MlRxYWEzQWU4bnBDR3VZOUo1YVFZX0NSN2tBZnczUFRCQVViX1NlVTEyRG9uTVRYOGdOZUtlWExLMVh6VUsxSw?oc=5",
+   "date": "2026-11-18T15:28:09.000Z",
+   "source": "gasworld",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 14
+  },
+  {
+   "title": "Rosebank Equinor warning on investment in hydrogen, CCS",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmp0MVhvdW8zcW5GT2RKazJpeEt4R2lZb3hsZE40aEVDNXlHb0RrWk9LcThWS1pwQ2h5d3RlSEFDQ3h2TVVPUjVSTzgtTHR0RWVvcUNUM1hGMnhLNXhHaDM3R3BVZ3gzN0NZQ1ZOZkxJUFhfNGZrZ20zWVZBSzhDQVZWMUNiT2c?oc=5",
+   "date": "2026-11-18T15:08:04.000Z",
+   "source": "Energy Voice",
+   "origin": "Energy Voice",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "ACME takes final investment decision on $3.6 billion Odisha green ammonia project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXZSVno0VXg2c05LMmNfRWhNM25yN1RJZkdWNG1jM1gydWFHQ1ZOenFKSXNKTnBKQ3c3Qmo0REY1QkIxMF9xMmxuMkQ2VWprMVhZWm1YQnJkSjNINlc5dGpDWEFQMWhNZTdTOHJxYTJXRHRnaEt5a2V2YVExN3pvcF9fc1loRGVaLWE0Z0RzU3dfcm1rNm1ESTZQUzNENEtiRTRBZVVwYnpnT3UtUGxVLThOTjN2Q0FJSllLTDlZOGlNa0pZR0cxSjRWVlEyTy1iTHNZ0gHYAUFVX3lxTE5pS0lmR0tiaVRtNk9RSnMxOEtEWmRPdmhqYS1KSTR4ZHRyZGRMNFlidlZ4bFN6X3l6cmdiNnJodi1JVjZJNVFBN1diZFBYejdyM0k4SWVXR2x4YTVWU2JaQVVBX2tydjZIa2hUbWJGdy1PZkk5LWVMNDY0N1lMeFNpMXdSUXh3VEJKMFZ3TUdRQWY0N0VBMzJzNDZsc3hIOERpLTZEQXkxYWExLW1FZjZhUmJhRFVDMTZaYVdJdWNiSWpJbmVZWDBvSC1uZE9KRUZGSnJxZ0xFYQ?oc=5",
+   "date": "2026-11-18T14:38:45.000Z",
+   "source": "Livemint",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 16
+  },
+  {
+   "title": "Technologie - Pilotanlage in Sachsen soll Wasserstofferzeugung ohne Elektrolyse demonstrieren",
+   "titleEn": "Technology – Pilot plant in Saxony to demonstrate hydrogen production without electrolysis",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWVHVURid2E5ay1CSzBHYXhfMGU4N2lNdnBWOC1kbFNzWU5LWlhpX2dROEVyYUNMOW5XSXhCZVNhcG11U05PTXVZRVZOMUEwdjMyRTloSll6cVlGSHRldDh3R0JUQkRRdGVDWFVma09jNm1keVNOT1Q5bHlES1VhenA1WjRNbWJzeERIS00xcjc5aUVhMUx0OFVvaVRlRVV5d19iMlU4QUVMOGcta2c?oc=5",
+   "date": "2026-11-18T14:09:28.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Tata Steel Plans 10-Tonne Hydrogen Production Facility In Odisha's Kalinganagar To Reduce Carbon Footprint",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMUw3c0NKRHlVdG51aGt2ZHFlX3FLb3RiOU9RWWp4dTdJRGhpRUliSWZHMmYybnJQQ0ZDbG80NU1NZHRiZnRNSUlxN1Z6NUxmT2RCZDVIXzNUdVotMFRFLXFwbDRKRXVPSk1vOWZMMVgyUTltRlM0SDhaSGozUG9GVENlSDdGODlaaG1RM0R3S3lqOFQ3WkFBRWN6QUFXRUVzT2cyUjN4RHBrMVVTdW1tNGpPbU1BeXV3Mm5yUHFpZERlM2NhVzlra21DTjhzYWZwUE1FX3dOeVA1ZEtRVDJVMUpYNFhSYUZjU3Vn0gHwAUFVX3lxTE9YdnVlQTBaMm5jR2tBVXU0Z1VMU1pzeTVjQXo0cW1EdFFPV2F3MzNwZGdPMHM2Zm9faWx1MHMyWnI5YWFHR1J4ellmdWhCb1VrLU1MbEVfdVVGWGw2eGFQT1EzM2tGUUxuQ1RpMGRTbHdNcXpVdlhGbFNSU0lIRjJwV1YwRG9vZEtRd1hUTGUyS2pBekFFbWo0WF9YQVlMenZuQ3pUSFVYMkgzU1ozNkVGbFUxcHAteHFqTHBsVkxtdEdqRW9Pbm9tX1k3b0RkRHo1bnhmdGVtTV9fc3FpNkpaTFdWX2RIcm1qQ21JMC1HWA?oc=5",
+   "date": "2026-11-18T13:33:17.000Z",
+   "source": "ETV Bharat",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Pilot plant in Saxony to demonstrate hydrogen production without electrolysis",
+   "lang": "en",
+   "summary": "The US technology provider One Scientific and the Dresden-based Ambartec AG plan to start a pilot project in Freiberg. They are combining a heat-based process for hydrogen production without electrolysis with the HyCS storage technology. A memorandum of understanding has been signed.",
+   "link": "https://www.h2-international.com/technology/technology-pilot-plant-saxony-demonstrate-hydrogen-production-without-electrolysis",
+   "date": "2026-11-18T13:24:31.000Z",
+   "source": "H2 International",
+   "origin": "H2 International",
+   "image": "https://www.h2-international.com/sites/default/files/styles/content__zoomed/public/aurora/2026/11/579969.jpeg?itok=X6nlp6G6",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 10
+  },
+  {
+   "title": "ACME takes final investment decision on $3.6bn green hydrogen and ammonia plant in India",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM0NpcmVlWmUtMGJZYWtmYkFPaWVJMm1DMzNVb1BnU2NTT0NKVkVhQ3U2ZEdQcG12S3BSNVhTc3JiblJJNkpCR0lKQi1xMWd4Y2ZEVUhrT0g0OU53ZHBiU1EyZnd2RU1MUVJtTG8zdGllemZKd3lnVW9EVTNQTG0xRmg4SGhhYzUxRkdoNEtFOTZ5N0wxSVBJM2YzcWZsazVfTUZ5VG1DWXhVM0wzajc3OXVrRnRjZUdQZzVrOTExemVIUGUtUmRoSHRMMkgtVThfVHA0amRFZndmQQ?oc=5",
+   "date": "2026-11-18T13:16:35.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 15
+  },
+  {
+   "title": "ACME Approves $3.6Bn Green Ammonia Plant Final Investment",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkFGc2RhWk9aWExPbmltQUVGOEo2QllwakQxRG9OZHRDNE4tSTI5cUExQXRLUTJLODhlUVdnd1pabkVOTWtuajliaDNxekZHeGkzZ1Z6SEJKYklKbjcwNnI2ZmNyYTdPY3JmZ3J5Tnp3am9zeDhReVlKUnVpQ1RTWG5EUC10Z0RHb0ZrVXJtOTIzMVYwYXNINmV6Nnl6TTgxUVFSYlpMMnZOYmVXTVFvTVRxVGdKQlB0bzdvd3BXUTRTb0dYNmlHeHJKMVlvUQ?oc=5",
+   "date": "2026-11-18T12:44:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "ACME's $3.6B Green Ammonia Project in Odisha Reaches FID",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJXNnFHZ24zdUpXcC0yejdoNExkOUtTdEtseTNxd0ZpbXNodGxmNlpjcGtteUg4M0lTQmgzbUFINllaSXFyWWotcGROZXF1TEpNUDVjUUhnWTlqSThjVVhLbm5nSVcxODlhVHFJMWktYUdhNUxvTFI4TVBqdXB5X1otNTRpX2pGeDdkTHhWbEltSGV6M1JkX2MwRTZvZ3g3N3JlNlVnMFFfZWfSAbABQVVfeXFMTV9pblRMU012aFVoV2xDOTI3TW1tZm1OLWNHaWYtdlphejc2cnM5QUlYNWdLck9RNXJtN3l6a3dGd2l5X3R6bGFmVzctbWhRaWtsMHlpTkt0MW9qc2lEMmpFa2VjMGJHLUQ5MGt1MTFzZTdsUVktSmdUNGxFWjUwQnZmS0xXSC1Lc2E4NnhfcTc2VkcxX2VHN2xjcG1YZjEwUHI2UnZGWm1hbnRJblBLTk0?oc=5",
+   "date": "2026-11-18T12:39:05.000Z",
+   "source": "Rediff MoneyWiz",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 14
+  },
+  {
+   "title": "ACME completes FID for $3.6 billion green ammonia project in Odisha",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaERYRGppR1NJWHlqUTlTUFM2OXd4Y0JSRjJjdTZVUmtGWllLQmFONG05dXdIZk44WGVRRmlpeUFMeTVBRmRvMTh4WUVRU3lUMTNPMUkyMUlxaVBiTmZudE9ERUM2UTFVcGdlR1RLRnVSbUU2RHJoUzJtTmNSY3FWT0V0ckZQUWZZWjBzV1lNX0JXa1h2OU45WGtId0V0ZDJ4YlJOTmVFZ0s4ZF80dC1BVURkVHdUbTBvN2FzOGxrcGNZdUpZTENfRkRCNEV5X0Rx0gHWAUFVX3lxTFBVR1lzc19LbG9ET3ZOZ0U5cXNwTUFUTmNkUnk5Vy05MmNkdlBRallpd3V1cExPNUFnbFBJNW40RkltRzVSc2hrVm9JdmZvV1ktODd4MnRhWmRDTFREN0lwRU9sZDV4SDFLQ0M4YnQ2eUJiVWRHRnhnQk53bVZaemItSThObkk2blpXUTEzQW5yRkw5VWo5Zi1vUHpOMlc3ZDNIMkpkNC1nRE4wT2g2b1FtSzdxNUFIYmZEdmE1bnpQQ21rSDFZclI1RWFETElPbDlyam1RT0E?oc=5",
+   "date": "2026-11-18T12:17:38.000Z",
+   "source": "ET EnergyWorld",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 14
+  },
+  {
+   "title": "PyroGenesis Selected for Waste-to-Hydrogen Project for India’s Largest Power Utility, NTPC",
+   "lang": "en",
+   "summary": "Syngas cleaning and hydrogen separation contract builds on the Company’s established India operations and its international growth strategy Syngas cleaning and hydrogen separation contract builds on the Company’s established India operations and its international growth strategy",
+   "link": "https://www.globenewswire.com/news-release/2026/11/18/3405513/0/en/pyrogenesis-selected-for-waste-to-hydrogen-project-for-india-s-largest-power-utility-ntpc.html",
+   "date": "2026-11-18T12:00:00.000Z",
+   "source": "GlobeNewswire (press releases)",
+   "origin": "GlobeNewswire (press releases)",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Tata Steel plans 10 TPD hydrogen project at Kalinganagar plant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fT3M1ZUZkWGlYNzFaSzRVUEZ6V194ZUd3a2ZsRE9HUmVKanlBbkhZWnJ3QTBBb3JPLXZ3MjFKbVJnNmhQMW1pVlZFUUE1dnpzRkN3aGdLdFVrd1dSZ1ZTRGVGLXdtTGFpQTdZMEs0TEZTdjE4eGl0M3JzMkpvUW8?oc=5",
+   "date": "2026-11-18T11:04:13.000Z",
+   "source": "Manufacturing Today India",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Jakson Green to buy controlling stake in green hydrogen developer Ocior",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWhrLWQ4ZmdFelFZbklEU2pzN2lMTlhaNlZ3R0xqWjVPZ2NTZVVCYlozSU1ZVjdBR2tFOUtZazVQWFFENHJWUzMyOElqM2JKUlphQ1R5cVE4ZEVnbFpPaTR6b2FLNGZVVEZhSmRhMlZnWDl0cFAwVEo5U2h3WURock9MVGtFLTg1WFZ0bXVocHl2LXNsYVZiN1VXWVdDSGRuTkNQRHFNZGxuV1pEMGUzdw?oc=5",
+   "date": "2026-11-18T10:17:52.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "INTERVIEW | ‘The UK government must act now on hydrogen, or risk investment moving elsewhere’",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEFUdmtmaEwxbFNQTWo3aXFmX1BkTmlybkJFVDFDc1FRX3VHVno4THNBY190MHZxVER0UDBPbVVlX0l0NU1ETUswUk54TGd4TXlIZ0FYU1ZBX2lxTGkyN014QmpkTldkb3U0VDQ3MXVaUF9Fdi05ejhIVE91SkQ5WGF0Q3pRc1JBdWJ5QzBsUzFzQVhtS2VuU1BCOEJWc2xlVjJ6T1RMdm1xWktFNHo3R0s3bHZvWUxaLU1FTXBtaUVzc1pDbk9KTWM0NDlGQU43WU9lNXJBSQ?oc=5",
+   "date": "2026-11-18T10:06:56.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "UK & Ireland",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "e-SAF-project in Texas krijgt 280 MW elektrolyse op basis van nieuw Plug-ontwerp",
+   "titleEn": "E-SAF project in Texas to receive 280 MW of electrolysis based on new Plug design",
+   "lang": "nl",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkZWTDd5NzVBdGotZWlMMEV5amJWVVJxRXRJeDNSRV94S1k1TEdKT0d0RVFpNEdLY19heVVHRlZnNDlpRTRnZFkyd2p0TFhfTjFpLVhZSUV6blEwdEZIcm5IMTNwR2JGQzJvWmZjOUhPbVVnWFVLNU44SzU5dnZXVEZVcGZ4MDFUdzNFNl9Wc0g2aWk0ZFFnRWd2b2tLQV9HQ3gzOXJXeC1fUnFLeVR0bzB3amQwLU1vblBaRjB1QVk5N09hY3dPWQ?oc=5",
+   "date": "2026-11-18T09:10:32.000Z",
+   "source": "Industrielinqs",
+   "origin": "Deal search: Netherlands (NL)",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Benelux",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "‘India expects to see firm contracts for about 1.2 million tonnes of green hydrogen signed by end of next year’",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM3J4a1prVEk3ZnlMVE14UWVMTGEyV1pjYkE1TFBCejc2SGYxVWlVNDl4R0R1QzJMQ2F1QUJKX0pUUFBJZmY3NDNSNnFYbTl0OFFSbzJHUlpJZVFRa1pWWWhRS2pRVjlUdWdEM0VXRUJtTFhOZmI1X3VBaUlZeDVZRy1MYndOYXhnY1N3c2JBSDZUU3d6ckVySUQwOExlakdkNTJicFpRZzVaTk5VSHRETUZseHEyekxheV9vMXZNTnhwSDAzU1hBWjFSelJQc3VOOXc1bHlSdGNsc1VxZjVYSUdzNUo3bnB0akdVVUF1cmxSWW8zd1d4MGJn?oc=5",
+   "date": "2026-11-18T08:51:52.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Aus Windstrom wird Wasserstoff: Spatenstich für das Elektrolyseur-Projekt „Schlafender Riese“",
+   "titleEn": "Wind power becomes hydrogen: groundbreaking ceremony for the \"Sleeping Giant\" electrolyzer project",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZGdKQTdZYXVkTHlDWkdfT25VVGlCM1RZYlVGeEotZEdMcTlKQkNqeE84bUVJenM3WXZaaVlhYU1JVDY2aVE?oc=5",
+   "date": "2026-11-18T08:46:57.000Z",
+   "source": "Land.NRW",
+   "origin": "Deal search: project milestones (DE)",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 6
+  },
+  {
+   "title": "Plug's new electrolyser offering picked by Arcadia for 280-MW project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQU5BOERqWm9HcWZzN1JJODY1YUlXekI1aHhiYzVwRTV3T0hpTDNaR3BYS0F6U2s3U0pnd0tPX01nQXBuTTF0UzJvdmdnYjZPS2NQQy1IcUh0WmM5ZWtQbklzM3V3YmVOVk1ENk9TX2kyZU1oV216SFhBLWdqdVM2S0FiT05FclR1VEcyNzVST2xOQ0U3UWl5dlN1NzBtOW9VcVE4NlM0RTVDZVVh?oc=5",
+   "date": "2026-11-18T08:26:01.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "TotalEnergies Withdraws EIA for Green Hydrogen and Ammonia Project in Magallanes",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZl9HWEdMdGY3UDVGeHdUeGJ2WVZuZGI4MXBhTElZZ0NFX0RrSHM5MmZHdmpKelF3MEUwWjNSVFlKQkRyZFFiS0J2UnhRTzBGNmJPSFlGNHZHbHV3aXNqUHU1MWhlZkFMTUJzZXRnd193ZFFLWllSLWZqN2d5cWY5M3A2NFZtU096dTg2aGhBcUI1aUpZU250UmZ5aXA2Y202US1VV20taXd4eTFrYmxSVFQ5RVFxbW42Y0JmVmVvX2t5SlN0X2c?oc=5",
+   "date": "2026-11-18T07:45:20.000Z",
+   "source": "Data Portuaria",
+   "origin": "Deal search: cancellations and delays",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Hy2gen secures EU grant for hydrogen project in Denmark",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUoxUDlyRDdqWUUyb0hrd2s4QTdESkhWMXBxRDZJWWlOSXBEdk9RNlB3T1FNYzZENWxaaUY0SmxKOHZ0RFhiVXoxS3dsai1vMFJQRVJMOGFuQWVCNVNVRjB5b2pQMDZvOGFGVWJhZHZGS2ZTejJFQ1J2eXlBUnpCd2hPWWhSNVFMOFVzRnZYUXktNk01TVc3QzI4QQ?oc=5",
+   "date": "2026-11-18T07:43:21.000Z",
+   "source": "Renewable Watch",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Nordics",
+   "market": "core",
+   "score": 6
+  },
   {
    "title": "Asahi Kasei, Circularise und Furuya Metal starten ein Projekt zur Rückverfolgbarkeit von Edelmetallen in Elektroden für die Chlor-Alkali-Elektrolyse - Demonstrationsprojekt zielt auf Versorgungssicherheit für die knappen Metalle Iridium und Ruthenium ab",
    "titleEn": "Asahi Kasei, Circularise and Furuya Metal launch a project for the traceability of precious metals in electrodes for chlor-alkali electrolysis – Demonstration project aims to ensure security of supply for the scarce metals iridium and ruthenium",
    "lang": "de",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWm1Dd1NBOGw0dHNTbHFaM25nU2FqcWxsR2pfVlk2eFBNNXh0ZnBpWnZFYlJZT2pBTDg4XzlSY293X3pVZ0RKUjVUNDFXNmMxLUVrYlAzenVaY0FMSG1DNnZHbk1xMklaVjNQSEE3T292UlJYRmRYSWJLemY5TTJjTmZRRFg5amY5eTJZS3haMTZYbXhKbTd3YndjRWpBajNvX1lGX3NoZEU1Vi1VbklUTDQwVGh5TTdSX0NUdkRkQUNuZlhOQlVVZ2JKdDJac0ROd1hyUHd0TlVwdjNOY3BiWFduclgtT1FRanlkblpHOEpHd0o1cVE5Q2xQVVN1bTlONndadXpQZ191Qmp6aWRCN2tJOGJua2Nv?oc=5",
-   "date": "2026-11-18T05:05:19.000Z",
+   "date": "2026-11-18T06:06:43.000Z",
    "source": "Chemie.de",
    "origin": "Chemie.de",
    "image": "",
@@ -15,6 +298,48 @@
    "region": "Germany",
    "market": "core",
    "score": 4
+  },
+  {
+   "title": "Germany counts nearly 700 tonnes of green hydrogen towards national transport emissions quota",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdW90cnZXZDdsZG14UXloQzk0Ni1Ta2hPUGNTNWtNTW1HUUtRNXl3MXJRSUdYdVVTSlBzanRlbFVxb3l3cTlUX1JFdGUxUnRqOGJ6d3hwR2VLQUFJd1hYVXM3b0VJd1VQbnpBVjFrS1Jsb1lGRGVaZUhhXzh4RTRvZi13emxDQmpQRjAtZEhUdjVPR0R6R3NpWGRiQTRiYlRpNDktMmI2bEJwVnAzdXdFTFJLQ2lJaVVITS02RnJMY1lVdS1EakQtX2xWYThZMzVkZmtvLXU1WHdUazJ6cnZJREJn?oc=5",
+   "date": "2026-11-18T05:31:13.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "Petronas subsidiary announces 870MW Titan green hydrogen and ammonia project in southern India",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM2k4dV9wUzJjQjZRZU14N2tjVHMySUZ3aURGbGdiRW1Cc0tiMDNzNDdNUnJYcEt1WHozT1hjMkZ5Zjg5UEV4VjRFOGN0OXBkbzBMb0ZNdEtqZVkyZXpmMVRaN3FwMmtjMDcyZ2lPZjRXZ1NoZ3l4dHhsLUgzcjd0VHhLLTlweHozejIyXzVEeHgwUWhnM1RDQ1lGaFZYT285Mnh1bEZUNHNPeGgzc0gtM3RQQ01wNnBKY0IySllHMXpKM1lQRkUyM1RtTlB5YWdm?oc=5",
+   "date": "2026-11-18T04:21:46.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 11
+  },
+  {
+   "title": "‘Green hydrogen only bumps up cost of end-products by a small amount’: H2Global",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3psVFFKck9FSEl6aUJwcW56cWJXWUhqcnNfal92bDZFdGF3c21Qdm1EZ0hHc0dwQVE1R2dXenFjZTFMb0hBMGNkTF9YS3ZSVnJBZGVHQjVFSjg2ZXM0d21iYkhTU2VYZnNPd090aHhkRDBGQVBZeHFWYzBhVW5uZGw3bjUxZmNWWmx6bWVXQUdSazNIRmNMcE5sR1ZpaXo3Y1hoZ2JvOFVzNXpvUjBMLVVRSWxvSXU5Y1BGa09fMVloVUNyU3JHbDRRcWM?oc=5",
+   "date": "2026-11-18T04:21:46.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Global",
+   "market": "other",
+   "score": 5
   },
   {
    "title": "Indian renewables and green hydrogen firm takes majority stake in fellow developer Ocior",
@@ -31,18 +356,18 @@
    "score": 4
   },
   {
-   "title": "Petronas subsidiary announces 870MW Titan green hydrogen and ammonia project in southern India",
+   "title": "EU picks date for fourth European Hydrogen Bank auction",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM2k4dV9wUzJjQjZRZU14N2tjVHMySUZ3aURGbGdiRW1Cc0tiMDNzNDdNUnJYcEt1WHozT1hjMkZ5Zjg5UEV4VjRFOGN0OXBkbzBMb0ZNdEtqZVkyZXpmMVRaN3FwMmtjMDcyZ2lPZjRXZ1NoZ3l4dHhsLUgzcjd0VHhLLTlweHozejIyXzVEeHgwUWhnM1RDQ1lGaFZYT285Mnh1bEZUNHNPeGgzc0gtM3RQQ01wNnBKY0IySllHMXpKM1lQRkUyM1RtTlB5YWdm?oc=5",
-   "date": "2026-11-18T01:41:15.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWI0RWIxNkNtT2ZjcEkySktqd2QxSzlnR1d3TVZvQ2NOVnVSRTNlRmVHamlYckxNdVNHWUYyNGc3czU1a2pEUHJUY01qakVVQW5XbXdFN0JRUkktMHhmYkV2M2tER2RyUGdLSF9xN0FJOENaUG50Ujc5ZXVsX0tmTVRkVWw4V1dHcUhadG1TUElOZk5IRnRMYXpfVkZqMWlvYmpITFZkeDB1dw?oc=5",
+   "date": "2026-11-18T02:26:15.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
    "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 11
+   "topic": "Policy & Auctions",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 5
   },
   {
    "title": "GeoComputing Signs Memorandum of Understanding with Gold Hydrogen to Explore Private AI for Subsurface Workflows – Company Announcement - FT.com",
@@ -396,6 +721,20 @@
    "region": "Germany",
    "market": "core",
    "score": 4
+  },
+  {
+   "title": "Plug Power unveils new integrated PEM system for projects of 100MW and above",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORm5nQjhNNHV4ekVNc1dSeTZrdjhfN0hwT1ZMNzUwLXptOUw0QWFSeFI5bF9qVGp0YWRxaXRTQVFBYWVGRzJ6OURjU0dxTFJoMVl1Y1NaRVZBLXpscDZvdWt0YTlCNUxTZUd1S201bHp3ekVUUVg2TFJ2c29ycWZjdzBzTlh4VFdTSTFUcFRqUkp4YzNVb1VidllibmlIdENtU1E3Y3B2TUxVX1JxLXVfaXRvazFMbUljR0RIXzU5TUdXeHR3YUhGR1gza3ZpXzQ?oc=5",
+   "date": "2026-11-17T13:06:28.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 8
   },
   {
    "title": "TotalEnergies scraps $16 billion Chile green ammonia project",
@@ -6955,11 +7294,11 @@
    "score": 4
   },
   {
-   "title": "Kritik an russischen Ammoniak-Importen in die EU",
-   "titleEn": "Criticism of Russian ammonia imports into the EU",
+   "title": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
+   "titleEn": "Criticism of ammonia imports: The EU, Russia and the explosives industry",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JQzV1X0gyVmd2cXJzMU5hdVhzbWxwZGduWFhlZ1FIb3dIdnYzVkIzZEIxenBwVTdudnEtUW1lV0NqSUdyQUJEcmlHTmhaRzhwZHhIQzJsRUZ4c1JyWTc3Z3hnYUVsTzlhYjM5dmZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUWVIWkV1VUltTU9tYnkyLWJTeUFENzJ6d0ZnaXlhZzJZZDVhNU9WRDR1ejJFcnRfekl1VjhxLU9qNVR4MFhSRzZYUDN2VmQxQU1DZmw0dmhzOVlIUDhERFNyUk9FNGxiSDkwV3lkWHgyRXVENDUzOTMxVHI?oc=5",
    "date": "2026-11-02T08:00:00.000Z",
    "source": "Tagesschau",
    "origin": "Tagesschau",
@@ -6970,11 +7309,11 @@
    "score": 3
   },
   {
-   "title": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
-   "titleEn": "Criticism of ammonia imports: The EU, Russia and the explosives industry",
+   "title": "Kritik an russischen Ammoniak-Importen in die EU",
+   "titleEn": "Criticism of Russian ammonia imports into the EU",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUWVIWkV1VUltTU9tYnkyLWJTeUFENzJ6d0ZnaXlhZzJZZDVhNU9WRDR1ejJFcnRfekl1VjhxLU9qNVR4MFhSRzZYUDN2VmQxQU1DZmw0dmhzOVlIUDhERFNyUk9FNGxiSDkwV3lkWHgyRXVENDUzOTMxVHI?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JQzV1X0gyVmd2cXJzMU5hdVhzbWxwZGduWFhlZ1FIb3dIdnYzVkIzZEIxenBwVTdudnEtUW1lV0NqSUdyQUJEcmlHTmhaRzhwZHhIQzJsRUZ4c1JyWTc3Z3hnYUVsTzlhYjM5dmZB?oc=5",
    "date": "2026-11-02T08:00:00.000Z",
    "source": "Tagesschau",
    "origin": "Tagesschau",
@@ -11055,7 +11394,7 @@
   },
   {
    "name": "H2 International",
-   "shown": 11,
+   "shown": 12,
    "status": "ok",
    "error": ""
   },
@@ -11200,8 +11539,8 @@
   {
    "name": "Electrek",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "electrive",
@@ -11427,7 +11766,7 @@
   },
   {
    "name": "GlobeNewswire (press releases)",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -11445,7 +11784,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 70,
+   "shown": 77,
    "status": "ok",
    "error": ""
   },
@@ -11487,13 +11826,13 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 26,
+   "shown": 28,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Energy Voice",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -11739,7 +12078,7 @@
   },
   {
    "name": "HZwei",
-   "shown": 12,
+   "shown": 13,
    "status": "ok",
    "error": ""
   },
@@ -11943,7 +12282,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 20,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
@@ -11955,7 +12294,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 21,
+   "shown": 23,
    "status": "ok",
    "error": ""
   },
@@ -11973,13 +12312,13 @@
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 24,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 32,
+   "shown": 33,
    "status": "ok",
    "error": ""
   },
@@ -12003,7 +12342,7 @@
   },
   {
    "name": "Deal search: Netherlands (NL)",
-   "shown": 14,
+   "shown": 15,
    "status": "ok",
    "error": ""
   },
@@ -12015,7 +12354,7 @@
   },
   {
    "name": "Deal search: project milestones (DE)",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   }
