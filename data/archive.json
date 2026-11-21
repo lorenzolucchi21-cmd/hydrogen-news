@@ -1,6 +1,62 @@
 {
- "generatedAt": "2026-11-20T16:55:59.929Z",
+ "generatedAt": "2026-11-21T01:28:05.681Z",
  "articles": [
+  {
+   "title": "PowerCell Receives SEK 440 Million Order for Utility-Scale Green Hydrogen Power Generation Installation in the US",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/20/electrolyzer/powercell-receives-sek-440-million-order-for-utility-scale-green-hydrogen-power-generation-installation-in-the-us",
+   "date": "2026-11-20T17:13:54.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "Swedish e-SAF project selects Siemens Energy for 200MW electrolyser supply",
+   "lang": "en",
+   "summary": "[…] The post Swedish e-SAF project selects Siemens Energy for 200MW electrolyser supply appeared first on Hydrogen Europe .",
+   "link": "https://hydrogeneurope.eu/swedish-e-saf-project-selects-siemens-energy-for-200mw-electrolyser-supply/",
+   "date": "2026-11-20T17:01:00.000Z",
+   "source": "Hydrogen Europe",
+   "origin": "Hydrogen Europe",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Nordics",
+   "market": "eu",
+   "score": 9
+  },
+  {
+   "title": "121-mile pure hydrogen pipeline with 100,000-ton capacity enters service in China",
+   "lang": "en",
+   "summary": "China’s first pure hydrogen pipeline transporting green hydrogen over more than 62 miles (100 km)...",
+   "link": "https://interestingengineering.com/energy/china-first-hydrogen-pipeline-enters-service",
+   "date": "2026-11-20T16:59:54.000Z",
+   "source": "Interesting Engineering",
+   "origin": "Interesting Engineering",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "TEAL Mobility Starts Construction of Its Hydrogen Refueling Station in Antwerp",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/19/electrolyzer/teal-mobility-starts-construction-of-its-hydrogen-refueling-station-in-antwerp",
+   "date": "2026-11-20T16:57:48.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Benelux",
+   "market": "eu",
+   "score": 5
+  },
   {
    "title": "Utility Global and Tata Steel to design clean hydrogen unit for Indian steelworks",
    "lang": "en",
@@ -16,6 +72,20 @@
    "score": 11
   },
   {
+   "title": "Italy's Road Haulage Industry Plans Hydrogen Truck Pilot to Test Fuel Costs and Refuelling Infrastructure",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/18/fuel-cells/italy-s-road-haulage-industry-plans-hydrogen-truck-pilot-to-test-fuel-costs-and-refuelling-infrastructure",
+   "date": "2026-11-20T16:42:06.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 3
+  },
+  {
    "title": "thyssenkrupp nucera breaks ground on new electrolyser cell assembly site in Portugal",
    "lang": "en",
    "summary": "[…] The post thyssenkrupp nucera breaks ground on new electrolyser cell assembly site in Portugal appeared first on Hydrogen Europe .",
@@ -28,6 +98,48 @@
    "region": "Other Europe",
    "market": "eu",
    "score": 6
+  },
+  {
+   "title": "Genevos Lands €2.2 Million EU Grant to Build 1 MW Hydrogen Fuel Cell for Large Ships",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/15/fuel-cells/genevos-lands-2-2-million-eu-grant-to-build-1-mw-hydrogen-fuel-cell-for-large-ships",
+   "date": "2026-11-20T16:22:20.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 11
+  },
+  {
+   "title": "H2APEX Subsidiary HydroExceed: Certification Paves the Way Into the Hydrogen Trailer Market",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/17/h2/h2apex-subsidiary-hydroexceed-certification-paves-the-way-into-the-hydrogen-trailer-market",
+   "date": "2026-11-20T16:07:32.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Survey: German Truckmakers Push Hydrogen Drivetrain Series Production to 2029 or Later",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/20/fuel-cells/survey-german-truckmakers-push-hydrogen-drivetrain-series-production-to-2029-or-later",
+   "date": "2026-11-20T15:53:09.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
   },
   {
    "title": "PowerCell wins 27-MW US fuel cell order for green H2 power generation",
@@ -58,6 +170,20 @@
    "score": 9
   },
   {
+   "title": "Netherlands Backs Three Green Hydrogen Research Projects in €4M Energy Funding Round",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/20/h2/netherlands-backs-three-green-hydrogen-research-projects-in-4m-energy-funding-round",
+   "date": "2026-11-20T14:45:07.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Benelux",
+   "market": "core",
+   "score": 9
+  },
+  {
    "title": "India Hydrogen Alliance seeks ₹1,400 cr for funding pool for industrial green hydrogen offtake",
    "lang": "en",
    "summary": "",
@@ -84,6 +210,20 @@
    "region": "Global",
    "market": "other",
    "score": 16
+  },
+  {
+   "title": "$1.1Bn Jordan Green Hydrogen and Ammonia Project Secures 45-Year Aqaba Land Lease Ahead of 2027 FID",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/20/clean-technology/1-1bn-jordan-green-hydrogen-and-ammonia-project-secures-45-year-aqaba-land-lease-ahead-of-2027-fid",
+   "date": "2026-11-20T13:28:02.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 14
   },
   {
    "title": "Spatenstich für Wasserstoffprojekt in Lichtenau",
@@ -127,20 +267,6 @@
    "region": "Global",
    "market": "other",
    "score": 5
-  },
-  {
-   "title": "Swedish e-SAF project selects Siemens Energy for 200MW electrolyser supply",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPam56Y0RuazUyZWt1STJFeDNRbWxOXzM5RmQ1S2wzRVJkNVJVQXFoUlM3M1VrN1Rpb2cwakFWelZLd2JhZS1JYVNDTGM5S1V0R1pkdkJMQU1oWEQ1MmtaUUgwVmFWRGVxMTNDT2I4WndqcVNIaDNyU19MUjNiTUp3SEh0NmxPSE1xNjJSemdKWTFUUVBkbUQ4NExqbUZFM256VzRPXzVKT2J6ei1lOXR5ZDl4RnVhdmZoeVZGemlybw?oc=5",
-   "date": "2026-11-20T11:46:51.000Z",
-   "source": "gasworld",
-   "origin": "Deal search: eSAF and aviation fuel",
-   "image": "",
-   "topic": "Aviation & e-SAF",
-   "region": "Nordics",
-   "market": "eu",
-   "score": 9
   },
   {
    "title": "JGA secures site for USD-1.1bn green ammonia plant in Jordan",
@@ -339,20 +465,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 8
-  },
-  {
-   "title": "PowerCell receives SEK 440 million order for utility-scale green hydrogen power generation installation in the US",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzVDMkFNNlFVcjEzcWxZRzhvRmVYVjY4VncwX2VRSUNzRmEwXzJVTTZxV2EwZ2xPWXdHUTh6dm9tQXlkMzduSHNRU21xa1hlWFdZamFiNllBTW5EanRReVpkcEEwYXZhVkJKaVJWcEhyak1TMkhIaWZrV3QtcUFHbTQ3NUVJMHNNV2tDdWtNT0JRU0VGQkNJV2d6OGRDVXJwR2VFX1NpUlRwN3NJMHROT3ZITHIyWGNKNER3?oc=5",
-   "date": "2026-11-20T06:00:00.000Z",
-   "source": "Financial Times",
-   "origin": "Financial Times",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 9
   },
   {
    "title": "Gemeinsam treiben DWE und BASF die nachhaltige Methanolproduktion voran",
@@ -705,20 +817,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 10
-  },
-  {
-   "title": "TEAL Mobility starts construction of its hydrogen refueling station in Antwerp",
-   "lang": "en",
-   "summary": "[…] The post TEAL Mobility starts construction of its hydrogen refueling station in Antwerp appeared first on Hydrogen Europe .",
-   "link": "https://hydrogeneurope.eu/teal-mobility-starts-construction-of-its-hydrogen-refueling-station-in-antwerp/",
-   "date": "2026-11-19T13:41:23.000Z",
-   "source": "Hydrogen Europe",
-   "origin": "Hydrogen Europe",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Benelux",
-   "market": "eu",
-   "score": 5
   },
   {
    "title": "Siemens Energy Selected for 200MW Electrolyser Supply at Swedish E-SAF Project",
@@ -11733,569 +11831,18 @@
    "region": "Global",
    "market": "other",
    "score": 8
-  },
-  {
-   "title": "Gold Hydrogen Secures Up to $6 Million R&D Loan Facility with Rockford Capital",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2RJR2p3aVlrVEE0c1I0VFZZS0I2NnMwMjl0TThOaVR2d2VkYzFOcWJLMXlEaXBheHduRG8yQUZNQ2M3REdXUGFqdkU3eFVidFZYc0VOVW54LUFSbXluWG9obVRmc3dTZG9pdE1vUlhQdXJzNXRoSThIRlkyM2ZpcWtqSk5OVGFsX2dROVBERVRCZXdOS3ZyMm95Vy1aZjIzcUhlS3NPQVYtYUlVTTdhYnllcXRjS2FFUlE?oc=5",
-   "date": "2026-10-22T23:15:02.000Z",
-   "source": "Kalkine",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "Gold Hydrogen Secures $6 Million R&D Loan Facility with Rockford Capital for FY2026 and FY2027",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejV4ajNvUXpPcElRY041UktuTnE0YW1aNS12ei1fOUEtTDFXVlhhTmlPR1B6SkRLRThrcGhjMmhMQ2w0Wl9JeTdtQVhIaUVvRWtFakgzMGJIZUR2VWhBbVQxeHJWeWRnVmxCRFJPbGdHYUdWZ3Y4NWpObm1iVkZrT1hNczFkZ2F4WDJqVVZWWHpBWW1WX2ZnZk51SWNhcmtKWmIwVzU4REJ5c3haVDRWa1R4YzAwTEhKMEFaMHRPSlVhaXNyenlBdjNkSWJSWk53cEpXd29n?oc=5",
-   "date": "2026-10-22T23:15:02.000Z",
-   "source": "Kalkine Media",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "Shetland’s Green-Ammonia Vision Leads the Charge in UK Hydrogen Production",
-   "lang": "en",
-   "summary": "Two proposed green-ammonia projects in Shetland aim to convert up to 480 MW of excess wind power into ammonia for fertiliser and marine fuel, signaling a new chapter in UK hydrogen infrastructure.",
-   "link": "http://hydrogenfuelnews.com/shetland-s-green-ammonia-vision-leads-the-charge-in-uk-hydrogen-production/8576931/",
-   "date": "2026-10-22T22:10:17.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792707016849.jpeg",
-   "topic": "Ammonia & e-Fuels",
-   "region": "UK & Ireland",
-   "market": "core",
-   "score": 9
-  },
-  {
-   "title": "KBR wins contracts to revamp ammonia plants in Europe By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0d3VGI3dGJDdVB1dGV3OUJVNk16dHU5TjZDeGg2OFZBelFSV09wLVhic2ctbkNJWm82Nno4bnRDZUU0QVBuTDZSSDJndkc3ejVRZ2VRRXJGVW1Pc1lQb2JJQk5Kb2N5bENFV3JucVRGRncycnFvYndySUEzbnlMWElwSjRjWHlsZmgyekVFTGVvaWVjOUNpWUtSY0lZY0hfTkFYZUpTbE52X3JYNWhyeF90Q2c?oc=5",
-   "date": "2026-10-22T20:55:58.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 6
-  },
-  {
-   "title": "Maersk Tankers secures EU funding to retrofit ammonia carriers with NH₃-powered engines",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPejl6T1hCRTMtMHg5Zmx4NTZjX3VnaWUyQlc3R0I4MGVhbElDWFFWMHpnZnFMRG9CY2Y5amtxM3d2VjVNRkxpSnVpUFhMQW9wY1VfSFpTRXlnaDBRcVVtZkdDWi1rTEI0bFZSa3JjQ3NyeGZCc2hFdnhxWFBKZWxEenZkVFJEY29NZDZjYXMwSTFpNmZwMzNMZXpJMFZMQi1UQW03YW5QYjgxY0J1WG5ZUlpUbURKVWtEaWZsQ3lGYzRDYVQtZWk3c2pyTThYd3Vzb1RkYW9RUQ?oc=5",
-   "date": "2026-10-22T17:18:47.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 5
-  },
-  {
-   "title": "OMV begins electrolyser installation at 140MW Austrian hydrogen project",
-   "lang": "en",
-   "summary": "[…] The post OMV begins electrolyser installation at 140MW Austrian hydrogen project appeared first on Hydrogen Europe .",
-   "link": "https://hydrogeneurope.eu/omv-begins-electrolyser-installation-at-140mw-austrian-hydrogen-project/",
-   "date": "2026-10-22T16:20:34.000Z",
-   "source": "Hydrogen Europe",
-   "origin": "Hydrogen Europe",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 9
-  },
-  {
-   "title": "Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/22/green-investment/dutch-researcher-wins-up-to-850-000-to-develop-magnetic-catalysts-for-green-hydrogen-production",
-   "date": "2026-10-22T16:04:18.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Benelux",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "Eastern Pacific Shipping Takes Delivery of World’s First Ammonia Dual-Fuel VLAC",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/22/clean-energy/eastern-pacific-shipping-takes-delivery-of-world-s-first-ammonia-dual-fuel-vlac",
-   "date": "2026-10-22T15:52:22.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Grafrath Drops Wider Energy Park Plan but Keeps Green Hydrogen Project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/22/h2/grafrath-drops-wider-energy-park-plan-but-keeps-green-hydrogen-project",
-   "date": "2026-10-22T14:47:41.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Other Hydrogen News",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Maersk Tankers’ RIPPLE Ammonia Retrofit Project Selected for EU Innovation Fund Support",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/22/h2/maersk-tankers-ripple-ammonia-retrofit-project-selected-for-eu-innovation-fund-support",
-   "date": "2026-10-22T14:33:32.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 5
-  },
-  {
-   "title": "Samcheok Holds Liquid Hydrogen Forum as City Prepares Receiving Terminal Demonstration Site",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/21/h2/samcheok-holds-liquid-hydrogen-forum-as-city-prepares-receiving-terminal-demonstration-site",
-   "date": "2026-10-22T14:27:36.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Hydrogen Gas Production Methods & Their Environmental Impact",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlWE1lOHlBczNXUHdidERnNVlZT2Y0QjFYRlkycEFBT3N4UEs5b0NyeTJLYUI0UXJaTmhuMDJuSVkwQXYwRVhESThGMDlKVkxLTVJTU2JfMkI1eHh2Rnc?oc=5",
-   "date": "2026-10-22T13:19:36.000Z",
-   "source": "Air Liquide",
-   "origin": "Air Liquide",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Stiesdal Hydrogen’s First 6.5 MW Electrolyser in Commercial Operation at European Energy’s Power-to-X Plant in Denmark",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/22/electrolyzer/stiesdal-hydrogen-s-first-6-5-mw-electrolyser-in-commercial-operation-at-european-energy-s-power-to-x-plant-in-denmark",
-   "date": "2026-10-22T13:18:33.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Nordics",
-   "market": "core",
-   "score": 7
-  },
-  {
-   "title": "Stiesdal 6.5 MW Commercial Hydrogen Electrolyser for Sale",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWWgxN0dBTFZaNjRuRkZEMUdZaW5hRml5YWZjUDVEZlptZWN5eGlrOXA0MUlkalZQM1J2UEJ6R3pVWTBtckEyb045UEZZdEhBRmVkVVFEenFDdC1ybGpXTjlrREQ3R0hpd1d0RVRoZ25EY1R5TDNtS3dRdUo2d2lXSG0yaGtmOXhuQUE1T3MwRXpkamY4T0hPTkxDMjdhdlJpYkRYQlFEQlhld3dyMGM0c1dscnJWSFFOTUUxenMyZ25Vcjlral9hejlsWFFyZ1FadGNOdS03U2RBdkpVZGpGLUowRE5CS2g2STM4WEI4Q0xab2FPb0RQaVlfSzYtZw?oc=5",
-   "date": "2026-10-22T13:18:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Deal search: policy and auctions",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 7
-  },
-  {
-   "title": "Electrolyser Maker Nel Appoints the Boss of Loss-Making Hexagon Purus as Its New CEO",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/10/22/electrolyzer/electrolyser-maker-nel-appoints-the-boss-of-loss-making-hexagon-purus-as-its-new-ceo",
-   "date": "2026-10-22T12:46:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Wasserstoff: Kernnetz schließt im zweiten Jahr Unternehmen an",
-   "titleEn": "Hydrogen: Core network joins companies in the second year",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2Q4ZG5mWkdGQmpIR1ppVEoyMnpHaE9ZWjVUcWY2Nl9pc0Y1bDczanN6V3ZXWHc1ZFNGWEhOVUFhVjNJdC1ZTko1WnVmSGZLUjlMV05WamFjNVVvSGNvcWFKY2VPXzVhWmNkZ204MGJaZ3RNbmhRY01qR2h3YTE5V2xvZ010a3VvUGZydmZvTUlLVjVxQWdNMWlQa2t6NjRoU3hxRzdHOW1OT0tsNWJpRDcxcw?oc=5",
-   "date": "2026-10-22T12:45:00.000Z",
-   "source": "Energie & Management",
-   "origin": "Energie & Management",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 5
-  },
-  {
-   "title": "Hamburg baut Wasserstoff-Infrastruktur aus",
-   "titleEn": "Hamburg expands hydrogen infrastructure",
-   "lang": "de",
-   "summary": "Drei Tage lang ist Hamburg Treffpunkt der internationalen Wasserstoffbranche. Doch die Hansestadt ist mehr als der Austragungsort der Hydrogen Technology World Expo 2026: Im Süden wird ein Großelektrolyseur gebaut, rund um den Hafen entsteht das Hamburger Wasserstoff-Industrie-Netz (HH-WIN). Während der Messe vereinbar",
-   "link": "https://h2-news.de/wirtschaft-unternehmen/hamburg-baut-wasserstoff-infrastruktur-aus/",
-   "date": "2026-10-22T12:37:44.000Z",
-   "source": "H2 News Germany",
-   "origin": "H2 News Germany",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Germany",
-   "market": "core",
-   "score": 4
-  },
-  {
-   "title": "Maersk secures EU funding to retrofit ammonia carriers with NH₃-powered engines",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHdLMEM0YmRTN2lLcklxcEFmX05UWFg1bm51d1A1cC01Yzg0NlFDVTRNRExzVE15ZG9DcW5jZGdmWGI3czN6a1R2WEV0b3lqSmpJZ1EzYlc5OGVlV21KYWtrU21yT0c1WW1pcmtaQTBubHhncE5XQ1AyYnBVRkM0bkUtYXprb2RoYXZkM0xZWmRWcW8zNjcwYUpTUmZqbVR4QWd4VUlqVHBqZjA5bXVnZlQyTUFzZW5hNG03dmdRMU1yaUI3Rk9Wb1ZQVFE?oc=5",
-   "date": "2026-10-22T12:35:11.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 5
-  },
-  {
-   "title": "OMV Begins 140MW Green Hydrogen Project in Austria",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVh4NXZIdk1RaTZ3ck1Eb3ZJYktsRzdsOENtS0ZvekhoY1BWaDJLbEpSdzl6T0F5Mk0tSWFSbnpRdHhOc3kwU09LdmpyVC1TS1VWM2p5ZlJsVHJSUHI2UG9TRUVoU3NONHc1TTh3Z0N6Zk03TER6UmZtMFBBWDlJSUNrQ2pJVWxET1NtWG5uQ0xBay1XT1k3bjhQSWJnWVNLNkt1eFdFT3hRYWtXTzRXaUFWNEdFSnFwbWxqVWIxRUJfckFuVTRJ?oc=5",
-   "date": "2026-10-22T12:30:00.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Deal search: project milestones",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 8
-  },
-  {
-   "title": "Ballard Power targets profitability by end of 2027 By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEJzS1RvdmZhWTlwelZBQURBZDdnckROeDgzaVNVMjFOazgwVUZpU3lLQi1KdUxLWnRhZGZ1TE9XejdsYUFRU3pxTDZkZEpaWFVYUEd6SE5wVzdSN3BRNmQ5dHVGV1hrQUR2WWctTlhXZXgxaUdmRm1iX0tFMjU2RHNpZjJjQVBFVmtac2syeXpHaTZjY0ZBZV82Vzh2UXNEQ1MzbVJFcW9lQnRlMHM5ZQ?oc=5",
-   "date": "2026-10-22T12:01:25.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "First electrolyser components delivered to OMV's 140 MW Austrian project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0pkNU9pdFNDSmdZZVZfTUdpUXVHd25rVVgzdU8yVFhzYndxNF82T0RhQU1qaUplc1A2eEtvYmpBZ0ZrNDhxWkVIS3ZMWHJxdmFjdVV3YnktREVKZ1JDd3p1N0JSLXhMbEV6SEIzV1RNT1ZmNVItYmhVeUNBTEs0Zng1SDlXLUVxMzE2RG9uUzg1eXdyODg1OV9MSjU5MDFqeV9ScTV0ZHpqcDZ0SkVzclpYdEFtSWxsS1hPWl8tREd4Zw?oc=5",
-   "date": "2026-10-22T11:32:33.000Z",
-   "source": "Quantum Commodity Intelligence",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 9
-  },
-  {
-   "title": "KBR wins contracts to revamp ammonia plants in Europe",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGpXMHoyNDRUblpxTXJnNG9oMXlHQlU0ekNkX3B1OUpPR1gtem8yZXdVTENmU3pZMFZPVjloUXA4WHdwZ1Z3d0lTSklFUEZNdERFV1R2Tk14TEtQZVFOOE5obzVtUUdMbTlkcmprajRVVFdWWjN0R1pjYzVqeHRwMjl3dzdXX3dsZnc0UlI1ZGFWV0ZGZ1QxNTFmVDBGRThtSHFuOEtIU0VJZ1NBLS04?oc=5",
-   "date": "2026-10-22T10:34:35.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 4
-  },
-  {
-   "title": "First electrolyser components arrive at OMV’s 140MW Austrian green hydrogen project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVUFRLTJZVndIX3QxbFpNUEY4R0d1NG43aXhUenl1SUdHS25YczRJN2lzeW9DdXhhT2kzZzlhTzlZOS04NTUzd2wwZHg5OFplS3g5WVYwRVlrd1FBTHdGZ0M2azdhSHhSeEIydGFnYnRISnJENEdDR0hsYlMwaGdGcmZtb3FjTl9aVWNpYkNIazNYUzdURXBaS0lpTjZMV1Ixa0ZYVEhsSHNZdThLS1RvOWl0YVl6OEJsNlRTWXBmOUltU0pyLTE5eTRuMlVMcEowdFRFTVlZMFI?oc=5",
-   "date": "2026-10-22T10:05:31.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 9
-  },
-  {
-   "title": "DWV fordert Anschubfinanzierung für Wasserstoffspeicher",
-   "titleEn": "DWV calls for start-up financing for hydrogen storage",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVVwc2xfNW1FV1RMQzg2YUJTSHZkbzlySEMxTjl2ZG5NY2IyNFFMNFg4cThFRzlVY3BOWGVRdlZPTE1RajlCMkl6THFOLTgwa2hzbzlMWVVtM3FFZWppNkRES2N2aDB3NFA1MFUwOG1ZNXZRN2szMEtjSWE3OVhsblQyWlpsaENSVFNJT0ppenNIcG5Ob2d5NDB5bUc2VF9HOUJfVA?oc=5",
-   "date": "2026-10-22T10:01:00.000Z",
-   "source": "energate messenger+",
-   "origin": "energate messenger+",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
-  },
-  {
-   "title": "KBR Awarded Contracts for AGF Nitrogen’s Ammonia Plant Revamps in Germany and Austria",
-   "lang": "en",
-   "summary": "KBR will support the revamp of two ammonia plants utilizing the company's industry-leading ammonia technology and proven revamp capabilities.",
-   "link": "https://www.globenewswire.com/news-release/2026/10/22/3386119/0/en/kbr-awarded-contracts-for-agf-nitrogen-s-ammonia-plant-revamps-in-germany-and-austria.html",
-   "date": "2026-10-22T10:00:00.000Z",
-   "source": "GlobeNewswire (press releases)",
-   "origin": "GlobeNewswire (press releases)",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Germany",
-   "market": "core",
-   "score": 4
-  },
-  {
-   "title": "Stiesdal brings upgraded 6.5-MW electrolyser online for European Energy",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlpIUjdoSzliVEdoRGNFSXZNeUZfMDA5NjQxdTl1cEZXTkZmSHh0aWNHU3I1NmhfNTJRVXVDa3RpQUxCSmhOd0c0Y2ZjZDR5YTk1LU9TZmd1R09rY29nb0x0VGsyZTdxbmFwV19tQkFzTDl4cExhVEdxZnExbU9KNWdMcDJwZWVhUjQxRTc3T0JFb2lRMV9jTVliaVJUb3FCMFRZNm5ybGNOdlVyQlVfMg?oc=5",
-   "date": "2026-10-22T09:59:01.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 7
-  },
-  {
-   "title": "Hydrogen News: Kawasaki Launches Construction of 50-Tonne-Per-Day Green Hydrogen Liquefaction Plant",
-   "lang": "en",
-   "summary": "Kawasaki Heavy Industries has started construction on a 50 tonnes per day hydrogen liquefaction plant at Ogishima, part of a NEDO-backed demonstration to advance Japan’s integrated liquefied-hydrogen supply chain.",
-   "link": "http://hydrogenfuelnews.com/hydrogen-news-kawasaki-launches-construction-of-50-tonne-per-day-green-hydrogen-/8576927/",
-   "date": "2026-10-22T09:11:08.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792660267528.jpeg",
-   "topic": "Production & Technology",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "Hydrogen Energy News: Plug Power Reports Preliminary Cash Usage Decline and Names PEM Industrialization Lead",
-   "lang": "en",
-   "summary": "Plug Power reported preliminary Q3 net cash usage of approximately $28 million and appointed Dr. Lee Sweetland to lead PEM stack industrialization ahead of its early November earnings call.",
-   "link": "http://hydrogenfuelnews.com/hydrogen-energy-news-plug-power-reports-preliminary-cash-usage-decline-and-names/8576926/",
-   "date": "2026-10-22T09:08:38.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792665380795.jpeg",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "Maersk Tankers wins EU funding to retrofit VLACs for ammonia power",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUJQZ194VHViQWx6WThsUjRibWhaUFhGZlBGZWIwNXhRWjdzYVFzd0hHSHlxSXBLX3RKVkZtdU9OYjV2ZENPOGFwdG1PZjNES0FLMlhpZS1taWdUN05tdFdKTHFTZzE3OXN1bnJ4QmlGN056eEVFNFJtSzBwd2FSYm14SzJEYl82LWZXZlhaeWxmWW1RYVdWNFRyQ180YTdvdHZfS29xWVZQR1NzelRqRnRzRnluYW96?oc=5",
-   "date": "2026-10-22T08:43:05.000Z",
-   "source": "TradeWinds",
-   "origin": "TradeWinds",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 5
-  },
-  {
-   "title": "Greenzo Energy raises Rs 1.3 billion to expand green hydrogen electrolyser manufacturing",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWhOU3Q3WHI3TU1COWV0M2UwS0JuLW5YQlJydG5BMVpxS21xWmJMY1hxUXo3Y1B3d1RYZ2VZVktSdU1RT19CZ1ZfbVdKalF1a1M3RmQ4MVFTZ0dkeWJ5ckM1Y2FTckktUnppUmVPY0xqWVpNNDh3OVRMSnlIXzZrRDlGTE4xT19qMlJqY0gtcDBneXptMkV6YmNfcllVQ3FXd1lnUFkwbzdvaWJwdmhoajJXeUQweVVyMEM4aEJSWnR6TThqV3c?oc=5",
-   "date": "2026-10-22T08:39:42.000Z",
-   "source": "Renewable Watch",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "Eastern Pacific Shipping names world’s first ammonia dual-fuelled VLAC",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDJQNWs5Z0tmaERKLUpXX2FkbWZXcXBCTHpDcTk5bmdnaUhoTHp0LUZ3RDFpRVFPdU9JdjBzQlF0X08wTVJ4a1A1bFJYZGlyaXJuaDlMWExUR1RQcDNyVnhVLW5Fc1BhREItTHdXWXYtMVhnOVNOWEhzZm55WFd1TENXN1VRZGVoUkR0cWpZV1dyaWpnQWw0dTcyMURoa3Zjckg5RC1NSlBqMEN3VEloVmFteUFoV1hE?oc=5",
-   "date": "2026-10-22T08:13:02.000Z",
-   "source": "TradeWinds",
-   "origin": "TradeWinds",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
-   "score": 3
-  },
-  {
-   "title": "Ammonia fuelling gets a boost from EU Innovation funding round",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdEJ0bU9BejJQc3NRM0M2NlFqWklSRXdUQWpmalEyVjJYOGx6UGEyUlFZT1VGdlc2UHNHa3VYUE5yTUJnVjNRNzRJQ3VOa2ZUS1dvc0FDSG83Tll6UUhKVDUxRVc4NVFId25yYlFOS1c3SWJNQnJhU1RBakoxcEh2WjZaUnUxOUZRa0VaU0FrREFXUVpZMF92bFp5aDU1MXo5eXl1MldveVY4VHkzTlE?oc=5",
-   "date": "2026-10-22T08:08:02.000Z",
-   "source": "TradeWinds",
-   "origin": "TradeWinds",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 5
-  },
-  {
-   "title": "Planned UK ammonia revival offers offtake route for subsidised hydrogen",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2JFTDZ4QXFPLXVBdWFQZGIwT0MyYzhtYjRySHI0YmhuU2c5Qkd3SGdkV0x3MWJrQ3U5dkRFbzdPZ3M2R3dXc1BSSS1uRTcwMEFPWUtzNXItSU5WV3E5OHJOVUk3cHVKbFpGVW40Qi1MVFpUSjNEaXJLNnprQ21LWXk4Q2cxUEZIX0hmWkxOc2VmbU5IbHVQNG9POF9IamlEcWkzN1h1QzV1V2gzZWNiY0xFeFd0d2o5OE9nbU5R?oc=5",
-   "date": "2026-10-22T07:46:50.000Z",
-   "source": "gasworld",
-   "origin": "Deal search: offtake and supply agreements",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "UK & Ireland",
-   "market": "core",
-   "score": 10
-  },
-  {
-   "title": "EXCLUSIVE | Stiesdal Hydrogen’s ultra-low-cost 6.5MW electrolyser now in commercial operation in Denmark",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbVV0TkJIUEZsSnVJbzMwT2hSeng4Y3p6ZlY0dElHQjJyNHVNRDYyNXJaZ0VISFlDUTFYNVp1cDFwMEVOWjBOeExyUVFwLTlxbzVIZGFWVW1PcWFBeXI3Y3VwMEQyYzlMVkdEVDFvMUJsT3BudEtjVldSSkdZX0V3MklmLW55bVNTLVFWZTh3R3pnWmVTNDFLNmVhXzJZZl83ZklGVTB1LWhNQzN4SzhHb1c4MVlPV3VOT3NlNDlKUm01Z3Mwb2VYSDliMG9neWNieHFsYU5RZ1B5LWY3VUNzVkUtWkNjUEthb28zOUwtTjJjdw?oc=5",
-   "date": "2026-10-22T07:39:30.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Nordics",
-   "market": "core",
-   "score": 7
-  },
-  {
-   "title": "Zwei Jahre Wasserstoff-Kernnetz: Erste Leitungen in Betrieb",
-   "titleEn": "Two years of hydrogen core network: First cables in operation",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkNmNHZFeHl2U0xDU1JvZGxFZG43S0F0VlhyUzBHV3puUllnM1F2UDdKbHI0amI3LTctcGdwM0xjcFF3YnZaSU5hbXc3UFM2X280bUhOLTBWT0o2RDYwdTRTNFlCc1RkQ0M3WlA1RXZlUXpDaUVWSjRVbE1CLWg5STV3MGFCa2Q5T3BPSnhGeWhiNFRBMUFrX2JwempJbTFfemZmT21JSQ?oc=5",
-   "date": "2026-10-22T07:03:00.000Z",
-   "source": "energate messenger+",
-   "origin": "energate messenger+",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 6
-  },
-  {
-   "title": "Construction Begins on Japan’s largest Hydrogen Liquefaction Plant with a liquefaction capacity of 50 tons per day",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeGxVQkxhN3ZxZXFmV3h6bFZVbGRLOERVUWlxcGRMX1BKaDNsMFZNQmFMSTBBSVQ0TGhMTk9NYWZLUUtpamIzN0gwU2JVb1p1RHRjUF9hbWYxTFNDemFCWUlqWGM0bW9oMGh1YzI4bUhyOVpNdlFUUThBSVZ4em1CYWhqQlNnZ0lXUFA5eWRmeEZXQ0k2bzJrdVJBRVllNmRVeGJmRFAtVjY1LWxQTjZGdkRuazl3dzJUZVpvNlpiRW1sRnhFTm9OTTM1YzB5eXY4OHp3eE92UFZBOS1yN1ZydUVsUy1UQXExM2pPYQ?oc=5",
-   "date": "2026-10-22T07:00:00.000Z",
-   "source": "Cyprus Shipping News",
-   "origin": "Deal search: project milestones",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 9
-  },
-  {
-   "title": "OMV advances construction of 140-MW green H2 plant in Austria | Hydrogen News",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0VhZGswbllwQjhrOEcwTHFDWUZXOWJuZS0xdDNjbFFvZ0ROWm9peVFFVlFtREptQU5mVVREOVRzZURKQy1IVWl4WklRTkVDVVBjMVFSa29abGlycDNxSHNaNHFjZFFvNXYxNEN4YmU1TU9jVDFmSDh1aWJNdWZFM1EtSFVTM0ZzbTM0VzI3bmx2Mm9JMG1jdklBM0pYTl9DaXp3?oc=5",
-   "date": "2026-10-22T07:00:00.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 8
-  },
-  {
-   "title": "Woodside Energy trims output forecast, to pull back from US ammonia project",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTVOcmtBcDZsWnczN2JteVlzazdETXRGaEtySVFSN0Z0WjIxRGNkSHJnTGYwWEJJbmZpeFpKaHRRWmRqMkhPUnJHU1JESEdWeloyYlNGR3NuLUM3a2FrYmJ6TDZ6empKc2RmSTJsTlJJY2ZrSG10OE5NZ1o0bEZ3QkVoWFAxaHNULVBFOFpWRm44dGp1enFCX2dWM2x5aVB6VWdnTGI4SmJIZ0FKNlVHLUhkQjZjN3M2SVZYbWRkVlNsTWUxQTNpYQ?oc=5",
-   "date": "2026-10-22T07:00:00.000Z",
-   "source": "Reuters",
-   "origin": "Reuters",
-   "image": "",
-   "topic": "Ammonia & e-Fuels",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
-   "title": "Das Kernnetz wird 2 : Das Potenzial für den Wasserstoffhochlauf ist groß, die Unterstützung zu klein",
-   "titleEn": "The core network becomes 2 : The potential for hydrogen run-up is large, the support too small",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcFlDajVNdFBxWkdkYzgwbzNqM1YxM19CenNRZDktQUY1VGpNcld5ZGtjdERpaW5UYWxVTHA4a1dfcjlXZlNIS1hDbHU5SWU0X0xSSUNMd05iYTRjdFRnR2VCaHhXVFhEQkRqYlJSMGRXNjB1YVUwbkI1NHVqNjdTRGRfS1ZxSERoTGI2bmJWbDJSNDExR2UzbXRlYnVrXzI0NWNmS3RTdWpCNHJJRDliUnJKei1IOEZELURvYlNfMDI4d3Njb3phdlNLdU1hU1VXMmUzRUl5aGdWdw?oc=5",
-   "date": "2026-10-22T07:00:00.000Z",
-   "source": "Tagesspiegel",
-   "origin": "Tagesspiegel",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 5
   }
  ],
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 35,
+   "shown": 32,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 118,
+   "shown": 119,
    "status": "ok",
    "error": ""
   },
@@ -12313,7 +11860,7 @@
   },
   {
    "name": "H2 News Germany",
-   "shown": 10,
+   "shown": 9,
    "status": "ok",
    "error": ""
   },
@@ -12325,7 +11872,7 @@
   },
   {
    "name": "Hydrogen Europe",
-   "shown": 6,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -12506,12 +12053,12 @@
   {
    "name": "Energy Live News",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Interesting Engineering",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -12703,7 +12250,7 @@
   },
   {
    "name": "GlobeNewswire (press releases)",
-   "shown": 1,
+   "shown": 0,
    "status": "ok",
    "error": ""
   },
@@ -12721,579 +12268,579 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 84,
-   "status": "ok",
-   "error": ""
+   "shown": 80,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Recharge",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Reuters",
-   "shown": 2,
-   "status": "ok",
-   "error": ""
+   "shown": 1,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Bloomberg",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Financial Times",
-   "shown": 10,
-   "status": "ok",
-   "error": ""
+   "shown": 9,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Argus Media",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Montel News",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Renewables Now",
-   "shown": 35,
-   "status": "ok",
-   "error": ""
+   "shown": 33,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energy Voice",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Renewable Energy World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Euronews",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "energate messenger+",
-   "shown": 8,
-   "status": "ok",
-   "error": ""
+   "shown": 6,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ZfK",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Change Inc.",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Innovation Origins",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Nederland Waterstofland",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "WaterstofNet",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Hydrogen Council",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "IEA",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "European Commission Energy",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Clean Hydrogen Partnership",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "German Economy Ministry",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Netherlands Enterprise Agency",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "RWE Press",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Liquide",
-   "shown": 1,
-   "status": "ok",
-   "error": ""
+   "shown": 0,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Products",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Linde",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Shell",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "bp",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "TotalEnergies",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Uniper",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Equinor",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "OMV",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Gasunie",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "EWE",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "thyssenkrupp nucera",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ITM Power",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Nel Hydrogen",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Topsoe",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Siemens Energy",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Plug Power",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Port of Rotterdam",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Business Insider Deutschland",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Gründerszene",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Tagesspiegel",
-   "shown": 5,
-   "status": "ok",
-   "error": ""
+   "shown": 4,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "FAZ",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Süddeutsche Zeitung",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Manager Magazin",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ZEIT",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "HZwei",
    "shown": 16,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Chemie.de",
    "shown": 6,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "CHEManager",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Windbranche",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "erneuerbareenergien.de",
    "shown": 8,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "IWR",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energie & Management",
-   "shown": 7,
-   "status": "ok",
-   "error": ""
+   "shown": 6,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Klimareporter",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "dena",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ingenieur.de",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "VDI nachrichten",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Industrie Magazin",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Neue Zürcher Zeitung",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Het Financieele Dagblad",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "NRC",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Duurzaam Bedrijfsleven",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Energievergelijk / Energeia NL",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Enlit World",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Investing.com",
-   "shown": 24,
-   "status": "ok",
-   "error": ""
+   "shown": 21,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "TradeWinds",
-   "shown": 4,
-   "status": "ok",
-   "error": ""
+   "shown": 1,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Upstream",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "ICIS",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Politico Europe",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Hydrocarbon Engineering",
    "shown": 3,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "H2 View",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Business Wire",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Chemistry World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Ammonia Energy Association",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Splash247 (shipping)",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Aviation Week",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Flight Global",
    "shown": 2,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Air Transport World",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Biofuels International",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "CHEManager International",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 35,
-   "status": "ok",
-   "error": ""
+   "shown": 34,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: offtake and supply agreements",
-   "shown": 25,
-   "status": "ok",
-   "error": ""
+   "shown": 24,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: refineries and industry",
    "shown": 24,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 17,
-   "status": "ok",
-   "error": ""
+   "shown": 16,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 69,
-   "status": "ok",
-   "error": ""
+   "shown": 66,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: cancellations and delays",
    "shown": 23,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 33,
-   "status": "ok",
-   "error": ""
+   "shown": 32,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Germany (DE)",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Germany setbacks (DE)",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: fuel cells and e-fuels (DE)",
    "shown": 1,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: Netherlands (NL)",
    "shown": 13,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 24,
-   "status": "ok",
-   "error": ""
+   "shown": 22,
+   "status": "unreachable",
+   "error": "HTTP 503"
   },
   {
    "name": "Deal search: project milestones (DE)",
    "shown": 4,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 503"
   }
  ]
 }
