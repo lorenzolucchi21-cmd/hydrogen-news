@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-21T12:35:30.426Z",
+ "generatedAt": "2026-11-21T21:37:58.677Z",
  "articles": [
+  {
+   "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
+   "lang": "en",
+   "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
+   "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
+   "date": "2026-11-21T16:49:13.000Z",
+   "source": "CleanTechnica",
+   "origin": "CleanTechnica",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 6
+  },
   {
    "title": "HY2GEN SIGNS €139,8 MILLION EUROPEAN HYDROGEN BANK GRANT AGREEMENT FOR ALBATROS",
    "lang": "en",
@@ -2473,10 +2487,10 @@
   },
   {
    "title": "EU-Wasserstoffmarkt: Elektrolyseprojekte mit 4,2 GW gesichert - Ausbau bleibt hinter Zielen zurück",
-   "titleEn": "EU hydrogen market: Electrolysis projects with 4.2 GW secured – Expansion is lagging behind targets",
+   "titleEn": "EU hydrogen market: Electrolysis projects with 4.2 GW secured – Expansion falling short of targets",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON3dGdEpRUVFQSXdQS1FqUFFIeVhMQk1uUE83eFpFbGhjel9hVnlnTzFDcVpZQ2owNkZWeVlIbFFoYkNJRmpub1ZWd3VJbmEwVjRjMWVoVDhJYWllOHBtVFk2V3R0VXZ6VkpJY3RseW5LSnpHd05pTUQtemFCb0JJanY1T0VHQzNoajFCNmM0dUtrZGFybmZuYmppa2lVQnM0SE9hcUQ2NmdBX2l5SFVMa28zTXE0dmhHR3hzN2NVTUhjdFNjbG5xQ0pxTklKbVdUVDc1d3RSOHlEdUh1dGdGQS12VWV2S1g3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM253SGljS0p1NlpxblgzZkthUElwZG1FUW9DdktBQlFWbGQyUkFOT3Fpa0hCVW1PaEc3X1o4Wm94RnNJVXFYSU9SaTU5OVZrbTFfLTJiM2V4c3B0SlB0S0h3VVB1U2lNaGs2VkRaV3hoX2FveVVzZVp6WjRBTlExYlFvVzBJX3gzZ0FpeTdsNlhfX3MycVM4MG5sZzBWMWRmdTZlREppU0dhRVBfWVQ3MWg0azNnLWtHWGk0RVI2WmtSWVRLaDkwNGRJcnI5b1l0OFJBc2pyMTVsZw?oc=5",
    "date": "2026-11-17T09:22:00.000Z",
    "source": "Windbranche",
    "origin": "Windbranche",
@@ -2611,6 +2625,20 @@
    "region": "Other Europe",
    "market": "eu",
    "score": 7
+  },
+  {
+   "title": "Equisera and VertomCory to explore methanol for shipping",
+   "lang": "en",
+   "summary": "In the UK, Equisera Ltd, a developer of biomass-to-fuel technology and VertomCory, a global maritime services group, have announced a partnership to jointly explore biomethanol supply for the shipping sector, with a focus on domestic production of low-carbon marine fuel from UK biogenic waste.",
+   "link": "https://bioenergyinternational.com/equisera-and-vertomcory-to-explore-methanol-for-shipping/",
+   "date": "2026-11-17T07:54:12.000Z",
+   "source": "Bioenergy International",
+   "origin": "Bioenergy International",
+   "image": "https://bioenergyinternational.com/wp-content/uploads/sites/3/2022/06/biomethanol.jpg",
+   "topic": "Ammonia & e-Fuels",
+   "region": "UK & Ireland",
+   "market": "core",
+   "score": 5
   },
   {
    "title": "Erste Wasserstoffproduktion im Energiepark Bad Lauchstädt",
@@ -4587,6 +4615,20 @@
    "score": 11
   },
   {
+   "title": "Earnings call transcript: Cavendish Hydrogen posts lower Q3 2026 revenue By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTkdJbGhXZkg3SlVSUTVsYmJtVk5tVlVheVBsQzNRQy1wTzVkQklKbHkta3lsOE1TU3h5aVYzNTJxVlJIMUo3WUljSWxad2FxY1NlXzV1Smw0bV9VUkVvTDZqMkl1Y0FxUTBVbGlNb01yZ0dmSTFaY0pYQWtsandUYjN2bUhJdDZNOUpfMkkxclJBdkdha016Zm94RDZGMVpCcldILUtCUm1hMGNrUFdyOWVuT2pKaVJJM2c2S1NTN2lKelR2QW5nblhKdUI?oc=5",
+   "date": "2026-11-12T10:24:18.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
    "title": "Hydrogen energy market shifts focus to grid stability and load balancing",
    "lang": "en",
    "summary": "The role of hydrogen power narrows to selective, policy-backed projects focused on blending, storage, and industrial demand.",
@@ -4596,20 +4638,6 @@
    "origin": "Power Technology",
    "image": "https://www.power-technology.com/wp-content/uploads/sites/21/2026/11/shutterstock_2742123337.jpg",
    "topic": "Infrastructure & Storage",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Earnings call transcript: Cavendish Hydrogen posts lower Q3 2026 revenue By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjRicnNZS0JPbjh1OW9fRGJKcTlINlFTeUJTcUQxRUZoVFpKbzNucVJXc1QxcWlJQWNKbVhaWnpkZms5VU1TVTBSdDVVRVBSczNZUDBlS2o2dTQ4UF9xVHFhMHVnSTlQR3VBRE5VaG56OXZrMFhHYnU1VGVwVS1JSWM4UXJRRHVzVmFJS3kyT0E1Z2YyczJYcnNmWDlWeVFYYXJGVDRYaEV2ay1Ccm9SU0tSSUp4cm9WOTZSLXVLUFdaMDR4OXFycmJ2LUs?oc=5",
-   "date": "2026-11-12T09:34:00.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
    "region": "Global",
    "market": "other",
    "score": 4
@@ -7434,6 +7462,20 @@
    "score": 8
   },
   {
+   "title": "Oxford’s FluoRok raises €26.64 million to scale fluorochemical production without hazardous hydrogen fluoride",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT1hPcDMzUUJFTEZQd0RWNTR6NkFMZy1SUmJUalM3emd6blltMlY3YWN1TUdqVVk5UkVNMzE3M2pqWVdnd2w4Zy1nY3k0STNUMW1CLUcwaEZ2dXA5MEg1bkZ0aFo2d3U4S0txQ2Q3UXJUdDNIRTVVaTI1ZVhsYWQ4anlDVERNZnJ1cDFXMUlicTE0MEdUUENZYk5oSE5GcTUyeDVuOWNDdTlnLU81dHh0T0t2QTEwOHBjZEg5VXBDMmowNnN0czRjYkZ1LUJ4TnMzNWF0SFQ1eDN6YnpDeEJBY3pJbw?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "source": "EU-Startups",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
    "title": "Hadean gains ARENA funding for pilot hydrogen facility",
    "lang": "en",
    "summary": "",
@@ -7490,20 +7532,6 @@
    "region": "Germany",
    "market": "other",
    "score": 7
-  },
-  {
-   "title": "Oxford’s FluoRok raises €26.64 million to scale fluorochemical production without hazardous hydrogen fluoride",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT1hPcDMzUUJFTEZQd0RWNTR6NkFMZy1SUmJUalM3emd6blltMlY3YWN1TUdqVVk5UkVNMzE3M2pqWVdnd2w4Zy1nY3k0STNUMW1CLUcwaEZ2dXA5MEg1bkZ0aFo2d3U4S0txQ2Q3UXJUdDNIRTVVaTI1ZVhsYWQ4anlDVERNZnJ1cDFXMUlicTE0MEdUUENZYk5oSE5GcTUyeDVuOWNDdTlnLU81dHh0T0t2QTEwOHBjZEg5VXBDMmowNnN0czRjYkZ1LUJ4TnMzNWF0SFQ1eDN6YnpDeEJBY3pJbw?oc=5",
-   "date": "2026-11-05T06:21:38.000Z",
-   "source": "EU-Startups",
-   "origin": "Deal search: refineries and industry",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 6
   },
   {
    "title": "TA’ZIZ Secures $1.39 Billion for Major Ammonia and Terminal Projects",
@@ -12094,7 +12122,7 @@
   },
   {
    "name": "CleanTechnica",
-   "shown": 7,
+   "shown": 8,
    "status": "ok",
    "error": ""
   },
@@ -12190,7 +12218,7 @@
   },
   {
    "name": "Bioenergy International",
-   "shown": 6,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
