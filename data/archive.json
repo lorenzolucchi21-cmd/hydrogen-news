@@ -1,6 +1,35 @@
 {
- "generatedAt": "2026-11-22T21:45:07.783Z",
+ "generatedAt": "2026-11-23T07:29:06.854Z",
  "articles": [
+  {
+   "title": "Unternehmen planen Pilotprojekt zur Wasserstofferzeugung ohne Elektrolyse",
+   "titleEn": "Companies are planning a pilot project to produce hydrogen without electrolysis",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkh1eldxWVFUVmI1bXdmRkU4MERzanBPMFBWb2xTY1JhVFBFMVl2am5SQWJEcUpIMXIyZ3BOTFI4VG5lM0toWmdoZ1ozWkdyTEloUC15Yk8tZ01GbUVfb3JFeGs5UUZ0cHQ4a2s3MmNsaVF0RXJnMkRYT1RPRm9HMlg4SnJWbktWalZ5U0J6X3hsS19rSDZkcTJ4WE5RVTV1eXBLbWRLcnQtNml3eTBPa2tHdUltblE?oc=5",
+   "date": "2026-11-23T06:31:30.000Z",
+   "source": "H2 News Germany",
+   "origin": "H2 News Germany",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "Hydrogen energy company cuts staff two months after $49m federal grant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjNxVWtaT284clhzTEVGWDlKa3BxUkk0OUFzM2NuSDJvOGlNSEpNTEMxbG5CVGhhRmU2M0tkRWRsYXlRZ0R0VDJRa25QR25SWjRQZEZyTGJiSk5TYzNNajliakFKbHI0MUFUSk5DRTZ2ZVNPQm8zNjdqckV4WHFfNnV0c3BUQnNlVzF5RlQ4SXQ1akcwb2hWTjEwTlg4NVk?oc=5",
+   "date": "2026-11-22T22:43:15.000Z",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
   {
    "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
    "lang": "en",
@@ -20,7 +49,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVHNwVVgtVmxXa3l3eFRWUDg0Mm51ODlxeEZlMVBlcWdWTjNwVEpkUjIwSlFGUTRkV19uaTVMN25qcm1iamd0TzRKRUFwZ2MtUlI1U2U0UzRUaks1R1RvVkk2bjlsSmUyM1h4M042dDhUeUtMUjNDV1ZPdFFfb0NaWE5NamFTWmNveDRvRkRzOF9YbU0zZ0tQSGM3eXAybi1TSnZlcmtkQ3piYkZhdURnVlJTSWdFQVlXQ2I4ZUd6Y0ZnbEJxbHp3cEFfbXUtcFROSVY5TnRGX3dVNzYzMjhhTGVR?oc=5",
-   "date": "2026-11-22T19:00:30.000Z",
+   "date": "2026-11-22T19:03:35.000Z",
    "source": "Prop News Time",
    "origin": "Deal search: large investments and funding",
    "image": "",
@@ -118,6 +147,34 @@
    "score": 17
   },
   {
+   "title": "India's Electrolyser Manufacturing Delays: Navigating Market Demand and Policy Incentives",
+   "lang": "en",
+   "summary": "India's green hydrogen initiatives face delays in electrolyser manufacturing, highlighting a mismatch between production capacity and market demand, as major companies seek to postpone commissioning.",
+   "link": "http://hydrogenfuelnews.com/india-s-electrolyser-manufacturing-delays-navigating-market-demand-and-policy-in/8577128/",
+   "date": "2026-11-21T18:10:58.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1795284657739.jpeg",
+   "topic": "Production & Technology",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Ballard Power Systems Acquires GeoPura: A Strategic Leap in Hydrogen Energy Solutions",
+   "lang": "en",
+   "summary": "Ballard Power Systems has acquired GeoPura, combining fuel-cell technology with hydrogen energy solutions to meet growing energy demands for zero-emission power.",
+   "link": "http://hydrogenfuelnews.com/ballard-power-systems-acquires-geopura-a-strategic-leap-in-hydrogen-energy-solut/8577127/",
+   "date": "2026-11-21T18:10:56.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1795284655045.jpeg",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
    "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
    "lang": "en",
    "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
@@ -132,13 +189,41 @@
    "score": 6
   },
   {
+   "title": "thyssenkrupp nucera Launches Electrolyser Cell Assembly Hub in Portugal to Support Green Hydrogen Production",
+   "lang": "en",
+   "summary": "thyssenkrupp nucera announces the launch of its first electrolyser cell assembly hub in Portugal, aiming to support green hydrogen production through centralized, semi-automated manufacturing processes.",
+   "link": "http://hydrogenfuelnews.com/thyssenkrupp-nucera-launches-electrolyser-cell-assembly-hub-in-portugal-to-suppo/8577122/",
+   "date": "2026-11-21T05:05:48.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1795407504732.jpeg",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 4
+  },
+  {
+   "title": "Plug Power and Galp Advance Renewable Hydrogen Project in Portugal",
+   "lang": "en",
+   "summary": "Plug Power and Galp have launched a renewable hydrogen project at Galp’s refinery in Sines, Portugal, featuring a 100 MW PEM electrolyzer system to produce 15,000 tonnes of renewable hydrogen annually.",
+   "link": "http://hydrogenfuelnews.com/plug-power-and-galp-advance-renewable-hydrogen-project-in-portugal/8577121/",
+   "date": "2026-11-21T05:04:55.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1795237494529.jpeg",
+   "topic": "Steel & Industry",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 11
+  },
+  {
    "title": "HY2GEN SIGNS €139,8 MILLION EUROPEAN HYDROGEN BANK GRANT AGREEMENT FOR ALBATROS",
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1UyWUdiVGN3b3d3TnlhOW8wUl8yOU1tY3JlNFJ2MFdYXzNNUHkyeEpjX09ObU1vajhnVHNVcnpuSS03MUhFbmJONlRVU0NDV1JGXzZ4aHZUcFNSSFZ1aUtJdE5mZm52MFJ1c2xFRi1QdXFSV1A1eDBTY2wyOU1BTUNCdS1KOENoQXJ6U1hCbkNlTkNLWVBrRVp1SEtPVnZQQnNXbHJycXIxQlJT?oc=5",
    "date": "2026-11-21T04:48:28.000Z",
    "source": "Hydrogen Central",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: policy and auctions",
    "image": "",
    "topic": "Policy & Auctions",
    "region": "Other Europe",
@@ -200,6 +285,20 @@
    "region": "Global",
    "market": "other",
    "score": 9
+  },
+  {
+   "title": "First Hydrogen Corp. announced that it expects to receive CAD 1 million in funding",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEwzM3g4UmVTaXRVRkdsZm9POE80Vm5Yb3NuQ2JSU3JlQ2ZLYzJ0b2tMeTBEdUtzX0tlTE50MEZ5S3AtYVdSMFAzOVpiWXdGZkpYSzB3SmRRQU45ckVvdG16WFM3Tm9vMkhXa2x6OGZCNDBfZmxXSkVhaXhjYlVzWklPWlNDR2ZvRC1WSnZpVUpkSnc5RVFvSmJjeWdjdkVPTlNyRVhjWFJ2YzFJTlJhcGE3azFaSkZFNml3ZHpmdWNGeWc1ZXR3UUQ1Y1ZtZEk?oc=5",
+   "date": "2026-11-20T23:00:00.000Z",
+   "source": "www.marketscreener.com",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 8
   },
   {
    "title": "World’s Largest Green Hydrogen-Based E-Methane Plant Reaches FID in Finland",
@@ -354,6 +453,20 @@
    "region": "Global",
    "market": "other",
    "score": 5
+  },
+  {
+   "title": "Plug Power and Avina Clean Hydrogen Launch Operational Hydrogen Hub in California",
+   "lang": "en",
+   "summary": "Plug Power has launched the Avina Clean Hydrogen facility in Vernon, California, employing its 5 MW electrolyzer to produce hydrogen aimed at fueling heavy-duty trucks; marking a significant step toward sustainable energy.",
+   "link": "http://hydrogenfuelnews.com/plug-power-and-avina-clean-hydrogen-launch-operational-hydrogen-hub-in-californi/8577114/",
+   "date": "2026-11-20T16:06:02.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1795408426313.jpeg",
+   "topic": "Infrastructure & Storage",
+   "region": "North America",
+   "market": "other",
+   "score": 7
   },
   {
    "title": "Survey: German Truckmakers Push Hydrogen Drivetrain Series Production to 2029 or Later",
@@ -2775,7 +2888,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXBtYVZpVktuNGVXUlZ6bjdOS1lQUUEtM1NibFNGa0R3R0lDS3VxVjZPbE1YQzkwNUlnQThCTU9ERWFhQXhDZTVYYjRQVXNDYk5NV1YxNmFwaDV6Yk1FOHY2UkRadEJ3S0ROTE1zWEN2WVg2dU5sX2pVVmRYdzJ4eHdCZmxDN0FUMmtYeDJOcjBKN1VxeVlubmJCQ2JZQnJPZ29DR0NnT0tacV9fRkxHS2lYcWgzSEMtZERVdWNVVlJUOFRYWFg0YXhSTU5aZDRt?oc=5",
-   "date": "2026-11-17T08:41:25.000Z",
+   "date": "2026-11-17T08:41:42.000Z",
    "source": "Hydrogen Insight",
    "origin": "Hydrogen Insight",
    "image": "",
@@ -2961,7 +3074,7 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2xld1RTc3pjYlhyT1lpVjFLNEExT0t3NktCTE5oSzJ4RVMwYTJubXVfX0xHbS00clN4a0hzMmN2eVBaY0VvZ2NlM1RtNGlPN19zMTBmWlNqT1hNVHFqc0J4NG53Q3MzSWQ3YzRFNDR5ZnRDa0ZNUHNvVEZWZ0Q2NTFRR2pncDBwa2NPR3h0M0EwMllW?oc=5",
    "date": "2026-11-17T04:51:51.000Z",
    "source": "Biomass Magazine",
-   "origin": "Deal search: refineries and industry",
+   "origin": "Deal search: eSAF and aviation fuel",
    "image": "",
    "topic": "Aviation & e-SAF",
    "region": "Nordics",
@@ -3425,7 +3538,7 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHRPbEM3SXl4ZWlOc0tCLTFvM2hJN3dYR2JONkpCUmJqM3RQc0RjUlQxRHBXbGpJMzdFaVB3ZW1HdnRqSmllbDZ1VjNBRWtTbkcxMmVTQVQ0Tk1XT21UNVBrSDhEMk5lTTBwUGx5UHJGTmt4OVd5QWt3MjJuYnhTZ0tKNllFS3FHakZ5cFRPOTEwaHBuQVVTcVAtV2x5cUNjNDkxbFd4YzdJSHFsZEdGUlVna0FOandCSjRSS3J2ZzRoTzVhOXZ0ZVhmRzN2ZjlvWjU2REg5OTJwX1Q0UnhabUNDbHRCOXNaRGxkWHpxUzBjd2MzUHltLQ?oc=5",
    "date": "2026-11-15T10:41:21.000Z",
    "source": "GreentechLead",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: cancellations and delays",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -5479,6 +5592,21 @@
    "region": "Nordics",
    "market": "eu",
    "score": 7
+  },
+  {
+   "title": "Erdgaskaverne in Huntorf besteht H2-Dichtheitstest",
+   "titleEn": "Natural gas cavern in Huntorf passes H2 leak test",
+   "lang": "de",
+   "summary": "Die EWE Gasspeicher GmbH baut eine vorhandene Erdgaskaverne im niedersächsischen Huntorf für die künftige Speicherung von Wasserstoff um. Anfang November konnte nun die Dichtheit der Bohrung bestätigt werden. Ab der Inbetriebnahme im Jahr 2028 soll der Speicher Für die Energiewende ist die Speicherung von Wasserstoff e",
+   "link": "https://h2-news.de/wirtschaft-unternehmen/erdgaskaverne-in-huntorf-besteht-h2-dichtheitstest/",
+   "date": "2026-11-11T06:30:08.000Z",
+   "source": "H2 News Germany",
+   "origin": "H2 News Germany",
+   "image": "https://h2-news.de/wp-content/uploads/2024/08/Speicher-1.jpg",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 5
   },
   {
    "title": "India’s largest solar panel manufacturer planning $1.6bn green ammonia project: report",
@@ -11929,54 +12057,12 @@
    "region": "Germany",
    "market": "core",
    "score": 5
-  },
-  {
-   "title": "Kawasaki Heavy Industries and Transgaz Forge Strategic Hydrogen Partnership",
-   "lang": "en",
-   "summary": "Kawasaki Heavy Industries and Romania’s Transgaz have signed an MOU to explore hydrogen transport via pipelines, showcasing potential advancements for energy infrastructure in Europe.",
-   "link": "http://hydrogenfuelnews.com/kawasaki-heavy-industries-and-transgaz-forge-strategic-hydrogen-partnership/8576936/",
-   "date": "2026-10-24T13:07:25.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792918703986.jpeg",
-   "topic": "Infrastructure & Storage",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 11
-  },
-  {
-   "title": "Končar Wins EUR 39.3 Million Grant for Hydrogen Technology",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejBzb2FKRGFjNVppeUtwZHdSMGhGbGJUekZRQXFWTS11ZDdzVEM2OFN0ZkZlbWZ3QXl6b1pWRENVVlYtYUh3N2VLX2F3cC1YMWxaa3lCbVBlbm5qeDIzUWtBLTJoOUVxbC1TZTFaR0lpVHhSOTJ3SW9uN3c3Ul81MWJoeDFhQXdTSFlCZzd3aFlZT2dUOXBoenh2RWduMGs?oc=5",
-   "date": "2026-10-24T07:00:00.000Z",
-   "source": "megaproject.com",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "HDF Energy Acquires Full Control of Renewstable Barbados Project: A Step Towards Green Hydrogen Innovation",
-   "lang": "en",
-   "summary": "HDF Energy has taken complete ownership of the Renewstable Barbados project to develop a cutting-edge hybrid renewable energy facility, aiming to provide Barbados with sustainable, stable electricity and reduce dependency on fossil fuels.",
-   "link": "http://hydrogenfuelnews.com/hdf-energy-acquires-full-control-of-renewstable-barbados-project-a-step-towards-/8576932/",
-   "date": "2026-10-24T00:06:26.000Z",
-   "source": "Hydrogen Fuel News",
-   "origin": "Hydrogen Fuel News",
-   "image": "https://media.verna.one/images/resized-1792800385754.jpeg",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 5
   }
  ],
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 32,
+   "shown": 35,
    "status": "ok",
    "error": ""
   },
@@ -11989,8 +12075,8 @@
   {
    "name": "Industrylinqs",
    "shown": 7,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "Hydrogen Tech World",
@@ -12000,7 +12086,7 @@
   },
   {
    "name": "H2 News Germany",
-   "shown": 7,
+   "shown": 9,
    "status": "ok",
    "error": ""
   },
@@ -12037,8 +12123,8 @@
   {
    "name": "Gasworld",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "European Hydrogen Observatory",
@@ -12918,31 +13004,31 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 24,
+   "shown": 23,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: eSAF and aviation fuel",
-   "shown": 16,
+   "shown": 17,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 79,
+   "shown": 78,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 22,
+   "shown": 23,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 28,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
