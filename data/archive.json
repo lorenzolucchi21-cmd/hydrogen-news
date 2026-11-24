@@ -1,6 +1,34 @@
 {
- "generatedAt": "2026-11-23T20:08:38.405Z",
+ "generatedAt": "2026-11-24T04:44:39.089Z",
  "articles": [
+  {
+   "title": "DWE to supply methanation technology for Ren-Gas e-methane plant in Finland",
+   "lang": "en",
+   "summary": "Following the final investment decision for the e-methane plant of Nordic Ren-Gas Oy (Espoo, Finland) in Tampere, Finland, DWE GmbH (Deggendorf, Germany) will supply the plant’s methanation technology. The catalytic methanation unit, designed for a plant with 50 MW of electrolysis capacity, converts hydrogen from an el",
+   "link": "https://www.chemengonline.com/dwe-to-supply-methanation-technology-for-ren-gas-e-methane-plant-in-finland/",
+   "date": "2026-11-23T20:21:07.000Z",
+   "source": "Chemical Engineering",
+   "origin": "Chemical Engineering",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Nordics",
+   "market": "core",
+   "score": 14
+  },
+  {
+   "title": "ACME completes FID on $3.6 billion, 760,000 tonne green ammonia project in Odisha",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFJMNk5jbXJHTzk0dHJPNVFscDEyOXpWWWlpYVJTdlpfaTZTTUVPaF9xNHZYcU9mY1lOOTU1VHZTQTdtMlFPbjJFRUc4cHMtY3NJM3N0Z3pCWjJ3b0t0ZUdiYW4yVElnZVlrS3FKOVBMb19qcmVGSTFDN3EyZ21rTmREMmN4V21kb1JGSi03ZUhjNTMyX18yMDhWdTdoeDJralEtWWxSY0piVVhfS1VzWXFOd0k0OTJseXVydmp2bEZMYWhy0gHLAUFVX3lxTFBwS042ZWNhRFpNYy1wNXQ5SllVTEUzLU5kc3RQclZSa3E5U1JLSWpKTXB6VFU1Y0d3bm9ETE5ELWpkaC1tRDRTX3VDMk9HWW43WER6LUIxdjBoTlgxdGphWUR0amJSeXQ5RkkwcEFqeU0zU2lDcEtTSTd6Rnh4VmtBYWt5YW1PLUNLOFA1djc1UVV0OEJ3d0c4UkVWUHRWeXRkeW5VVW9ELVhESEJrZGEwSGdEX3FvWW1iaXlRd2thUFVmSkhtcWNyckxN?oc=5",
+   "date": "2026-11-23T18:28:15.000Z",
+   "source": "Indian Chemical News",
+   "origin": "Deal search: final investment decisions",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 17
+  },
   {
    "title": "Takenaka Corporation Proves Seasonal Hydrogen Storage in Apartment Block",
    "lang": "en",
@@ -72,6 +100,21 @@
    "score": 4
   },
   {
+   "title": "Thyssenkrupp Nucera meldet EBIT Verlust von 136 Millionen Euro",
+   "titleEn": "Thyssenkrupp Nucera reports EBIT loss of 136 million euros",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vQ296V05UQWNzVWhIandxWDlZYkI3RlhaN0FSQnpPd3Zwc2Fldm05aFdLR2w0Unl4LTR2SVFSSHdrU3QyblA2dS1CLVV0NXNiMncxeFVJdUphRXRxSjNMalFsM0puV3Iw?oc=5",
+   "date": "2026-11-23T15:48:53.000Z",
+   "source": "SuaraGarut.ID",
+   "origin": "Deal search: fuel cells and e-fuels (DE)",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "market": "core",
+   "score": 7
+  },
+  {
    "title": "Green Cat Hydrogen gains planning nod for Scottish project",
    "lang": "en",
    "summary": "",
@@ -84,6 +127,20 @@
    "region": "Global",
    "market": "other",
    "score": 3
+  },
+  {
+   "title": "thyssenkrupp Steel launches revised hydrogen tender for Duisburg plant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzNQMFNYUllETjFiZHZ3VE5mVUp3cjh4VmdoclU2NzBOYTBlaUpvZ2xkYmVaTU4zcUpFQWwwTGZVTUVTanF0c0pjQ2todjUxNEZrYUFqNnNPal9wRU90SGdMR0pZaVNEQkFWV1JhaG5tUFJsaDJEWklUbkZVQnpzRHVsWHdMeWFyb2ZqVmkwemoxSmI3YXYydFdaVWVvVm44Y19BeHNiZ2t2YU9yN096WEppNHFlZWJWNVlwX1dHYw?oc=5",
+   "date": "2026-11-23T15:07:19.000Z",
+   "source": "Quantum Commodity Intelligence",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 5
   },
   {
    "title": "Erste H2-Projekte zur Eigenversorgung",
@@ -326,6 +383,35 @@
    "score": 5
   },
   {
+   "title": "thyssenkrupp nucera Aktienanalyse: Umsatz fast halbiert, EBIT bei minus 136 Millionen - Ist der Wasserstoff-Ausrüster schon am Tiefpunkt?",
+   "titleEn": "Thyssenkrupp nucera stock analysis: Sales almost halved, EBIT at minus 136 million – Has the hydrogen equipment supplier already hit rock bottom?",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVV6UlJsN1BMVFhseXFhMTJDaGtXdThKdHZuOWZfT0doaVhzc09sWTZoLV9fU3VFbXlfTzI1QnBGTlZOd2MzbDRucnRZTVN6c3NRRmw2ZXpNTlI3bHhPZnkwNVdSMmFNUWhsMUFCdmZ1OS11QkM1RDFXWkQtX3I5VmFveVJyaXZGZUpqSVAzNEN4YWt6M1RfaE03V2pXbUNXWEJCenl6OA?oc=5",
+   "date": "2026-11-23T09:11:38.000Z",
+   "source": "AktienCheck.de",
+   "origin": "Deal search: Germany (DE)",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "market": "core",
+   "score": 7
+  },
+  {
+   "title": "Sunshine Green Hydrogen Ships First AEM Electrolyzer to Singapore,",
+   "lang": "en",
+   "summary": "Zhejiang Sunshine Green Hydrogen has shipped its first AEM electrolyzer to Singapore, marking a significant move in green hydrogen production and the company's entry into the international market.",
+   "link": "http://hydrogenfuelnews.com/sunshine-green-hydrogen-ships-first-aem-electrolyzer-to-singapore-marking-a-mile/8577136/",
+   "date": "2026-11-23T09:06:08.000Z",
+   "source": "Hydrogen Fuel News",
+   "origin": "Hydrogen Fuel News",
+   "image": "https://media.verna.one/images/resized-1795488945445.jpeg",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 4
+  },
+  {
    "title": "Unternehmen planen Pilotprojekt zur Wasserstofferzeugung ohne Elektrolyse",
    "titleEn": "Companies are planning a pilot project to produce hydrogen without electrolysis",
    "lang": "de",
@@ -455,20 +541,6 @@
    "region": "Germany",
    "market": "core",
    "score": 5
-  },
-  {
-   "title": "ACME completes FID on $3.6 billion, 760,000 tonne green ammonia project in Odisha",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFJMNk5jbXJHTzk0dHJPNVFscDEyOXpWWWlpYVJTdlpfaTZTTUVPaF9xNHZYcU9mY1lOOTU1VHZTQTdtMlFPbjJFRUc4cHMtY3NJM3N0Z3pCWjJ3b0t0ZUdiYW4yVElnZVlrS3FKOVBMb19qcmVGSTFDN3EyZ21rTmREMmN4V21kb1JGSi03ZUhjNTMyX18yMDhWdTdoeDJralEtWWxSY0piVVhfS1VzWXFOd0k0OTJseXVydmp2bEZMYWhy0gHLAUFVX3lxTFBwS042ZWNhRFpNYy1wNXQ5SllVTEUzLU5kc3RQclZSa3E5U1JLSWpKTXB6VFU1Y0d3bm9ETE5ELWpkaC1tRDRTX3VDMk9HWW43WER6LUIxdjBoTlgxdGphWUR0amJSeXQ5RkkwcEFqeU0zU2lDcEtTSTd6Rnh4VmtBYWt5YW1PLUNLOFA1djc1UVV0OEJ3d0c4UkVWUHRWeXRkeW5VVW9ELVhESEJrZGEwSGdEX3FvWW1iaXlRd2thUFVmSkhtcWNyckxN?oc=5",
-   "date": "2026-11-21T23:28:22.000Z",
-   "source": "Indian Chemical News",
-   "origin": "Deal search: final investment decisions",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 17
   },
   {
    "title": "India's Electrolyser Manufacturing Delays: Navigating Market Demand and Policy Incentives",
@@ -1061,6 +1133,20 @@
    "score": 7
   },
   {
+   "title": "Developer behind $1.1bn Jordan green ammonia project inks 45-year land lease",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGI0alRzQzZtMnZ0d081NkZseUYySWtCck95VkZkcHMxM3A2dGR4YjQ3UTdVME1vVVpSX1ZtRmxoSDc3Smw2cVlYZ25pY2ZhcVBSSmJSZFVONTdJQ1lSbHo2emN1aHpIbXVuemJGQXJHdTAySE5MOHZGWTRQWlBMaGg2aU9QSGxrU1VRekI1M2hrYklMZ1d4S1lNZmpMd084VXNrdlBaWEpBNFRtaEg2WUpYLTVTa0JMN1BESnVJQ1I?oc=5",
+   "date": "2026-11-20T08:36:01.000Z",
+   "source": "gasworld",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
    "title": "Jordan unveils $5.36 billion green hydrogen and ammonia infrastructure investment plan",
    "lang": "en",
    "summary": "",
@@ -1229,6 +1315,20 @@
    "region": "Global",
    "market": "other",
    "score": 8
+  },
+  {
+   "title": "Groundbreaking ceremony held for 10 MW Sleeping Giant electrolyser",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM2pVbk5QZHlVWlFnbUNhRVcyUGJyWHI5Qms1aHI0ZzZpOGlwUFBQQ05rb1dKcXNPc2pFd2RwN1pzWGpJZmxtZFpYNHcyVUNRREtlZWNWNWY5MnZVclJlaUM5cGdpTjFaVUc0VVh1SERHS0V4aDNKRVg3RkpidEQwVENFQ3BTa2NET2VJTHJYMU96WmVmb3RTcWFhTmRycjRxQ09XOHc5bkFqSVd5eV85LTJ5TWxrUHdJWHc?oc=5",
+   "date": "2026-11-19T18:26:56.000Z",
+   "source": "Quantum Commodity Intelligence",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 9
   },
   {
    "title": "Two of Protium’s green hydrogen projects pass due diligence for HAR2 subsidy round",
@@ -2393,7 +2493,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJXNnFHZ24zdUpXcC0yejdoNExkOUtTdEtseTNxd0ZpbXNodGxmNlpjcGtteUg4M0lTQmgzbUFINllaSXFyWWotcGROZXF1TEpNUDVjUUhnWTlqSThjVVhLbm5nSVcxODlhVHFJMWktYUdhNUxvTFI4TVBqdXB5X1otNTRpX2pGeDdkTHhWbEltSGV6M1JkX2MwRTZvZ3g3N3JlNlVnMFFfZWfSAbABQVVfeXFMTV9pblRMU012aFVoV2xDOTI3TW1tZm1OLWNHaWYtdlphejc2cnM5QUlYNWdLck9RNXJtN3l6a3dGd2l5X3R6bGFmVzctbWhRaWtsMHlpTkt0MW9qc2lEMmpFa2VjMGJHLUQ5MGt1MTFzZTdsUVktSmdUNGxFWjUwQnZmS0xXSC1Lc2E4NnhfcTc2VkcxX2VHN2xjcG1YZjEwUHI2UnZGWm1hbnRJblBLTk0?oc=5",
    "date": "2026-11-18T12:39:05.000Z",
    "source": "Rediff MoneyWiz",
-   "origin": "Deal search: final investment decisions",
+   "origin": "Deal search: project milestones",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -3708,7 +3808,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTA5bWxmUFFNTWloUTJCcUlLbVZUVnV4eXVCZ3d3eHpINFpuRlpXOFI3bkgwdzFKbU1tT21tRWxoZlhWOUVHcm8zdXN6R2xOQmI1Z2FhZWQ4WW9qRXl0LUhEdzFXOHdMeXg5cFBvSTBTMjQtZmpocGxrV1JXMzRZelVCVVJNemxiME9neTJJTk04LUZoU2c3Wk14SGt3TUZOMm1WcE5TRmJqOW40aDFnYnphSQ?oc=5",
    "date": "2026-11-16T15:07:00.000Z",
    "source": "Fuel Cells Works",
-   "origin": "Deal search: policy and auctions",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -3919,7 +4019,7 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHRPbEM3SXl4ZWlOc0tCLTFvM2hJN3dYR2JONkpCUmJqM3RQc0RjUlQxRHBXbGpJMzdFaVB3ZW1HdnRqSmllbDZ1VjNBRWtTbkcxMmVTQVQ0Tk1XT21UNVBrSDhEMk5lTTBwUGx5UHJGTmt4OVd5QWt3MjJuYnhTZ0tKNllFS3FHakZ5cFRPOTEwaHBuQVVTcVAtV2x5cUNjNDkxbFd4YzdJSHFsZEdGUlVna0FOandCSjRSS3J2ZzRoTzVhOXZ0ZVhmRzN2ZjlvWjU2REg5OTJwX1Q0UnhabUNDbHRCOXNaRGxkWHpxUzBjd2MzUHltLQ?oc=5",
    "date": "2026-11-15T10:41:21.000Z",
    "source": "GreentechLead",
-   "origin": "Deal search: cancellations and delays",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -4550,7 +4650,7 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeW5hVEQ2V3NwTUtkRjRJckFIZjJYNzEtUTI2VWk2cTBJaDZDakVoLTU4bDVyQ0ZhZktPZzFudk5McVNkOGFvbkVkYmdrMGtUc1ZZdEw2MmpYY01yTExoeGNfa0lEUllEaHhuQ3BUMzdWU2J1NjF2d0pXSzZYSUQzdDNCVS1NdGhaaW9nTnVpN3JRQklQQXN0c0pTMGxzMUNKb1hJMUFwQmNoWnljOHJOY1Q3QWtKRngzTFR2VmpMRHBBWWJ3b1BOdA?oc=5",
    "date": "2026-11-13T10:40:20.000Z",
    "source": "euro-petrole.com",
-   "origin": "Deal search: refineries and industry",
+   "origin": "Deal search: project milestones",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Other Europe",
@@ -4659,6 +4759,34 @@
    "score": 5
   },
   {
+   "title": "India’s green hydrogen offtake commitments exceed 0.55 million MTPA: MNRE",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3pDUTJSS1JMalF3RkE4Z0pxQThjdWRqUWdaaHpacUd4QUk2alQ1Y3pkcHlnVzI3ZTVyencta2FORUZoUUlyakxHdTZKclZPOGJPRmJlOTB4eE1XaUJzbHNacUtlZWczYk0zRnhVR2t4MEdrNlNWUVY4eUxabkxLb2VZRVZuUlpLOTI3U3MtWmhkSkdpU1ktelFnSFdRSldLdi1qdnJvZzFMTFlVX0lJ?oc=5",
+   "date": "2026-11-13T08:00:00.000Z",
+   "source": "Renewable Watch",
+   "origin": "Deal search: offtake and supply agreements",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "Hyd’Occ has been inaugurated; with a capacity of 20 MW, it is the largest operational renewable hydrogen production plant in France",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnhMWklqOE9WSVVCb2tFd213T3VjTkdxN1QwQnpUV21UU0dTMlRaZXVyeU9sR0ZRMDJqa0t3cG1jMzlsLVpRSTRTSnlpNDZBMllINjZaQ0hkMUxnYkgxTUcyc0tpT2tCZ0ZIb3Bwc3E5cGFfMS12R25pUWVjR3NqVHdmYUUyek1OVlpqamxqQ2VYTkJaZmJ5RVhFejFtNDUyN19QQmQtY3VTay1tcVVRcm82WWlyT3NVYi1ndjN5dWRWTUd1WHZ0aEoxYkFvckpWNWlJNzdicXRaZjlIT1BNczdvUVVHRFVDdnF2Ynhn?oc=5",
+   "date": "2026-11-13T08:00:00.000Z",
+   "source": "HydroNews",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 9
+  },
+  {
    "title": "Oman unveils winners in 3rd green hydrogen auction, opens new one",
    "lang": "en",
    "summary": "",
@@ -4673,18 +4801,32 @@
    "score": 5
   },
   {
-   "title": "India’s green hydrogen offtake commitments exceed 0.55 million MTPA: MNRE",
+   "title": "Indian Oil's green hydrogen plant in Panipat will be commissioned within 2 years says Chairman, IOC",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3pDUTJSS1JMalF3RkE4Z0pxQThjdWRqUWdaaHpacUd4QUk2alQ1Y3pkcHlnVzI3ZTVyencta2FORUZoUUlyakxHdTZKclZPOGJPRmJlOTB4eE1XaUJzbHNacUtlZWczYk0zRnhVR2t4MEdrNlNWUVY4eUxabkxLb2VZRVZuUlpLOTI3U3MtWmhkSkdpU1ktelFnSFdRSldLdi1qdnJvZzFMTFlVX0lJ?oc=5",
-   "date": "2026-11-13T06:44:11.000Z",
-   "source": "Renewable Watch",
-   "origin": "Deal search: offtake and supply agreements",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWWMtOXpZNHl3MkJqcjh2Q2R5LUFMb1IyZWg4WE1mSlJ4TnI4WTVPMGVzM1VhMUgzdW5lQ21kWkRMNmp2dThRN1NxRWJTVzY5TnVPM0k0bVNWSmVFc2oxd1pzMXNKNU1mU1EtOWpHNHFfS1luLUwzajVCMHVtU3JudGRYWFBiTFdrYXl2MzVINDZ6Rkk5ZVBjckpKUXpXbnlKeDI3Q0VqSlRBTjhhUTE3U2FvdTZVMW5GTHB3NW5qRzZILXRFZlpzc3NZNC15dV9LTnU2S2p0TGkydUhiQi1aZ1RXUUM5bkNZeDU1VHRIUVloX1FLWFF6YWRtdExGREhLMERMRms4UTTSAYMCQVVfeXFMTkVQeXF3OFJfWURPYUFHVWZ4eGJfQmszX1ZqM3FUNDRPVEo2a2dJNjdYakpJc1RJNUNhNFo3V0pVNmh0NWRpRlpiam12VTEwS0NIWEx4YmhwVTVLbGRzRWlIRy1EXzlGY0xTYk9tcWxwMWt0b1NDTkNCVUFtTTMtc1VRbGtlcFFucFl4SklDUVFNYXByTlFNSDg2X3BjdTR4UHZEME1vb2R3cmNFeWlfeC1LUWQ4YVFwdU9IU2tfYWpQNFhTMUMzRnJOLUdXZFlseGphYWZQZ0hIRVA3ZFFtWWozRTJpUGszdVlCV1d3WWZKcDFCTGg0emNDaU45a3hOenRFOA?oc=5",
+   "date": "2026-11-13T08:00:00.000Z",
+   "source": "ET Manufacturing",
+   "origin": "Deal search: project milestones",
    "image": "",
-   "topic": "Offtake & Supply",
+   "topic": "Production & Technology",
    "region": "Asia-Pacific",
    "market": "other",
-   "score": 9
+   "score": 5
+  },
+  {
+   "title": "Making hydrogen work: lessons from early projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQT1BvdkdCbXlGXzlrbmlCclFsQVM0eUNzVXFuaEkzckJNVXpPWjdCd1ZqbG1DRXFGd21WdDNMMm1kZmM4d2hfSDVhcnhzV3NvSVhQVmtoV0tCRzdlSll1SFJWT1ZDajZoVUFHeTEyTDFKZFpPNkw0YXhlZThxcGZZUURuSXR5eG0yT0dWV3llU3BXd3JGa1ZXWGthbnExcjlBUUVEZjBTSWJKbFFRUjV3N213NnR3ZnY1MU80czVlUGVkS1FOaDBqVmxmUExJMDA2eExGNWVjN3doeHJOcGw0TVhOVXdyR3dXMGJ2TmpaZnVLMkE5RHFyaTZYTVVEdHc?oc=5",
+   "date": "2026-11-13T08:00:00.000Z",
+   "source": "Shell",
+   "origin": "Shell",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 3
   },
   {
    "title": "Nach vier Jahren Bauzeit: Elektrolyse im Energiepark Bad Lauchstädt läuft an",
@@ -8269,6 +8411,20 @@
    "score": 6
   },
   {
+   "title": "Chlor-alkali plant commissioned in Gujarat with thyssenkrupp nucera tech",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGhNV1dmY2hTazN5VGNOZy1OWmpzelVsTk80dWZLR1R1dkVQNXhFcVdzdEo5MGVsMDdvZmljdElsSnpNVDA3QTFUcWxjR1lCMkgwaDRFS042NmNzTFV1QjhJeXRoMGwyR3ZPNkVMUnlRLTAtamtyN3F6ZEI0QXR4WC1DRF9PSkxFbzJPRnJEZExaREJWSmxHSXBkbU53cUNOVlh0bHlNWDJUaFpsSG5wWTZ4Z3g2MmdCNlNPMGEtYzRBUQ?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "source": "Quantum Commodity Intelligence",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
    "title": "Hadean gains ARENA funding for pilot hydrogen facility",
    "lang": "en",
    "summary": "",
@@ -8946,6 +9102,20 @@
    "score": 5
   },
   {
+   "title": "Goldwind’s 600 MW Inner Mongolia project set to become world’s largest green hydrogen facility",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFVleEVaYmhnc0s0QTVGaU4ycVY3cENOTnEwZWd4b3MtWkNXWkNUYVVzbDg0X1Ytc283aHVRNVJIc2ZtUVZLTldxTjYzUjZaQjZwUkxIVjRucjBwWW5hQmdNLXJkUm5SSEtJWDR2WkVDU3dmNTdvT3lnUmZ5ZTM5b011THp6TFQ2eWNCSUFfXzJOejFKbGZ3M0tTQ1IzZnROMUJmekdkSUNTUkNOVUhaWmNQR19LZF9HT2VzSk1ZZ0VFQ1NpZ2ZXWVNQVQ?oc=5",
+   "date": "2026-11-04T08:00:00.000Z",
+   "source": "Green Building Africa",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
    "title": "thyssenkrupp Steel prepares new hydrogen tender following revised financing terms",
    "lang": "en",
    "summary": "",
@@ -8972,20 +9142,6 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 5
-  },
-  {
-   "title": "Goldwind’s 600 MW Inner Mongolia project set to become world’s largest green hydrogen facility",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFVleEVaYmhnc0s0QTVGaU4ycVY3cENOTnEwZWd4b3MtWkNXWkNUYVVzbDg0X1Ytc283aHVRNVJIc2ZtUVZLTldxTjYzUjZaQjZwUkxIVjRucjBwWW5hQmdNLXJkUm5SSEtJWDR2WkVDU3dmNTdvT3lnUmZ5ZTM5b011THp6TFQ2eWNCSUFfXzJOejFKbGZ3M0tTQ1IzZnROMUJmekdkSUNTUkNOVUhaWmNQR19LZF9HT2VzSk1ZZ0VFQ1NpZ2ZXWVNQVQ?oc=5",
-   "date": "2026-11-04T02:14:51.000Z",
-   "source": "Green Building Africa",
-   "origin": "Deal search: project milestones",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 9
   },
   {
    "title": "Bloom Energy Gains 9% on California Resources’ 1 GW Fuel Cell Tie-Up and Barclays Upgrade",
@@ -10371,20 +10527,6 @@
    "score": 6
   },
   {
-   "title": "Reliance, AM Green and 21 other entities committed green hydrogen offtake of 5.5 lakh tonnes annually",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdzF2c0FfOEo5dHNyNEx6ZW80bkxtMGlCekY0d2lpVmozOVRLNkEtdThOaF9yV0JFa1BxZkxnRmhnWm9HOXp2aXpFUm1WbVotOUNvamJKQ2FMT1JrZDlQZ2ZVVmZUZmRmRmpwYjNCYjU0MzBJXzFWR1FOd3FCck9ENTJmVDRvVjVHZ29aUTN2T1JKdlQ3NVpZLUwyU3p6SWRjRENFVTBqVlN0cnlHdWdtZHBnaDhBSEUtdWtfOXgwTWk1V1BQTFhEUE5DQW1nemg3d19RUFBZanl2SFljcmdzSGVUbDg5Q2x5NTNyb1o5ckF6NFZ5UmNFRlJ30gGAAkFVX3lxTE5lSU5nekRvdWo2Tm83R1NMUk1pWjlFYTNSaU1Bc1prdVZZaXJGRzU0RTFZdERJSnl5NFVaVHh5cGw4aFFCaTU3eXhmUHNBTEhtdU1YcUlCaU5JZFFEZ1dlTGJ2bWZKX25ScUJteFVac0Zad1M3UHF0ZFMySzRLVXRfOUcwaTZEbDVqME9YSDFkckRpeUpJb093Z0xGZzYwaFZiQ0E3aFVWNUtraWhxNWhSUEhjTE1KYnZEcHR5R0VJUlNFTFE0ZWlvUF9uOWpuYlRQWDU3c2FabVYzVXN6engyRXVSaGdXSjRmeVdTRzZOZ2l1bFZSMWpEY1RvdUxLU04?oc=5",
-   "date": "2026-10-30T07:00:00.000Z",
-   "source": "BusinessLine",
-   "origin": "Deal search: offtake and supply agreements",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Global",
-   "market": "other",
-   "score": 6
-  },
-  {
    "title": "India Leads Globally with Green Hydrogen Offtake Commitments Exceeding 5.5 Lakh MTPA Till October 2026",
    "lang": "en",
    "summary": "",
@@ -10395,6 +10537,20 @@
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Asia-Pacific",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "Reliance, AM Green and 21 other entities committed green hydrogen offtake of 5.5 lakh tonnes annually",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdzF2c0FfOEo5dHNyNEx6ZW80bkxtMGlCekY0d2lpVmozOVRLNkEtdThOaF9yV0JFa1BxZkxnRmhnWm9HOXp2aXpFUm1WbVotOUNvamJKQ2FMT1JrZDlQZ2ZVVmZUZmRmRmpwYjNCYjU0MzBJXzFWR1FOd3FCck9ENTJmVDRvVjVHZ29aUTN2T1JKdlQ3NVpZLUwyU3p6SWRjRENFVTBqVlN0cnlHdWdtZHBnaDhBSEUtdWtfOXgwTWk1V1BQTFhEUE5DQW1nemg3d19RUFBZanl2SFljcmdzSGVUbDg5Q2x5NTNyb1o5ckF6NFZ5UmNFRlJ30gGAAkFVX3lxTE5lSU5nekRvdWo2Tm83R1NMUk1pWjlFYTNSaU1Bc1prdVZZaXJGRzU0RTFZdERJSnl5NFVaVHh5cGw4aFFCaTU3eXhmUHNBTEhtdU1YcUlCaU5JZFFEZ1dlTGJ2bWZKX25ScUJteFVac0Zad1M3UHF0ZFMySzRLVXRfOUcwaTZEbDVqME9YSDFkckRpeUpJb093Z0xGZzYwaFZiQ0E3aFVWNUtraWhxNWhSUEhjTE1KYnZEcHR5R0VJUlNFTFE0ZWlvUF9uOWpuYlRQWDU3c2FabVYzVXN6engyRXVSaGdXSjRmeVdTRzZOZ2l1bFZSMWpEY1RvdUxLU04?oc=5",
+   "date": "2026-10-30T07:00:00.000Z",
+   "source": "BusinessLine",
+   "origin": "Deal search: offtake and supply agreements",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Global",
    "market": "other",
    "score": 6
   },
@@ -12381,55 +12537,12 @@
    "region": "Asia-Pacific",
    "market": "other",
    "score": 5
-  },
-  {
-   "title": "NewHydrogen, Inc. announced that it has received $2.999765 million in funding from SunHydrogen, Inc.",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGpJVUVlSk51V21NR2ZrS2tZLW1pS3Q2MDRNQllnM1BXdWJpaEdVa1ZJdlMtRERhSXd6UmFSTUxObVZCX0xWS29vV244d2J5X0lDb3JPdVF6Nl9lMkQ2SEJDSGFOVzFpaC10TUM0LWRGWWFhREZaRHowYTNDZ3JYNGFzLTVwM2FCQ0RKaWNrZUI3alJzdXFBVEo3N1RsZDRWVVVGLXlXWm5NNjNlT0xsNDNBX3FTSWlISkhHYXFXS25UMFYtaUVYQlhxM2djWjhURmhoWDNrd1V3N3Bac3MyemV3?oc=5",
-   "date": "2026-10-25T23:00:00.000Z",
-   "source": "www.marketscreener.com",
-   "origin": "Deal search: large investments and funding",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "Five 600 MW hydrogen-ready floating power stations slated for major conversion",
-   "lang": "en",
-   "summary": "A fleet of high-capacity floating power stations is heading to Singapore for a major engineering...",
-   "link": "https://interestingengineering.com/energy/five-hydrogen-ready-floating-power-plant",
-   "date": "2026-10-25T19:33:08.000Z",
-   "source": "Interesting Engineering",
-   "origin": "Interesting Engineering",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 8
-  },
-  {
-   "title": "Zwischenbilanz zum Wasserstoff-Kernnetz: Mehr als 500 Kilometer in Betrieb",
-   "titleEn": "Interim balance of the hydrogen core network: More than 500 kilometres in operation",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGt3b3JpVXIxb1ZQSGZ3TlN3U1hiSXI3cjMtdEtxcWhkSnlnWWlrNE1CM05FYVZUQTdSa3RHeVlZNVQ1MEVKWUF0ZXg4VmQ0dzgxOUprMUYtMHpDNVdZcWVoRU45MU1KMDh2Y3JCQVdJakVXUlgtZXBDdkFocFJ0YkNIQnpWSEFQdlFXamFvZ0o4VlRGUHhvejYxOTZTRGVjeTVEcVZrSjAzblE5SnRvZ1otaFBrV3dq?oc=5",
-   "date": "2026-10-25T07:00:00.000Z",
-   "source": "erneuerbareenergien.de",
-   "origin": "erneuerbareenergien.de",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 5
   }
  ],
  "sources": [
   {
    "name": "Hydrogen Fuel News",
-   "shown": 35,
+   "shown": 36,
    "status": "ok",
    "error": ""
   },
@@ -12651,7 +12764,7 @@
   },
   {
    "name": "Interesting Engineering",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -12687,7 +12800,7 @@
   },
   {
    "name": "Chemical Engineering",
-   "shown": 16,
+   "shown": 17,
    "status": "ok",
    "error": ""
   },
@@ -13023,7 +13136,7 @@
   },
   {
    "name": "Shell",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -13179,7 +13292,7 @@
   },
   {
    "name": "erneuerbareenergien.de",
-   "shown": 8,
+   "shown": 7,
    "status": "ok",
    "error": ""
   },
@@ -13359,7 +13472,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 38,
+   "shown": 39,
    "status": "ok",
    "error": ""
   },
@@ -13371,7 +13484,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 24,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
@@ -13383,25 +13496,25 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 78,
+   "shown": 77,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 25,
+   "shown": 24,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 30,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: Germany (DE)",
-   "shown": 7,
+   "shown": 8,
    "status": "ok",
    "error": ""
   },
@@ -13413,7 +13526,7 @@
   },
   {
    "name": "Deal search: fuel cells and e-fuels (DE)",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -13425,7 +13538,7 @@
   },
   {
    "name": "Deal search: project milestones",
-   "shown": 21,
+   "shown": 27,
    "status": "ok",
    "error": ""
   },
