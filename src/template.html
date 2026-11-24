@@ -21,7 +21,10 @@
   <div class="util"><span>MAF-EH Commercial Analysis Hydrogen Team</span><span id="today"></span></div>
   <header><h1>Hydrogen News</h1><p>Markets · Projects · Policy · Offtake · Infrastructure</p></header>
   <div class="stickybar">
-    <nav class="nav" id="nav" aria-label="Topics"></nav>
+    <div class="topic-row">
+      <nav class="nav" id="nav" aria-label="Topics"></nav>
+      <a class="insights-link" href="insights.html">Insights →</a>
+    </div>
     <section class="controls">
       <input id="search" type="search" placeholder="Search hydrogen news…" aria-label="Search hydrogen news">
       <select id="source" aria-label="Source"><option value="">All sources</option></select>
@@ -44,7 +47,18 @@
     <div id="healthSummary" class="health-summary"></div>
     <div id="healthGrid" class="health-grid"></div>
   </div>
-  <section class="flow" id="flow" aria-label="Deal-flow balance"></section>
+  <section class="archive-search" aria-labelledby="archiveHeading">
+    <h2 id="archiveHeading">Ask the news archive</h2>
+    <p>Search the last 30 days of headlines and summaries. All keywords must match.</p>
+    <form id="archiveForm" role="search">
+      <label for="archiveQuestion">Your question or keywords</label>
+      <div class="archive-input">
+        <input id="archiveQuestion" type="search" placeholder="e.g. hydrogen projects in Germany" required>
+        <button class="refresh" type="submit">Search archive</button>
+      </div>
+    </form>
+    <div id="archiveResults" role="status" aria-live="polite"></div>
+  </section>
   <main id="main" aria-busy="false"><section class="lead" id="lead"></section><div id="sections"></div></main>
   <footer>Public headline metadata only. Full articles remain with their publishers. Stories use the picture supplied by the publisher's feed when there is one; otherwise a topical stock photo from Wikimedia Commons is shown (credits below). Stories from RWE's core markets (Germany, the Netherlands, the UK and Denmark) and from the rest of Europe are ranked first; stories from outside Europe rank lower, except e-SAF and e-fuels. Within that, stories are ranked by commercial relevance (deals, investments, capacity, policy and project-status signals), and reports of the same story by several publishers are shown once. German and Dutch headlines are machine-translated into English; the original headline is shown beneath and the article itself stays in its original language. News is collected automatically every few hours.
     <details class="credits" id="credits"></details></footer>
@@ -58,6 +72,7 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': 
 const safe = u => /^https?:\/\//i.test(u || '') ? u : '';
 const fmt = (d, m = 'short') => new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: m, year: 'numeric' });
 let all = DATA.articles.slice(), active = 'All', note = '', loading = false, usedImages = new Set();
+let archiveQuestion = '';
 
 const LANGNAME = { de: 'German', nl: 'Dutch' };
 function headline(a) { return a.titleEn || a.title; }
@@ -91,6 +106,25 @@ function alsoCovered(a) {
   const links = out.slice(0, 3).map(x => `<a href="${esc(safe(x.link))}" target="_blank" rel="noopener noreferrer">${esc(x.source)}</a>`).join(', ');
   return `<div class="also">Also reported by ${links}${out.length > 3 ? ` and ${out.length - 3} more` : ''}</div>`;
 }
+function renderArchiveSearch() {
+  if (!archiveQuestion) return;
+  const { terms, results } = searchArchive(all.filter(a => new Date(a.date) <= new Date()), archiveQuestion);
+  if (!terms.length) {
+    $('archiveResults').innerHTML = '<p>Enter a topic, company, location or other specific keywords.</p>';
+    return;
+  }
+  if (!results.length) {
+    $('archiveResults').innerHTML = '<p>No stories match all your keywords. Try different or fewer keywords.</p>';
+    return;
+  }
+  const groups = groupSimilar(results.map(r => r.article));
+  $('archiveResults').innerHTML = `<p>${groups.length} matching ${groups.length === 1 ? 'story' : 'stories'}; showing up to 10.</p>
+<ol class="archive-list">${groups.slice(0, 10).map(a => {
+    return `<li><a href="${esc(safe(a.link))}" target="_blank" rel="noopener noreferrer">${esc(headline(a))}</a>${original(a)}
+<div class="meta">${esc(a.source)} · ${fmt(a.date)} · ${esc(a.region)}</div>
+${alsoCovered(a)}</li>`;
+  }).join('')}</ol>`;
+}
 function card(a) {
   return `<article class="story">${photo(a)}<div class="k">${esc(a.topic)}</div>
 <h3>${esc(headline(a))}</h3>${original(a)}<div class="meta">${esc(a.source)} · ${fmt(a.date)} · ${esc(a.region)}</div>
@@ -104,28 +138,8 @@ function storyList() {
   const t = Date.now();
   return groupSimilar(matches.sort((a, b) => rankScore(b, t) - rankScore(a, t) || new Date(b.date) - new Date(a.date)));
 }
-function renderFlow(stories) {
-  const f = dealFlow(stories), c = f.current, p = f.previous;
-  const sign = n => (n > 0 ? '+' : n < 0 ? '−' : '') + Math.abs(n);
-  let body;
-  if (!f.reliable) {
-    body = `<div class="flow-note">Too few deal stories for a reliable reading: ${c.n} in the last 7 days, at least ${FLOW_MIN_STORIES} needed. Try removing filters.</div>`;
-  } else {
-    const label = c.balance >= 25 ? 'Mostly positive' : c.balance <= -25 ? 'Mostly setbacks' : 'Balanced';
-    const trend = f.delta === null ? 'Too few stories in the previous 7 days to compare'
-      : f.delta > 0 ? `<span class="up">▲ ${sign(f.delta)} points</span> vs previous 7 days (${sign(p.balance)})`
-        : f.delta < 0 ? `<span class="down">▼ ${sign(f.delta)} points</span> vs previous 7 days (${sign(p.balance)})`
-          : `► unchanged vs previous 7 days (${sign(p.balance)})`;
-    body = `<div class="flow-main"><span class="flow-score">${sign(c.balance)}</span><span class="flow-label">${label}</span><span class="flow-trend">${trend}</span></div>
-<div class="flow-bar" role="img" aria-label="${c.pos} positive deal stories and ${c.neg} setbacks"><span class="pos" style="width:${(100 * c.pos / c.n).toFixed(1)}%"></span><span class="neg" style="width:${(100 * c.neg / c.n).toFixed(1)}%"></span></div>
-<div class="flow-legend"><span><i class="pos"></i><b>${c.pos}</b> positive deal stories</span><span><i class="neg"></i><b>${c.neg}</b> setbacks</span></div>`;
-  }
-  $('flow').innerHTML = `<div class="k">Deal-flow balance · last 7 days</div>${body}
-<details><summary>How is this calculated?</summary><p>Each story counts once, even if several publishers reported it. <b>Positive</b> means deals and progress: final investment decisions, offtake or supply agreements, contracts, funding, construction starts. <b>Setbacks</b> means cancellations, delays, insolvencies and withdrawals. The score runs from −100 (only setbacks) to +100 (only positive stories) and compares the last 7 days with the 7 days before. It follows the topic, source, region and search filters, but not the date range. Stories without a clear signal are not counted. This is a keyword-based indicator of direction, not a precise measurement.</p></details>`;
-}
 function render() {
   const stories = storyList(), days = $('age').value;
-  renderFlow(stories);
   const from = windowStart(+days);
   const a = stories.filter(x => new Date(x.date) >= from);
   const snap = new Date(DATA.generatedAt);
@@ -182,7 +196,7 @@ async function reload() {
     note = location.protocol === 'file:' ? '' : ' · Could not load the latest data; showing the version already loaded';
   }
   loading = false;
-  sync(); render();
+  sync(); render(); renderArchiveSearch();
   $('main').setAttribute('aria-busy', 'false');
   $('main').classList.remove('loading');
   $('refresh').disabled = false;
@@ -203,6 +217,15 @@ $('healthToggle').onclick = () => {
   $('healthToggle').setAttribute('aria-expanded', String(open));
 };
 $('refresh').onclick = reload;
+$('archiveForm').addEventListener('submit', e => {
+  e.preventDefault();
+  archiveQuestion = $('archiveQuestion').value.trim();
+  if (!archiveQuestion) {
+    $('archiveResults').textContent = 'Enter a topic, company, location or other specific keywords.';
+    return;
+  }
+  renderArchiveSearch();
+});
 sync(); render(); reload();
 </script>
 </body>

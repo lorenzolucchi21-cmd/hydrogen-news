@@ -415,11 +415,10 @@ test('page has the accessibility and layout refinements', () => {
   assert.match(css, /@media\(max-width:760px\)\{\.stickybar\{position:static\}\}/);
 });
 
-test('the deal-flow panel is on the page with an explanation', () => {
+test('the front page links to insights instead of displaying the deal-flow panel', () => {
   const html = read('../src/template.html');
-  assert.match(html, /id="flow"/);
-  assert.match(html, /How is this calculated\?/);
-  assert.match(html, /dealFlow\(stories\)/);
+  assert.doesNotMatch(html, /id="flow"/);
+  assert.match(html, /href="insights.html"/);
 });
 
 function pngSize(path) {

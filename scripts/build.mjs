@@ -160,6 +160,14 @@ const html = fs.readFileSync('src/template.html', 'utf8')
   .replace('/*DATA*/', () => JSON.stringify(data).replace(/</g, '\\u003c').replace(/\u2028|\u2029/g, ' '))
   .replace('/*IMAGES*/', () => JSON.stringify(imageLibrary).replace(/</g, '\\u003c').replace(/\u2028|\u2029/g, ' '));
 fs.writeFileSync('site/index.html', html);
+const insights = fs.readFileSync('src/insights.html', 'utf8')
+  .replace('/*STYLE*/', () => fs.readFileSync('src/style.css', 'utf8'))
+  .replace('/*INSIGHTS_STYLE*/', () => fs.readFileSync('src/insights.css', 'utf8'))
+  .replace('/*SHARED*/', () => shared)
+  .replace('/*COMPANIES*/', () => fs.readFileSync('src/companies.js', 'utf8'))
+  .replace('/*DATA*/', () => JSON.stringify(data).replace(/</g, '\\u003c').replace(/\u2028|\u2029/g, ' '))
+  .replace('/*INSIGHTS*/', () => fs.readFileSync('src/insights.js', 'utf8'));
+fs.writeFileSync('site/insights.html', insights);
 
 console.log(`Reached ${reachedCount}/${sources.length} sources; ${archived.length} articles in the 30-day archive.`);
 for (const r of results.filter(x => !x.reached)) console.log(`UNREACHABLE ${r.name}: ${r.error}`);

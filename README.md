@@ -31,6 +31,7 @@ Only public headline metadata: title, short feed summary, date, image URL if the
 
 ## Tuning what appears
 
+- **Ask the news archive.** Enter a question or keywords to find matching headlines and summaries in the 30-day archive. All meaningful keywords must match. Headline matches and recent dates break ties. This is not an AI-generated answer, ignores the main news filters, and runs entirely in the browser.
 - **Sources** (`config/sources.json`). Three kinds of entry:
   - `urls`: public RSS/Atom feeds, read directly.
   - `google`: a publisher without a usable feed; only headlines and links are taken from Google News, restricted to that site.
@@ -43,7 +44,7 @@ Only public headline metadata: title, short feed summary, date, image URL if the
 - **Same story, several publishers.** Reports of the same story are shown once, with "Also reported by …" links. This is decided in the page by comparing headline keywords and dates (`groupSimilar`).
 - **Market priority** (`CORE_MARKETS`, `MARKET_BOOST`, `rankScore` in `src/shared.js`). Each story is tagged `core` (it mentions Germany, the Netherlands, the UK or Denmark, or is written in German or Dutch about a European topic), `eu` (other European countries or "Europe/EU") or `other`. Core stories get +8 in the ranking and EU stories +5; stories from outside Europe get −3 unless their topic is e-SAF or e-fuels. Change the numbers, or add countries to `CORE_MARKETS`, to shift the balance. Stories from outside Europe stay available through the region filter and search.
 - **Pictures.** A story uses the picture supplied by the publisher's feed when there is one. Otherwise it shows a topical stock photo from the library in `config/images.json` and `public/photos/` (about 120 photos from Wikimedia Commons, each stored at 1200 px and 640 px). There is no caption under the pictures; the credits are in the "Photo credits" list at the bottom of the page, as the CC BY and CC BY-SA licences require. The photo is chosen from the headline subject (ship, aviation, pipeline, filling station, industry, wind, policy, electrolyser, general hydrogen). A policy story about a clear subject (for example a pipeline) shows that subject; general policy news shows government buildings and interiors that follow the story region (Germany, UK, Netherlands, Denmark/Nordics, otherwise EU). Photos do not repeat on a page until a category runs out. To add a photo, add two 16:9 JPEGs to `public/photos/` (`name.jpg` at 1200 px wide and `name-m.jpg` at 640 px wide) and an entry with its categories, `file`, `small` and credit to `config/images.json`. Only use photos under CC0, public domain or CC BY / CC BY-SA licences.
-- **Deal-flow balance** (`POSITIVE_SIGNAL`, `NEGATIVE_SIGNAL` in `src/shared.js`). Counts positive deal stories (final investment decisions, offtake and supply agreements, contracts, funding, construction starts) against setbacks (cancellations, delays, insolvencies, withdrawals) over the last 7 days, compared with the 7 days before. At least 8 such stories are needed for a reading. It is a keyword-based indicator of direction, not a precise measurement.
+- **Insights.** The separate page shows selected offtake industries, recent progress and setbacks, and a company watch. Industries include captive hydrogen use and proposed projects as well as third-party purchases; downstream customers of hydrogen derivatives are not automatically direct hydrogen users. The watchlist is a focused starting point, not comprehensive. Maintain company roles, industry examples, aliases and supporting source links in `src/companies.js`; verify project status when updating them. Subsidiaries are separate, and ambiguous parent-company mentions are not attributed to either. Companies can have several roles, which do not imply their role in every article. Company mentions are matched against headlines and summaries, including alternate reports of grouped stories. Equipment and project labels and progress/setback signals use keywords and can be wrong.
 
 ## Phone home-screen icon
 
@@ -53,7 +54,8 @@ The page can be added to a phone's home screen: iPhone (Safari) **Share → Add 
 
 - `config/sources.json` – the sources and their feed URLs (edit to add or remove sources).
 - `src/shared.js` – relevance filter, topics, regions, story grouping and the deal-flow rules.
-- `src/template.html`, `src/style.css` – the page design.
+- `src/template.html`, `src/style.css` – the main page design.
+- `src/insights.html`, `src/insights.css`, `src/insights.js`, `src/companies.js` – the Insights page and company watch.
 - `public/` – icons, the web app manifest for the phone home screen, and the stock photos (`public/photos/`).
 - `config/images.json` – the photo library: categories, regions and credits.
 - `scripts/build.mjs` – collects feeds with timeouts and retries, merges with the 30-day archive, builds `site/`.

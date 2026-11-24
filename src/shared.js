@@ -116,6 +116,33 @@ function rankScore(a, now = Date.now()) {
   if (market === 'other' && !KEEP_OUTSIDE.has(a.topic)) s -= MARKET_PENALTY_OUTSIDE;
   return s;
 }
+
+const ARCHIVE_SEARCH_STOP = new Set(('a an the and or in on at for of to with from by about is are was were ' +
+  'what which who when where how why do does did have has had can could would should tell me show find ' +
+  'recent latest news stories story articles article announced announcements').split(' '));
+function archiveSearchTokens(text) {
+  return String(text || '').normalize('NFKC').toLowerCase()
+    .replace(/\be[\s-]+saf\b/g, 'esaf').match(/[\p{L}\p{N}]+/gu) || [];
+}
+function archiveSearchWord(word) {
+  if (word === 'german') return 'germany';
+  return word.length > 4 && word.endsWith('s') && !word.endsWith('ss') ? word.slice(0, -1) : word;
+}
+function searchArchive(articles, question) {
+  const terms = [...new Set(archiveSearchTokens(question).filter(w => !ARCHIVE_SEARCH_STOP.has(w)).map(archiveSearchWord))];
+  if (!terms.length) return { terms, results: [] };
+  const results = [];
+  for (const article of articles) {
+    const title = new Set(archiveSearchTokens((article.titleEn || '') + ' ' + article.title).map(archiveSearchWord));
+    const other = new Set(archiveSearchTokens(article.summary).map(archiveSearchWord));
+    const matched = terms.filter(term => title.has(term) || other.has(term));
+    if (matched.length !== terms.length) continue;
+    results.push({ article, matched, titleMatches: matched.filter(term => title.has(term)).length });
+  }
+  results.sort((a, b) => b.matched.length - a.matched.length || b.titleMatches - a.titleMatches ||
+    Date.parse(b.article.date) - Date.parse(a.article.date));
+  return { terms, results };
+}
 const SIGNALS = [
   [/final investment decision|\bfid\b|investitionsentscheidung|investeringsbeslissing/i, 6],
   [/off-?take|supply agreement|purchase agreement|sales agreement|supply deal|framework agreement|long-term (agreement|supply|contract)|memorandum|\bmou\b|letter of intent|abnahme|liefervertrag|liefervereinbarung|afnameovereenkomst|absichtserklärung|intentieverklaring/i, 4],
@@ -380,4 +407,12 @@ function dealFlow(stories, now = new Date()) {
     reliable: current.n >= FLOW_MIN_STORIES,
     delta: current.n >= FLOW_MIN_STORIES && previous.n >= FLOW_MIN_STORIES ? current.balance - previous.balance : null
   };
+}
+
+function insightStories(articles, now = new Date()) {
+  const start = windowStart(30, now);
+  return groupSimilar(articles.filter(a => {
+    const date = new Date(a.date);
+    return date >= start && date <= now;
+  }).sort((a, b) => Date.parse(b.date) - Date.parse(a.date)));
 }
