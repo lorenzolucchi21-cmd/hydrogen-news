@@ -1,6 +1,216 @@
 {
- "generatedAt": "2026-11-24T12:52:47.445Z",
+ "generatedAt": "2026-11-24T19:29:02.223Z",
  "articles": [
+  {
+   "title": "Cranfield Aerospace Drops Project Fresson Hydrogen Passenger Aircraft, Pivots to Hydrogen Drones",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/24/h2/cranfield-aerospace-drops-project-fresson-hydrogen-passenger-aircraft-pivots-to-hydrogen-drones",
+   "date": "2026-11-24T17:05:18.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Aviation & e-SAF",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Germany Breaks Ground on 10MW Green Hydrogen Plant With 30-Tonne Underground Storage Capacity",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/19/electrolyzer/germany-breaks-ground-on-10mw-green-hydrogen-plant-with-30-tonne-underground-storage-capacity",
+   "date": "2026-11-24T16:45:53.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "China Starts Work On World’s Largest Methanol-To-Jet Facility",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWdEN280bXJQZUNBZFEwZllZVG1ydzZRR0Z2SC16SnE2V1pNV29HbGtsSDdwSkVWa0E0Z2loMHc1b3BNRjlWWXFDcHZmVUpuSldJLWZxZGtqdjk2blRyMTYzSFUydndfUjZldUJWZ3BmVzNNZ1JRTUt2V29VTXdCUDlQbjZlQ0h5cFZBaU1vVk9Fd3Q5bFlyWW1XN09zNVNpS2oxRkhjOEp6MlRySlRacDRmVQ?oc=5",
+   "date": "2026-11-24T16:31:45.000Z",
+   "source": "Aviation Week",
+   "origin": "Aviation Week",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Sunshine Green Hydrogen Ships First AEM Electrolyser to Singapore in Export Milestone",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/24/clean-energy/sunshine-green-hydrogen-ships-first-aem-electrolyser-to-singapore-in-export-milestone",
+   "date": "2026-11-24T16:25:13.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "ONE SCIENTIFIC and AMBARtec Sign Letter of Intent for Hydrogen Pilot in Germany",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/19/h2/one-scientific-and-ambartec-sign-letter-of-intent-for-hydrogen-pilot-in-germany",
+   "date": "2026-11-24T15:42:16.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Germany",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "Recycled Steel Impurities Could Help Protect Hydrogen Pipelines From Damage",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/22/h2/recycled-steel-impurities-could-help-protect-hydrogen-pipelines-from-damage",
+   "date": "2026-11-24T15:30:47.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Thyssenkrupp Steel Opens Hydrogen Tender for Duisburg DRI Plant - News and Statistics",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFF6YklUbTJzQnV0M0ozQVRRNklHMjdpYUprSTVPeksteHIySFU3VzVLZ1dBN1hZTXhGWFFnYXNkZXRmRG9RbFBYUlVoWHluZDRIZE9YekZBVm43Q1lDa2Y0MUtuQ0lGaC11SWs0eGFvZ2VZQzgzekZwdEZpQ1FxZi1maXlpU2c2ZVhuYzg5SDZXU1FPN2dHRUkwekRtZkRJc2QyWTRPNmt5TjBtV0IzV1N4SQ?oc=5",
+   "date": "2026-11-24T15:22:44.000Z",
+   "source": "IndexBox",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "CF Industries to buy Mosaic’s Louisiana ammonia plant in $600 million deal By Reuters",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWUwSnp4VlFQdnF1a0E5TGNsbU5hSVJJa3d2Tnl0eEpvR3B3VjgydHBwRFJjSmxSRThtR1BCS0ljRUhFRW1BUDB3Mld3QjNwb3hPc2VJWGVSdDZJbjR6NFY1djBMcmlFOGpzY3h3ZWtOR0ZhWXBrV1RPMlVYSXczRFlYdDNyTm1CSFdmTGNVeHJwbmgydndHcmFObXU4dTVDb1czcTlKYThYbE0wMThlX2pGMEhmLTNONGJvNk5BN2pfejVxb29ZNw?oc=5",
+   "date": "2026-11-24T15:22:14.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "CF Industries to buy Mosaic's Louisiana ammonia plant in $600 million deal",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGJ3MXFxempSbUd6U1k0UDBzRU12YVkyVnQ3ckpWS1pETTUtLUFOMlFFWGlPYU8wbm5heUYtQk5sX09OWk1ROWVJd05sQ2N5Y3A3WVNMbUQySXZWVm1MVmZxUlUzdTVCNTB3QTVmSDVkcnhkN3RCMVZSdzg2cE1ZRjJtajRwX1U4eWpkaWZHdUpOWHdTQUtWTjA4VzZwSDI1NWlrSlV1TUZMOE9UZmtja3RzSTQxZXg4T0pZUkdoNA?oc=5",
+   "date": "2026-11-24T15:16:28.000Z",
+   "source": "Reuters",
+   "origin": "Reuters",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "KETEP and Hyundai Motor Sign MOU to Commercialise 200MW Saemangeum Electrolyser and Build Clean Hydrogen Industry",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/23/h2/ketep-and-hyundai-motor-sign-mou-to-commercialise-200mw-saemangeum-electrolyser-and-build-clean-hydrogen-industry",
+   "date": "2026-11-24T15:03:09.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 15
+  },
+  {
+   "title": "Mosaic to sell Louisiana ammonia plant to CF Industries for $600M",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX19DVFZkOFNubDRSSWJQaEpZX0NrdldqanViYzdTX0hYYTJqZzVwM1AyWnJPeGs1aVE3TUFWT0JNeWNVbERsWkVxZEdqWXRkemUtSGFKd3EwSl81ZnY3S2xGX3hsTWQ5UE13ZHBYX0NDNmM5d1ZnbE5SQzhxcGpvTFJnMnhaSXdEUVhWaGNvZDdQWkRWRm1LRVkwMkh0RTF3R2VVLW16TklCTXZRVGZzTnJrMWhrV0pYQ3JNUkF0NHpjS1E?oc=5",
+   "date": "2026-11-24T13:55:16.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "CF Industries to acquire Mosaic ammonia facility for $600M By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDZyV1VIRU9FT18tS0hBVE5rRWQ5WEpCWnNibk90b05iQVhzcnNXSUJ5VVNEdDdGajlfRDlIWVI4Nm9LS1kxS2FXOEZtVW5qMXM1ai1LRkJ2UWF2cks0XzByTC0wRWpaZWtTWGhqaFRCWW45cUgyaGtmdlBXU1IycU5LbGtwOE5NQUNacWZoWkdqb1cwVzZqcDZKU0RjS0FkU0MtMjhaQWNyUjlnZ1hRZnlCTlJ0LXdwZVE?oc=5",
+   "date": "2026-11-24T13:38:00.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
+   "title": "CF Industries Holdings, Inc. Announces Agreement to Acquire Faustina Ammonia Production Facility from The Mosaic Company – Company Announcement",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVZLZURNNFdnbmYxcm5zYU1acENCRm1URWRPa3JRcXRsdnpOMWwzakRDZkRieHp4d085LXF2S09ReE5fa3E1NEM4TzZRY18tUXJwd3U5RF9GeVJuVVRZcE9tRWI5RW95Qm52Yi1RcGI2cGp6SHpENWFIUW5yTmZvOEt5WjB0RzBIdmZjb29tTUxDZjdzUDhQd2RMTEFUUzZacG9zWG5B?oc=5",
+   "date": "2026-11-24T13:30:00.000Z",
+   "source": "Financial Times",
+   "origin": "Financial Times",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "CF Industries Holdings, Inc. Announces Agreement to Acquire Faustina Ammonia Production Facility from The Mosaic Company",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQN3EzMHpaR1JqLXpGU1FIUEpiYUZiR2xmSllBaUR5dUFRckVveTQ5OUV2Z2FRMzhoRjZDS01adVlBM1JGUWZ2NTYtdjZFQUVkQzV2eEFpakNXbjNxU3pHc0I3YnNJV3VZSy1xMEQxbV9zMXVyRjBmVWkzdWY1Z2lXekFCNV82S2NVMG1TLVg4alN5U0M1MDAxQzAyRW8wb08tTERZdUZtZWczellOU2YxMjJZNnQ1NmJBRF96UnBiRDJGTERGRjNKYXYtcDNSWnpkemthQXhFbkpjcTIzdXlPUTBoRFNScWNPbGlmUzJUWDBSNlg1RnV1aV8xRDRheGZ6bENNZVFtUQ?oc=5",
+   "date": "2026-11-24T13:30:00.000Z",
+   "source": "Business Wire",
+   "origin": "Business Wire",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Goldman upgrades ITM Power as share slump improves risk-reward balance By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjNnWFVLMWJQZEZyMzc0aVJUSWRwSk03WUZpNEdndDdPMmxfa3VRMlVtQ1JXVTAwMUhERHhsWk53dGhuX2ZIc1RFU196VjRQenFMY0hON1FSeW1UdGlPYVU4WnZJa3RCNEdmRWR0QjBRU0RoSGpUdkVJTjJmWU1KVzhNcHZEU016R1FXSDdJN2JYZFFCa3EtMHBNUk1laXpCd0Q2ZW5nbnhFXzZyY0YzQnhYcnZvR21MYXNwa25tdm84THM?oc=5",
+   "date": "2026-11-24T12:16:50.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
   {
    "title": "German electrolyser maker Enapter sells nearly 25% stake to Chinese firm",
    "lang": "en",
@@ -914,7 +1124,7 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSGZ0T0JWNzZMdnkydFh2dEM3NEpwSm1GT3VKSkdIaVZwc3pSTlVyUHVIbVVfVDBCTHBiRUx2Z2ZNQkk0eHRwUDlva3JLXzFtbnk4Wjlha0Y3UWswMVNUaFVTVmJib1M1VjRJVXcxYjRiT3FQOUluTUk1ZGtSN3JwdW1SLUVaQWNXWm9MakR1YTlZRjB1QW90VXNsS3c1LXpoVTF1U194Vm9PVXlzV0l5czR0ajh3TEVaU0k4OXg2UVVDamUxSmJ6RUJHeEdBU0JDSVBHdTZWUDhEejFZcllpekFubUZvM0ZlT2pNNzhSdHZXQQ?oc=5",
    "date": "2026-11-20T16:41:05.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Nordics",
@@ -2628,6 +2838,20 @@
    "score": 14
   },
   {
+   "title": "Tata Steel Starts 10-Tonne Hydrogen Plant Project for Green Steel",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmdLa0V3SFJVS0Vjbm1BMmthYURiNE5BdF9iUjFrT25Ea2VBeFZ0bm1OWnE0NFN2czRseDZIZjBJSHNqOEV4RThnSDBVOHVTTkdfT19CZTZZb1BVazRuZ3poZjZoS19IRGEwcWU0MmdYVEx4SFp1Y3lHbGpMcXVrSV9VOHd3LUZtVHFaRVd0LVpVd1lNbU9IQVZNRzdyMGpNbU5Sa3ZYZ1c3bTlTeXNrLUo1ZzJjTzVEMEhhR0dLaw?oc=5",
+   "date": "2026-11-18T12:31:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
    "title": "ACME completes FID for $3.6 billion green ammonia project in Odisha",
    "lang": "en",
    "summary": "",
@@ -3425,7 +3649,7 @@
    "titleEn": "EU hydrogen market: Electrolysis projects with 4.2 GW secured – Expansion is lagging behind targets",
    "lang": "de",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3BJYXl6SVdtS20tY05MaGVpaVhUZUtraUsxeHNJRG1jU1NrVi0wSzRDNGI2WnNMdGI3R1NvRkE4al80cksyWkwyOEpoOU5IZzVSYUhvMDhpZFV1dGJqbjhJMzhRWkctNjhiQXVNWG85aUFvdGtsT29uZWZCcW01SUdVay10MFZodmNBSFM1UmVpZE1sX3pNU2F5TkR3eWc2ZlZwbDJDRGZTeWJjYWZCa0x4cDQwMU04WnJJZVcwbElPX1BETkc1SmRodGhPTEE1V0U3X0VOZjhtZGt5Q1pxb3doOUp6R1RSSnc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON3dGdEpRUVFQSXdQS1FqUFFIeVhMQk1uUE83eFpFbGhjel9hVnlnTzFDcVpZQ2owNkZWeVlIbFFoYkNJRmpub1ZWd3VJbmEwVjRjMWVoVDhJYWllOHBtVFk2V3R0VXZ6VkpJY3RseW5LSnpHd05pTUQtemFCb0JJanY1T0VHQzNoajFCNmM0dUtrZGFybmZuYmppa2lVQnM0SE9hcUQ2NmdBX2l5SFVMa28zTXE0dmhHR3hzN2NVTUhjdFNjbG5xQ0pxTklKbVdUVDc1d3RSOHlEdUh1dGdGQS12VWV2S1g3?oc=5",
    "date": "2026-11-17T09:22:00.000Z",
    "source": "Windbranche",
    "origin": "Windbranche",
@@ -3935,7 +4159,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTA5bWxmUFFNTWloUTJCcUlLbVZUVnV4eXVCZ3d3eHpINFpuRlpXOFI3bkgwdzFKbU1tT21tRWxoZlhWOUVHcm8zdXN6R2xOQmI1Z2FhZWQ4WW9qRXl0LUhEdzFXOHdMeXg5cFBvSTBTMjQtZmpocGxrV1JXMzRZelVCVVJNemxiME9neTJJTk04LUZoU2c3Wk14SGt3TUZOMm1WcE5TRmJqOW40aDFnYnphSQ?oc=5",
    "date": "2026-11-16T15:07:00.000Z",
    "source": "Fuel Cells Works",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: policy and auctions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -4886,20 +5110,6 @@
    "score": 5
   },
   {
-   "title": "Hyd’Occ has been inaugurated; with a capacity of 20 MW, it is the largest operational renewable hydrogen production plant in France",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnhMWklqOE9WSVVCb2tFd213T3VjTkdxN1QwQnpUV21UU0dTMlRaZXVyeU9sR0ZRMDJqa0t3cG1jMzlsLVpRSTRTSnlpNDZBMllINjZaQ0hkMUxnYkgxTUcyc0tpT2tCZ0ZIb3Bwc3E5cGFfMS12R25pUWVjR3NqVHdmYUUyek1OVlpqamxqQ2VYTkJaZmJ5RVhFejFtNDUyN19QQmQtY3VTay1tcVVRcm82WWlyT3NVYi1ndjN5dWRWTUd1WHZ0aEoxYkFvckpWNWlJNzdicXRaZjlIT1BNczdvUVVHRFVDdnF2Ynhn?oc=5",
-   "date": "2026-11-13T08:00:00.000Z",
-   "source": "HydroNews",
-   "origin": "Deal search: project milestones",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 9
-  },
-  {
    "title": "India’s green hydrogen offtake commitments exceed 0.55 million MTPA: MNRE",
    "lang": "en",
    "summary": "",
@@ -4911,6 +5121,20 @@
    "topic": "Offtake & Supply",
    "region": "Asia-Pacific",
    "market": "other",
+   "score": 9
+  },
+  {
+   "title": "Hyd’Occ has been inaugurated; with a capacity of 20 MW, it is the largest operational renewable hydrogen production plant in France",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnhMWklqOE9WSVVCb2tFd213T3VjTkdxN1QwQnpUV21UU0dTMlRaZXVyeU9sR0ZRMDJqa0t3cG1jMzlsLVpRSTRTSnlpNDZBMllINjZaQ0hkMUxnYkgxTUcyc0tpT2tCZ0ZIb3Bwc3E5cGFfMS12R25pUWVjR3NqVHdmYUUyek1OVlpqamxqQ2VYTkJaZmJ5RVhFejFtNDUyN19QQmQtY3VTay1tcVVRcm82WWlyT3NVYi1ndjN5dWRWTUd1WHZ0aEoxYkFvckpWNWlJNzdicXRaZjlIT1BNczdvUVVHRFVDdnF2Ynhn?oc=5",
+   "date": "2026-11-13T08:00:00.000Z",
+   "source": "HydroNews",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
    "score": 9
   },
   {
@@ -8530,7 +8754,7 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT1hPcDMzUUJFTEZQd0RWNTR6NkFMZy1SUmJUalM3emd6blltMlY3YWN1TUdqVVk5UkVNMzE3M2pqWVdnd2w4Zy1nY3k0STNUMW1CLUcwaEZ2dXA5MEg1bkZ0aFo2d3U4S0txQ2Q3UXJUdDNIRTVVaTI1ZVhsYWQ4anlDVERNZnJ1cDFXMUlicTE0MEdUUENZYk5oSE5GcTUyeDVuOWNDdTlnLU81dHh0T0t2QTEwOHBjZEg5VXBDMmowNnN0czRjYkZ1LUJ4TnMzNWF0SFQ1eDN6YnpDeEJBY3pJbw?oc=5",
    "date": "2026-11-05T08:00:00.000Z",
    "source": "EU-Startups",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: refineries and industry",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -10654,20 +10878,6 @@
    "score": 6
   },
   {
-   "title": "India Leads Globally with Green Hydrogen Offtake Commitments Exceeding 5.5 Lakh MTPA Till October 2026",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDhvYWhlaTJZQVNXRGtiMDVUZE13LXhnYUlvVE5PTENGUjdQYUhtQkV6VHJXUHVlRUMwcFpVTm0tWXl1d2FJOTB1VEQzSzVXZG5LLTR5bUxmd1haZ2M3LU9VQ3ZwZHJIZTFwRGJvUnZsb1g0cGluam9PdVF5TkJKMEVEWEt3YTk5c0ZrMWlaNmxZY0tMOWo3eVE5SHkyRXFWc1dQNGpZTWNvemhMdkNzUWRRM1ZES19pWjBOOXVFQ0VuUDQyYlYxTkphMlcwRzQ?oc=5",
-   "date": "2026-10-30T07:00:00.000Z",
-   "source": "India Education Diary",
-   "origin": "Deal search: offtake and supply agreements",
-   "image": "",
-   "topic": "Offtake & Supply",
-   "region": "Asia-Pacific",
-   "market": "other",
-   "score": 6
-  },
-  {
    "title": "Reliance, AM Green and 21 other entities committed green hydrogen offtake of 5.5 lakh tonnes annually",
    "lang": "en",
    "summary": "",
@@ -10678,6 +10888,20 @@
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "India Leads Globally with Green Hydrogen Offtake Commitments Exceeding 5.5 Lakh MTPA Till October 2026",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDhvYWhlaTJZQVNXRGtiMDVUZE13LXhnYUlvVE5PTENGUjdQYUhtQkV6VHJXUHVlRUMwcFpVTm0tWXl1d2FJOTB1VEQzSzVXZG5LLTR5bUxmd1haZ2M3LU9VQ3ZwZHJIZTFwRGJvUnZsb1g0cGluam9PdVF5TkJKMEVEWEt3YTk5c0ZrMWlaNmxZY0tMOWo3eVE5SHkyRXFWc1dQNGpZTWNvemhMdkNzUWRRM1ZES19pWjBOOXVFQ0VuUDQyYlYxTkphMlcwRzQ?oc=5",
+   "date": "2026-10-30T07:00:00.000Z",
+   "source": "India Education Diary",
+   "origin": "Deal search: offtake and supply agreements",
+   "image": "",
+   "topic": "Offtake & Supply",
+   "region": "Asia-Pacific",
    "market": "other",
    "score": 6
   },
@@ -12675,15 +12899,15 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 119,
+   "shown": 125,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Industrylinqs",
    "shown": 8,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "Hydrogen Tech World",
@@ -12730,8 +12954,8 @@
   {
    "name": "Gasworld",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 403"
   },
   {
    "name": "European Hydrogen Observatory",
@@ -13101,7 +13325,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 83,
+   "shown": 82,
    "status": "ok",
    "error": ""
   },
@@ -13113,7 +13337,7 @@
   },
   {
    "name": "Reuters",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -13125,7 +13349,7 @@
   },
   {
    "name": "Financial Times",
-   "shown": 9,
+   "shown": 10,
    "status": "ok",
    "error": ""
   },
@@ -13503,7 +13727,7 @@
   },
   {
    "name": "Investing.com",
-   "shown": 23,
+   "shown": 27,
    "status": "ok",
    "error": ""
   },
@@ -13545,7 +13769,7 @@
   },
   {
    "name": "Business Wire",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -13569,7 +13793,7 @@
   },
   {
    "name": "Aviation Week",
-   "shown": 4,
+   "shown": 5,
    "status": "ok",
    "error": ""
   },
@@ -13599,7 +13823,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 36,
+   "shown": 37,
    "status": "ok",
    "error": ""
   },
@@ -13611,7 +13835,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 26,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
@@ -13623,7 +13847,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 78,
+   "shown": 76,
    "status": "ok",
    "error": ""
   },
@@ -13635,7 +13859,7 @@
   },
   {
    "name": "Deal search: policy and auctions",
-   "shown": 29,
+   "shown": 30,
    "status": "ok",
    "error": ""
   },
