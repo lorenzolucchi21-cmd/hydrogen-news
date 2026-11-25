@@ -1,6 +1,234 @@
 {
- "generatedAt": "2026-11-25T03:31:37.078Z",
+ "generatedAt": "2026-11-25T14:15:52.000Z",
  "articles": [
+  {
+   "title": "China starts operations of 195-km hydrogen pipeline in Inner Mongolia",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2dVc3hpR2Z6bWdZZDNkaUg0V0Vsc3k1MzVNZFkzVDlwd0R3aGtqWmc3QkF1OF9leW5SbTRxZ0JXQll4MG9YMElzcEdMdTlRSk9rSW9oSkZLUmdha25yU1JBT2FSbnVLTkdzZFg5NTIwbkdxeG9rZHlObEJlWGtxRk9qcG5RVUdBV1FRVzRDb25NZHMwZkpLLUVfbkd5cG1tVnpoMno5QUVWTGsxSmc?oc=5",
+   "date": "2026-11-25T13:10:32.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Utility-scale green hydrogen power generation deal",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUC1mQ09KN0FFT293MEtqRExsQkMtMGJDMEpCVERBbHNtUjQ3V01vRjRkbXVud0pxaDduN0ZvcVZFSjRKZ1lldEN0YUtnd3pNamR4cjRYc3E3T2dFYXhkYlpkcDRBZzloY2JLY1pzR1ltT3ZCS0puMVJURGJnVUZ0cEdsaWZIRThTdkRnWjB3?oc=5",
+   "date": "2026-11-25T12:15:16.000Z",
+   "source": "Enlit World",
+   "origin": "Enlit World",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Wasserstoffkraftwerke - Powercell liefert 20-MW-Brennstoffzellenkraftwerk in die USA",
+   "titleEn": "Hydrogen power plants – Powercell delivers 20 MW fuel cell power plant to the USA",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGNfRWlSRUxXc3FSVVBVQnd1eXl0R09hOTBTeEJwOW1MWS1SRFBNT1hfdXptS0pzS05LZThHR0ZLNmg3cks5SHdhN3VITWJPWTZGSDVzNHhaZ0hYRDZ4aHFleHA5YTR6Y0h4WVVTd0ctY24xLVluYkdGRjVzbGFNYW9XOGphQmxBSlhESDh5VzhZNW5VOVE0WGF5dzZ3bU1KWVFqMW1lckhEUnZW?oc=5",
+   "date": "2026-11-25T11:35:30.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Uitstel waterstofnet: Zonder waterstofnet geen waterstofmarkt",
+   "titleEn": "Delay in the hydrogen network: No hydrogen market without a hydrogen network",
+   "lang": "nl",
+   "summary": "“Alleen met zekerheid over de ontwikkeling van het netwerk kunnen bedrijven investeren.” – Met deze uitspraak beschreef het kabinet in […] Het bericht Uitstel waterstofnet: Zonder waterstofnet geen waterstofmarkt verscheen eerst op NLHydrogen .",
+   "link": "https://nlhydrogen.nl/zonder-waterstofnet-geen-waterstofmarkt/",
+   "date": "2026-11-25T11:17:12.000Z",
+   "source": "NLHydrogen",
+   "origin": "NLHydrogen",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Benelux",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "Envision eyes 400MW green hydrogen plant for Australian steel mill",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkNHRVlXM3c1SGttUXU4OFBoT1V1RktiVGUwYVMwV3ctTHozVDE3SXZhOWd3TmNyYzhWdlJ2ZlhhV0ZDRDdsSkVfSUpoaUFmNFZMMGI0anlWY0UtbVl0NFI3VnMyR2JLOGplWUs3TFFLLWlHQnlaRjFkTklVRzlsbENuOS1aTE1EN0F1ejQ3dmlSRTFpeGc5NWF6TGhqNUItdXBDcG9QdS1FX2J1SWc0d0pIVGI?oc=5",
+   "date": "2026-11-25T10:42:16.000Z",
+   "source": "gasworld",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Australian zero-emission steel developer taps Envision Energy for 400MW green hydrogen plant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEREVHlxc21EV2Ftc0RpYWNIOTduZVFvRWIwY2t2WGVZSUFFS0lJZ3RackQ1UDk2T0hMeC1qRVlOZEhEZFpoQ1BJWkVhMXdWQUdfMDFONi0zZU9ocWE3Q1hyZVVfYkZnMUJZSnZnNWFrTWRRM2ZaWmNmbk9zTTRLbEVKWmJXQzQxMWpIZVJoWTA1eVlZX29LT2pIVFJvNGlPT3Njc3dBdFdpbWpSako4T3dOQVY1bjlja0RwVmtxanpEYmtQcjdMWnF5WUtUSG5kMnZfNzBaZUVHY1E4VHU4aQ?oc=5",
+   "date": "2026-11-25T09:01:22.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "China's Xinjiang approves USD-285m electrolytic hydrogen project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1V4WmNnN1JqVmg4Tl9STUdmX0w3d2Rrc0ExWWJnLUxJdk1TaklEU29TUW1zc1RXT2FEWTdvTVBNbUVSbXlLalRJSlVhWUx4NnR1a2xlelc3YjFzZFduM0w3UDFSWUlpMkZsT3BjZG41YUxTc2VqcXp6NzhkUi1xTHgzUjhuczNQOG9SbnQzZElPTXV4ODhYTXU4X3pVMEc1Q3B1OER3?oc=5",
+   "date": "2026-11-25T08:51:23.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "TEAL Mobility starts construction of its hydrogen refueling station in Antwerp",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMThETmJOZWVIRXpQV2lBa25qOUppazZLTGhBdUgxbGVaMXd2UXVpT2RRUEVtRVBoY3dldFVVNmdkTi1lblR4MXJjb05XTUZFeC1ZbTJVbEdNUVhyYVFYZk1ibjNtTkF5YWJ2UVdYVVZydE5ILTBLSC0xMFNoSlRqYTI3aXdKLU0wLXM4X1BNMkYwRHYwRXFhYk9oWERXNGZhZUg3eVVabm5JV1JT?oc=5",
+   "date": "2026-11-25T06:59:49.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Deal search: project milestones",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Benelux",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "HTEC One Step Closer to Putting More Hydrogen Trucks on BC Roads Through Fuel Innovation Fund Support",
+   "lang": "en",
+   "summary": "HTEC One Step Closer to Putting More Hydrogen Trucks on BC Roads Through Fuel Innovation Fund Support HTEC is pleased to be one of eight projects selected for funding through Emission Reduction Alberta’s Fuel Innovation Fund, which reinvests federal Clean Fuel Regulations compliance contributions into projects that acc",
+   "link": "https://hydrogen-central.com/htec-one-step-closer-to-putting-more-hydrogen-trucks-on-bc-roads-through-fuel-innovation-fund-support/",
+   "date": "2026-11-25T06:55:27.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Global",
+   "market": "other",
+   "score": 10
+  },
+  {
+   "title": "H2APEX Subsidiary HydroExceed: Certification Paves the Way Into the Hydrogen Trailer Market",
+   "lang": "en",
+   "summary": "H2APEX Subsidiary HydroExceed: Certification Paves the Way Into the Hydrogen Trailer Market ROSTOCK and GREVENMACHER, GERMANY – November 17, 2026 (NEWMEDIAWIRE) – H2APEX Group SCA (ISIN: LU0472835155), a leading developer and operator of green hydrogen plants for the decarbonization of industry, infrastructure and mobi",
+   "link": "https://hydrogen-central.com/h2apex-subsidiary-hydroexceed-certification-paves-the-way-into-the-hydrogen-trailer-market/",
+   "date": "2026-11-25T06:50:52.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Germany",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Técnicas Reunidas will execute three hydrogen-ready combined-cycle gas power plants for RWE in Germany",
+   "lang": "en",
+   "summary": "Técnicas Reunidas will execute three hydrogen-ready combined-cycle gas power plants for RWE in Germany The three plants were awarded to RWE by the German Government on 3rd November. RWE has since taken the Final Investment Decision (FID), and TR has received already the Notice to Proceed of the first plant. These contr",
+   "link": "https://hydrogen-central.com/tecnicas-reunidas-will-execute-three-hydrogen-ready-combined-cycle-gas-power-plants-for-rwe-in-germany/",
+   "date": "2026-11-25T06:48:18.000Z",
+   "source": "Hydrogen Central",
+   "origin": "Hydrogen Central",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "market": "core",
+   "score": 12
+  },
+  {
+   "title": "HYROW: Planfeststellungsverfahren für Wasserstoffpipeline gestartet",
+   "titleEn": "HYROW: Planning approval procedure for hydrogen pipeline started",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYktvbmhRQk1ZSEZuZFNSc0NmTGFjcDczMWNmREVaQXRGUmFJN3MyeXpOV2dVT1g2UlQzNHRuQ0NUV19xa09CMm9BNHc1c3BYLXpfQVhXd2NKRVJKYjAyUUR0RE9RbE1ucktCc2diMWVjRzNROXRwQjBPcXBadUV0RGVDN1JKVFp6TVpZdGdSdUE1bmFoTXdNMGh0YTRPNFNlaVczR0pEWWlOM1pSdHRn?oc=5",
+   "date": "2026-11-25T06:32:59.000Z",
+   "source": "H2 News Germany",
+   "origin": "H2 News Germany",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Wasserstoff ohne Elektrolyse",
+   "titleEn": "Hydrogen without electrolysis",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBS19panVvNm1fcks0VHdzd211azg5TWNYN2NEZFVqU0s1S0VtaWJkWXIxNVh5OFFydFNvRlQ4ajJrSTBSTkxRdXZJYkg2SzRVRDNmN3IxQ1dRUk02dHNwUW5LNi12LWV5MnJvTmwyMk53aWR4QkRn?oc=5",
+   "date": "2026-11-25T05:44:20.000Z",
+   "source": "Chemie.de",
+   "origin": "Chemie.de",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "Developers push back start-up of green hydrogen project amid delays to delivery of H₂ ferries",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUl1U01PdVhnUDdDcUdVVlQwX0NlUWdrWDB6R2RnVmNoQVFkZEhsaHgzRUI3VDRNRXk5MlFGYW9fNTB4Ny1RclNfdTVNWjlpay0yVGdOTTYteVR2Y3ZlbDRDcnB3blcyVDJXa0hUZzVSNlBrcFlxR3lRUmVTYWJyX1FEdHFzT3Bhb2dDWHMyMHpsRWR1eHg0RzE3ZXA4dHItTnZiRVJQaGh3M245TloyNWFOazk4LVZLamhjRk1yTk1UOWZ6MEloc2d2Q2lLT2NDaGxBUUxUYWtmYlFuZktKUw?oc=5",
+   "date": "2026-11-25T05:24:47.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Envision strikes renewable hydrogen agreement to power green steel",
+   "lang": "en",
+   "summary": "Greensteel Australia and Chinese multinational Envision Energy have partnered to explore the development of a 400 MW green hydrogen system and integrated renewable energy supply to power low-carbon iron and steelmaking in New South Wales.",
+   "link": "https://www.pv-magazine-australia.com/2026/11/25/envision-strikes-renewable-hydrogen-agreement-to-power-green-steel/",
+   "date": "2026-11-25T04:06:00.000Z",
+   "source": "pv magazine Australia",
+   "origin": "pv magazine Australia",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Brazil targets European green hydrogen market with over R$117 billion in projects across six states and 10.5 GW electrolysis capacity",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPT3Vyc0hUV254TWNkY3JPY0gyd1Z0QnB6OFd2VHAtNjFCOGE1NVprdUNpUXJobVctQTVGLXcwNmhKYVFYTG9GZzBzbjVfbHpVTDE2eld3X2Fjay1qY0tfbU1nWUtsdkJJMUU0bVBCclQtN2RFdTE5QVBQdVhSNFFaOFYtcHBQS0tMOFl6LTJFSVlodUZEMnV3QlZvVzBPcnlSQl8zOWVtYVBuYWV6S1lTUEVJeEpwVTVWVGZWdkE2QS04azlHbV9yZFBOVWlyVzFOX0pDUTZhN3YxVExuNEhKZDdCeUlTN3lIZFl5c21VLW93dHItNXlDTUVuazBqOVNsc1E?oc=5",
+   "date": "2026-11-25T00:13:00.000Z",
+   "source": "CPG Click Oil and Gas",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 12
+  },
   {
    "title": "Chinese energy giant signs up for 400 MW green hydrogen system to make iron and steel in NSW",
    "lang": "en",
@@ -70,6 +298,20 @@
    "region": "Germany",
    "market": "core",
    "score": 8
+  },
+  {
+   "title": "German electrolyser maker Enapter sells nearly 25% stake to Chinese firm",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWRjX2xMYW1jRS1JU2JDa0FQNTBsVUQ3eG1xbm4zcVozSUtpNWFVT1R4dVNjUjFYU1FLcGF2TXIzeVBUY2h4eEl0ZzA2NlZNQ1JMUy13eGE2SnQyOXVxaDFObldhY0tNVmNzbnZEQ2xkYXpWanZYX29wRHdJR1JKTHQySDZUdmJIdFUzd1g0VWtKMXUxSlo2dlhfcVVTTmZXV1BqS3l3NmFLWmMwYkwxUlBMd01LbzZqMlZtLUZLVmRxeHRmN3ZObQ?oc=5",
+   "date": "2026-11-24T16:39:38.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "market": "core",
+   "score": 6
   },
   {
    "title": "China Starts Work On World’s Largest Methanol-To-Jet Facility",
@@ -170,6 +412,34 @@
    "score": 15
   },
   {
+   "title": "Spain allocates 12.4GW of grid capacity to green hydrogen in 2030 electricity plan",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkNVcEhLelFwWWpLLTBLbDZnYTN5RktpZDN1RGVueTQ4XzdOdVA2VDFmM3NFOXBrWDYxZl9GU1Yzb1MtSnJQcnJkdXE0Y3V4NXMwN245MHlWV2EtY0FOUmY4Q0t6WUVJeDRUd3F6N1Q0dEJtT3R1eEhTMzRRcldzd05MTjJiR3VmeVhIdHh5Qi1VQmdpWmdzRktPR1lsU0x0OUkyTDhHcjJtcWN0Rjk0ZWRZRkpTTW1qVDhZYTZxb3dPNGJFZXNxSTE4cDI4dw?oc=5",
+   "date": "2026-11-24T14:06:55.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 9
+  },
+  {
+   "title": "CF Industries to acquire Mosaic ammonia facility for $600M By Investing.com",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3R0amJRVk82Z2s3OTRlTmh6aUR4b1BIRDYzMkZ5ZFlEcGNfQTl1QWVOM3V0SXhsbklRQWZPR21ydk54QTQ0S3pFLXJKOVpqX1U4R2t3dWx4Z0V1NkJya3hROXNTT1BYbHltVGNYbmF3ZjB6ek8zSV91QXUtOEpHSUJXVk5IVUdtajgtMGpTRVhYWkxSSWpnWEYtRC0tcU5WZTdJWnh5UEZRbkxRc2owYS1lOVk5RDdJV1E?oc=5",
+   "date": "2026-11-24T14:05:44.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
+  {
    "title": "Mosaic to sell Louisiana ammonia plant to CF Industries for $600M",
    "lang": "en",
    "summary": "",
@@ -182,20 +452,6 @@
    "region": "Global",
    "market": "other",
    "score": 7
-  },
-  {
-   "title": "CF Industries to acquire Mosaic ammonia facility for $600M By Investing.com",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGxkTjhYV3l6MFJPSkVSbWxCMlhWS3JKNFg4NXRTX2NIYi1adURZVWhWUVRldGpfdWMxbGdIbkVlRklGaGxFZzRYTUg1T2xoaWsyZndEb1hhM3BvZzlla01zcW1ZdGxtMU5DazFkTWJscllMZVhNUTBRSnFma2FuSnF2OFdjS1dYeV82NDBYMVlGTmQ2anRENkR5T21RQzZpbGQ4bzYxbEVrMF9IU2lleDdjdWRTM0d4c1E?oc=5",
-   "date": "2026-11-24T13:40:26.000Z",
-   "source": "Investing.com",
-   "origin": "Investing.com",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 9
   },
   {
    "title": "CF Industries Holdings, Inc. Announces Agreement to Acquire Faustina Ammonia Production Facility from The Mosaic Company – Company Announcement",
@@ -238,20 +494,6 @@
    "region": "Global",
    "market": "other",
    "score": 4
-  },
-  {
-   "title": "German electrolyser maker Enapter sells nearly 25% stake to Chinese firm",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWRjX2xMYW1jRS1JU2JDa0FQNTBsVUQ3eG1xbm4zcVozSUtpNWFVT1R4dVNjUjFYU1FLcGF2TXIzeVBUY2h4eEl0ZzA2NlZNQ1JMUy13eGE2SnQyOXVxaDFObldhY0tNVmNzbnZEQ2xkYXpWanZYX29wRHdJR1JKTHQySDZUdmJIdFUzd1g0VWtKMXUxSlo2dlhfcVVTTmZXV1BqS3l3NmFLWmMwYkwxUlBMd01LbzZqMlZtLUZLVmRxeHRmN3ZObQ?oc=5",
-   "date": "2026-11-24T11:36:23.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Germany",
-   "market": "core",
-   "score": 6
   },
   {
    "title": "Plug Power's Turnaround: Focus on Green Hydrogen Demand Recovery",
@@ -1132,20 +1374,6 @@
    "score": 6
   },
   {
-   "title": "TEAL Mobility Starts Construction of Its Hydrogen Refueling Station in Antwerp",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/11/19/electrolyzer/teal-mobility-starts-construction-of-its-hydrogen-refueling-station-in-antwerp",
-   "date": "2026-11-20T16:57:48.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Benelux",
-   "market": "eu",
-   "score": 5
-  },
-  {
    "title": "Utility Global and Tata Steel to design clean hydrogen unit for Indian steelworks",
    "lang": "en",
    "summary": "Utility Global Inc. (Houston) and Tata Steel Ltd. (Mumbai, India) announced plans to undertake joint front-end engineering and design (FEED) to support the final investment decision (FID) for the H2Gen® project at Tata Steel’s integrated steelworks in Kalinganagar, Odisha. The project is planned to use a blast furnace ",
@@ -1180,7 +1408,7 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSGZ0T0JWNzZMdnkydFh2dEM3NEpwSm1GT3VKSkdIaVZwc3pSTlVyUHVIbVVfVDBCTHBiRUx2Z2ZNQkk0eHRwUDlva3JLXzFtbnk4Wjlha0Y3UWswMVNUaFVTVmJib1M1VjRJVXcxYjRiT3FQOUluTUk1ZGtSN3JwdW1SLUVaQWNXWm9MakR1YTlZRjB1QW90VXNsS3c1LXpoVTF1U194Vm9PVXlzV0l5czR0ajh3TEVaU0k4OXg2UVVDamUxSmJ6RUJHeEdBU0JDSVBHdTZWUDhEejFZcllpekFubUZvM0ZlT2pNNzhSdHZXQQ?oc=5",
    "date": "2026-11-20T16:41:05.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Deal search: final investment decisions",
+   "origin": "Hydrogen Insight",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Nordics",
@@ -1228,20 +1456,6 @@
    "region": "Other Europe",
    "market": "eu",
    "score": 11
-  },
-  {
-   "title": "H2APEX Subsidiary HydroExceed: Certification Paves the Way Into the Hydrogen Trailer Market",
-   "lang": "en",
-   "summary": "",
-   "link": "https://fuelcellsworks.com/2026/11/17/h2/h2apex-subsidiary-hydroexceed-certification-paves-the-way-into-the-hydrogen-trailer-market",
-   "date": "2026-11-20T16:07:32.000Z",
-   "source": "Fuel Cells Works",
-   "origin": "Fuel Cells Works",
-   "image": "",
-   "topic": "Policy & Auctions",
-   "region": "Global",
-   "market": "other",
-   "score": 5
   },
   {
    "title": "Plug Power and Avina Clean Hydrogen Launch Operational Hydrogen Hub in California",
@@ -2095,7 +2309,7 @@
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYTYyN0lKZ3dMUWtuOW9wMHZVdGswY1M3TERRaTdjdXRwbDlIejM4T2lvNmwxdWE5Z1JvWktCenJ0OUQ0VkxRNld0UTFON2FDNmR2NE1HMjNJaG9heFJZYWdpaUtVOEVBOU5PZnFaRXFmMVR2eGZVMHJWWXVWaGhhYVNER1FOREtlNGJpY0xtX2p6WENpSWh2V2F2el9sYU03ZGkzYU9fUTA4bVNYTVNPNzZYREVfenA5MWEtal9YYVhyTnJlcFd2MFMxdnZHOVZac0k5eW5BV0FUZFZXYWYzN2R5WFJFTEZteFlqSUdTcGFvYUlVR2czY20ya0RZSVNwMThpYnNWM2ppZHRwajhEaFFzcw?oc=5",
    "date": "2026-11-19T12:19:00.000Z",
    "source": "Kalkine India",
-   "origin": "Deal search: project milestones",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -2248,10 +2462,10 @@
    "title": "ACME takes FID on USD-3.6bn green ammonia plant in India",
    "lang": "en",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0x6RzVLWnhwczJlOHp6bGVIdWVTUUxmVXlQeDk3RWZ1eUVrcVNqYUwwT2VTS2Y1c2V0Y1AtdjMzaTlTVUszQ1ppeVpfUUs3dTF6VFVnY1FwVks4RlBnemJJTFQ4WnN1OHlOSndrVExCSlFOU3RKQ3NhaHRSZGhyVEhVSkEwaGlmV2YwZTRQcWxKOXNEWVlvMl92NXE?oc=5",
-   "date": "2026-11-19T08:30:32.000Z",
-   "source": "Renewables Now",
-   "origin": "Renewables Now",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXN5alJvcjFZWGZ5UC00OEEtaXdKXzV3eWd1bTJxSmVMYk1PZDZlWllGTXFPcEY1Vm5jTV9teVlOazJzbVQyY1pNZllrQ3JYdGJQeVVUV1R1N1BjeFdMYXNlR0YxUGRPMDRVcmE1ZkhnRkZ2aHIzck56LTVVanIxaUd6Q3U0TERtYjlGQTE5WFdEb1g3NmpRSWFtQnJVdEpITmN4SFpBeWdpYV94U3ptdGd5MA?oc=5",
+   "date": "2026-11-19T08:34:27.000Z",
+   "source": "TradingView",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Asia-Pacific",
@@ -6609,6 +6823,20 @@
    "score": 4
   },
   {
+   "title": "Global low-emissions hydrogen production and COP-aligned pathway, 2030",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEtxRldEZHR3QmlUeG5FZE53MWJTUDRZRHFGTXFKT2RqbzhrVE12TnljSHhjYUlVZXdsWkZsc1FhQzlKQWV6Y2lyWTRDR1NiMnVaLW9QcDFua3NySUxkMS0tU3l5NkpOZDRWV3U1NFdTRWQxM1o0V0k0dmo4bW8xN0I1cEh6M3kwYzNiSE8wT0M4Z0dTOWZZYU5xTDFnaVZLUC1TQVpZN1RzSGRXSGN4WDMwTlhmX0k?oc=5",
+   "date": "2026-11-10T18:48:36.000Z",
+   "source": "IEA",
+   "origin": "IEA",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
    "title": "Green hydrogen demand slump delays electrolyser projects to August 2027",
    "lang": "en",
    "summary": "",
@@ -7482,20 +7710,6 @@
    "region": "Global",
    "market": "other",
    "score": 5
-  },
-  {
-   "title": "Global low-emissions hydrogen production and COP-aligned pathway, 2030",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEtxRldEZHR3QmlUeG5FZE53MWJTUDRZRHFGTXFKT2RqbzhrVE12TnljSHhjYUlVZXdsWkZsc1FhQzlKQWV6Y2lyWTRDR1NiMnVaLW9QcDFua3NySUxkMS0tU3l5NkpOZDRWV3U1NFdTRWQxM1o0V0k0dmo4bW8xN0I1cEh6M3kwYzNiSE8wT0M4Z0dTOWZZYU5xTDFnaVZLUC1TQVpZN1RzSGRXSGN4WDMwTlhmX0k?oc=5",
-   "date": "2026-11-09T08:00:00.000Z",
-   "source": "IEA",
-   "origin": "IEA",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Global",
-   "market": "other",
-   "score": 3
   },
   {
    "title": "Opportunistic Saudi ammonia exports to continue: Maaden",
@@ -12674,7 +12888,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 122,
+   "shown": 120,
    "status": "ok",
    "error": ""
   },
@@ -12692,13 +12906,13 @@
   },
   {
    "name": "H2 News Germany",
-   "shown": 9,
+   "shown": 10,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Hydrogen Central",
-   "shown": 75,
+   "shown": 78,
    "status": "ok",
    "error": ""
   },
@@ -12716,7 +12930,7 @@
   },
   {
    "name": "NLHydrogen",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -12765,14 +12979,14 @@
   {
    "name": "Offshore Energy",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 429"
   },
   {
    "name": "OffshoreWIND.biz",
    "shown": 0,
-   "status": "ok",
-   "error": ""
+   "status": "unreachable",
+   "error": "HTTP 429"
   },
   {
    "name": "Offshore Technology",
@@ -12830,7 +13044,7 @@
   },
   {
    "name": "pv magazine Australia",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -13100,7 +13314,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 78,
+   "shown": 82,
    "status": "ok",
    "error": ""
   },
@@ -13142,7 +13356,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 35,
+   "shown": 36,
    "status": "ok",
    "error": ""
   },
@@ -13394,13 +13608,13 @@
   },
   {
    "name": "HZwei",
-   "shown": 17,
+   "shown": 18,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Chemie.de",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -13496,7 +13710,7 @@
   },
   {
    "name": "Enlit World",
-   "shown": 2,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
@@ -13598,7 +13812,7 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 36,
+   "shown": 37,
    "status": "ok",
    "error": ""
   },
@@ -13610,7 +13824,7 @@
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 29,
+   "shown": 30,
    "status": "ok",
    "error": ""
   },
@@ -13622,7 +13836,7 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 70,
+   "shown": 71,
    "status": "ok",
    "error": ""
   },
