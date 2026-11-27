@@ -1,6 +1,360 @@
 {
- "generatedAt": "2026-11-27T08:20:06.842Z",
+ "generatedAt": "2026-11-27T21:11:23.276Z",
  "articles": [
+  {
+   "title": "bp launches a 25 MW green hydrogen plant in Castellón",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01YndidjRfN1A4c0ctdlJ2V3pFMGF0UXBMSWRNamFKRDBlbGFuaDViQjF6b0twclJjYnRHcDQxZ3AxM1hnSUlZT2ZLLXQ1OHlnejU2RUNFTUlMd0lYT2dnLXBOdC1ULU9xc3laVlZkeHpGcmtjMlpYRQ?oc=5",
+   "date": "2026-11-27T17:34:27.000Z",
+   "source": "Inspenet",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "BASF Receives RFNBO Certification for Ammonia Produced From Renewable Hydrogen at Its Ludwigshafen Site",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/26/h2/basf-receives-rfnbo-certification-for-ammonia-produced-from-renewable-hydrogen-at-its-ludwigshafen-site",
+   "date": "2026-11-27T16:16:50.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Schleswig-Holstein Announces Funding for the Hydrogen Core Network Pipeline to Brunsbüttel",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/26/electrolyzer/schleswig-holstein-announces-funding-for-the-hydrogen-core-network-pipeline-to-brunsbuttel",
+   "date": "2026-11-27T15:37:25.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 6
+  },
+  {
+   "title": "BASF Gets RFNBO Certification for Renewable Ammonia",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbnp0djJ3dFcweHVfZzIzTWM5OUNvOE1IOHBROTFfVl8zdFlvY3RPNmRXeC1pN0txSDBKdWhZVW9aTXd0blh3TGpVd2I2WFJ2c3FlM3owMUhjd0cwUklMbDVXa0pCTE1FeGlXVkZ6eUpoNFRHZWxqWXBUSG1UT3I0LVJBUGZhMFBDME41a1lESUpvelhxVExNbEVlcjBlNmNPZ19maVg1dlBzRWVfbFlsVkpGT29rWDMxVEoyTFJOckpQeUUtMUxJeVNNT2ZEX2JTZHJhLUlrWExRWTZB?oc=5",
+   "date": "2026-11-27T15:16:00.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Deal search: policy and auctions",
+   "image": "",
+   "topic": "Policy & Auctions",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "Acwa and SAIS Sign MoU to Develop Security Requirements for Green Hydrogen and Ammonia Plants",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/27/h2/sais-acwa-sign-mou-to-develop-industrial-security-requirements-for-green-hydrogen-green-ammonia-facilities",
+   "date": "2026-11-27T15:09:56.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Global",
+   "market": "other",
+   "score": 8
+  },
+  {
+   "title": "Iberdrola Axes €427M Portugal Green Ammonia Project Amid Weak Demand",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0VaeHhHdmVaNHU5cVZXTS1NYl8ySW84TXVlSVpKZTdJQl9BemFqeUttRm95WG8tc1FIeGtubVFiUlBoVTM3bHo1MlhXNUtyb1hjT2VYd0oxNEYycWlHU09GdGtPbUlFNHE0WHNIaHJ2NUZsdmFyWlJIbzkya1ZpX3A4X3Z6Z3ZhV25vbHI1S2ZETmllNWZ6MFFDcUI1T3Z0aXk2YWRBYU5vWlVTREVjek90ZFM?oc=5",
+   "date": "2026-11-27T14:57:06.000Z",
+   "source": "ChemAnalyst",
+   "origin": "Deal search: cancellations and delays",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 8
+  },
+  {
+   "title": "Brits ITM Power neemt technologie failliet Resato Hydrogen Technology over voor 3 miljoen euro",
+   "titleEn": "Britain's ITM Power acquires the technology of bankrupt Resato Hydrogen Technology for €3 million",
+   "lang": "nl",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVVlkcEtWSmx4UE10MlpjTXVVYWJGSDktSWVUTmFRLXR5cWstS1ZRdllhN183bUJRVlVISnpEQW8zc3k3NEFDdUVJY0pGaExBeEtCU3NKLVVpUGFYRXE0c0V0WE9nbEFQQkd1NWJmRzJUdUxRRFc3UWE2VzJJY1dndlRlcDhYT1NnckRDWUJsenZFelFvVEFWQzJXSmg3Skp6a1ZuRDE0Y3Q0cEFIUXc4eWlveks4dm9pdEoxeDRMaHlsckNudUZ4aUxn?oc=5",
+   "date": "2026-11-27T14:44:26.000Z",
+   "source": "Duurzaam Ondernemen",
+   "origin": "Deal search: Netherlands (NL)",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Benelux",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "China Coal Begins Commissioning $740 Million Green Hydrogen-to-Methanol Plant in Inner Mongolia",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/27/h2/china-coal-begins-commissioning-740-million-green-hydrogen-to-methanol-plant-in-inner-mongolia",
+   "date": "2026-11-27T14:37:37.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 8
+  },
+  {
+   "title": "CF Industries Holdings, Inc. Announces Agreement to Acquire Faustina Ammonia Production Facility From The Mosaic Company",
+   "lang": "en",
+   "summary": "",
+   "link": "https://fuelcellsworks.com/2026/11/26/h2/cf-industries-holdings-inc-announces-agreement-to-acquire-faustina-ammonia-production-facility-from-the-mosaic-company",
+   "date": "2026-11-27T14:30:31.000Z",
+   "source": "Fuel Cells Works",
+   "origin": "Fuel Cells Works",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "bp and Iberdrola start operation of green hydrogen plant at Castellón refinery",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2FlcnhnT1ZLMVliV2w3eU5xSTR3VkxmUm5BS1hiZllDWmNJbnl0T1RLeTNoTDFpeUF0NXJISkp1Y2VDbTdDRXV6SkVjczE5LVRDcmJUSFlsa1lUeXlhMy16SFBxMUhxVUpYdDZMalhHZkNSd204WG1wUWliOVFNeXpuLTdlcTBUdDRTUjhKLUg4TDZ4ZnMxLXU4cnB0cGlkMGs1LVZqaGxsYWNENkN1ckZjaFBkaDBsUFlidWh0OHhBX1JYYjRLRmxqb2UxdEhK?oc=5",
+   "date": "2026-11-27T14:08:25.000Z",
+   "source": "bp",
+   "origin": "bp",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Videostatement Bernhard Kluttig, Leiter der Abteilung Sicherheit, Gas und Wasserstoff, Beteiligungen – BMWE",
+   "titleEn": "Video statement by Bernhard Kluttig, Head of the Safety, Gas and Hydrogen, Investments Department – BMWE",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXVqNTluQTRYX3hzVUF3NHNjZFplUGZGYllIRDlzU05LeVBDb0NxdTJUQnFXMGZDMUI1OXM0UkpiVElZU0FPMHBmaTVGR0ZQdE5QUG1FZFdCWUVhRjREb0dkZTlNVG9YQlhLcV85aFFMSlNwZk5UakVVZlZpNFR0N05HNVQ2WTFuYVBWVmZYbDl5c29Gb19Rczhib20wSm9DTWxYZV81eHYwb2luLWwxV3BRd0xDX3VuR2ZtX1VQZTFkdkVIRjdXWEE4S3JlQQ?oc=5",
+   "date": "2026-11-27T13:39:04.000Z",
+   "source": "Handelsblatt",
+   "origin": "Handelsblatt",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Germany",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
+   "lang": "en",
+   "summary": "In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking. The post The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant appeared first on pv ",
+   "link": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant/",
+   "date": "2026-11-27T13:38:42.000Z",
+   "source": "pv magazine",
+   "origin": "pv magazine",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Other Europe",
+   "market": "core",
+   "score": 8
+  },
+  {
+   "title": "RED IV leak has made it ‘impossible’ for EDP to move ahead with ‘ready-to-go’ green hydrogen projects",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGg1ZjczSW5WTGtqd3hWdFRlbUZ6NFozXzBlYXJwc0tjSkE5ZWVMVTFpWlRCanM5akpQZTNKVUpxNGJFZ0pzZzJsdzFWOWY4Q2d2NDJxclM1MFlMVzkwY0gtMWd6RVc2S1R3bmFOcDJrenRYR2FOTmxyMzdxUGlqdy1FQWwySkNxVVdIRjlJVTFsRGl5dkNhdUM4dHZ6ZzBoLWY4R0p5c2p4UUdEV2hhUmp5NFhkMVlSajl2eUg3MzZmVXN5Mk9jRW9rNVdFTlJ2b1Y0aXVLeng3d2laUFFlbHZn?oc=5",
+   "date": "2026-11-27T12:57:55.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Global",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Chinese coal giant starts to commission massive green hydrogen-based methanol plant",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdExXclA3VkVncFhGQnhnX0NoYmJ2ZGdDdzNseXdDa2FUMllJT0xFazFNcDIzblZkeWhYZWxGdnktZ2FWemkyOTJjaTJnWkRJY1hJU205NDU1MVRfcWJNNVV1OEQxalZBQS1veWtkU1VrdzFsMTFZTTE3N1piU1VZNlQzV1E1dThWTFczY2lsR2czM2NQcjNPMDRCYUx4TzRhejRfbzBKSmh4SlpkMmlFLXhsSlBCdEx1VUl0aWhrUC0xenp4YlVqQnk2RnExaDY5Wmg4QQ?oc=5",
+   "date": "2026-11-27T11:37:54.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 3
+  },
+  {
+   "title": "Wasserstoff in 1500 m Tiefe: Uniper testet neue Speichertechnik",
+   "titleEn": "Hydrogen at a depth of 1,500 m: Uniper tests new storage technology",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3JpM18wekN0QVhZbnhudUwxSlNzNklXX2NnMHBjaVJ0ZzBQWUF4TUtsOXp3WkM2NDlsZzlpSFdQQUhRdW9ONzU0ZzEwSmJvTTYyRkN6NGhvNWo1QXk2S1VyMTlXWktyZ09BekR1dEdsamVvUDRfUmlYcGdoQ3R3OFJ6STdPMEkzcC1yUThqYUxwNktyaTF0U2lRVFpsaldzczhRcmNFal9pTDJQREhrSG5WZE9XNkRmMmNOQS1ZQWlOcjI0?oc=5",
+   "date": "2026-11-27T11:31:18.000Z",
+   "source": "ingenieur.de",
+   "origin": "ingenieur.de",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
+   "title": "ITM Power acquires technology of failed Dutch hydrogen refuelling firm",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSi0xSDBnOW16dHRXcVFkbUJSXzdhdHo0LVFDbWhyY2gtZVFIcVZoOEhHcmdabk5KUHR4cnlXSm1fSVdQMEQ4Tjlla3phcXdBeUJFSVZZcHhRZlRRbEdVS25tRkVYNFVuYVlJRW1OYW5JV09oMWI2d0lYLTRzUUNxWkNOcmFuZElqMUVGb2UzMU9Camd1ZTQzdlZickx2eHhkdWJWX1oxNndZbHlnYzkw?oc=5",
+   "date": "2026-11-27T11:16:31.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Benelux",
+   "market": "core",
+   "score": 4
+  },
+  {
+   "title": "BP, Iberdrola start up 25-MW green H2 plant in Spain",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnBqMHExd0pxSzNuUTdnOVVrN3lLSGoyTU5zSlJkRDVPWVVRSURKU3Y5c1VzZEtVc09fLW1NTkExUjRsTzQzRWpxT2ZZNXcteDVEZi04REJicHlrS2dJeUJwNzRMbE50U3VRSFhCVnNsbXd6cGpMdHUzYXFkcXh1NEktbF9qdjRiUTczdEhMZlE3clMtbEE?oc=5",
+   "date": "2026-11-27T11:15:19.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 5
+  },
+  {
+   "title": "BP and Iberdrola start operation of green hydrogen plant at refinery",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXZPM0RMcDBGaHVLNnFNN1M0SmgtS0xvbzlyMlgyQVZSeU5rVjN3NHI2TUdJbVhCTndQUU9scDhNd2l1dWRjN09Wb1pMVi1sVHk4N3h4UzYxMlpCS0pQakJGSk1RaGU0WlkxTWEySjdyOWhYaVJaUlgwN0dYMThWRzZNeEVoSG9xME9lUjFWaFdFbWZQMXNhcmlpaVd6aFVpTG9oSTlSemhUcW9XVnZKazFrWDB4SEZTeFlGdThLZE9IWVFq?oc=5",
+   "date": "2026-11-27T10:34:20.000Z",
+   "source": "Hydrocarbon Engineering",
+   "origin": "Hydrocarbon Engineering",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Global",
+   "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Strategic acquisition of hydrogen compression, storage and distribution technology",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWRyNktxd1Q4d0hZRlc5Y0JuYXo5WFJsSUxNSzlScVFrci1iNW9qTEpYcFRMSGw2UFkxOGFKaTZrcG5HZnBDV0xCNk1lNFBSUElQa05taVZyWVJsTDNBOXVEV0R4em5NNzh6RThBWWxzUHJrZnA0TkVLejhaTmRwWUhNUU42azZNdkFlNDN5UnZwS3B3OTk0ZWVwU3BaNlJkZllFYkNPTGFZV0tB?oc=5",
+   "date": "2026-11-27T10:30:50.000Z",
+   "source": "ITM Power",
+   "origin": "ITM Power",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 5
+  },
+  {
+   "title": "BP brings 25MW refinery green hydrogen plant online in Spain",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHdZd3lZZ053U3NzLUhxdnJxT1RsNmEtUUtwbEZ2empfNUFzOTBTbEx2NDV5UV8xNVFZcFI1TnhrMXBWWEYxekJSQUE3NWxQM2Z1a29SamV3cnVhc3hnbC05R2xxVFlBeXYwMWhOU3pGNmhiLV9BZHo3ZjB0ZFE1THdwU3hiMnkxSy1RNHN4TzJWWEsxODFUUVVGUzE2Y3JLRUFTX08wT3BFb2Fh?oc=5",
+   "date": "2026-11-27T10:15:49.000Z",
+   "source": "gasworld",
+   "origin": "Deal search: refineries and industry",
+   "image": "",
+   "topic": "Steel & Industry",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 7
+  },
+  {
+   "title": "Resato Hydrogen Technology Assen gered na faillissement: wel veel medewerkers op straat",
+   "titleEn": "Resato Hydrogen Technology Assen saved from bankruptcy: many employees left without jobs",
+   "lang": "nl",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORE5EMTVoc2ROS2pVOGVsbTRKMmxiZWFQdjVacEhwMzh4cVN0Nl83Si1iU3ZmYXdTWkZYNXU3Y1NiZFBFYmItVkNqX0gwY0ZmNS1lUkZid0EwSk1OeHkzSndueEFxMnpUazg5YW9tdWZ4NWphdzFESUc3SFJrUHE5WHptMFRUUktzR01jRmlyS3AwdHVJOHpmTGFISk9HZGVab2VpOFh2ZzFzcDR0MEI3dGNxbzJwalh1WlN4UU5Od0RvUzdzeUdIN0NB?oc=5",
+   "date": "2026-11-27T09:36:26.000Z",
+   "source": "DVHN",
+   "origin": "Deal search: Netherlands (NL)",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Benelux",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+   "lang": "en",
+   "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish gas transmission operator Enagás and its French counterparts NaTran and Teréga, awarded the contract.",
+   "link": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
+   "date": "2026-11-27T09:20:00.000Z",
+   "source": "Splash247",
+   "origin": "Splash247",
+   "image": "https://splash247.com/wp-content/uploads/2024/05/Wood-workers.jpg",
+   "topic": "Infrastructure & Storage",
+   "region": "Other Europe",
+   "market": "core",
+   "score": 5
+  },
+  {
+   "title": "BP and Iberdrola start up Spain’s largest green hydrogen project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYURWaEJQSjBRVjNYQmVQeXVZMi1qcGs4Wm5mZVd5aWkwSE5JMmUxUEpXTDMzMEprVE52dm8xcEYyaFlQcjh3VVVleWFGNkdhZV9WZXRKcFU0ZjRNX2cwUkdFQWIxZU1FVHVmNG1ZdExuM1lsdk4wVG9hQkd0M3RpdWlmM0VrbzQtNEsyMVlBNzJOX2dvMGVDaDdmRWtZYmlCbDhSNFNFb0dOQV9QRkdRY2JPSmZ0RTA?oc=5",
+   "date": "2026-11-27T09:19:24.000Z",
+   "source": "Upstream",
+   "origin": "Upstream",
+   "image": "",
+   "topic": "Other Hydrogen News",
+   "region": "Other Europe",
+   "market": "eu",
+   "score": 4
+  },
+  {
+   "title": "China starts commissioning 100,000 tonne green methanol project",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01DeVpJQzFSTi1sQ2FzVGlYUENwcTZHbGtMZFJPNWI3dTU1THFweXJYZkxobW9fcS10dGs1bHFHSmVUZXhFa255eV9TajFuMHduV3QzMTk0Nl9Kc3VmdW5fMEVJa2tnd0RQZVlPeHN5SGNaQW00UnNqV0xMWU93bUE2Mnk3Wm43UEJTallIQ3RxZkNORXoyVzhjMDcyWEhHUTNic2Vn?oc=5",
+   "date": "2026-11-27T09:13:09.000Z",
+   "source": "Renewables Now",
+   "origin": "Renewables Now",
+   "image": "",
+   "topic": "Ammonia & e-Fuels",
+   "region": "Asia-Pacific",
+   "market": "other",
+   "score": 7
+  },
+  {
+   "title": "Anseong City Wins Private Investment Through Hands-On Efforts... Builds 10 Billion Won Hydrogen Station with \"Zero City Funds\"",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ampQeXF5NFhMNnJGcUZlNHRHXzEzM0MwOUF2bjZIZjlETURMWjAteDQ1Wk1wSTU5eXItUzdUZXZZOEJQaEdvNXFBVFpvTm00WEVYUmkxa1RodHJvSEZBVHJEcVQ?oc=5",
+   "date": "2026-11-27T08:29:55.000Z",
+   "source": "아시아경제",
+   "origin": "Deal search: large investments and funding",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "Global",
+   "market": "other",
+   "score": 9
+  },
   {
    "title": "bp And Iberdrola Start Operations At Spain’s Largest 25 MW Green Hydrogen Plant",
    "lang": "en",
@@ -20,7 +374,7 @@
    "lang": "en",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWFEaUNNWHh2eXhrYWRGM3kyUm43MklYUU1aNENUUHhLTWdEZUJSLXEzYVRpSzlqSWxWdVBaTWNJTGNUWmZpZDBzV1F6aXdzZHVrSWpUaW1LalQtMUlQUlVkT19TaGZYdGRXczJ3cm92RS1GNndwMHJGdl9KTGxRZk1TOWZYb0ZCdnJvcmdDUEx6MERqeFhETVFtSmRpTnNweTN2alNHbjdOX1U1YmE4d1FacjZOUXpDLWxSSEN1SmRIaXZKOWZXUlhJcjcwVEVCSEZJQVp3?oc=5",
-   "date": "2026-11-27T07:36:25.000Z",
+   "date": "2026-11-27T07:40:28.000Z",
    "source": "Energy Voice",
    "origin": "Energy Voice",
    "image": "",
@@ -198,6 +552,21 @@
    "score": 11
   },
   {
+   "title": "Wasserstoff statt Erdgas: Pipeline in Brunsbüttel mit Millionen gefördert",
+   "titleEn": "Hydrogen instead of natural gas: Pipeline in Brunsbüttel receives millions in funding",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEpBWGZ5TW9DVWtxeXEwQ19CWEdNWTRqTTFVQjBZWFh6U3ZHYkhaU0t5OS15WDU4Z1pXNW13aFNaeEJNYnlvaDJQUlR5OGx1Sk1OeDlXOXFvWmFqc2lxbTFfQXk0a3U2RFBwYWdWbnEzUXlXTWVsZldZNy14ZWZnYUN4MFNwVUFHbno2Z0I0TW80dXE3MXVNbmgwYllMcV9ZemxhenlUUXlUYmgzTXRXUUtkbGVrWHY3NHlvZzNNMThyU3ZVa1pQc1JFWFBwdmtJdEJia2lBbklhdmhBYW85ZnF4aVkzbmo4QlNr?oc=5",
+   "date": "2026-11-26T16:22:00.000Z",
+   "source": "Tagesschau",
+   "origin": "Tagesschau",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
    "title": "Upper Austria and Bavaria Target Cross-Border Hydrogen Supply and Storage Network",
    "lang": "en",
    "summary": "",
@@ -331,27 +700,12 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRUw1MUIxbTgwb2hoT2F1MFhsWHl4OURXdGlkcWc1SlpCc24weXVER3pQYmVKVVBfLVhqT1B4Rl9lSTA3NU9GeE16ZGIyTllwZldFNXMwS2JxVlVPU2FxRElNNVV3SXV2Q0dDYnNCV0N1RFJBUF9oN2JRZkZZTzRuZExUaG9zeDR0NlJMa3FvdmV0SENLaU5tSE45VDMySlBvTWR1UTJrbTZsejNGc0E0OUl5bFdxem45Z0l5VnBOZUZEOFZYazFPVzBlN01KRVFROFkwQl9LX0phVVNGbGJncmVRcw?oc=5",
    "date": "2026-11-26T13:47:25.000Z",
    "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
+   "origin": "Deal search: offtake and supply agreements",
    "image": "",
    "topic": "Offtake & Supply",
    "region": "Global",
    "market": "other",
    "score": 6
-  },
-  {
-   "title": "Wasserstoff statt Erdgas: Pipeline in Brunsbüttel mit Millionen gefördert",
-   "titleEn": "Hydrogen instead of natural gas: Pipeline in Brunsbüttel receives millions in funding",
-   "lang": "de",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEpBWGZ5TW9DVWtxeXEwQ19CWEdNWTRqTTFVQjBZWFh6U3ZHYkhaU0t5OS15WDU4Z1pXNW13aFNaeEJNYnlvaDJQUlR5OGx1Sk1OeDlXOXFvWmFqc2lxbTFfQXk0a3U2RFBwYWdWbnEzUXlXTWVsZldZNy14ZWZnYUN4MFNwVUFHbno2Z0I0TW80dXE3MXVNbmgwYllMcV9ZemxhenlUUXlUYmgzTXRXUUtkbGVrWHY3NHlvZzNNMThyU3ZVa1pQc1JFWFBwdmtJdEJia2lBbklhdmhBYW85ZnF4aVkzbmo4QlNr?oc=5",
-   "date": "2026-11-26T13:42:54.000Z",
-   "source": "Tagesschau",
-   "origin": "Tagesschau",
-   "image": "",
-   "topic": "Infrastructure & Storage",
-   "region": "Germany",
-   "market": "core",
-   "score": 3
   },
   {
    "title": "Wood wins FEED contract for Spain-France green hydrogen pipeline",
@@ -377,20 +731,6 @@
    "origin": "electrive",
    "image": "https://www.electrive.com/media/2026/11/202611-volvo-ac40-elektrischer-kniegelenk-muldenkipper-grossbritanien-01-400x267.jpg",
    "topic": "Infrastructure & Storage",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "BASF receives RFNBO certification for ammonia produced from renewable hydrogen at its Ludwigshafen site",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbW10QlJlSWFEUy1yR2tzMG9MUXlMUzlwU3dPeEZmcHNFNlpmbS1ROThCNTQ3aldPZkJIMTdmdXJZVlJIOVo1QlUwaWNoTDU3bi1Kc0Q4Yy1WNkFvQVhuTEw3ZVNOWXlJLWJVMnJxSHBkVE14TXc?oc=5",
-   "date": "2026-11-26T13:00:00.000Z",
-   "source": "BASF – United States",
-   "origin": "Deal search: policy and auctions",
-   "image": "",
-   "topic": "Policy & Auctions",
    "region": "Global",
    "market": "other",
    "score": 5
@@ -423,6 +763,21 @@
    "region": "Germany",
    "market": "core",
    "score": 3
+  },
+  {
+   "title": "Blue Cube: Modulares Elektrolyseur-System im Container kann Energiekosten vor Ort senken",
+   "titleEn": "Blue Cube: Modular electrolyzer system in a container can reduce energy costs on site",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHpzQWQzc01QWjQ5NVg1NmR0aGszRmlJYXFPVDd3Qk5pUy1fUjBZWDczZTBoX0U2NGMxWDc2VFBTWS1IYnNKbnBIai1oYi1PNFl4ZWRHcDVQMi12U2FRM1RtclBnNGtHTkkzUmNOYjVKTl9IMy1CRWoxUzdtcncxTl91TkkybHhWRFlqbThYNl9RMWROcDdxVTdIby1xVi0xT1hVYndvTXJ2WFV4UnZXTWl0UGxqaVdkUEF3MnF3?oc=5",
+   "date": "2026-11-26T12:21:00.000Z",
+   "source": "IWR",
+   "origin": "IWR",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 4
   },
   {
    "title": "Dezentrale Wasserstoffproduktion: Flexible Elektrolyse kann Energiekosten senken",
@@ -1181,6 +1536,20 @@
    "score": 10
   },
   {
+   "title": "Primary Hydrogen agrees to acquire rare earth-niobium claims in BC - Investing.com UK",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUwwVUplQmpoZ0M5MXFIQ21Rc0dENlVMYlNUaENuei1HN2NjYmI2cm5vcHUzYzFCMDI4YWNjbEh0bUM4UnhITE5aTENuN3dzUE9XZUpxMXVoZ3VrcFkwNXM3UkZOWDN0Qm91N05LM0F3a1VQakxfUGFOVGgwUTZDQm1SOXJMd01qZVU4VmN5Wk5ZVWtlSG9zbVRxb0I5MnA3M2dfNVJ6N3RsRHVuUTI0Zkt3UQ?oc=5",
+   "date": "2026-11-24T21:06:42.000Z",
+   "source": "Investing.com",
+   "origin": "Investing.com",
+   "image": "",
+   "topic": "Investments & FIDs",
+   "region": "UK & Ireland",
+   "market": "core",
+   "score": 4
+  },
+  {
    "title": "CF Industries to buy Mosaic’s Louisiana ammonia plant in $600 million deal By Reuters",
    "lang": "en",
    "summary": "",
@@ -1398,20 +1767,6 @@
    "date": "2026-11-24T13:30:00.000Z",
    "source": "Financial Times",
    "origin": "Financial Times",
-   "image": "",
-   "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 5
-  },
-  {
-   "title": "CF Industries Holdings, Inc. Announces Agreement to Acquire Faustina Ammonia Production Facility from The Mosaic Company",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQN3EzMHpaR1JqLXpGU1FIUEpiYUZiR2xmSllBaUR5dUFRckVveTQ5OUV2Z2FRMzhoRjZDS01adVlBM1JGUWZ2NTYtdjZFQUVkQzV2eEFpakNXbjNxU3pHc0I3YnNJV3VZSy1xMEQxbV9zMXVyRjBmVWkzdWY1Z2lXekFCNV82S2NVMG1TLVg4alN5U0M1MDAxQzAyRW8wb08tTERZdUZtZWczellOU2YxMjJZNnQ1NmJBRF96UnBiRDJGTERGRjNKYXYtcDNSWnpkemthQXhFbkpjcTIzdXlPUTBoRFNScWNPbGlmUzJUWDBSNlg1RnV1aV8xRDRheGZ6bENNZVFtUQ?oc=5",
-   "date": "2026-11-24T13:30:00.000Z",
-   "source": "Business Wire",
-   "origin": "Business Wire",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -1911,6 +2266,20 @@
    "region": "Germany",
    "market": "core",
    "score": 3
+  },
+  {
+   "title": "Hydrogen energy market shifts focus to grid stability and load balancing",
+   "lang": "en",
+   "summary": "The role of hydrogen power narrows to selective, policy-backed projects focused on blending, storage, and industrial demand.",
+   "link": "https://www.energymonitor.ai/analyst-comment/hydrogen-energy-market-shifts-focus/",
+   "date": "2026-11-23T09:47:43.000Z",
+   "source": "Energy Monitor",
+   "origin": "Energy Monitor",
+   "image": "",
+   "topic": "Infrastructure & Storage",
+   "region": "Global",
+   "market": "other",
+   "score": 4
   },
   {
    "title": "SkyNRG takes its 130,000-tonne eSAF plant in Sweden to the FEED phase",
@@ -3416,7 +3785,7 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTNEdXowOFZsY0VnZl82clY2ZExtNndPRUdLcjBVRGpXSFdpdkM5ek9LRlAyeXBfZ2tNd1I3T3VCa2RraW02akthMGtiUkhrRVhOQk96eVZjUWJUQ3d0dVpLdEt3aWpqX2pxcTVYS3BFSnB5US1PU3RRNVBvQldhbTlGVXpZaTh2N1JEcFRZeGF6R3dYcWxhYXNQQkZyUQ?oc=5",
    "date": "2026-11-19T08:52:03.000Z",
    "source": "Urban Acres",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -4806,6 +5175,21 @@
    "score": 11
   },
   {
+   "title": "Markt - BDEW warnt: Hochlauf der heimischen Elektrolyse verliert an Tempo",
+   "titleEn": "Market – BDEW warns: The ramp-up of domestic electrolysis is slowing down",
+   "lang": "de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0xGMVoxUzFFUGVFU0UtS1U3ampXUGVYeUI3a1ZMdVo5dG9ZTjdlcFBLOEZjT1RpTzVlR3ZGVlU5XzRtQkF6MWZGQXZ1TFRPbGVOTWRZZElhUGpqN3hrQzlfYUhFSEFuMG5TdlVpbURGajZBMkRGSXd3bEtseXB2WWxZVFluMGNpcFJWMFRjdVBMYktqakxYekZiZEU?oc=5",
+   "date": "2026-11-17T12:17:31.000Z",
+   "source": "HZwei",
+   "origin": "HZwei",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Germany",
+   "market": "core",
+   "score": 3
+  },
+  {
    "title": "Markt - BDEW warnt: Hochlauf der heimischen Elektrolyse verliert an",
    "titleEn": "Market – BDEW warns: Ramp-up of domestic electrolysis is losing",
    "lang": "de",
@@ -5422,7 +5806,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTA5bWxmUFFNTWloUTJCcUlLbVZUVnV4eXVCZ3d3eHpINFpuRlpXOFI3bkgwdzFKbU1tT21tRWxoZlhWOUVHcm8zdXN6R2xOQmI1Z2FhZWQ4WW9qRXl0LUhEdzFXOHdMeXg5cFBvSTBTMjQtZmpocGxrV1JXMzRZelVCVVJNemxiME9neTJJTk04LUZoU2c3Wk14SGt3TUZOMm1WcE5TRmJqOW40aDFnYnphSQ?oc=5",
    "date": "2026-11-16T15:07:00.000Z",
    "source": "Fuel Cells Works",
-   "origin": "Deal search: large investments and funding",
+   "origin": "Deal search: final investment decisions",
    "image": "",
    "topic": "Investments & FIDs",
    "region": "Global",
@@ -7116,20 +7500,6 @@
    "origin": "Investing.com",
    "image": "",
    "topic": "Investments & FIDs",
-   "region": "Global",
-   "market": "other",
-   "score": 4
-  },
-  {
-   "title": "Hydrogen energy market shifts focus to grid stability and load balancing",
-   "lang": "en",
-   "summary": "The role of hydrogen power narrows to selective, policy-backed projects focused on blending, storage, and industrial demand.",
-   "link": "https://www.power-technology.com/analyst-comment/hydrogen-energy-market-shifts-focus/",
-   "date": "2026-11-12T09:47:43.000Z",
-   "source": "Power Technology",
-   "origin": "Power Technology",
-   "image": "https://www.power-technology.com/wp-content/uploads/sites/21/2026/11/shutterstock_2742123337.jpg",
-   "topic": "Infrastructure & Storage",
    "region": "Global",
    "market": "other",
    "score": 4
@@ -11181,20 +11551,6 @@
    "score": 8
   },
   {
-   "title": "Chinese and European electrolyser makers agree to work together to bring solid-oxide systems to global market",
-   "lang": "en",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX1UtVU5DcGgwZzNzZ0NfeUR2Q2N6TEw5ZXlJLWd3T0VSZm1fWEprQTMxQXV6eThzWllrRXNXVEVQeU1tTmZ0a3dsS3YtNWVwYl9rckdLM2s3bG1vSTl4Ni1zMl9PdEw2OVR4bTczcE9ZbHZBdkJDRTl3RHdHRFRzdi1LdTF1ZWh3OGtKS1lmN1NCOHZTeU0xLU5Sd2dEMmtoVHJfQnlIUm9SNG11VDJteFYyRmN6U05tTGRENWw4MGRNTU5BRXc3VExWaUx6X3BhdDZDM2Z0eXg0U2RiMnhtSjZkZkZ1T3ViNjJhc1AzM0RzU0xHSEFHaWFQVQ?oc=5",
-   "date": "2026-11-03T08:00:00.000Z",
-   "source": "Hydrogen Insight",
-   "origin": "Hydrogen Insight",
-   "image": "",
-   "topic": "Production & Technology",
-   "region": "Other Europe",
-   "market": "eu",
-   "score": 4
-  },
-  {
    "title": "Has the Chinese electrolyser industry’s anti-price-war pledge curbed prices one year on?",
    "lang": "en",
    "summary": "",
@@ -11206,6 +11562,20 @@
    "topic": "Production & Technology",
    "region": "Asia-Pacific",
    "market": "other",
+   "score": 4
+  },
+  {
+   "title": "Chinese and European electrolyser makers agree to work together to bring solid-oxide systems to global market",
+   "lang": "en",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX1UtVU5DcGgwZzNzZ0NfeUR2Q2N6TEw5ZXlJLWd3T0VSZm1fWEprQTMxQXV6eThzWllrRXNXVEVQeU1tTmZ0a3dsS3YtNWVwYl9rckdLM2s3bG1vSTl4Ni1zMl9PdEw2OVR4bTczcE9ZbHZBdkJDRTl3RHdHRFRzdi1LdTF1ZWh3OGtKS1lmN1NCOHZTeU0xLU5Sd2dEMmtoVHJfQnlIUm9SNG11VDJteFYyRmN6U05tTGRENWw4MGRNTU5BRXc3VExWaUx6X3BhdDZDM2Z0eXg0U2RiMnhtSjZkZkZ1T3ViNjJhc1AzM0RzU0xHSEFHaWFQVQ?oc=5",
+   "date": "2026-11-03T08:00:00.000Z",
+   "source": "Hydrogen Insight",
+   "origin": "Hydrogen Insight",
+   "image": "",
+   "topic": "Production & Technology",
+   "region": "Other Europe",
+   "market": "eu",
    "score": 4
   },
   {
@@ -12897,7 +13267,7 @@
   },
   {
    "name": "Fuel Cells Works",
-   "shown": 117,
+   "shown": 122,
    "status": "ok",
    "error": ""
   },
@@ -12969,7 +13339,7 @@
   },
   {
    "name": "Energy Monitor",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -13005,7 +13375,7 @@
   },
   {
    "name": "Power Technology",
-   "shown": 1,
+   "shown": 0,
    "status": "ok",
    "error": ""
   },
@@ -13041,7 +13411,7 @@
   },
   {
    "name": "pv magazine",
-   "shown": 5,
+   "shown": 6,
    "status": "ok",
    "error": ""
   },
@@ -13179,7 +13549,7 @@
   },
   {
    "name": "Splash247",
-   "shown": 2,
+   "shown": 3,
    "status": "ok",
    "error": ""
   },
@@ -13203,7 +13573,7 @@
   },
   {
    "name": "Handelsblatt",
-   "shown": 1,
+   "shown": 2,
    "status": "ok",
    "error": ""
   },
@@ -13323,7 +13693,7 @@
   },
   {
    "name": "Hydrogen Insight",
-   "shown": 78,
+   "shown": 79,
    "status": "ok",
    "error": ""
   },
@@ -13365,7 +13735,7 @@
   },
   {
    "name": "Renewables Now",
-   "shown": 39,
+   "shown": 42,
    "status": "ok",
    "error": ""
   },
@@ -13491,7 +13861,7 @@
   },
   {
    "name": "bp",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -13539,7 +13909,7 @@
   },
   {
    "name": "ITM Power",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -13617,7 +13987,7 @@
   },
   {
    "name": "HZwei",
-   "shown": 19,
+   "shown": 20,
    "status": "ok",
    "error": ""
   },
@@ -13647,7 +14017,7 @@
   },
   {
    "name": "IWR",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -13671,7 +14041,7 @@
   },
   {
    "name": "ingenieur.de",
-   "shown": 0,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -13725,7 +14095,7 @@
   },
   {
    "name": "Investing.com",
-   "shown": 28,
+   "shown": 29,
    "status": "ok",
    "error": ""
   },
@@ -13737,7 +14107,7 @@
   },
   {
    "name": "Upstream",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -13755,7 +14125,7 @@
   },
   {
    "name": "Hydrocarbon Engineering",
-   "shown": 3,
+   "shown": 4,
    "status": "ok",
    "error": ""
   },
@@ -13767,7 +14137,7 @@
   },
   {
    "name": "Business Wire",
-   "shown": 2,
+   "shown": 1,
    "status": "ok",
    "error": ""
   },
@@ -13821,19 +14191,19 @@
   },
   {
    "name": "Deal search: final investment decisions",
-   "shown": 34,
+   "shown": 36,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: offtake and supply agreements",
-   "shown": 24,
+   "shown": 25,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: refineries and industry",
-   "shown": 30,
+   "shown": 32,
    "status": "ok",
    "error": ""
   },
@@ -13845,13 +14215,13 @@
   },
   {
    "name": "Deal search: large investments and funding",
-   "shown": 74,
+   "shown": 73,
    "status": "ok",
    "error": ""
   },
   {
    "name": "Deal search: cancellations and delays",
-   "shown": 26,
+   "shown": 27,
    "status": "ok",
    "error": ""
   },
@@ -13881,7 +14251,7 @@
   },
   {
    "name": "Deal search: Netherlands (NL)",
-   "shown": 15,
+   "shown": 17,
    "status": "ok",
    "error": ""
   },
